@@ -158,16 +158,73 @@
     .search-input::placeholder { color: var(--dim); }
     .search-count { font-family: var(--mono); font-size: 0.62rem; color: var(--muted); }
 
-    /* FEED LAYOUT: main + sidebar */
+    /* FEED LAYOUT: main + collapsible sidebar */
     .feed-layout {
-      display: grid;
-      grid-template-columns: 1fr 260px;
+      display: flex;
       min-height: calc(100vh - 200px);
+      position: relative;
     }
-    .feed-main { border-right: 1px solid var(--border); }
+    .feed-main {
+      flex: 1;
+      min-width: 0;
+      border-right: 1px solid var(--border);
+      transition: margin-right 0.25s ease;
+    }
 
-    /* Sidebar */
-    .feed-sidebar { padding: 1.25rem; }
+    /* Sidebar wrapper — slides in/out from the right */
+    .sidebar-wrapper {
+      width: 260px;
+      flex-shrink: 0;
+      position: relative;
+      transition: width 0.25s ease;
+      border-left: 1px solid var(--border);
+      overflow: hidden;
+    }
+    .sidebar-wrapper.collapsed {
+      width: 0;
+      border-left: none;
+    }
+
+    /* Toggle button — sits on the border between main and sidebar */
+    .sidebar-toggle {
+      position: fixed;
+      right: 0;
+      top: 50%;
+      transform: translateY(-50%);
+      z-index: 10;
+      background: var(--surface2);
+      border: 1px solid var(--border2);
+      border-right: none;
+      color: var(--muted);
+      cursor: pointer;
+      padding: 0.6rem 0.3rem;
+      border-radius: 4px 0 0 4px;
+      font-size: 0.65rem;
+      line-height: 1;
+      transition: color 0.15s, background 0.15s, right 0.25s ease;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 0.35rem;
+    }
+    .sidebar-toggle:hover { color: var(--accent); background: var(--surface); }
+    .sidebar-toggle .toggle-label {
+      writing-mode: vertical-rl;
+      text-orientation: mixed;
+      font-family: var(--mono);
+      font-size: 0.55rem;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--dim);
+    }
+
+    /* Sidebar content */
+    .feed-sidebar {
+      padding: 1.25rem;
+      width: 260px;
+      overflow-y: auto;
+      height: 100%;
+    }
     .sidebar-section { margin-bottom: 1.75rem; }
     .sidebar-label {
       font-family: var(--mono);
@@ -347,8 +404,8 @@
     mark { background: rgba(200,169,110,0.25); color: var(--accent); border-radius: 2px; }
 
     @media (max-width: 680px) {
-      .feed-layout { grid-template-columns: 1fr; }
-      .feed-sidebar { display: none; }
+      .sidebar-wrapper { display: none; }
+      .sidebar-toggle { display: none; }
       .header-top { flex-direction: column; }
       .header-meta { text-align: left; }
     }
@@ -361,6 +418,13 @@
 const { useState, useEffect, useMemo } = React;
 
 const CATEGORIES = ['Todas', 'Agro & Investigación', 'Economía & Negocios', 'Regulatorio', 'Seguridad & Gobierno'];
+const CAT_LABELS = {
+  'Todas': 'Tot',
+  'Agro & Investigación': 'Agro',
+  'Economía & Negocios': 'Econ',
+  'Regulatorio': 'Reg',
+  'Seguridad & Gobierno': 'Seg',
+};
 
 const CAT_COLORS = {
   'Agro & Investigación': '#52B788',
@@ -388,34 +452,50 @@ function hl(text, query) {
 }
 
 /* ── SIDEBAR ── */
-function Sidebar({ institutions, instCounts, activeInst, setActiveInst }) {
+function Sidebar({ institutions, instCounts, activeInst, setActiveInst, sidebarOpen, setSidebarOpen }) {
   return (
-    <aside className="feed-sidebar">
-      <div className="sidebar-section">
-        <div className="sidebar-label">Instituciones</div>
-        {institutions.map(inst => (
-          <div
-            key={inst.id}
-            className={`inst-pill${activeInst && activeInst !== inst.id ? ' dimmed' : ''}`}
-            onClick={() => setActiveInst(prev => prev === inst.id ? null : inst.id)}
-            title={inst.fullName}
-          >
-            <span className="inst-pip" style={{ background: inst.color }} />
-            <span className="inst-pill-name">{inst.name}</span>
-            <span className="inst-pill-count">{instCounts[inst.id] || 0}</span>
+    <>
+      {/* Toggle button */}
+      <button
+        className="sidebar-toggle"
+        onClick={() => setSidebarOpen(o => !o)}
+        title={sidebarOpen ? 'Cerrar panel' : 'Abrir panel'}
+        style={{ right: sidebarOpen ? '260px' : '0' }}
+      >
+        <span style={{ fontSize: '0.8rem' }}>{sidebarOpen ? '›' : '‹'}</span>
+        <span className="toggle-label">{sidebarOpen ? 'cerrar' : 'panel'}</span>
+      </button>
+
+      {/* Sidebar panel */}
+      <div className={`sidebar-wrapper${sidebarOpen ? '' : ' collapsed'}`}>
+        <aside className="feed-sidebar">
+          <div className="sidebar-section">
+            <div className="sidebar-label">Instituciones</div>
+            {institutions.map(inst => (
+              <div
+                key={inst.id}
+                className={`inst-pill${activeInst && activeInst !== inst.id ? ' dimmed' : ''}`}
+                onClick={() => setActiveInst(prev => prev === inst.id ? null : inst.id)}
+                title={inst.fullName}
+              >
+                <span className="inst-pip" style={{ background: inst.color }} />
+                <span className="inst-pill-name">{inst.name}</span>
+                <span className="inst-pill-count">{instCounts[inst.id] || 0}</span>
+              </div>
+            ))}
           </div>
-        ))}
-      </div>
-      <div className="sidebar-section">
-        <div className="sidebar-label">Categorías</div>
-        {Object.entries(CAT_COLORS).map(([cat, color]) => (
-          <div key={cat} className="cat-legend-item">
-            <span className="cat-swatch" style={{ background: color }} />
-            {cat}
+          <div className="sidebar-section">
+            <div className="sidebar-label">Categorías</div>
+            {Object.entries(CAT_COLORS).map(([cat, color]) => (
+              <div key={cat} className="cat-legend-item">
+                <span className="cat-swatch" style={{ background: color }} />
+                {cat}
+              </div>
+            ))}
           </div>
-        ))}
+        </aside>
       </div>
-    </aside>
+    </>
   );
 }
 
@@ -448,6 +528,7 @@ function FeedItem({ item, query }) {
 
 /* ── FEED VIEW ── */
 function FeedView({ institutions, query, activeInst, setActiveInst }) {
+  const [sidebarOpen, setSidebarOpen] = useState(true);
   const allItems = useMemo(() => {
     const items = [];
     institutions.forEach(inst => inst.news.forEach(n => items.push({ ...n, inst })));
@@ -492,7 +573,14 @@ function FeedView({ institutions, query, activeInst, setActiveInst }) {
             ))
         }
       </div>
-      <Sidebar institutions={institutions} instCounts={instCounts} activeInst={activeInst} setActiveInst={setActiveInst} />
+      <Sidebar
+        institutions={institutions}
+        instCounts={instCounts}
+        activeInst={activeInst}
+        setActiveInst={setActiveInst}
+        sidebarOpen={sidebarOpen}
+        setSidebarOpen={setSidebarOpen}
+      />
     </div>
   );
 }
@@ -594,8 +682,8 @@ function App() {
           </div>
           <div className="cat-tabs">
             {CATEGORIES.map(cat => (
-              <button key={cat} className={`cat-btn${category===cat?' active':''}`} onClick={() => setCategory(cat)}>
-                {cat}
+              <button key={cat} className={`cat-btn${category===cat?' active':''}`} onClick={() => setCategory(cat)} title={cat}>
+                {CAT_LABELS[cat]}
               </button>
             ))}
           </div>
