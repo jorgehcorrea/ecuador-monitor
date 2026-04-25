@@ -1,0 +1,656 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Monitor Institucional · Ecuador</title>
+  <script src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
+  <script src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
+  <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg:       #0C0D0F;
+      --surface:  #141518;
+      --surface2: #1C1E23;
+      --border:   #252830;
+      --border2:  #32363F;
+      --text:     #E8E9EC;
+      --muted:    #7A7F8E;
+      --dim:      #44485A;
+      --accent:   #C8A96E;
+      --green:    #52B788;
+      --yellow:   #E9C46A;
+      --red:      #E07A5F;
+      --mono:     'Courier New', monospace;
+      --sans:     system-ui, -apple-system, sans-serif;
+    }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: var(--sans);
+      font-size: 14px;
+      line-height: 1.6;
+      min-height: 100vh;
+    }
+
+    a { color: inherit; text-decoration: none; }
+    a:hover { color: var(--accent); }
+
+    /* HEADER */
+    .header { border-bottom: 1px solid var(--border); }
+    .header-top {
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      padding: 1.25rem 2rem 0.75rem;
+      border-bottom: 1px solid var(--border);
+      gap: 1rem;
+    }
+    .brand-title {
+      font-size: 1.4rem;
+      font-weight: 700;
+      letter-spacing: -0.025em;
+      color: var(--text);
+      line-height: 1.1;
+    }
+    .brand-title em { color: var(--accent); font-style: normal; }
+    .brand-sub {
+      font-family: var(--mono);
+      font-size: 0.62rem;
+      color: var(--dim);
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      margin-top: 0.25rem;
+    }
+    .header-meta {
+      font-family: var(--mono);
+      font-size: 0.62rem;
+      color: var(--muted);
+      text-align: right;
+      line-height: 1.7;
+    }
+
+    /* NAV */
+    .top-nav {
+      display: flex;
+      align-items: stretch;
+      padding: 0 2rem;
+      border-bottom: 1px solid var(--border);
+      overflow-x: auto;
+    }
+    .view-tabs {
+      display: flex;
+      border-right: 1px solid var(--border2);
+      margin-right: 1.25rem;
+      padding-right: 1.25rem;
+      flex-shrink: 0;
+    }
+    .view-btn {
+      background: none;
+      border: none;
+      cursor: pointer;
+      color: var(--muted);
+      font-size: 0.72rem;
+      font-weight: 600;
+      letter-spacing: 0.07em;
+      text-transform: uppercase;
+      padding: 0.65rem 0.9rem 0.65rem 0;
+      margin-right: 0.9rem;
+      border-bottom: 2px solid transparent;
+      transition: color 0.15s, border-color 0.15s;
+      white-space: nowrap;
+    }
+    .view-btn:last-child { margin-right: 0; }
+    .view-btn:hover { color: var(--text); }
+    .view-btn.active { color: var(--accent); border-bottom-color: var(--accent); }
+    .cat-tabs { display: flex; overflow-x: auto; }
+    .cat-btn {
+      background: none;
+      border: none;
+      cursor: pointer;
+      color: var(--muted);
+      font-size: 0.7rem;
+      font-weight: 500;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+      padding: 0.65rem 0.9rem 0.65rem 0;
+      margin-right: 0.9rem;
+      border-bottom: 2px solid transparent;
+      transition: color 0.15s, border-color 0.15s;
+      white-space: nowrap;
+    }
+    .cat-btn:last-child { margin-right: 0; }
+    .cat-btn:hover { color: var(--text); }
+    .cat-btn.active { color: var(--text); border-bottom-color: var(--border2); }
+
+    /* SEARCH */
+    .search-bar {
+      padding: 0.6rem 2rem;
+      border-bottom: 1px solid var(--border);
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      background: var(--surface);
+    }
+    .search-label {
+      font-family: var(--mono);
+      font-size: 0.62rem;
+      color: var(--dim);
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      white-space: nowrap;
+    }
+    .search-input {
+      background: none;
+      border: none;
+      border-bottom: 1px solid var(--border2);
+      color: var(--text);
+      font-size: 0.82rem;
+      padding: 0.15rem 0.35rem;
+      width: 260px;
+      outline: none;
+      transition: border-color 0.15s;
+    }
+    .search-input:focus { border-color: var(--accent); }
+    .search-input::placeholder { color: var(--dim); }
+    .search-count { font-family: var(--mono); font-size: 0.62rem; color: var(--muted); }
+
+    /* FEED LAYOUT: main + sidebar */
+    .feed-layout {
+      display: grid;
+      grid-template-columns: 1fr 260px;
+      min-height: calc(100vh - 200px);
+    }
+    .feed-main { border-right: 1px solid var(--border); }
+
+    /* Sidebar */
+    .feed-sidebar { padding: 1.25rem; }
+    .sidebar-section { margin-bottom: 1.75rem; }
+    .sidebar-label {
+      font-family: var(--mono);
+      font-size: 0.6rem;
+      color: var(--dim);
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      margin-bottom: 0.75rem;
+      padding-bottom: 0.4rem;
+      border-bottom: 1px solid var(--border);
+    }
+    .inst-pill {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.4rem 0;
+      border-bottom: 1px solid var(--border);
+      cursor: pointer;
+      transition: opacity 0.15s;
+    }
+    .inst-pill:last-child { border-bottom: none; }
+    .inst-pill:hover { opacity: 0.7; }
+    .inst-pill.dimmed { opacity: 0.3; }
+    .inst-pip { width: 7px; height: 7px; border-radius: 50%; flex-shrink: 0; }
+    .inst-pill-name { font-size: 0.72rem; color: var(--text); flex: 1; }
+    .inst-pill-count { font-family: var(--mono); font-size: 0.6rem; color: var(--dim); }
+    .cat-legend-item {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.25rem 0;
+      font-size: 0.7rem;
+      color: var(--muted);
+    }
+    .cat-swatch { width: 8px; height: 8px; border-radius: 1px; flex-shrink: 0; }
+
+    /* Feed items */
+    .feed-date-header {
+      padding: 0.45rem 1.5rem;
+      font-family: var(--mono);
+      font-size: 0.6rem;
+      color: var(--dim);
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+      position: sticky;
+      top: 0;
+      z-index: 2;
+    }
+    .feed-item {
+      display: flex;
+      gap: 1rem;
+      padding: 0.9rem 1.5rem;
+      border-bottom: 1px solid var(--border);
+      transition: background 0.1s;
+      align-items: flex-start;
+    }
+    .feed-item:hover { background: var(--surface); }
+    .feed-stripe {
+      width: 3px;
+      border-radius: 2px;
+      flex-shrink: 0;
+      align-self: stretch;
+      min-height: 32px;
+    }
+    .feed-content { flex: 1; min-width: 0; }
+    .feed-source-row {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      margin-bottom: 0.25rem;
+      flex-wrap: wrap;
+    }
+    .feed-inst-tag {
+      font-family: var(--mono);
+      font-size: 0.58rem;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      padding: 0.1rem 0.4rem;
+      border-radius: 2px;
+    }
+    .feed-cat-tag { font-size: 0.62rem; color: var(--dim); }
+    .feed-title {
+      font-size: 0.86rem;
+      font-weight: 500;
+      line-height: 1.45;
+      color: var(--text);
+      transition: color 0.15s;
+      display: block;
+    }
+    .feed-title:hover { color: var(--accent); }
+    .feed-right {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-end;
+      gap: 0.35rem;
+      flex-shrink: 0;
+      padding-top: 0.05rem;
+    }
+    .feed-date { font-family: var(--mono); font-size: 0.6rem; color: var(--dim); white-space: nowrap; }
+    .feed-link { font-family: var(--mono); font-size: 0.58rem; color: var(--dim); white-space: nowrap; transition: color 0.15s; }
+    .feed-link:hover { color: var(--accent); }
+
+    /* CARDS VIEW */
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(310px, 1fr));
+      gap: 1px;
+      background: var(--border);
+    }
+    .card { background: var(--bg); padding: 1.2rem 1.4rem; }
+    .card-header {
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      margin-bottom: 0.9rem;
+      gap: 0.5rem;
+    }
+    .card-name {
+      font-size: 0.68rem;
+      font-weight: 700;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--text);
+      display: flex;
+      align-items: center;
+      gap: 0.45rem;
+    }
+    .card-dot { width: 6px; height: 6px; border-radius: 50%; flex-shrink: 0; }
+    .card-full { font-size: 0.7rem; color: var(--muted); margin-top: 0.15rem; line-height: 1.3; }
+    .status-badge {
+      font-family: var(--mono);
+      font-size: 0.58rem;
+      padding: 0.12rem 0.35rem;
+      border-radius: 2px;
+      letter-spacing: 0.05em;
+      flex-shrink: 0;
+    }
+    .status-ok    { background: rgba(82,183,136,0.12); color: var(--green); border: 1px solid rgba(82,183,136,0.25); }
+    .status-stale { background: rgba(233,196,106,0.12); color: var(--yellow); border: 1px solid rgba(233,196,106,0.25); }
+    .status-error { background: rgba(224,122,95,0.12); color: var(--red); border: 1px solid rgba(224,122,95,0.25); }
+    .news-list { list-style: none; border-top: 1px solid var(--border); }
+    .news-item {
+      display: flex;
+      gap: 0.65rem;
+      padding: 0.6rem 0;
+      border-bottom: 1px solid var(--border);
+      align-items: flex-start;
+    }
+    .news-item:last-child { border-bottom: none; }
+    .news-num { font-family: var(--mono); font-size: 0.58rem; color: var(--dim); padding-top: 0.1rem; flex-shrink: 0; min-width: 14px; }
+    .news-title { font-size: 0.78rem; line-height: 1.45; color: var(--text); flex: 1; transition: color 0.15s; }
+    .news-title:hover { color: var(--accent); }
+    .news-date { font-family: var(--mono); font-size: 0.58rem; color: var(--dim); white-space: nowrap; padding-top: 0.15rem; flex-shrink: 0; }
+    .empty-item { padding: 0.75rem 0; font-size: 0.72rem; color: var(--dim); font-style: italic; border-top: 1px solid var(--border); }
+    .card-footer { margin-top: 0.65rem; display: flex; justify-content: flex-end; }
+    .card-link { font-family: var(--mono); font-size: 0.58rem; color: var(--dim); transition: color 0.15s; }
+    .card-link:hover { color: var(--accent); }
+
+    /* FOOTER */
+    .page-footer {
+      border-top: 1px solid var(--border);
+      padding: 0.9rem 2rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+    }
+    .footer-text { font-family: var(--mono); font-size: 0.58rem; color: var(--dim); }
+    .summary-badges { display: flex; gap: 0.75rem; }
+    .sum-badge { font-family: var(--mono); font-size: 0.6rem; }
+
+    .state-msg { text-align: center; padding: 4rem 2rem; color: var(--muted); font-family: var(--mono); font-size: 0.75rem; }
+    mark { background: rgba(200,169,110,0.25); color: var(--accent); border-radius: 2px; }
+
+    @media (max-width: 680px) {
+      .feed-layout { grid-template-columns: 1fr; }
+      .feed-sidebar { display: none; }
+      .header-top { flex-direction: column; }
+      .header-meta { text-align: left; }
+    }
+  </style>
+</head>
+<body>
+<div id="root"></div>
+
+<script type="text/babel">
+const { useState, useEffect, useMemo } = React;
+
+const CATEGORIES = ['Todas', 'Agro & Investigación', 'Economía & Negocios', 'Regulatorio', 'Seguridad & Gobierno'];
+
+const CAT_COLORS = {
+  'Agro & Investigación': '#52B788',
+  'Economía & Negocios':  '#457B9D',
+  'Regulatorio':          '#E9C46A',
+  'Seguridad & Gobierno': '#9B5DE5',
+};
+
+function formatDate(iso) {
+  if (!iso) return '';
+  const d = new Date(iso + (iso.length === 10 ? 'T12:00:00' : ''));
+  return d.toLocaleDateString('es-EC', { day: '2-digit', month: 'short', year: '2-digit' });
+}
+
+function formatDateGroup(iso) {
+  if (!iso) return '';
+  const d = new Date(iso + (iso.length === 10 ? 'T12:00:00' : ''));
+  return d.toLocaleDateString('es-EC', { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' });
+}
+
+function hl(text, query) {
+  if (!query) return text;
+  const re = new RegExp(`(${query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')})`, 'gi');
+  return text.split(re).map((part, i) => re.test(part) ? <mark key={i}>{part}</mark> : part);
+}
+
+/* ── SIDEBAR ── */
+function Sidebar({ institutions, instCounts, activeInst, setActiveInst }) {
+  return (
+    <aside className="feed-sidebar">
+      <div className="sidebar-section">
+        <div className="sidebar-label">Instituciones</div>
+        {institutions.map(inst => (
+          <div
+            key={inst.id}
+            className={`inst-pill${activeInst && activeInst !== inst.id ? ' dimmed' : ''}`}
+            onClick={() => setActiveInst(prev => prev === inst.id ? null : inst.id)}
+            title={inst.fullName}
+          >
+            <span className="inst-pip" style={{ background: inst.color }} />
+            <span className="inst-pill-name">{inst.name}</span>
+            <span className="inst-pill-count">{instCounts[inst.id] || 0}</span>
+          </div>
+        ))}
+      </div>
+      <div className="sidebar-section">
+        <div className="sidebar-label">Categorías</div>
+        {Object.entries(CAT_COLORS).map(([cat, color]) => (
+          <div key={cat} className="cat-legend-item">
+            <span className="cat-swatch" style={{ background: color }} />
+            {cat}
+          </div>
+        ))}
+      </div>
+    </aside>
+  );
+}
+
+/* ── FEED ITEM ── */
+function FeedItem({ item, query }) {
+  const bg = item.inst.color + '22';
+  return (
+    <div className="feed-item">
+      <div className="feed-stripe" style={{ background: item.inst.color }} />
+      <div className="feed-content">
+        <div className="feed-source-row">
+          <span className="feed-inst-tag" style={{ background: bg, color: item.inst.color }}>
+            {item.inst.name}
+          </span>
+          <span className="feed-cat-tag">{item.inst.category}</span>
+        </div>
+        <a className="feed-title" href={item.url} target="_blank" rel="noopener noreferrer">
+          {hl(item.title, query)}
+        </a>
+      </div>
+      <div className="feed-right">
+        <span className="feed-date">{formatDate(item.date)}</span>
+        <a className="feed-link" href={item.inst.sourceUrl} target="_blank" rel="noopener noreferrer">
+          ↗ {new URL(item.inst.sourceUrl).hostname.replace('www.', '')}
+        </a>
+      </div>
+    </div>
+  );
+}
+
+/* ── FEED VIEW ── */
+function FeedView({ institutions, query, activeInst, setActiveInst }) {
+  const allItems = useMemo(() => {
+    const items = [];
+    institutions.forEach(inst => inst.news.forEach(n => items.push({ ...n, inst })));
+    return items.sort((a, b) => new Date(b.date + 'T12:00:00') - new Date(a.date + 'T12:00:00'));
+  }, [institutions]);
+
+  const instCounts = useMemo(() => {
+    const c = {};
+    allItems.forEach(i => { c[i.inst.id] = (c[i.inst.id] || 0) + 1; });
+    return c;
+  }, [allItems]);
+
+  const filtered = useMemo(() => {
+    let r = activeInst ? allItems.filter(i => i.inst.id === activeInst) : allItems;
+    if (query) {
+      const q = query.toLowerCase();
+      r = r.filter(i => i.title.toLowerCase().includes(q) || i.inst.name.toLowerCase().includes(q));
+    }
+    return r;
+  }, [allItems, activeInst, query]);
+
+  const grouped = useMemo(() => {
+    const groups = [];
+    let cur = null;
+    filtered.forEach(item => {
+      if (item.date !== cur) { cur = item.date; groups.push({ date: item.date, items: [] }); }
+      groups[groups.length - 1].items.push(item);
+    });
+    return groups;
+  }, [filtered]);
+
+  return (
+    <div className="feed-layout">
+      <div className="feed-main">
+        {filtered.length === 0
+          ? <div className="state-msg">{query ? `Sin resultados para "${query}"` : 'Sin noticias disponibles'}</div>
+          : grouped.map(g => (
+              <div key={g.date}>
+                <div className="feed-date-header">{formatDateGroup(g.date)}</div>
+                {g.items.map((item, i) => <FeedItem key={i} item={item} query={query} />)}
+              </div>
+            ))
+        }
+      </div>
+      <Sidebar institutions={institutions} instCounts={instCounts} activeInst={activeInst} setActiveInst={setActiveInst} />
+    </div>
+  );
+}
+
+/* ── INSTITUTION CARD ── */
+function InstitutionCard({ inst, query }) {
+  return (
+    <div className="card">
+      <div className="card-header">
+        <div>
+          <div className="card-name">
+            <span className="card-dot" style={{ background: inst.color }} />
+            {inst.name}
+          </div>
+          <div className="card-full">{inst.fullName}</div>
+        </div>
+        <span className={`status-badge status-${inst.status}`}>
+          {inst.status === 'ok' ? 'live' : inst.status === 'stale' ? 'stale' : 'err'}
+        </span>
+      </div>
+      {inst.news.length === 0
+        ? <div className="empty-item">Sin datos disponibles</div>
+        : <ul className="news-list">
+            {inst.news.map((item, i) => (
+              <li key={i} className="news-item">
+                <span className="news-num">{String(i+1).padStart(2,'0')}</span>
+                <a className="news-title" href={item.url} target="_blank" rel="noopener noreferrer">
+                  {hl(item.title, query)}
+                </a>
+                <span className="news-date">{formatDate(item.date)}</span>
+              </li>
+            ))}
+          </ul>
+      }
+      <div className="card-footer">
+        <a className="card-link" href={inst.sourceUrl} target="_blank" rel="noopener noreferrer">
+          ↗ {new URL(inst.sourceUrl).hostname.replace('www.','')}
+        </a>
+      </div>
+    </div>
+  );
+}
+
+/* ── ROOT ── */
+function App() {
+  const [data, setData]             = useState(null);
+  const [error, setError]           = useState(null);
+  const [view, setView]             = useState('feed');
+  const [category, setCategory]     = useState('Todas');
+  const [query, setQuery]           = useState('');
+  const [activeInst, setActiveInst] = useState(null);
+
+  useEffect(() => {
+    fetch('./data.json')
+      .then(r => { if (!r.ok) throw new Error(`HTTP ${r.status}`); return r.json(); })
+      .then(setData)
+      .catch(e => setError(e.message));
+  }, []);
+
+  useEffect(() => { setActiveInst(null); }, [view, category]);
+
+  const institutions = useMemo(() => {
+    if (!data) return [];
+    return data.institutions.filter(inst => {
+      const catOk = category === 'Todas' || inst.category === category;
+      if (!catOk) return false;
+      if (!query) return true;
+      const q = query.toLowerCase();
+      return inst.name.toLowerCase().includes(q) ||
+             inst.fullName.toLowerCase().includes(q) ||
+             inst.news.some(n => n.title.toLowerCase().includes(q));
+    });
+  }, [data, category, query]);
+
+  const totalItems = useMemo(() => institutions.reduce((s, i) => s + i.news.length, 0), [institutions]);
+
+  const lastScraped = data
+    ? new Date(data.lastScraped).toLocaleDateString('es-EC', { day: '2-digit', month: 'short', year: 'numeric' })
+    : '';
+
+  return (
+    <>
+      <header className="header">
+        <div className="header-top">
+          <div>
+            <div className="brand-title">Monitor Institucional <em>·</em> Ecuador</div>
+            <div className="brand-sub">12 instituciones · fuentes oficiales .gob.ec · actualización semanal</div>
+          </div>
+          <div className="header-meta">
+            {data && <>Último scrape: {lastScraped}<br /></>}
+            {data && <>{data.summary.ok} activas{data.summary.stale > 0 ? ` · ${data.summary.stale} sin datos` : ''}{data.summary.error > 0 ? ` · ${data.summary.error} con error` : ''}</>}
+          </div>
+        </div>
+
+        <nav className="top-nav">
+          <div className="view-tabs">
+            <button className={`view-btn${view==='feed'?' active':''}`} onClick={() => setView('feed')}>Feed</button>
+            <button className={`view-btn${view==='cards'?' active':''}`} onClick={() => setView('cards')}>Instituciones</button>
+          </div>
+          <div className="cat-tabs">
+            {CATEGORIES.map(cat => (
+              <button key={cat} className={`cat-btn${category===cat?' active':''}`} onClick={() => setCategory(cat)}>
+                {cat}
+              </button>
+            ))}
+          </div>
+        </nav>
+      </header>
+
+      <div className="search-bar">
+        <span className="search-label">Buscar</span>
+        <input
+          className="search-input"
+          type="text"
+          placeholder="institución, tema, ministerio…"
+          value={query}
+          onChange={e => { setQuery(e.target.value); setActiveInst(null); }}
+        />
+        {query && <span className="search-count">{totalItems} nota{totalItems !== 1 ? 's' : ''}</span>}
+      </div>
+
+      {error   && <div className="state-msg">Error al cargar datos: {error}</div>}
+      {!data && !error && <div className="state-msg">Cargando…</div>}
+
+      {data && view === 'feed' && (
+        <FeedView
+          institutions={institutions}
+          query={query}
+          activeInst={activeInst}
+          setActiveInst={setActiveInst}
+        />
+      )}
+
+      {data && view === 'cards' && (
+        institutions.length === 0
+          ? <div className="state-msg">Sin resultados{query ? ` para "${query}"` : ''}</div>
+          : <main className="grid">
+              {institutions.map(inst => <InstitutionCard key={inst.id} inst={inst} query={query} />)}
+            </main>
+      )}
+
+      {data && (
+        <footer className="page-footer">
+          <span className="footer-text">
+            github.com/jorgehcorrea/ecuador-monitor · GitHub Actions · cron dominical 01:00 ECT
+          </span>
+          <div className="summary-badges">
+            <span className="sum-badge" style={{ color: 'var(--green)' }}>✓ {data.summary.ok} live</span>
+            {data.summary.stale > 0 && <span className="sum-badge" style={{ color: 'var(--yellow)' }}>~ {data.summary.stale} stale</span>}
+            {data.summary.error > 0 && <span className="sum-badge" style={{ color: 'var(--red)' }}>✗ {data.summary.error} err</span>}
+          </div>
+        </footer>
+      )}
+    </>
+  );
+}
+
+ReactDOM.createRoot(document.getElementById('root')).render(<App />);
+</script>
+</body>
+</html>

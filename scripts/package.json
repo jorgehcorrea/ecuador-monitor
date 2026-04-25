@@ -1,0 +1,14 @@
+{
+  "name": "ecuador-monitor-scraper",
+  "version": "1.0.0",
+  "description": "Weekly scraper for Ecuador institutional news",
+  "main": "scraper.js",
+  "scripts": {
+    "scrape": "node scraper.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "cheerio": "^1.0.0"
+  },
+  "type": "module"
+}
