@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-04-25T06:00:00.000Z",
+  "lastScraped": "2026-04-25T22:48:27.802Z",
   "institutions": [
     {
       "id": "iniap",
@@ -8,13 +8,25 @@
       "category": "Agro & Investigación",
       "color": "#52B788",
       "sourceUrl": "https://www.iniap.gob.ec/noticias/",
-      "status": "ok",
+      "status": "error",
       "news": [
-        { "title": "INIAP presenta nuevas variedades de maíz adaptadas a condiciones de sierra ecuatoriana", "date": "2026-04-18", "url": "https://www.iniap.gob.ec/noticias/" },
-        { "title": "Investigadores del INIAP desarrollan protocolo de control biológico para mosca de la fruta", "date": "2026-04-10", "url": "https://www.iniap.gob.ec/noticias/" },
-        { "title": "INIAP y MAG firman convenio para tecnificación de productores de cacao fino de aroma", "date": "2026-04-02", "url": "https://www.iniap.gob.ec/noticias/" }
+        {
+          "title": "INIAP presenta nuevas variedades de maíz adaptadas a condiciones de sierra ecuatoriana",
+          "date": "2026-04-18",
+          "url": "https://www.iniap.gob.ec/noticias/"
+        },
+        {
+          "title": "Investigadores del INIAP desarrollan protocolo de control biológico para mosca de la fruta",
+          "date": "2026-04-10",
+          "url": "https://www.iniap.gob.ec/noticias/"
+        },
+        {
+          "title": "INIAP y MAG firman convenio para tecnificación de productores de cacao fino de aroma",
+          "date": "2026-04-02",
+          "url": "https://www.iniap.gob.ec/noticias/"
+        }
       ],
-      "lastUpdated": "2026-04-25T06:00:00.000Z"
+      "lastUpdated": "2026-04-25T22:47:20.658Z"
     },
     {
       "id": "mag",
@@ -23,13 +35,25 @@
       "category": "Agro & Investigación",
       "color": "#74C69D",
       "sourceUrl": "https://www.agricultura.gob.ec/noticias/",
-      "status": "ok",
+      "status": "stale",
       "news": [
-        { "title": "MAG entrega kits agrícolas a más de 5.000 productores afectados por fenómeno climático en Manabí", "date": "2026-04-20", "url": "https://www.agricultura.gob.ec/noticias/" },
-        { "title": "Ministro de Agricultura anuncia plan de apoyo a pequeños productores de brócoli en Cotopaxi", "date": "2026-04-12", "url": "https://www.agricultura.gob.ec/noticias/" },
-        { "title": "Ecuador refuerza controles fitosanitarios en exportación de banano a Unión Europea", "date": "2026-04-05", "url": "https://www.agricultura.gob.ec/noticias/" }
+        {
+          "title": "MAG entrega kits agrícolas a más de 5.000 productores afectados por fenómeno climático en Manabí",
+          "date": "2026-04-20",
+          "url": "https://www.agricultura.gob.ec/noticias/"
+        },
+        {
+          "title": "Ministro de Agricultura anuncia plan de apoyo a pequeños productores de brócoli en Cotopaxi",
+          "date": "2026-04-12",
+          "url": "https://www.agricultura.gob.ec/noticias/"
+        },
+        {
+          "title": "Ecuador refuerza controles fitosanitarios en exportación de banano a Unión Europea",
+          "date": "2026-04-05",
+          "url": "https://www.agricultura.gob.ec/noticias/"
+        }
       ],
-      "lastUpdated": "2026-04-25T06:00:00.000Z"
+      "lastUpdated": "2026-04-25T22:47:24.097Z"
     },
     {
       "id": "agrocalidad",
@@ -38,12 +62,20 @@
       "category": "Agro & Investigación",
       "color": "#40916C",
       "sourceUrl": "https://www.agrocalidad.gob.ec/noticias/",
-      "status": "ok",
+      "status": "stale",
       "news": [
-        { "title": "AGROCALIDAD aprueba nuevos plaguicidas para uso en cultivos de exportación con baja toxicidad", "date": "2026-04-19", "url": "https://www.agrocalidad.gob.ec/noticias/" },
-        { "title": "Alerta fitosanitaria por detección de nueva plaga en plantaciones de palma aceitera", "date": "2026-04-08", "url": "https://www.agrocalidad.gob.ec/noticias/" }
+        {
+          "title": "AGROCALIDAD aprueba nuevos plaguicidas para uso en cultivos de exportación con baja toxicidad",
+          "date": "2026-04-19",
+          "url": "https://www.agrocalidad.gob.ec/noticias/"
+        },
+        {
+          "title": "Alerta fitosanitaria por detección de nueva plaga en plantaciones de palma aceitera",
+          "date": "2026-04-08",
+          "url": "https://www.agrocalidad.gob.ec/noticias/"
+        }
       ],
-      "lastUpdated": "2026-04-25T06:00:00.000Z"
+      "lastUpdated": "2026-04-25T22:47:27.600Z"
     },
     {
       "id": "proecuador",
@@ -54,11 +86,13 @@
       "sourceUrl": "https://www.proecuador.gob.ec/noticias/",
       "status": "ok",
       "news": [
-        { "title": "ProEcuador abre oficina comercial en Vietnam para potenciar exportaciones de cacao y café", "date": "2026-04-21", "url": "https://www.proecuador.gob.ec/noticias/" },
-        { "title": "Misión comercial de productos ecuatorianos llega a ferias en Alemania y Países Bajos", "date": "2026-04-15", "url": "https://www.proecuador.gob.ec/noticias/" },
-        { "title": "Acuerdo comercial con India abre oportunidades para exportadores de flores y vegetales congelados", "date": "2026-04-07", "url": "https://www.proecuador.gob.ec/noticias/" }
+        {
+          "title": "Martin Smetacek",
+          "date": "2026-04-25",
+          "url": "https://www.proecuador.gob.ec/testimonial/martin-smetacek/"
+        }
       ],
-      "lastUpdated": "2026-04-25T06:00:00.000Z"
+      "lastUpdated": "2026-04-25T22:47:32.374Z"
     },
     {
       "id": "bce",
@@ -67,13 +101,25 @@
       "category": "Economía & Negocios",
       "color": "#457B9D",
       "sourceUrl": "https://www.bce.fin.ec/comunicados/",
-      "status": "ok",
+      "status": "error",
       "news": [
-        { "title": "Banco Central reporta crecimiento del PIB en 1.8% en primer trimestre de 2026", "date": "2026-04-22", "url": "https://www.bce.fin.ec/comunicados/" },
-        { "title": "Inflación anual se ubica en 2.3% en marzo 2026; sector alimentos registra mayor alza", "date": "2026-04-09", "url": "https://www.bce.fin.ec/comunicados/" },
-        { "title": "BCE publica índice de confianza del consumidor con leve mejora respecto al trimestre anterior", "date": "2026-04-03", "url": "https://www.bce.fin.ec/comunicados/" }
+        {
+          "title": "Banco Central reporta crecimiento del PIB en 1.8% en primer trimestre de 2026",
+          "date": "2026-04-22",
+          "url": "https://www.bce.fin.ec/comunicados/"
+        },
+        {
+          "title": "Inflación anual se ubica en 2.3% en marzo 2026; sector alimentos registra mayor alza",
+          "date": "2026-04-09",
+          "url": "https://www.bce.fin.ec/comunicados/"
+        },
+        {
+          "title": "BCE publica índice de confianza del consumidor con leve mejora respecto al trimestre anterior",
+          "date": "2026-04-03",
+          "url": "https://www.bce.fin.ec/comunicados/"
+        }
       ],
-      "lastUpdated": "2026-04-25T06:00:00.000Z"
+      "lastUpdated": "2026-04-25T22:47:46.152Z"
     },
     {
       "id": "mipro",
@@ -82,12 +128,20 @@
       "category": "Economía & Negocios",
       "color": "#6A9AB0",
       "sourceUrl": "https://www.produccion.gob.ec/noticias/",
-      "status": "ok",
+      "status": "stale",
       "news": [
-        { "title": "MIPRO lanza programa de apoyo a PYMEs manufactureras con fondo de $10 millones", "date": "2026-04-17", "url": "https://www.produccion.gob.ec/noticias/" },
-        { "title": "Acuerdo comercial con Canadá entra en fase técnica de negociación arancelaria", "date": "2026-04-11", "url": "https://www.produccion.gob.ec/noticias/" }
+        {
+          "title": "MIPRO lanza programa de apoyo a PYMEs manufactureras con fondo de $10 millones",
+          "date": "2026-04-17",
+          "url": "https://www.produccion.gob.ec/noticias/"
+        },
+        {
+          "title": "Acuerdo comercial con Canadá entra en fase técnica de negociación arancelaria",
+          "date": "2026-04-11",
+          "url": "https://www.produccion.gob.ec/noticias/"
+        }
       ],
-      "lastUpdated": "2026-04-25T06:00:00.000Z"
+      "lastUpdated": "2026-04-25T22:47:49.189Z"
     },
     {
       "id": "sri",
@@ -96,12 +150,20 @@
       "category": "Economía & Negocios",
       "color": "#1D3557",
       "sourceUrl": "https://www.sri.gob.ec/noticias",
-      "status": "ok",
+      "status": "stale",
       "news": [
-        { "title": "Plazo para declaración de impuesto a la renta de personas naturales vence el 28 de abril", "date": "2026-04-16", "url": "https://www.sri.gob.ec/noticias" },
-        { "title": "SRI habilita nueva facturación electrónica simplificada para sector agropecuario", "date": "2026-04-06", "url": "https://www.sri.gob.ec/noticias" }
+        {
+          "title": "Plazo para declaración de impuesto a la renta de personas naturales vence el 28 de abril",
+          "date": "2026-04-16",
+          "url": "https://www.sri.gob.ec/noticias"
+        },
+        {
+          "title": "SRI habilita nueva facturación electrónica simplificada para sector agropecuario",
+          "date": "2026-04-06",
+          "url": "https://www.sri.gob.ec/noticias"
+        }
       ],
-      "lastUpdated": "2026-04-25T06:00:00.000Z"
+      "lastUpdated": "2026-04-25T22:47:52.833Z"
     },
     {
       "id": "arcsa",
@@ -110,12 +172,20 @@
       "category": "Regulatorio",
       "color": "#E9C46A",
       "sourceUrl": "https://www.controlsanitario.gob.ec/noticias/",
-      "status": "ok",
+      "status": "stale",
       "news": [
-        { "title": "ARCSA actualiza reglamento técnico para registro sanitario de suplementos alimenticios", "date": "2026-04-14", "url": "https://www.controlsanitario.gob.ec/noticias/" },
-        { "title": "Nuevos requisitos de etiquetado entran en vigencia para productos de consumo masivo", "date": "2026-04-04", "url": "https://www.controlsanitario.gob.ec/noticias/" }
+        {
+          "title": "ARCSA actualiza reglamento técnico para registro sanitario de suplementos alimenticios",
+          "date": "2026-04-14",
+          "url": "https://www.controlsanitario.gob.ec/noticias/"
+        },
+        {
+          "title": "Nuevos requisitos de etiquetado entran en vigencia para productos de consumo masivo",
+          "date": "2026-04-04",
+          "url": "https://www.controlsanitario.gob.ec/noticias/"
+        }
       ],
-      "lastUpdated": "2026-04-25T06:00:00.000Z"
+      "lastUpdated": "2026-04-25T22:47:55.736Z"
     },
     {
       "id": "senescyt",
@@ -124,12 +194,20 @@
       "category": "Regulatorio",
       "color": "#F4A261",
       "sourceUrl": "https://www.senescyt.gob.ec/noticias/",
-      "status": "ok",
+      "status": "stale",
       "news": [
-        { "title": "SENESCYT abre convocatoria a becas de posgrado en ciencias agrícolas y biotecnología", "date": "2026-04-20", "url": "https://www.senescyt.gob.ec/noticias/" },
-        { "title": "Fondo de ciencia e innovación financia 34 proyectos de investigación aplicada en 2026", "date": "2026-04-13", "url": "https://www.senescyt.gob.ec/noticias/" }
+        {
+          "title": "SENESCYT abre convocatoria a becas de posgrado en ciencias agrícolas y biotecnología",
+          "date": "2026-04-20",
+          "url": "https://www.senescyt.gob.ec/noticias/"
+        },
+        {
+          "title": "Fondo de ciencia e innovación financia 34 proyectos de investigación aplicada en 2026",
+          "date": "2026-04-13",
+          "url": "https://www.senescyt.gob.ec/noticias/"
+        }
       ],
-      "lastUpdated": "2026-04-25T06:00:00.000Z"
+      "lastUpdated": "2026-04-25T22:48:06.727Z"
     },
     {
       "id": "sercop",
@@ -138,12 +216,20 @@
       "category": "Regulatorio",
       "color": "#E76F51",
       "sourceUrl": "https://www.sercop.gob.ec/noticias/",
-      "status": "ok",
+      "status": "error",
       "news": [
-        { "title": "SERCOP publica nuevas resoluciones para contratación de servicios de consultoría pública", "date": "2026-04-18", "url": "https://www.sercop.gob.ec/noticias/" },
-        { "title": "Plataforma COMPRASPUBLICAS actualiza módulo de proveedores con validación de RUC en línea", "date": "2026-04-09", "url": "https://www.sercop.gob.ec/noticias/" }
+        {
+          "title": "SERCOP publica nuevas resoluciones para contratación de servicios de consultoría pública",
+          "date": "2026-04-18",
+          "url": "https://www.sercop.gob.ec/noticias/"
+        },
+        {
+          "title": "Plataforma COMPRASPUBLICAS actualiza módulo de proveedores con validación de RUC en línea",
+          "date": "2026-04-09",
+          "url": "https://www.sercop.gob.ec/noticias/"
+        }
       ],
-      "lastUpdated": "2026-04-25T06:00:00.000Z"
+      "lastUpdated": "2026-04-25T22:48:17.054Z"
     },
     {
       "id": "min-interior",
@@ -152,12 +238,20 @@
       "category": "Seguridad & Gobierno",
       "color": "#9B5DE5",
       "sourceUrl": "https://www.ministeriodelinterior.gob.ec/noticias/",
-      "status": "ok",
+      "status": "stale",
       "news": [
-        { "title": "Operativo nacional incauta más de dos toneladas de sustancias ilícitas en cinco provincias", "date": "2026-04-23", "url": "https://www.ministeriodelinterior.gob.ec/noticias/" },
-        { "title": "Ministerio del Interior presenta plan de seguridad rural para provincias priorizadas", "date": "2026-04-14", "url": "https://www.ministeriodelinterior.gob.ec/noticias/" }
+        {
+          "title": "Operativo nacional incauta más de dos toneladas de sustancias ilícitas en cinco provincias",
+          "date": "2026-04-23",
+          "url": "https://www.ministeriodelinterior.gob.ec/noticias/"
+        },
+        {
+          "title": "Ministerio del Interior presenta plan de seguridad rural para provincias priorizadas",
+          "date": "2026-04-14",
+          "url": "https://www.ministeriodelinterior.gob.ec/noticias/"
+        }
       ],
-      "lastUpdated": "2026-04-25T06:00:00.000Z"
+      "lastUpdated": "2026-04-25T22:48:19.896Z"
     },
     {
       "id": "min-gobierno",
@@ -166,13 +260,26 @@
       "category": "Seguridad & Gobierno",
       "color": "#E07A5F",
       "sourceUrl": "https://www.ministeriodegobierno.gob.ec/noticias/",
-      "status": "ok",
+      "status": "stale",
       "news": [
-        { "title": "Ministerio de Gobierno presenta plan de seguridad rural para provincias priorizadas", "date": "2026-04-21", "url": "https://www.ministeriodegobierno.gob.ec/noticias/" },
-        { "title": "Decreto ejecutivo regula nuevas funciones de gobernaciones provinciales en contexto de emergencia", "date": "2026-04-10", "url": "https://www.ministeriodegobierno.gob.ec/noticias/" }
+        {
+          "title": "Ministerio de Gobierno presenta plan de seguridad rural para provincias priorizadas",
+          "date": "2026-04-21",
+          "url": "https://www.ministeriodegobierno.gob.ec/noticias/"
+        },
+        {
+          "title": "Decreto ejecutivo regula nuevas funciones de gobernaciones provinciales en contexto de emergencia",
+          "date": "2026-04-10",
+          "url": "https://www.ministeriodegobierno.gob.ec/noticias/"
+        }
       ],
-      "lastUpdated": "2026-04-25T06:00:00.000Z"
+      "lastUpdated": "2026-04-25T22:48:26.301Z"
     }
   ],
-  "summary": { "total": 12, "ok": 12, "stale": 0, "error": 0 }
+  "summary": {
+    "total": 12,
+    "ok": 1,
+    "stale": 8,
+    "error": 3
+  }
 }
