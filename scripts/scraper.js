@@ -1,5 +1,13 @@
+/**
+ * Ecuador Monitor — Claude API Scraper
+ *
+ * Uses the Claude API with web_search to find recent news
+ * from each institution. No direct scraping of .gob.ec sites.
+ *
+ * Requires: ANTHROPIC_API_KEY environment variable
+ */
+
 import fetch from 'node-fetch';
-import * as cheerio from 'cheerio';
 import { readFileSync, writeFileSync } from 'fs';
 import { resolve, dirname } from 'path';
 import { fileURLToPath } from 'url';
@@ -7,8 +15,14 @@ import { fileURLToPath } from 'url';
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const DATA_PATH = resolve(__dirname, '../public/data.json');
 
+const API_KEY = process.env.ANTHROPIC_API_KEY;
+if (!API_KEY) {
+  console.error('ERROR: ANTHROPIC_API_KEY environment variable is not set.');
+  process.exit(1);
+}
+
+// ── Institution definitions ───────────────────────────────────────────────
 const INSTITUTIONS = [
-  // --- Agro & Investigación ---
   {
     id: 'iniap',
     name: 'INIAP',
@@ -16,10 +30,7 @@ const INSTITUTIONS = [
     category: 'Agro & Investigación',
     color: '#52B788',
     sourceUrl: 'https://www.iniap.gob.ec/noticias/',
-    selectors: [
-      { items: 'article', title: 'h2 a, h3 a, .entry-title a', date: 'time, .entry-date', link: 'h2 a, h3 a, .entry-title a' },
-      { items: '.post', title: 'h2 a, h3 a', date: '.date, time', link: 'h2 a, h3 a' },
-    ]
+    searchQuery: 'INIAP Ecuador Instituto Nacional Investigaciones Agropecuarias noticias 2025 2026',
   },
   {
     id: 'mag',
@@ -28,10 +39,7 @@ const INSTITUTIONS = [
     category: 'Agro & Investigación',
     color: '#74C69D',
     sourceUrl: 'https://www.agricultura.gob.ec/noticias/',
-    selectors: [
-      { items: 'article', title: 'h2 a, h3 a, .entry-title a', date: 'time, .entry-date', link: 'h2 a, h3 a, .entry-title a' },
-      { items: '.views-row', title: 'span.field-content a, h3 a', date: 'span.date-display-single, time', link: 'span.field-content a, h3 a' },
-    ]
+    searchQuery: 'Ministerio Agricultura Ganadería Ecuador MAG noticias comunicados 2025 2026',
   },
   {
     id: 'agrocalidad',
@@ -40,10 +48,7 @@ const INSTITUTIONS = [
     category: 'Agro & Investigación',
     color: '#40916C',
     sourceUrl: 'https://www.agrocalidad.gob.ec/noticias/',
-    selectors: [
-      { items: 'article', title: 'h2 a, h3 a, .entry-title a', date: 'time, .entry-date', link: 'h2 a, h3 a, .entry-title a' },
-      { items: '.view-content .views-row', title: '.views-field-title a, h3 a', date: '.views-field-created, time', link: '.views-field-title a, h3 a' },
-    ]
+    searchQuery: 'AGROCALIDAD Ecuador agencia fitosanitaria noticias resoluciones 2025 2026',
   },
   {
     id: 'proecuador',
@@ -52,13 +57,8 @@ const INSTITUTIONS = [
     category: 'Agro & Investigación',
     color: '#95D5B2',
     sourceUrl: 'https://www.proecuador.gob.ec/noticias/',
-    selectors: [
-      { items: 'article', title: 'h2 a, h3 a, .entry-title a', date: 'time, .entry-date', link: 'h2 a, h3 a, .entry-title a' },
-      { items: '.post-item, .news-item', title: 'h2 a, h3 a', date: 'time, .date', link: 'h2 a, h3 a' },
-    ]
+    searchQuery: 'ProEcuador exportaciones inversiones noticias comunicados 2025 2026',
   },
-
-  // --- Economía & Negocios ---
   {
     id: 'bce',
     name: 'Banco Central',
@@ -66,10 +66,7 @@ const INSTITUTIONS = [
     category: 'Economía & Negocios',
     color: '#457B9D',
     sourceUrl: 'https://www.bce.fin.ec/comunicados/',
-    selectors: [
-      { items: 'article, .communicado-item', title: 'h2 a, h3 a, .title a', date: 'time, .date', link: 'h2 a, h3 a, .title a' },
-      { items: '.views-row', title: '.views-field-title a', date: '.views-field-created', link: '.views-field-title a' },
-    ]
+    searchQuery: 'Banco Central Ecuador BCE comunicados noticias economía 2025 2026',
   },
   {
     id: 'mipro',
@@ -78,10 +75,7 @@ const INSTITUTIONS = [
     category: 'Economía & Negocios',
     color: '#6A9AB0',
     sourceUrl: 'https://www.produccion.gob.ec/noticias/',
-    selectors: [
-      { items: 'article', title: 'h2 a, h3 a, .entry-title a', date: 'time, .entry-date', link: 'h2 a, h3 a, .entry-title a' },
-      { items: '.news-item, .views-row', title: 'h3 a, .title a', date: 'time, .date', link: 'h3 a, .title a' },
-    ]
+    searchQuery: 'MIPRO Ministerio Producción Comercio Exterior Ecuador noticias 2025 2026',
   },
   {
     id: 'sri',
@@ -90,13 +84,8 @@ const INSTITUTIONS = [
     category: 'Economía & Negocios',
     color: '#1D3557',
     sourceUrl: 'https://www.sri.gob.ec/noticias',
-    selectors: [
-      { items: 'article, .noticia-item', title: 'h2 a, h3 a, .entry-title a', date: 'time, .entry-date', link: 'h2 a, h3 a, .entry-title a' },
-      { items: '.views-row', title: '.views-field-title a', date: '.views-field-created', link: '.views-field-title a' },
-    ]
+    searchQuery: 'SRI Servicio Rentas Internas Ecuador noticias resoluciones tributarias 2025 2026',
   },
-
-  // --- Regulatorio ---
   {
     id: 'arcsa',
     name: 'ARCSA',
@@ -104,10 +93,7 @@ const INSTITUTIONS = [
     category: 'Regulatorio',
     color: '#E9C46A',
     sourceUrl: 'https://www.controlsanitario.gob.ec/noticias/',
-    selectors: [
-      { items: 'article', title: 'h2 a, h3 a, .entry-title a', date: 'time, .entry-date', link: 'h2 a, h3 a, .entry-title a' },
-      { items: '.views-row', title: '.views-field-title a', date: '.views-field-created', link: '.views-field-title a' },
-    ]
+    searchQuery: 'ARCSA Ecuador agencia regulación sanitaria noticias resoluciones 2025 2026',
   },
   {
     id: 'senescyt',
@@ -116,10 +102,7 @@ const INSTITUTIONS = [
     category: 'Regulatorio',
     color: '#F4A261',
     sourceUrl: 'https://www.senescyt.gob.ec/noticias/',
-    selectors: [
-      { items: 'article', title: 'h2 a, h3 a, .entry-title a', date: 'time, .entry-date', link: 'h2 a, h3 a, .entry-title a' },
-      { items: '.news-item, .views-row', title: 'h3 a, .title a', date: 'time, .date', link: 'h3 a, .title a' },
-    ]
+    searchQuery: 'SENESCYT Ecuador educación superior ciencia tecnología noticias 2025 2026',
   },
   {
     id: 'sercop',
@@ -128,13 +111,8 @@ const INSTITUTIONS = [
     category: 'Regulatorio',
     color: '#E76F51',
     sourceUrl: 'https://www.sercop.gob.ec/noticias/',
-    selectors: [
-      { items: 'article', title: 'h2 a, h3 a, .entry-title a', date: 'time, .entry-date', link: 'h2 a, h3 a, .entry-title a' },
-      { items: '.views-row', title: '.views-field-title a', date: '.views-field-created', link: '.views-field-title a' },
-    ]
+    searchQuery: 'SERCOP Ecuador contratación pública noticias resoluciones 2025 2026',
   },
-
-  // --- Seguridad & Gobierno ---
   {
     id: 'min-interior',
     name: 'Min. Interior',
@@ -142,10 +120,7 @@ const INSTITUTIONS = [
     category: 'Seguridad & Gobierno',
     color: '#9B5DE5',
     sourceUrl: 'https://www.ministeriodelinterior.gob.ec/noticias/',
-    selectors: [
-      { items: 'article', title: 'h2 a, h3 a, .entry-title a', date: 'time, .entry-date', link: 'h2 a, h3 a, .entry-title a' },
-      { items: '.news-item, .views-row', title: 'h3 a, .title a', date: 'time, .date', link: 'h3 a, .title a' },
-    ]
+    searchQuery: 'Ministerio Interior Ecuador seguridad policia noticias comunicados 2025 2026',
   },
   {
     id: 'min-gobierno',
@@ -154,170 +129,197 @@ const INSTITUTIONS = [
     category: 'Seguridad & Gobierno',
     color: '#E07A5F',
     sourceUrl: 'https://www.ministeriodegobierno.gob.ec/noticias/',
-    selectors: [
-      { items: 'article', title: 'h2 a, h3 a, .entry-title a', date: 'time, .entry-date', link: 'h2 a, h3 a, .entry-title a' },
-      { items: '.news-item, .views-row', title: 'h3 a, .title a', date: 'time, .date', link: 'h3 a, .title a' },
-    ]
+    searchQuery: 'Ministerio Gobierno Ecuador noticias decretos comunicados 2025 2026',
   },
 ];
 
-const HEADERS = {
-  'User-Agent': 'Mozilla/5.0 (compatible; EcuadorMonitorBot/1.0; +https://github.com/jorgehcorrea/ecuador-monitor)',
-  'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
-  'Accept-Language': 'es-EC,es;q=0.9,en;q=0.8',
-};
+// ── Delay helper ──────────────────────────────────────────────────────────
+function delay(ms) { return new Promise(r => setTimeout(r, ms)); }
 
-function delay(ms) {
-  return new Promise(resolve => setTimeout(resolve, ms));
-}
+// ── Call Claude API with web search ──────────────────────────────────────
+async function fetchNewsFromClaude(institution) {
+  const today = new Date().toISOString().split('T')[0];
 
-async function fetchWithRetry(url, retries = 3) {
-  for (let i = 0; i < retries; i++) {
-    try {
-      const res = await fetch(url, { headers: HEADERS, timeout: 15000 });
-      if (!res.ok) throw new Error(`HTTP ${res.status}`);
-      return await res.text();
-    } catch (err) {
-      if (i === retries - 1) throw err;
-      await delay(2000 * (i + 1));
-    }
+  const prompt = `Search the web and find the 5 most recent official news items, announcements, or press releases from ${institution.fullName} (${institution.name}) in Ecuador. Today's date is ${today}.
+
+Return ONLY a JSON array with exactly this structure, no other text, no markdown, no explanation:
+[
+  {
+    "title": "Full title of the news item in Spanish",
+    "date": "YYYY-MM-DD",
+    "url": "https://direct-url-to-the-article-or-source"
   }
-}
+]
 
-function parseNews(html, institution) {
-  const $ = cheerio.load(html);
-  const items = [];
+Rules:
+- Titles must be in Spanish
+- Dates must be real dates in YYYY-MM-DD format, from the last 90 days if possible
+- URLs must be real, working URLs from the search results
+- If you cannot find 5 items, return however many you find (minimum 1)
+- Items must be sorted newest first
+- Do not invent or fabricate any items`;
 
-  for (const sel of institution.selectors) {
-    const elements = $(sel.items);
-    if (elements.length === 0) continue;
+  const response = await fetch('https://api.anthropic.com/v1/messages', {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+      'x-api-key': API_KEY,
+      'anthropic-version': '2023-06-01',
+      'anthropic-beta': 'interleaved-thinking-2025-01-01',
+    },
+    body: JSON.stringify({
+      model: 'claude-haiku-4-5-20251001',
+      max_tokens: 1024,
+      tools: [
+        {
+          type: 'web_search_20250305',
+          name: 'web_search',
+        }
+      ],
+      messages: [
+        { role: 'user', content: prompt }
+      ],
+    }),
+  });
 
-    elements.each((i, el) => {
-      if (i >= 5) return false; // max 5 items
-      const titleEl = $(el).find(sel.title).first();
-      const dateEl = $(el).find(sel.date).first();
-      const linkEl = $(el).find(sel.link).first();
-
-      const title = titleEl.text().trim();
-      const rawDate = dateEl.attr('datetime') || dateEl.text().trim();
-      const href = linkEl.attr('href') || '';
-
-      if (!title || title.length < 10) return;
-
-      const url = href.startsWith('http') ? href : (href ? `${new URL(institution.sourceUrl).origin}${href}` : institution.sourceUrl);
-      const date = normalizeDate(rawDate) || new Date().toISOString().split('T')[0];
-
-      items.push({ title, date, url });
-    });
-
-    if (items.length > 0) break; // stop if a selector worked
+  if (!response.ok) {
+    const err = await response.text();
+    throw new Error(`API error ${response.status}: ${err.slice(0, 200)}`);
   }
 
-  return items;
+  const data = await response.json();
+
+  // Extract the final text response from content blocks
+  const textBlocks = data.content.filter(b => b.type === 'text');
+  if (textBlocks.length === 0) throw new Error('No text in API response');
+
+  const raw = textBlocks[textBlocks.length - 1].text.trim();
+
+  // Parse JSON — strip any accidental markdown fences
+  const clean = raw.replace(/^```json\s*/i, '').replace(/^```\s*/i, '').replace(/```\s*$/i, '').trim();
+  const parsed = JSON.parse(clean);
+
+  if (!Array.isArray(parsed)) throw new Error('Response is not an array');
+
+  // Validate and clean each item
+  return parsed
+    .filter(item => item.title && item.date && item.url)
+    .map(item => ({
+      title: String(item.title).trim(),
+      date: String(item.date).trim(),
+      url: String(item.url).trim(),
+    }))
+    .slice(0, 5);
 }
 
-function normalizeDate(raw) {
-  if (!raw) return null;
-  const cleaned = raw.replace(/[^\d\-\/\s,a-záéíóúñ]/gi, '').trim();
-  const parsed = new Date(cleaned);
-  if (!isNaN(parsed)) return parsed.toISOString().split('T')[0];
+// ── Merge new items into existing institution data ────────────────────────
+function mergeNews(existingNews, newNews) {
+  const existingTitles = new Set(
+    existingNews.map(n => n.title.slice(0, 60).toLowerCase())
+  );
 
-  // Try common Spanish date patterns
-  const months = { enero:0,febrero:1,marzo:2,abril:3,mayo:4,junio:5,julio:6,agosto:7,septiembre:8,octubre:9,noviembre:10,diciembre:11 };
-  const m = cleaned.match(/(\d{1,2})\s+de\s+(\w+)\s+(?:de\s+)?(\d{4})/i);
-  if (m) {
-    const month = months[m[2].toLowerCase()];
-    if (month !== undefined) {
-      return new Date(parseInt(m[3]), month, parseInt(m[1])).toISOString().split('T')[0];
-    }
-  }
-  return null;
+  const toAdd = newNews.filter(
+    n => !existingTitles.has(n.title.slice(0, 60).toLowerCase())
+  );
+
+  const merged = [...toAdd, ...existingNews];
+
+  // Sort newest first
+  merged.sort((a, b) => {
+    const da = a.date || '0000-00-00';
+    const db = b.date || '0000-00-00';
+    return db.localeCompare(da);
+  });
+
+  // Keep max 100 items per institution (backlog cap)
+  return merged.slice(0, 100);
 }
 
-async function scrapeInstitution(institution, existingData) {
-  console.log(`  Scraping ${institution.name}...`);
-  try {
-    const html = await fetchWithRetry(institution.sourceUrl);
-    const news = parseNews(html, institution);
-
-    if (news.length === 0) {
-      console.log(`    ⚠ No items parsed — keeping previous data (stale)`);
-      const prev = existingData.find(d => d.id === institution.id);
-      return {
-        id: institution.id,
-        name: institution.name,
-        fullName: institution.fullName,
-        category: institution.category,
-        color: institution.color,
-        sourceUrl: institution.sourceUrl,
-        status: 'stale',
-        news: prev?.news || [],
-        lastUpdated: new Date().toISOString(),
-      };
-    }
-
-    console.log(`    ✓ ${news.length} items`);
-    return {
-      id: institution.id,
-      name: institution.name,
-      fullName: institution.fullName,
-      category: institution.category,
-      color: institution.color,
-      sourceUrl: institution.sourceUrl,
-      status: 'ok',
-      news,
-      lastUpdated: new Date().toISOString(),
-    };
-  } catch (err) {
-    console.log(`    ✗ Error: ${err.message} — keeping previous data`);
-    const prev = existingData.find(d => d.id === institution.id);
-    return {
-      id: institution.id,
-      name: institution.name,
-      fullName: institution.fullName,
-      category: institution.category,
-      color: institution.color,
-      sourceUrl: institution.sourceUrl,
-      status: 'error',
-      news: prev?.news || [],
-      lastUpdated: new Date().toISOString(),
-    };
-  }
-}
-
+// ── Main ──────────────────────────────────────────────────────────────────
 async function main() {
-  console.log('Ecuador Monitor — starting scrape\n');
+  console.log('Ecuador Monitor — Claude API Scraper');
+  console.log(`Date: ${new Date().toISOString()}\n`);
 
-  let existingData = [];
+  // Load existing data
+  let existing;
   try {
-    const raw = readFileSync(DATA_PATH, 'utf8');
-    const parsed = JSON.parse(raw);
-    existingData = parsed.institutions || [];
-    console.log(`Loaded ${existingData.length} existing institution records\n`);
+    existing = JSON.parse(readFileSync(DATA_PATH, 'utf8'));
+    console.log(`Loaded existing data: ${existing.institutions.length} institutions\n`);
   } catch {
-    console.log('No existing data.json found — starting fresh\n');
+    console.log('No existing data.json — starting fresh\n');
+    existing = { lastScraped: new Date().toISOString(), institutions: [], summary: {} };
   }
 
   const results = [];
+  let okCount = 0;
+  let errCount = 0;
+
   for (const inst of INSTITUTIONS) {
-    const result = await scrapeInstitution(inst, existingData);
-    results.push(result);
-    await delay(1500); // polite delay between requests
+    process.stdout.write(`  [${inst.id}] fetching... `);
+
+    // Find existing institution record
+    const existingInst = existing.institutions.find(i => i.id === inst.id);
+    const existingNews = existingInst?.news || [];
+
+    try {
+      const newNews = await fetchNewsFromClaude(inst);
+      const mergedNews = mergeNews(existingNews, newNews);
+
+      results.push({
+        id: inst.id,
+        name: inst.name,
+        fullName: inst.fullName,
+        category: inst.category,
+        color: inst.color,
+        sourceUrl: inst.sourceUrl,
+        status: 'ok',
+        news: mergedNews,
+        lastUpdated: new Date().toISOString(),
+      });
+
+      console.log(`✓ ${newNews.length} new items (total: ${mergedNews.length})`);
+      okCount++;
+    } catch (err) {
+      console.log(`✗ ${err.message.slice(0, 80)}`);
+      errCount++;
+
+      // Keep previous data on error
+      results.push({
+        id: inst.id,
+        name: inst.name,
+        fullName: inst.fullName,
+        category: inst.category,
+        color: inst.color,
+        sourceUrl: inst.sourceUrl,
+        status: 'error',
+        news: existingNews,
+        lastUpdated: existingInst?.lastUpdated || new Date().toISOString(),
+      });
+    }
+
+    // Respectful delay between API calls to avoid rate limiting
+    await delay(2000);
   }
 
-  const ok = results.filter(r => r.status === 'ok').length;
-  const stale = results.filter(r => r.status === 'stale').length;
-  const error = results.filter(r => r.status === 'error').length;
-
+  // Write output
   const output = {
     lastScraped: new Date().toISOString(),
     institutions: results,
-    summary: { total: results.length, ok, stale, error },
+    summary: {
+      total: results.length,
+      ok: okCount,
+      stale: 0,
+      error: errCount,
+    },
   };
 
   writeFileSync(DATA_PATH, JSON.stringify(output, null, 2));
-  console.log(`\nDone. ${ok} ok · ${stale} stale · ${error} errors`);
+
+  console.log(`\nDone. ${okCount} ok · ${errCount} errors`);
   console.log(`Written to ${DATA_PATH}`);
+
+  const totalItems = results.reduce((s, i) => s + i.news.length, 0);
+  console.log(`Total items in archive: ${totalItems}`);
 }
 
 main().catch(err => {
