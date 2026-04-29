@@ -579,11 +579,23 @@ function FeedView({ institutions, query, activeInst, setActiveInst }) {
     return c;
   }, [allItems]);
 
+  const NOISY_INSTITUTIONS = ['registro-oficial'];
+  const NOISY_CAP = 3;
+
   const filtered = useMemo(() => {
     let r = activeInst ? allItems.filter(i => i.inst.id === activeInst) : allItems;
     if (query) {
       const q = query.toLowerCase();
       r = r.filter(i => i.title.toLowerCase().includes(q) || i.inst.name.toLowerCase().includes(q));
+    }
+    // Cap noisy institutions in general feed unless specifically selected
+    if (!activeInst) {
+      const counts = {};
+      r = r.filter(i => {
+        if (!NOISY_INSTITUTIONS.includes(i.inst.id)) return true;
+        counts[i.inst.id] = (counts[i.inst.id] || 0) + 1;
+        return counts[i.inst.id] <= NOISY_CAP;
+      });
     }
     return r;
   }, [allItems, activeInst, query]);

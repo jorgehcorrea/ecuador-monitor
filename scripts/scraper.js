@@ -132,6 +132,17 @@ const INSTITUTIONS = [
     searchQuery: 'Ministerio Gobierno Ecuador noticias decretos comunicados 2025 2026',
   },
 
+  // --- Seguridad & Gobierno (additional) ---
+  {
+    id: 'presidencia',
+    name: 'Presidencia',
+    fullName: 'Presidencia de la República del Ecuador',
+    category: 'Seguridad & Gobierno',
+    color: '#E63946',
+    sourceUrl: 'https://www.comunicacion.gob.ec/noticias/',
+    searchQuery: 'Presidencia República Ecuador Noboa decretos ejecutivos acciones gobierno noticias 2025 2026',
+  },
+
   // --- Legislativo & Judicial ---
   {
     id: 'cne',
@@ -159,6 +170,33 @@ const INSTITUTIONS = [
     color: '#3A0CA3',
     sourceUrl: 'https://www.corteconstitucional.gob.ec/noticias/',
     searchQuery: 'Corte Constitucional Ecuador sentencias resoluciones noticias 2025 2026',
+  },
+  {
+    id: 'pge',
+    name: 'PGE',
+    fullName: 'Procuraduría General del Estado',
+    category: 'Legislativo & Judicial',
+    color: '#560BAD',
+    sourceUrl: 'https://www.pge.gob.ec/',
+    searchQuery: 'Procuraduría General Estado Ecuador pronunciamientos consultas jurídicas resoluciones 2025 2026',
+  },
+  {
+    id: 'contraloria',
+    name: 'Contraloría',
+    fullName: 'Contraloría General del Estado',
+    category: 'Legislativo & Judicial',
+    color: '#480CA8',
+    sourceUrl: 'https://www.contraloria.gob.ec/SalaDePrensa/',
+    searchQuery: 'Contraloría General Estado Ecuador auditorías informes responsabilidades noticias 2025 2026',
+  },
+  {
+    id: 'registro-oficial',
+    name: 'Reg. Oficial',
+    fullName: 'Registro Oficial del Ecuador',
+    category: 'Legislativo & Judicial',
+    color: '#3A0CA3',
+    sourceUrl: 'https://www.registroficial.gob.ec/',
+    searchQuery: 'Registro Oficial Ecuador decretos ejecutivos leyes orgánicas resoluciones importantes 2025 2026',
   },
 ];
 
