@@ -417,13 +417,14 @@
 <script type="text/babel">
 const { useState, useEffect, useMemo } = React;
 
-const CATEGORIES = ['Todas', 'Agro & Investigación', 'Economía & Negocios', 'Regulatorio', 'Seguridad & Gobierno'];
+const CATEGORIES = ['Todas', 'Agro & Investigación', 'Economía & Negocios', 'Regulatorio', 'Seguridad & Gobierno', 'Legislativo & Judicial'];
 const CAT_LABELS = {
   'Todas': 'Tot',
   'Agro & Investigación': 'Agro',
   'Economía & Negocios': 'Econ',
   'Regulatorio': 'Reg',
   'Seguridad & Gobierno': 'Seg',
+  'Legislativo & Judicial': 'Leg',
 };
 
 const CAT_COLORS = {
@@ -431,6 +432,7 @@ const CAT_COLORS = {
   'Economía & Negocios':  '#457B9D',
   'Regulatorio':          '#E9C46A',
   'Seguridad & Gobierno': '#9B5DE5',
+  'Legislativo & Judicial': '#F72585',
 };
 
 function formatDate(iso) {

@@ -131,6 +131,35 @@ const INSTITUTIONS = [
     sourceUrl: 'https://www.ministeriodegobierno.gob.ec/noticias/',
     searchQuery: 'Ministerio Gobierno Ecuador noticias decretos comunicados 2025 2026',
   },
+
+  // --- Legislativo & Judicial ---
+  {
+    id: 'cne',
+    name: 'CNE',
+    fullName: 'Consejo Nacional Electoral',
+    category: 'Legislativo & Judicial',
+    color: '#F72585',
+    sourceUrl: 'https://www.cne.gob.ec/noticias/',
+    searchQuery: 'Consejo Nacional Electoral CNE Ecuador noticias resoluciones 2025 2026',
+  },
+  {
+    id: 'asamblea',
+    name: 'Asamblea',
+    fullName: 'Asamblea Nacional del Ecuador',
+    category: 'Legislativo & Judicial',
+    color: '#7209B7',
+    sourceUrl: 'https://www.asambleanacional.gob.ec/es/noticias',
+    searchQuery: 'Asamblea Nacional Ecuador leyes proyectos aprobados noticias 2025 2026',
+  },
+  {
+    id: 'corte-constitucional',
+    name: 'Corte Const.',
+    fullName: 'Corte Constitucional del Ecuador',
+    category: 'Legislativo & Judicial',
+    color: '#3A0CA3',
+    sourceUrl: 'https://www.corteconstitucional.gob.ec/noticias/',
+    searchQuery: 'Corte Constitucional Ecuador sentencias resoluciones noticias 2025 2026',
+  },
 ];
 
 // ── Delay helper ──────────────────────────────────────────────────────────
@@ -299,7 +328,7 @@ async function main() {
     }
 
     // Respectful delay between API calls to avoid rate limiting
-    await delay(20000);
+    await delay(10000);
   }
 
   // Write output
