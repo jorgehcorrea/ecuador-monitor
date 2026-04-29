@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-04-29T19:24:28.280Z",
+  "lastScraped": "2026-04-29T21:54:26.238Z",
   "institutions": [
     {
       "id": "iniap",
@@ -8,7 +8,7 @@
       "category": "Agro & Investigación",
       "color": "#52B788",
       "sourceUrl": "https://www.iniap.gob.ec/noticias/",
-      "status": "ok",
+      "status": "error",
       "news": [
         {
           "title": "INIAP presenta nuevas variedades de maíz adaptadas a condiciones de sierra ecuatoriana",
@@ -152,12 +152,24 @@
       "category": "Agro & Investigación",
       "color": "#40916C",
       "sourceUrl": "https://www.agrocalidad.gob.ec/noticias/",
-      "status": "error",
+      "status": "ok",
       "news": [
+        {
+          "title": "Agrocalidad levanta restricción de comercialización para cuyes pero mantiene restricción en conejos",
+          "date": "2026-04-29",
+          "url": "https://www.agrocalidad.gob.ec/",
+          "summary": "Agrocalidad levantó las restricciones para la movilización y comercialización de cuyes tras confirmar que los casos corresponden a una infección bacteriana focal, aunque mantiene la restricción para conejos mientras continúan los estudios epidemiológicos. Los productores pueden reanudar actividades con cumplimiento estricto de medidas de bioseguridad."
+        },
         {
           "title": "AGROCALIDAD aprueba nuevos plaguicidas para uso en cultivos de exportación con baja toxicidad",
           "date": "2026-04-19",
           "url": "https://www.agrocalidad.gob.ec/noticias/"
+        },
+        {
+          "title": "Agrocalidad se transforma en beneficio del agro ecuatoriano",
+          "date": "2026-04-17",
+          "url": "https://www.agrocalidad.gob.ec/agrocalidad-se-transforma-en-beneficio-del-agro-ecuatoriano/",
+          "summary": "El director ejecutivo de Agrocalidad presentó la situación actual de la institución, sus avances y proyecciones en sanidad animal, protección vegetal, inocuidad de alimentos y competitividad del sector agropecuario ante autoridades del Estado y organismos internacionales."
         },
         {
           "title": "Alerta fitosanitaria por detección de nueva plaga en plantaciones de palma aceitera en Esmeraldas",
@@ -165,9 +177,21 @@
           "url": "https://www.agrocalidad.gob.ec/noticias/"
         },
         {
+          "title": "Con la directriz del Presidente, Daniel Noboa Azin, Ecuador está listo para exportar huevos de mesa a Emiratos Árabes Unidos",
+          "date": "2026-04-01",
+          "url": "https://www.agrocalidad.gob.ec/con-la-directriz-del-presidente-daniel-noboa-azin-ecuador-esta-listo-para-exportar-huevos-de-mesa-a-emiratos-arabes-unidos/",
+          "summary": "Ecuador completó la homologación sanitaria con Emiratos Árabes Unidos y habilitó la exportación de huevos de mesa, ampliando mercados internacionales para la industria avícola nacional que produce más de 3.800 millones de huevos anuales."
+        },
+        {
           "title": "Ecuador obtiene certificación internacional para exportación de pitahaya a mercados asiáticos",
           "date": "2026-03-30",
           "url": "https://www.agrocalidad.gob.ec/noticias/"
+        },
+        {
+          "title": "Ecuador impulsa la sanidad equina y fortalece la economía del sector ecuestre",
+          "date": "2026-03-25",
+          "url": "https://www.agrocalidad.gob.ec/ecuador-impulsa-la-sanidad-equina-y-fortalece-la-economia-del-sector-ecuestre/",
+          "summary": "Ecuador organizó la IX Cumbre y II Simposio de la Red de Vigilancia Epidemiológica de FIAVE con participación de 14 países, fortaleciendo capacidades técnicas en sanidad equina y consolidando redes de colaboración regional en medicina veterinaria equina."
         },
         {
           "title": "AGROCALIDAD intensifica controles en fronteras para prevenir ingreso de fiebre aftosa",
@@ -175,12 +199,18 @@
           "url": "https://www.agrocalidad.gob.ec/noticias/"
         },
         {
+          "title": "Gracias al compromiso del presidente Daniel Noboa, Ecuador avanza para en 2027 obtener la declaratoria de país libre de fiebre aftosa sin vacunación",
+          "date": "2026-03-11",
+          "url": "https://www.agrocalidad.gob.ec/gracias-al-compromiso-del-presidente-daniel-noboa-ecuador-avanza-para-en-2027-obtener-la-declaratoria-de-pais-libre-de-fiebre-aftosa-sin-vacunacion/",
+          "summary": "Ecuador notificó oficialmente a la Organización Mundial de Sanidad Animal el cese de vacunación contra fiebre aftosa desde enero de 2026, avanzando hacia la certificación como país libre de la enfermedad sin vacunación en 2027, con ahorro estimado de 6 millones de dólares anuales."
+        },
+        {
           "title": "Nueva normativa de bienestar animal para ganadería bovina entra en vigencia en mayo",
           "date": "2026-03-05",
           "url": "https://www.agrocalidad.gob.ec/noticias/"
         }
       ],
-      "lastUpdated": "2026-04-25T06:00:00.000Z"
+      "lastUpdated": "2026-04-29T21:47:17.198Z"
     },
     {
       "id": "proecuador",
@@ -399,7 +429,7 @@
       "category": "Regulatorio",
       "color": "#F4A261",
       "sourceUrl": "https://www.senescyt.gob.ec/noticias/",
-      "status": "ok",
+      "status": "error",
       "news": [
         {
           "title": "SENESCYT abre convocatoria a becas de posgrado en ciencias agrícolas y biotecnología para 2026",
@@ -658,8 +688,8 @@
   ],
   "summary": {
     "total": 19,
-    "ok": 2,
+    "ok": 1,
     "stale": 0,
-    "error": 17
+    "error": 18
   }
 }
