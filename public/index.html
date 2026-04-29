@@ -403,6 +403,36 @@
     .state-msg { text-align: center; padding: 4rem 2rem; color: var(--muted); font-family: var(--mono); font-size: 0.75rem; }
     mark { background: rgba(200,169,110,0.25); color: var(--accent); border-radius: 2px; }
 
+    /* ── HOVER SUMMARY CARD ── */
+    .feed-item { position: relative; }
+    .summary-card {
+      display: none;
+      position: absolute;
+      left: 1.5rem;
+      right: 1.5rem;
+      top: calc(100% - 4px);
+      z-index: 20;
+      background: var(--surface2);
+      border: 1px solid var(--border2);
+      border-top: 2px solid var(--accent);
+      border-radius: 0 0 4px 4px;
+      padding: 0.65rem 0.9rem;
+      font-size: 0.75rem;
+      color: var(--muted);
+      line-height: 1.55;
+      box-shadow: 0 4px 16px rgba(0,0,0,0.4);
+      pointer-events: none;
+    }
+    .feed-item:hover .summary-card { display: block; }
+    .summary-label {
+      font-family: var(--mono);
+      font-size: 0.55rem;
+      color: var(--dim);
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      margin-bottom: 0.3rem;
+    }
+
     @media (max-width: 680px) {
       .sidebar-wrapper { display: none; }
       .sidebar-toggle { display: none; }
@@ -524,6 +554,12 @@ function FeedItem({ item, query }) {
           ↗ {new URL(item.inst.sourceUrl).hostname.replace('www.', '')}
         </a>
       </div>
+      {item.summary && (
+        <div className="summary-card">
+          <div className="summary-label">Resumen</div>
+          {item.summary}
+        </div>
+      )}
     </div>
   );
 }

@@ -176,7 +176,8 @@ Return ONLY a JSON array with exactly this structure, no other text, no markdown
   {
     "title": "Full title of the news item in Spanish",
     "date": "YYYY-MM-DD",
-    "url": "https://direct-url-to-the-article-or-source"
+    "url": "https://direct-url-to-the-article-or-source",
+    "summary": "1-2 plain language sentences in Spanish explaining what this news means in practice. Avoid repeating the title. Focus on real-world effect."
   }
 ]
 
@@ -184,6 +185,7 @@ Rules:
 - Titles must be in Spanish
 - Dates must be real dates in YYYY-MM-DD format, from the last 90 days if possible
 - URLs must be real, working URLs from the search results
+- Summaries must be in Spanish, 1-2 sentences, plain language — explain what actually happens as a result of this news
 - If you cannot find 5 items, return however many you find (minimum 1)
 - Items must be sorted newest first
 - Do not invent or fabricate any items`;
@@ -238,6 +240,7 @@ Rules:
       title: String(item.title).trim(),
       date: String(item.date).trim(),
       url: String(item.url).trim(),
+      summary: item.summary ? String(item.summary).trim() : '',
     }))
     .slice(0, 5);
 }
