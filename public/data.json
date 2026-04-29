@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-04-25T06:00:00.000Z",
+  "lastScraped": "2026-04-29T12:32:07.171Z",
   "institutions": [
     {
       "id": "iniap",
@@ -8,13 +8,33 @@
       "category": "Agro & Investigación",
       "color": "#52B788",
       "sourceUrl": "https://www.iniap.gob.ec/noticias/",
-      "status": "ok",
+      "status": "error",
       "news": [
-        { "title": "INIAP presenta nuevas variedades de maíz adaptadas a condiciones de sierra ecuatoriana", "date": "2026-04-18", "url": "https://www.iniap.gob.ec/noticias/" },
-        { "title": "Investigadores del INIAP desarrollan protocolo de control biológico para mosca de la fruta", "date": "2026-04-10", "url": "https://www.iniap.gob.ec/noticias/" },
-        { "title": "INIAP y MAG firman convenio para tecnificación de productores de cacao fino de aroma", "date": "2026-04-02", "url": "https://www.iniap.gob.ec/noticias/" },
-        { "title": "Nuevas variedades de papa resistentes a lancha desarrolladas por INIAP se distribuyen en Carchi y Pichincha", "date": "2026-03-28", "url": "https://www.iniap.gob.ec/noticias/" },
-        { "title": "INIAP capacita a 300 agricultores en manejo integrado de plagas en cultivos de arroz", "date": "2026-03-15", "url": "https://www.iniap.gob.ec/noticias/" }
+        {
+          "title": "INIAP presenta nuevas variedades de maíz adaptadas a condiciones de sierra ecuatoriana",
+          "date": "2026-04-18",
+          "url": "https://www.iniap.gob.ec/noticias/"
+        },
+        {
+          "title": "Investigadores del INIAP desarrollan protocolo de control biológico para mosca de la fruta",
+          "date": "2026-04-10",
+          "url": "https://www.iniap.gob.ec/noticias/"
+        },
+        {
+          "title": "INIAP y MAG firman convenio para tecnificación de productores de cacao fino de aroma",
+          "date": "2026-04-02",
+          "url": "https://www.iniap.gob.ec/noticias/"
+        },
+        {
+          "title": "Nuevas variedades de papa resistentes a lancha desarrolladas por INIAP se distribuyen en Carchi y Pichincha",
+          "date": "2026-03-28",
+          "url": "https://www.iniap.gob.ec/noticias/"
+        },
+        {
+          "title": "INIAP capacita a 300 agricultores en manejo integrado de plagas en cultivos de arroz",
+          "date": "2026-03-15",
+          "url": "https://www.iniap.gob.ec/noticias/"
+        }
       ],
       "lastUpdated": "2026-04-25T06:00:00.000Z"
     },
@@ -25,13 +45,33 @@
       "category": "Agro & Investigación",
       "color": "#74C69D",
       "sourceUrl": "https://www.agricultura.gob.ec/noticias/",
-      "status": "ok",
+      "status": "error",
       "news": [
-        { "title": "MAG entrega kits agrícolas a más de 5.000 productores afectados por fenómeno climático en Manabí", "date": "2026-04-20", "url": "https://www.agricultura.gob.ec/noticias/" },
-        { "title": "Ministro de Agricultura anuncia plan de apoyo a pequeños productores de brócoli en Cotopaxi", "date": "2026-04-12", "url": "https://www.agricultura.gob.ec/noticias/" },
-        { "title": "Ecuador refuerza controles fitosanitarios en exportación de banano a Unión Europea", "date": "2026-04-05", "url": "https://www.agricultura.gob.ec/noticias/" },
-        { "title": "MAG lanza programa de seguro agrícola subsidiado para pequeños productores de la Costa", "date": "2026-03-22", "url": "https://www.agricultura.gob.ec/noticias/" },
-        { "title": "Gobierno invierte $12 millones en infraestructura de riego para provincias de la Sierra", "date": "2026-03-10", "url": "https://www.agricultura.gob.ec/noticias/" }
+        {
+          "title": "MAG entrega kits agrícolas a más de 5.000 productores afectados por fenómeno climático en Manabí",
+          "date": "2026-04-20",
+          "url": "https://www.agricultura.gob.ec/noticias/"
+        },
+        {
+          "title": "Ministro de Agricultura anuncia plan de apoyo a pequeños productores de brócoli en Cotopaxi",
+          "date": "2026-04-12",
+          "url": "https://www.agricultura.gob.ec/noticias/"
+        },
+        {
+          "title": "Ecuador refuerza controles fitosanitarios en exportación de banano a Unión Europea",
+          "date": "2026-04-05",
+          "url": "https://www.agricultura.gob.ec/noticias/"
+        },
+        {
+          "title": "MAG lanza programa de seguro agrícola subsidiado para pequeños productores de la Costa",
+          "date": "2026-03-22",
+          "url": "https://www.agricultura.gob.ec/noticias/"
+        },
+        {
+          "title": "Gobierno invierte $12 millones en infraestructura de riego para provincias de la Sierra",
+          "date": "2026-03-10",
+          "url": "https://www.agricultura.gob.ec/noticias/"
+        }
       ],
       "lastUpdated": "2026-04-25T06:00:00.000Z"
     },
@@ -42,13 +82,33 @@
       "category": "Agro & Investigación",
       "color": "#40916C",
       "sourceUrl": "https://www.agrocalidad.gob.ec/noticias/",
-      "status": "ok",
+      "status": "error",
       "news": [
-        { "title": "AGROCALIDAD aprueba nuevos plaguicidas para uso en cultivos de exportación con baja toxicidad", "date": "2026-04-19", "url": "https://www.agrocalidad.gob.ec/noticias/" },
-        { "title": "Alerta fitosanitaria por detección de nueva plaga en plantaciones de palma aceitera en Esmeraldas", "date": "2026-04-08", "url": "https://www.agrocalidad.gob.ec/noticias/" },
-        { "title": "Ecuador obtiene certificación internacional para exportación de pitahaya a mercados asiáticos", "date": "2026-03-30", "url": "https://www.agrocalidad.gob.ec/noticias/" },
-        { "title": "AGROCALIDAD intensifica controles en fronteras para prevenir ingreso de fiebre aftosa", "date": "2026-03-18", "url": "https://www.agrocalidad.gob.ec/noticias/" },
-        { "title": "Nueva normativa de bienestar animal para ganadería bovina entra en vigencia en mayo", "date": "2026-03-05", "url": "https://www.agrocalidad.gob.ec/noticias/" }
+        {
+          "title": "AGROCALIDAD aprueba nuevos plaguicidas para uso en cultivos de exportación con baja toxicidad",
+          "date": "2026-04-19",
+          "url": "https://www.agrocalidad.gob.ec/noticias/"
+        },
+        {
+          "title": "Alerta fitosanitaria por detección de nueva plaga en plantaciones de palma aceitera en Esmeraldas",
+          "date": "2026-04-08",
+          "url": "https://www.agrocalidad.gob.ec/noticias/"
+        },
+        {
+          "title": "Ecuador obtiene certificación internacional para exportación de pitahaya a mercados asiáticos",
+          "date": "2026-03-30",
+          "url": "https://www.agrocalidad.gob.ec/noticias/"
+        },
+        {
+          "title": "AGROCALIDAD intensifica controles en fronteras para prevenir ingreso de fiebre aftosa",
+          "date": "2026-03-18",
+          "url": "https://www.agrocalidad.gob.ec/noticias/"
+        },
+        {
+          "title": "Nueva normativa de bienestar animal para ganadería bovina entra en vigencia en mayo",
+          "date": "2026-03-05",
+          "url": "https://www.agrocalidad.gob.ec/noticias/"
+        }
       ],
       "lastUpdated": "2026-04-25T06:00:00.000Z"
     },
@@ -59,13 +119,33 @@
       "category": "Agro & Investigación",
       "color": "#95D5B2",
       "sourceUrl": "https://www.proecuador.gob.ec/noticias/",
-      "status": "ok",
+      "status": "error",
       "news": [
-        { "title": "ProEcuador abre oficina comercial en Vietnam para potenciar exportaciones de cacao y café", "date": "2026-04-21", "url": "https://www.proecuador.gob.ec/noticias/" },
-        { "title": "Misión comercial de productos ecuatorianos llega a ferias en Alemania y Países Bajos", "date": "2026-04-15", "url": "https://www.proecuador.gob.ec/noticias/" },
-        { "title": "Acuerdo comercial con India abre oportunidades para exportadores de flores y vegetales congelados", "date": "2026-04-07", "url": "https://www.proecuador.gob.ec/noticias/" },
-        { "title": "Exportaciones no petroleras crecen 8.3% en primer trimestre de 2026 lideradas por acuacultura y flores", "date": "2026-03-25", "url": "https://www.proecuador.gob.ec/noticias/" },
-        { "title": "ProEcuador lanza directorio digital de exportadores ecuatorianos para facilitar contacto con compradores internacionales", "date": "2026-03-12", "url": "https://www.proecuador.gob.ec/noticias/" }
+        {
+          "title": "ProEcuador abre oficina comercial en Vietnam para potenciar exportaciones de cacao y café",
+          "date": "2026-04-21",
+          "url": "https://www.proecuador.gob.ec/noticias/"
+        },
+        {
+          "title": "Misión comercial de productos ecuatorianos llega a ferias en Alemania y Países Bajos",
+          "date": "2026-04-15",
+          "url": "https://www.proecuador.gob.ec/noticias/"
+        },
+        {
+          "title": "Acuerdo comercial con India abre oportunidades para exportadores de flores y vegetales congelados",
+          "date": "2026-04-07",
+          "url": "https://www.proecuador.gob.ec/noticias/"
+        },
+        {
+          "title": "Exportaciones no petroleras crecen 8.3% en primer trimestre de 2026 lideradas por acuacultura y flores",
+          "date": "2026-03-25",
+          "url": "https://www.proecuador.gob.ec/noticias/"
+        },
+        {
+          "title": "ProEcuador lanza directorio digital de exportadores ecuatorianos para facilitar contacto con compradores internacionales",
+          "date": "2026-03-12",
+          "url": "https://www.proecuador.gob.ec/noticias/"
+        }
       ],
       "lastUpdated": "2026-04-25T06:00:00.000Z"
     },
@@ -76,13 +156,33 @@
       "category": "Economía & Negocios",
       "color": "#457B9D",
       "sourceUrl": "https://www.bce.fin.ec/comunicados/",
-      "status": "ok",
+      "status": "error",
       "news": [
-        { "title": "Banco Central reporta crecimiento del PIB en 1.8% en primer trimestre de 2026", "date": "2026-04-22", "url": "https://www.bce.fin.ec/comunicados/" },
-        { "title": "Inflación anual se ubica en 2.3% en marzo 2026; sector alimentos registra mayor alza", "date": "2026-04-09", "url": "https://www.bce.fin.ec/comunicados/" },
-        { "title": "BCE publica índice de confianza del consumidor con leve mejora respecto al trimestre anterior", "date": "2026-04-03", "url": "https://www.bce.fin.ec/comunicados/" },
-        { "title": "Reservas internacionales superan los $4.200 millones en marzo de 2026", "date": "2026-03-27", "url": "https://www.bce.fin.ec/comunicados/" },
-        { "title": "BCE presenta informe de estabilidad financiera del sistema bancario privado con resultados positivos", "date": "2026-03-14", "url": "https://www.bce.fin.ec/comunicados/" }
+        {
+          "title": "Banco Central reporta crecimiento del PIB en 1.8% en primer trimestre de 2026",
+          "date": "2026-04-22",
+          "url": "https://www.bce.fin.ec/comunicados/"
+        },
+        {
+          "title": "Inflación anual se ubica en 2.3% en marzo 2026; sector alimentos registra mayor alza",
+          "date": "2026-04-09",
+          "url": "https://www.bce.fin.ec/comunicados/"
+        },
+        {
+          "title": "BCE publica índice de confianza del consumidor con leve mejora respecto al trimestre anterior",
+          "date": "2026-04-03",
+          "url": "https://www.bce.fin.ec/comunicados/"
+        },
+        {
+          "title": "Reservas internacionales superan los $4.200 millones en marzo de 2026",
+          "date": "2026-03-27",
+          "url": "https://www.bce.fin.ec/comunicados/"
+        },
+        {
+          "title": "BCE presenta informe de estabilidad financiera del sistema bancario privado con resultados positivos",
+          "date": "2026-03-14",
+          "url": "https://www.bce.fin.ec/comunicados/"
+        }
       ],
       "lastUpdated": "2026-04-25T06:00:00.000Z"
     },
@@ -93,13 +193,33 @@
       "category": "Economía & Negocios",
       "color": "#6A9AB0",
       "sourceUrl": "https://www.produccion.gob.ec/noticias/",
-      "status": "ok",
+      "status": "error",
       "news": [
-        { "title": "MIPRO lanza programa de apoyo a PYMEs manufactureras con fondo de $10 millones", "date": "2026-04-17", "url": "https://www.produccion.gob.ec/noticias/" },
-        { "title": "Acuerdo comercial con Canadá entra en fase técnica de negociación arancelaria", "date": "2026-04-11", "url": "https://www.produccion.gob.ec/noticias/" },
-        { "title": "Ecuador participa en feria internacional de inversiones en Singapur con 14 proyectos del sector manufacturero", "date": "2026-04-01", "url": "https://www.produccion.gob.ec/noticias/" },
-        { "title": "MIPRO presenta reglamento de etiquetado de origen para productos artesanales ecuatorianos", "date": "2026-03-20", "url": "https://www.produccion.gob.ec/noticias/" },
-        { "title": "Sector pesquero artesanal recibe $3.5 millones en créditos subsidiados a través del programa Reactívate", "date": "2026-03-08", "url": "https://www.produccion.gob.ec/noticias/" }
+        {
+          "title": "MIPRO lanza programa de apoyo a PYMEs manufactureras con fondo de $10 millones",
+          "date": "2026-04-17",
+          "url": "https://www.produccion.gob.ec/noticias/"
+        },
+        {
+          "title": "Acuerdo comercial con Canadá entra en fase técnica de negociación arancelaria",
+          "date": "2026-04-11",
+          "url": "https://www.produccion.gob.ec/noticias/"
+        },
+        {
+          "title": "Ecuador participa en feria internacional de inversiones en Singapur con 14 proyectos del sector manufacturero",
+          "date": "2026-04-01",
+          "url": "https://www.produccion.gob.ec/noticias/"
+        },
+        {
+          "title": "MIPRO presenta reglamento de etiquetado de origen para productos artesanales ecuatorianos",
+          "date": "2026-03-20",
+          "url": "https://www.produccion.gob.ec/noticias/"
+        },
+        {
+          "title": "Sector pesquero artesanal recibe $3.5 millones en créditos subsidiados a través del programa Reactívate",
+          "date": "2026-03-08",
+          "url": "https://www.produccion.gob.ec/noticias/"
+        }
       ],
       "lastUpdated": "2026-04-25T06:00:00.000Z"
     },
@@ -110,13 +230,33 @@
       "category": "Economía & Negocios",
       "color": "#1D3557",
       "sourceUrl": "https://www.sri.gob.ec/noticias",
-      "status": "ok",
+      "status": "error",
       "news": [
-        { "title": "Plazo para declaración de impuesto a la renta de personas naturales vence el 28 de abril", "date": "2026-04-16", "url": "https://www.sri.gob.ec/noticias" },
-        { "title": "SRI habilita nueva facturación electrónica simplificada para sector agropecuario", "date": "2026-04-06", "url": "https://www.sri.gob.ec/noticias" },
-        { "title": "Recaudación tributaria supera los $1.800 millones en el primer trimestre de 2026", "date": "2026-03-31", "url": "https://www.sri.gob.ec/noticias" },
-        { "title": "SRI inicia campaña de control de evasión fiscal en sector de comercio informal en Guayaquil y Quito", "date": "2026-03-19", "url": "https://www.sri.gob.ec/noticias" },
-        { "title": "Nuevos beneficios tributarios para empresas que contraten a personas con discapacidad entran en vigencia", "date": "2026-03-07", "url": "https://www.sri.gob.ec/noticias" }
+        {
+          "title": "Plazo para declaración de impuesto a la renta de personas naturales vence el 28 de abril",
+          "date": "2026-04-16",
+          "url": "https://www.sri.gob.ec/noticias"
+        },
+        {
+          "title": "SRI habilita nueva facturación electrónica simplificada para sector agropecuario",
+          "date": "2026-04-06",
+          "url": "https://www.sri.gob.ec/noticias"
+        },
+        {
+          "title": "Recaudación tributaria supera los $1.800 millones en el primer trimestre de 2026",
+          "date": "2026-03-31",
+          "url": "https://www.sri.gob.ec/noticias"
+        },
+        {
+          "title": "SRI inicia campaña de control de evasión fiscal en sector de comercio informal en Guayaquil y Quito",
+          "date": "2026-03-19",
+          "url": "https://www.sri.gob.ec/noticias"
+        },
+        {
+          "title": "Nuevos beneficios tributarios para empresas que contraten a personas con discapacidad entran en vigencia",
+          "date": "2026-03-07",
+          "url": "https://www.sri.gob.ec/noticias"
+        }
       ],
       "lastUpdated": "2026-04-25T06:00:00.000Z"
     },
@@ -127,13 +267,33 @@
       "category": "Regulatorio",
       "color": "#E9C46A",
       "sourceUrl": "https://www.controlsanitario.gob.ec/noticias/",
-      "status": "ok",
+      "status": "error",
       "news": [
-        { "title": "ARCSA actualiza reglamento técnico para registro sanitario de suplementos alimenticios", "date": "2026-04-14", "url": "https://www.controlsanitario.gob.ec/noticias/" },
-        { "title": "Nuevos requisitos de etiquetado nutricional entran en vigencia para productos de consumo masivo", "date": "2026-04-04", "url": "https://www.controlsanitario.gob.ec/noticias/" },
-        { "title": "ARCSA retira del mercado lote de medicamentos genéricos por incumplimiento de estándares de calidad", "date": "2026-03-26", "url": "https://www.controlsanitario.gob.ec/noticias/" },
-        { "title": "Nuevos tiempos de respuesta para trámites de registro sanitario reducen espera de 90 a 45 días", "date": "2026-03-16", "url": "https://www.controlsanitario.gob.ec/noticias/" },
-        { "title": "ARCSA autoriza importación de tres nuevas vacunas para el calendario oficial de inmunización", "date": "2026-03-04", "url": "https://www.controlsanitario.gob.ec/noticias/" }
+        {
+          "title": "ARCSA actualiza reglamento técnico para registro sanitario de suplementos alimenticios",
+          "date": "2026-04-14",
+          "url": "https://www.controlsanitario.gob.ec/noticias/"
+        },
+        {
+          "title": "Nuevos requisitos de etiquetado nutricional entran en vigencia para productos de consumo masivo",
+          "date": "2026-04-04",
+          "url": "https://www.controlsanitario.gob.ec/noticias/"
+        },
+        {
+          "title": "ARCSA retira del mercado lote de medicamentos genéricos por incumplimiento de estándares de calidad",
+          "date": "2026-03-26",
+          "url": "https://www.controlsanitario.gob.ec/noticias/"
+        },
+        {
+          "title": "Nuevos tiempos de respuesta para trámites de registro sanitario reducen espera de 90 a 45 días",
+          "date": "2026-03-16",
+          "url": "https://www.controlsanitario.gob.ec/noticias/"
+        },
+        {
+          "title": "ARCSA autoriza importación de tres nuevas vacunas para el calendario oficial de inmunización",
+          "date": "2026-03-04",
+          "url": "https://www.controlsanitario.gob.ec/noticias/"
+        }
       ],
       "lastUpdated": "2026-04-25T06:00:00.000Z"
     },
@@ -144,13 +304,33 @@
       "category": "Regulatorio",
       "color": "#F4A261",
       "sourceUrl": "https://www.senescyt.gob.ec/noticias/",
-      "status": "ok",
+      "status": "error",
       "news": [
-        { "title": "SENESCYT abre convocatoria a becas de posgrado en ciencias agrícolas y biotecnología para 2026", "date": "2026-04-20", "url": "https://www.senescyt.gob.ec/noticias/" },
-        { "title": "Fondo de ciencia e innovación financia 34 proyectos de investigación aplicada en sectores estratégicos", "date": "2026-04-13", "url": "https://www.senescyt.gob.ec/noticias/" },
-        { "title": "Ecuador sube 12 posiciones en índice global de innovación 2026 según reporte preliminar", "date": "2026-04-02", "url": "https://www.senescyt.gob.ec/noticias/" },
-        { "title": "SENESCYT y universidades regionales acuerdan plan de expansión de carreras técnicas en provincias", "date": "2026-03-23", "url": "https://www.senescyt.gob.ec/noticias/" },
-        { "title": "Convocatoria Prometeo 2026 abre postulaciones para investigadores internacionales en áreas STEM", "date": "2026-03-11", "url": "https://www.senescyt.gob.ec/noticias/" }
+        {
+          "title": "SENESCYT abre convocatoria a becas de posgrado en ciencias agrícolas y biotecnología para 2026",
+          "date": "2026-04-20",
+          "url": "https://www.senescyt.gob.ec/noticias/"
+        },
+        {
+          "title": "Fondo de ciencia e innovación financia 34 proyectos de investigación aplicada en sectores estratégicos",
+          "date": "2026-04-13",
+          "url": "https://www.senescyt.gob.ec/noticias/"
+        },
+        {
+          "title": "Ecuador sube 12 posiciones en índice global de innovación 2026 según reporte preliminar",
+          "date": "2026-04-02",
+          "url": "https://www.senescyt.gob.ec/noticias/"
+        },
+        {
+          "title": "SENESCYT y universidades regionales acuerdan plan de expansión de carreras técnicas en provincias",
+          "date": "2026-03-23",
+          "url": "https://www.senescyt.gob.ec/noticias/"
+        },
+        {
+          "title": "Convocatoria Prometeo 2026 abre postulaciones para investigadores internacionales en áreas STEM",
+          "date": "2026-03-11",
+          "url": "https://www.senescyt.gob.ec/noticias/"
+        }
       ],
       "lastUpdated": "2026-04-25T06:00:00.000Z"
     },
@@ -161,13 +341,33 @@
       "category": "Regulatorio",
       "color": "#E76F51",
       "sourceUrl": "https://www.sercop.gob.ec/noticias/",
-      "status": "ok",
+      "status": "error",
       "news": [
-        { "title": "SERCOP publica nuevas resoluciones para contratación de servicios de consultoría pública", "date": "2026-04-18", "url": "https://www.sercop.gob.ec/noticias/" },
-        { "title": "Plataforma COMPRASPUBLICAS actualiza módulo de proveedores con validación de RUC en línea", "date": "2026-04-09", "url": "https://www.sercop.gob.ec/noticias/" },
-        { "title": "SERCOP detecta irregularidades en 23 procesos de contratación en municipios y presenta denuncias formales", "date": "2026-03-29", "url": "https://www.sercop.gob.ec/noticias/" },
-        { "title": "Nuevo umbral de contratación directa sube a $75.000 para agilizar adquisiciones de emergencia", "date": "2026-03-17", "url": "https://www.sercop.gob.ec/noticias/" },
-        { "title": "SERCOP lanza portal de transparencia con acceso abierto a todos los contratos del Estado desde 2020", "date": "2026-03-06", "url": "https://www.sercop.gob.ec/noticias/" }
+        {
+          "title": "SERCOP publica nuevas resoluciones para contratación de servicios de consultoría pública",
+          "date": "2026-04-18",
+          "url": "https://www.sercop.gob.ec/noticias/"
+        },
+        {
+          "title": "Plataforma COMPRASPUBLICAS actualiza módulo de proveedores con validación de RUC en línea",
+          "date": "2026-04-09",
+          "url": "https://www.sercop.gob.ec/noticias/"
+        },
+        {
+          "title": "SERCOP detecta irregularidades en 23 procesos de contratación en municipios y presenta denuncias formales",
+          "date": "2026-03-29",
+          "url": "https://www.sercop.gob.ec/noticias/"
+        },
+        {
+          "title": "Nuevo umbral de contratación directa sube a $75.000 para agilizar adquisiciones de emergencia",
+          "date": "2026-03-17",
+          "url": "https://www.sercop.gob.ec/noticias/"
+        },
+        {
+          "title": "SERCOP lanza portal de transparencia con acceso abierto a todos los contratos del Estado desde 2020",
+          "date": "2026-03-06",
+          "url": "https://www.sercop.gob.ec/noticias/"
+        }
       ],
       "lastUpdated": "2026-04-25T06:00:00.000Z"
     },
@@ -178,13 +378,33 @@
       "category": "Seguridad & Gobierno",
       "color": "#9B5DE5",
       "sourceUrl": "https://www.ministeriodelinterior.gob.ec/noticias/",
-      "status": "ok",
+      "status": "error",
       "news": [
-        { "title": "Operativo nacional incauta más de dos toneladas de sustancias ilícitas en cinco provincias costeras", "date": "2026-04-23", "url": "https://www.ministeriodelinterior.gob.ec/noticias/" },
-        { "title": "Ministerio del Interior presenta plan de seguridad rural para provincias de Esmeraldas y Sucumbíos", "date": "2026-04-14", "url": "https://www.ministeriodelinterior.gob.ec/noticias/" },
-        { "title": "Ecuador y Colombia firman acuerdo de cooperación policial para combatir tráfico de armas en frontera norte", "date": "2026-04-05", "url": "https://www.ministeriodelinterior.gob.ec/noticias/" },
-        { "title": "Sistema integrado de cámaras de vigilancia se amplía a 15 ciudades adicionales en 2026", "date": "2026-03-24", "url": "https://www.ministeriodelinterior.gob.ec/noticias/" },
-        { "title": "Policía Nacional incorpora 1.200 nuevos agentes egresados de la Escuela Superior con formación en investigación criminal", "date": "2026-03-13", "url": "https://www.ministeriodelinterior.gob.ec/noticias/" }
+        {
+          "title": "Operativo nacional incauta más de dos toneladas de sustancias ilícitas en cinco provincias costeras",
+          "date": "2026-04-23",
+          "url": "https://www.ministeriodelinterior.gob.ec/noticias/"
+        },
+        {
+          "title": "Ministerio del Interior presenta plan de seguridad rural para provincias de Esmeraldas y Sucumbíos",
+          "date": "2026-04-14",
+          "url": "https://www.ministeriodelinterior.gob.ec/noticias/"
+        },
+        {
+          "title": "Ecuador y Colombia firman acuerdo de cooperación policial para combatir tráfico de armas en frontera norte",
+          "date": "2026-04-05",
+          "url": "https://www.ministeriodelinterior.gob.ec/noticias/"
+        },
+        {
+          "title": "Sistema integrado de cámaras de vigilancia se amplía a 15 ciudades adicionales en 2026",
+          "date": "2026-03-24",
+          "url": "https://www.ministeriodelinterior.gob.ec/noticias/"
+        },
+        {
+          "title": "Policía Nacional incorpora 1.200 nuevos agentes egresados de la Escuela Superior con formación en investigación criminal",
+          "date": "2026-03-13",
+          "url": "https://www.ministeriodelinterior.gob.ec/noticias/"
+        }
       ],
       "lastUpdated": "2026-04-25T06:00:00.000Z"
     },
@@ -195,21 +415,41 @@
       "category": "Seguridad & Gobierno",
       "color": "#E07A5F",
       "sourceUrl": "https://www.ministeriodegobierno.gob.ec/noticias/",
-      "status": "ok",
+      "status": "error",
       "news": [
-        { "title": "Ministerio de Gobierno presenta plan de descentralización administrativa para gobiernos autónomos descentralizados", "date": "2026-04-21", "url": "https://www.ministeriodegobierno.gob.ec/noticias/" },
-        { "title": "Decreto ejecutivo regula nuevas funciones de gobernaciones provinciales en contexto de emergencia", "date": "2026-04-10", "url": "https://www.ministeriodegobierno.gob.ec/noticias/" },
-        { "title": "Ecuador actualiza protocolo de gestión de riesgos ante temporada de lluvias en provincias amazónicas", "date": "2026-04-01", "url": "https://www.ministeriodegobierno.gob.ec/noticias/" },
-        { "title": "Ministerio de Gobierno lanza sistema digital de gestión de documentos para reducir burocracia en trámites ciudadanos", "date": "2026-03-21", "url": "https://www.ministeriodegobierno.gob.ec/noticias/" },
-        { "title": "Reforma a la Ley de Participación Ciudadana amplía mecanismos de consulta previa en comunidades indígenas", "date": "2026-03-09", "url": "https://www.ministeriodegobierno.gob.ec/noticias/" }
+        {
+          "title": "Ministerio de Gobierno presenta plan de descentralización administrativa para gobiernos autónomos descentralizados",
+          "date": "2026-04-21",
+          "url": "https://www.ministeriodegobierno.gob.ec/noticias/"
+        },
+        {
+          "title": "Decreto ejecutivo regula nuevas funciones de gobernaciones provinciales en contexto de emergencia",
+          "date": "2026-04-10",
+          "url": "https://www.ministeriodegobierno.gob.ec/noticias/"
+        },
+        {
+          "title": "Ecuador actualiza protocolo de gestión de riesgos ante temporada de lluvias en provincias amazónicas",
+          "date": "2026-04-01",
+          "url": "https://www.ministeriodegobierno.gob.ec/noticias/"
+        },
+        {
+          "title": "Ministerio de Gobierno lanza sistema digital de gestión de documentos para reducir burocracia en trámites ciudadanos",
+          "date": "2026-03-21",
+          "url": "https://www.ministeriodegobierno.gob.ec/noticias/"
+        },
+        {
+          "title": "Reforma a la Ley de Participación Ciudadana amplía mecanismos de consulta previa en comunidades indígenas",
+          "date": "2026-03-09",
+          "url": "https://www.ministeriodegobierno.gob.ec/noticias/"
+        }
       ],
       "lastUpdated": "2026-04-25T06:00:00.000Z"
     }
   ],
   "summary": {
     "total": 12,
-    "ok": 12,
+    "ok": 0,
     "stale": 0,
-    "error": 0
+    "error": 12
   }
 }
