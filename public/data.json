@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-04-29T21:54:26.238Z",
+  "lastScraped": "2026-04-29T22:33:31.468Z",
   "institutions": [
     {
       "id": "iniap",
@@ -152,7 +152,7 @@
       "category": "Agro & Investigación",
       "color": "#40916C",
       "sourceUrl": "https://www.agrocalidad.gob.ec/noticias/",
-      "status": "ok",
+      "status": "error",
       "news": [
         {
           "title": "Agrocalidad levanta restricción de comercialización para cuyes pero mantiene restricción en conejos",
@@ -622,8 +622,14 @@
       "category": "Legislativo & Judicial",
       "color": "#3A0CA3",
       "sourceUrl": "https://www.corteconstitucional.gob.ec/noticias/",
-      "status": "error",
+      "status": "ok",
       "news": [
+        {
+          "title": "Jueza Karla Quevedo avoca conocimiento de demanda sobre reglamento de selección de Fiscal General",
+          "date": "2026-04-29",
+          "url": "https://www.eluniverso.com/noticias/politica/fiscalia-general-del-estado-corte-constitucional-concurso-de-oposicion-y-meritos-nota/",
+          "summary": "La jueza constitucional Karla Quevedo tomó conocimiento de la demanda de inconstitucionalidad contra el reglamento para seleccionar el Fiscal General, que prohíbe candidatos con más de 30 infracciones penales. La resolución será decisiva en el actual concurso público de selección que se encuentra en etapa de calificación de méritos de 28 aspirantes."
+        },
         {
           "title": "Sentencias constitucionales - Edición Constitucional No. 226",
           "date": "2026-04-22",
@@ -640,6 +646,12 @@
           "url": "https://www.metroecuador.com.ec/noticias/2026/04/22/corte-constitucional-autoriza-a-noboa-convocar-referendum-para-reformar-el-cpccs/"
         },
         {
+          "title": "Auto de aclaración rechaza solicitudes sobre validez de acuerdo Ecuador-Emiratos Árabes Unidos",
+          "date": "2026-04-16",
+          "url": "https://www.eluniverso.com/noticias/politica/corte-constitucional-rechaza-solicitudes-aclaracion-ratifica-validez-acuerdo-ecuador-emiratos-arabes-unidos-nota/",
+          "summary": "La Corte rechazó solicitudes de aclaración y ampliación presentadas sobre el acuerdo de inversiones con Emiratos Árabes Unidos, ratificando que su dictamen es definitivo e inapelable. Reafirmó su rol de control previo en tratados internacionales para garantizar conformidad con la Constitución, aunque condicionó la incorporación de una exclusión sobre controversias comerciales."
+        },
+        {
           "title": "Auto de aclaración y ampliación del Acuerdo entre Ecuador y Emiratos Árabes Unidos",
           "date": "2026-04-16",
           "url": "https://www.eluniverso.com/noticias/politica/corte-constitucional-rechaza-solicitudes-aclaracion-ratifica-validez-acuerdo-ecuador-emiratos-arabes-unidos-nota/"
@@ -648,9 +660,27 @@
           "title": "Comunicado sobre preocupación por presiones a la independencia judicial",
           "date": "2026-04-01",
           "url": "https://www.primicias.ec/politica/renuncia-raul-llasag-juez-corte-constitucional-contraloria-fiscalia-119950/"
+        },
+        {
+          "title": "Dictamen que aprueba transferencia de competencias del CPCCS a la Asamblea Nacional",
+          "date": "2026-03-31",
+          "url": "https://www.corteconstitucional.gob.ec/",
+          "summary": "La Corte emitió un dictamen favorable sobre la propuesta de enmienda constitucional que busca trasladar la facultad de designación de autoridades del Consejo de Participación Ciudadana y Control Social a la Asamblea Nacional, permitiendo que el proceso de referéndum avance hacia su fase de consulta ciudadana."
+        },
+        {
+          "title": "Sentencia que ordena reparación integral para víctimas del caso Malvinas por desaparición forzada",
+          "date": "2026-03-13",
+          "url": "https://www.corteconstitucional.gob.ec/",
+          "summary": "La Corte declaró la desaparición forzada de cuatro menores afrodescendientes detenidos por militares en diciembre de 2024. Ordenó al Estado reparación integral mediante disculpas públicas, atención médica y psicológica de las familias, reforma de leyes sobre personas desaparecidas, y la creación de espacios de memoria para garantizar no repetición."
+        },
+        {
+          "title": "Sentencia que reconoce el derecho de adolescentes trans a cambiar de género en documentos de identidad",
+          "date": "2026-03-10",
+          "url": "https://www.corteconstitucional.gob.ec/la-corte-constitucional-declara-que-en-las-haciendas-de-la-empresa-furukawa-existio-una-practica-analoga-a-la-esclavitud/",
+          "summary": "La Corte Constitucional declaró inconstitucional la exigencia de mayoría de edad para que adolescentes acompañados por sus representantes legales cambien su género en la cédula. Los adolescentes pueden solicitar este cambio si cuentan con informes psicosociales que acrediten madurez suficiente, estableciendo nuevos estándares de protección de la identidad de género en personas menores de edad."
         }
       ],
-      "lastUpdated": "2026-04-29T15:34:42.526Z"
+      "lastUpdated": "2026-04-29T22:31:50.887Z"
     },
     {
       "id": "pge",
