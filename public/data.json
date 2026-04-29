@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-04-29T13:18:13.359Z",
+  "lastScraped": "2026-04-29T13:39:52.544Z",
   "institutions": [
     {
       "id": "iniap",
@@ -8,7 +8,7 @@
       "category": "Agro & Investigación",
       "color": "#52B788",
       "sourceUrl": "https://www.iniap.gob.ec/noticias/",
-      "status": "error",
+      "status": "ok",
       "news": [
         {
           "title": "INIAP presenta nuevas variedades de maíz adaptadas a condiciones de sierra ecuatoriana",
@@ -34,9 +34,19 @@
           "title": "INIAP capacita a 300 agricultores en manejo integrado de plagas en cultivos de arroz",
           "date": "2026-03-15",
           "url": "https://www.iniap.gob.ec/noticias/"
+        },
+        {
+          "title": "Convocatoria FIASA 2026: ¡Haz realidad tu proyecto de investigación agropecuaria!",
+          "date": "2025-05-12",
+          "url": "https://www.iniap.gob.ec/convocatoria-fiasa-2026-haz-realidad-tu-proyecto-de-investigacion-agropecuaria/"
+        },
+        {
+          "title": "INIAP cierra el 2024 consolidando logros significativos en beneficio del agro ecuatoriano",
+          "date": "2024-12-31",
+          "url": "https://www.iniap.gob.ec/iniap-cierra-el-2024-consolidando-logros-significativos-en-beneficio-del-agro-ecuatoriano/"
         }
       ],
-      "lastUpdated": "2026-04-25T06:00:00.000Z"
+      "lastUpdated": "2026-04-29T13:37:22.187Z"
     },
     {
       "id": "mag",
@@ -45,8 +55,33 @@
       "category": "Agro & Investigación",
       "color": "#74C69D",
       "sourceUrl": "https://www.agricultura.gob.ec/noticias/",
-      "status": "error",
+      "status": "ok",
       "news": [
+        {
+          "title": "Escuela de Emprendimiento Joven Rural, del MAGP, marca un hito con más de 4.000 inscritos en su novena edición",
+          "date": "2026-04-28",
+          "url": "https://www.agricultura.gob.ec/escuela-de-emprendimiento-joven-rural-del-magp-marca-un-hito-con-mas-de-4-000-inscritos-en-su-novena-edicion/"
+        },
+        {
+          "title": "Mediante un Acta de Compromiso con Gobierno Abierto, MAGP fortalece la transparencia en el sector pesquero",
+          "date": "2026-04-28",
+          "url": "https://www.agricultura.gob.ec/mediante-un-acta-de-compromiso-con-gobierno-abierto-magp-fortalece-la-transparencia-en-el-sector-pesquero/"
+        },
+        {
+          "title": "MAGP fortalece cooperación bilateral con Estados Unidos para impulsar comercio agrícola y seguridad alimentaria",
+          "date": "2026-04-28",
+          "url": "https://www.agricultura.gob.ec/magp-fortalece-cooperacion-bilateral-con-estados-unidos-para-impulsar-comercio-agricola-y-seguridad-alimentaria/"
+        },
+        {
+          "title": "MAGP fortaleció la producción agropecuaria, acuícola y pesquera con más de 145 millones de dólares ejecutados en el 2025",
+          "date": "2026-04-24",
+          "url": "https://www.agricultura.gob.ec/magp-fortalecio-la-produccion-agropecuaria-acuicola-y-pesquera-con-mas-de-145-millones-de-dolares-ejecutados-en-el-2025/"
+        },
+        {
+          "title": "Proyecto DESATAR inicia capacitación a jóvenes rurales de organizaciones de Guayas, Santa Elena, Manabí y Los Ríos",
+          "date": "2026-04-24",
+          "url": "https://www.agricultura.gob.ec/proyecto-desatar-inicia-capacitacion-a-jovenes-rurales-de-organizaciones-de-guayas-santa-elena-manabi-y-los-rios/"
+        },
         {
           "title": "MAG entrega kits agrícolas a más de 5.000 productores afectados por fenómeno climático en Manabí",
           "date": "2026-04-20",
@@ -73,7 +108,7 @@
           "url": "https://www.agricultura.gob.ec/noticias/"
         }
       ],
-      "lastUpdated": "2026-04-25T06:00:00.000Z"
+      "lastUpdated": "2026-04-29T13:37:42.105Z"
     },
     {
       "id": "agrocalidad",
@@ -448,8 +483,8 @@
   ],
   "summary": {
     "total": 12,
-    "ok": 0,
+    "ok": 2,
     "stale": 0,
-    "error": 12
+    "error": 10
   }
 }
