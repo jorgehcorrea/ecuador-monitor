@@ -219,11 +219,14 @@ Return ONLY a JSON array with exactly this structure, no other text, no markdown
   }
 ]
 
-Rules:
+CRITICAL RULES — follow every single one:
+- Return ONLY the JSON array, nothing else before or after it
+- Every single item MUST have all 4 fields: title, date, url, summary
+- The summary field is MANDATORY — never omit it, never leave it empty
+- Summaries must be in Spanish, 1-2 sentences, plain language — explain what actually changes in the real world as a result of this news. Do not repeat the title.
 - Titles must be in Spanish
 - Dates must be real dates in YYYY-MM-DD format, from the last 90 days if possible
 - URLs must be real, working URLs from the search results
-- Summaries must be in Spanish, 1-2 sentences, plain language — explain what actually happens as a result of this news
 - If you cannot find 5 items, return however many you find (minimum 1)
 - Items must be sorted newest first
 - Do not invent or fabricate any items`;
@@ -238,7 +241,7 @@ Rules:
     },
     body: JSON.stringify({
       model: 'claude-haiku-4-5-20251001',
-      max_tokens: 1024,
+      max_tokens: 2048,
       tools: [
         {
           type: 'web_search_20250305',
@@ -265,22 +268,25 @@ Rules:
   const raw = textBlocks[textBlocks.length - 1].text.trim();
 
   // Extract JSON array — find the first [ ... ] block in the response
-  const jsonMatch = raw.match(/\[\s*\{[\s\S]*?\}\s*\]/);
+  const jsonMatch = raw.match(/\[[\s\S]*\]/);
   if (!jsonMatch) throw new Error(`No JSON array found in response: ${raw.slice(0, 100)}`);
   const parsed = JSON.parse(jsonMatch[0]);
 
   if (!Array.isArray(parsed)) throw new Error('Response is not an array');
 
-  // Validate and clean each item
-  return parsed
-    .filter(item => item.title && item.date && item.url)
-    .map(item => ({
-      title: String(item.title).trim(),
-      date: String(item.date).trim(),
-      url: String(item.url).trim(),
-      summary: item.summary ? String(item.summary).trim() : '',
-    }))
-    .slice(0, 5);
+  // Validate and clean each item — reject any without summary
+  const valid = parsed.filter(item => item.title && item.date && item.url);
+  const withSummary = valid.filter(item => item.summary && String(item.summary).trim().length > 10);
+  // Log warning if summaries are missing
+  if (withSummary.length < valid.length) {
+    console.log(`    ⚠ ${valid.length - withSummary.length} items missing summary — discarded`);
+  }
+  return withSummary.map(item => ({
+    title: String(item.title).trim(),
+    date: String(item.date).trim(),
+    url: String(item.url).trim(),
+    summary: String(item.summary).trim(),
+  })).slice(0, 5);
 }
 
 // ── Merge new items into existing institution data ────────────────────────
