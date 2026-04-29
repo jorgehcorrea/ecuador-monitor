@@ -299,7 +299,7 @@ async function main() {
     }
 
     // Respectful delay between API calls to avoid rate limiting
-    await delay(10000);
+    await delay(20000);
   }
 
   // Write output
