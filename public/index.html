@@ -284,6 +284,17 @@
       align-items: flex-start;
     }
     .feed-item:hover { background: var(--surface); }
+    .feed-item.is-read { opacity: 0.45; }
+    .feed-item.is-read:hover { opacity: 0.75; }
+    .feed-item.is-read .feed-stripe { opacity: 0.4; }
+    .unread-dot {
+      width: 6px;
+      height: 6px;
+      border-radius: 50%;
+      background: var(--accent);
+      flex-shrink: 0;
+      margin-top: 0.35rem;
+    }
     .feed-stripe {
       width: 3px;
       border-radius: 2px;
@@ -531,12 +542,53 @@ function Sidebar({ institutions, instCounts, activeInst, setActiveInst, sidebarO
   );
 }
 
+/* ── READ STATE HELPERS ── */
+const READ_KEY = 'ecu-monitor-read';
+const READ_TTL_MS = 48 * 60 * 60 * 1000; // 48 hours
+
+function getReadMap() {
+  try {
+    return JSON.parse(localStorage.getItem(READ_KEY) || '{}');
+  } catch { return {}; }
+}
+
+function markRead(itemKey) {
+  const map = getReadMap();
+  map[itemKey] = Date.now();
+  // Prune entries older than 30 days to keep localStorage clean
+  const cutoff = Date.now() - 30 * 24 * 60 * 60 * 1000;
+  Object.keys(map).forEach(k => { if (map[k] < cutoff) delete map[k]; });
+  try { localStorage.setItem(READ_KEY, JSON.stringify(map)); } catch {}
+}
+
+function isRead(itemKey, itemDate) {
+  // Auto-read after 48 hours regardless of clicks
+  const itemAge = Date.now() - new Date(itemDate + 'T12:00:00').getTime();
+  if (itemAge > READ_TTL_MS) return true;
+  const map = getReadMap();
+  return !!map[itemKey];
+}
+
+function itemKey(item) {
+  return `${item.inst.id}::${item.title.slice(0, 50)}`;
+}
+
 /* ── FEED ITEM ── */
 function FeedItem({ item, query }) {
+  const { useState: useLocalState } = React;
+  const key = itemKey(item);
+  const [read, setRead] = useLocalState(() => isRead(key, item.date));
   const bg = item.inst.color + '22';
+
+  function handleClick() {
+    markRead(key);
+    setRead(true);
+  }
+
   return (
-    <div className="feed-item">
+    <div className={`feed-item${read ? ' is-read' : ''}`}>
       <div className="feed-stripe" style={{ background: item.inst.color }} />
+      {!read && <span className="unread-dot" title="No leído" />}
       <div className="feed-content">
         <div className="feed-source-row">
           <span className="feed-inst-tag" style={{ background: bg, color: item.inst.color }}>
@@ -544,7 +596,7 @@ function FeedItem({ item, query }) {
           </span>
           <span className="feed-cat-tag">{item.inst.category}</span>
         </div>
-        <a className="feed-title" href={item.url} target="_blank" rel="noopener noreferrer">
+        <a className="feed-title" href={item.url} target="_blank" rel="noopener noreferrer" onClick={handleClick}>
           {hl(item.title, query)}
         </a>
       </div>
@@ -750,6 +802,18 @@ function App() {
           onChange={e => { setQuery(e.target.value); setActiveInst(null); }}
         />
         {query && <span className="search-count">{totalItems} nota{totalItems !== 1 ? 's' : ''}</span>}
+        <button
+          style={{ marginLeft: 'auto', background: 'none', border: 'none', cursor: 'pointer', fontFamily: 'var(--mono)', fontSize: '0.6rem', color: 'var(--dim)', letterSpacing: '0.06em', textTransform: 'uppercase', transition: 'color 0.15s' }}
+          onMouseEnter={e => e.target.style.color = 'var(--accent)'}
+          onMouseLeave={e => e.target.style.color = 'var(--dim)'}
+          onClick={() => {
+            try { localStorage.removeItem('ecu-monitor-read'); } catch {}
+            window.location.reload();
+          }}
+          title="Marcar todo como no leído"
+        >
+          ↺ reset leídos
+        </button>
       </div>
 
       {error   && <div className="state-msg">Error al cargar datos: {error}</div>}
