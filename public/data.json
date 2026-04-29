@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-04-29T16:30:03.098Z",
+  "lastScraped": "2026-04-29T19:24:28.280Z",
   "institutions": [
     {
       "id": "iniap",
@@ -8,7 +8,7 @@
       "category": "Agro & Investigación",
       "color": "#52B788",
       "sourceUrl": "https://www.iniap.gob.ec/noticias/",
-      "status": "error",
+      "status": "ok",
       "news": [
         {
           "title": "INIAP presenta nuevas variedades de maíz adaptadas a condiciones de sierra ecuatoriana",
@@ -76,7 +76,7 @@
           "url": "https://www.iniap.gob.ec/iniap-cierra-el-2024-consolidando-logros-significativos-en-beneficio-del-agro-ecuatoriano/"
         }
       ],
-      "lastUpdated": "2026-04-29T15:32:01.268Z"
+      "lastUpdated": "2026-04-29T19:20:53.435Z"
     },
     {
       "id": "mag",
@@ -399,7 +399,7 @@
       "category": "Regulatorio",
       "color": "#F4A261",
       "sourceUrl": "https://www.senescyt.gob.ec/noticias/",
-      "status": "error",
+      "status": "ok",
       "news": [
         {
           "title": "SENESCYT abre convocatoria a becas de posgrado en ciencias agrícolas y biotecnología para 2026",
@@ -425,9 +425,21 @@
           "title": "Convocatoria Prometeo 2026 abre postulaciones para investigadores internacionales en áreas STEM",
           "date": "2026-03-11",
           "url": "https://www.senescyt.gob.ec/noticias/"
+        },
+        {
+          "title": "Curso gratuito ImpúlsaT del Gobierno Nacional registra récord de participación para el I período académico 2026",
+          "date": "2026-01-20",
+          "url": "https://educacion.gob.ec/curso-gratuito-impulsat-del-gobierno-nacional-registra-record-de-participacion-para-el-i-periodo-academico-2026/",
+          "summary": "El programa ImpúlsaT registró 13.269 participantes completando el curso, duplicando ampliamente los registros de períodos anteriores, demostrando la confianza ciudadana en la política educativa del gobierno Noboa. Esta iniciativa se consolida como herramienta clave para democratizar el acceso a educación superior pública."
+        },
+        {
+          "title": "Gobierno Nacional abre la inscripción al Curso Gratuito ImpúlsaT para rendir la evaluación de acceso a institutos públicos del 8 al 16 de enero",
+          "date": "2026-01-09",
+          "url": "https://www.educacionsuperior.gob.ec/gobierno-nacional-abre-la-inscripcion-al-curso-gratuito-impulsat-para-rendir-la-evaluacion-de-acceso-a-institutos-publicos-del-8-al-16-de-enero/",
+          "summary": "El gobierno habilitó inscripciones gratuitas para un curso de nivelación ImpúlsaT de 80 horas en modalidades presencial, en línea e híbrida, destinado a aspirantes a institutos tecnológicos y conservatorios para el primer período académico 2026. Este curso fortalece competencias en razonamiento abstracto, verbal y numérico antes de las evaluaciones de acceso."
         }
       ],
-      "lastUpdated": "2026-04-25T06:00:00.000Z"
+      "lastUpdated": "2026-04-29T19:22:34.360Z"
     },
     {
       "id": "sercop",
@@ -541,6 +553,17 @@
       "lastUpdated": "2026-04-25T06:00:00.000Z"
     },
     {
+      "id": "presidencia",
+      "name": "Presidencia",
+      "fullName": "Presidencia de la República del Ecuador",
+      "category": "Seguridad & Gobierno",
+      "color": "#E63946",
+      "sourceUrl": "https://www.comunicacion.gob.ec/noticias/",
+      "status": "error",
+      "news": [],
+      "lastUpdated": "2026-04-29T19:23:16.953Z"
+    },
+    {
       "id": "cne",
       "name": "CNE",
       "fullName": "Consejo Nacional Electoral",
@@ -598,12 +621,45 @@
         }
       ],
       "lastUpdated": "2026-04-29T15:34:42.526Z"
+    },
+    {
+      "id": "pge",
+      "name": "PGE",
+      "fullName": "Procuraduría General del Estado",
+      "category": "Legislativo & Judicial",
+      "color": "#560BAD",
+      "sourceUrl": "https://www.pge.gob.ec/",
+      "status": "error",
+      "news": [],
+      "lastUpdated": "2026-04-29T19:23:57.935Z"
+    },
+    {
+      "id": "contraloria",
+      "name": "Contraloría",
+      "fullName": "Contraloría General del Estado",
+      "category": "Legislativo & Judicial",
+      "color": "#480CA8",
+      "sourceUrl": "https://www.contraloria.gob.ec/SalaDePrensa/",
+      "status": "error",
+      "news": [],
+      "lastUpdated": "2026-04-29T19:24:08.037Z"
+    },
+    {
+      "id": "registro-oficial",
+      "name": "Reg. Oficial",
+      "fullName": "Registro Oficial del Ecuador",
+      "category": "Legislativo & Judicial",
+      "color": "#3A0CA3",
+      "sourceUrl": "https://www.registroficial.gob.ec/",
+      "status": "error",
+      "news": [],
+      "lastUpdated": "2026-04-29T19:24:18.275Z"
     }
   ],
   "summary": {
-    "total": 15,
-    "ok": 0,
+    "total": 19,
+    "ok": 2,
     "stale": 0,
-    "error": 15
+    "error": 17
   }
 }
