@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-04-29T13:52:44.153Z",
+  "lastScraped": "2026-04-29T15:34:52.531Z",
   "institutions": [
     {
       "id": "iniap",
@@ -36,9 +36,34 @@
           "url": "https://www.iniap.gob.ec/noticias/"
         },
         {
+          "title": "Enmiendas de suelo reducen la presencia de cadmio en cacao y mejoran su inocuidad",
+          "date": "2026-03-25",
+          "url": "https://tecnologia.iniap.gob.ec/2026/03/25/enmiendas-de-suelo-reducen-la-presencia-de-cadmio-en-cacao-y-mejoran-su-inocuidad/"
+        },
+        {
+          "title": "Diversidad de plantas e insectos fortalece la sostenibilidad de pasturas altoandinas",
+          "date": "2026-03-25",
+          "url": "https://tecnologia.iniap.gob.ec/2026/03/25/diversidad-de-plantas-e-insectos-fortalece-la-sostenibilidad-de-pasturas-altoandinas/"
+        },
+        {
+          "title": "Bebida funcional a base de flor de jamaica: innovación con potencial nutricional y probiótico",
+          "date": "2026-03-25",
+          "url": "https://tecnologia.iniap.gob.ec/2026/03/25/bebida-funcional-a-base-de-flor-de-jamaica-innovacion-con-potencial-nutricional-y-probiotico/"
+        },
+        {
           "title": "INIAP capacita a 300 agricultores en manejo integrado de plagas en cultivos de arroz",
           "date": "2026-03-15",
           "url": "https://www.iniap.gob.ec/noticias/"
+        },
+        {
+          "title": "Estudio analiza la eficacia de fungicidas frente a la sigatoka negra en Ecuador",
+          "date": "2026-03-02",
+          "url": "https://tecnologia.iniap.gob.ec/2026/03/02/estudio-analiza-la-eficacia-de-fungicidas-frente-a-la-sigatoka-negra-en-ecuador/"
+        },
+        {
+          "title": "Evaluación de estrategias agronómicas mejora el desempeño productivo del cultivo en condiciones andinas",
+          "date": "2026-03-02",
+          "url": "https://tecnologia.iniap.gob.ec/2026/03/02/evaluacion-de-estrategias-agronomicas-mejora-el-desempeno-productivo-del-cultivo-en-condiciones-andinas/"
         },
         {
           "title": "Convocatoria FIASA 2026: ¡Haz realidad tu proyecto de investigación agropecuaria!",
@@ -51,7 +76,7 @@
           "url": "https://www.iniap.gob.ec/iniap-cierra-el-2024-consolidando-logros-significativos-en-beneficio-del-agro-ecuatoriano/"
         }
       ],
-      "lastUpdated": "2026-04-29T13:48:14.142Z"
+      "lastUpdated": "2026-04-29T15:32:01.268Z"
     },
     {
       "id": "mag",
@@ -60,7 +85,7 @@
       "category": "Agro & Investigación",
       "color": "#74C69D",
       "sourceUrl": "https://www.agricultura.gob.ec/noticias/",
-      "status": "ok",
+      "status": "error",
       "news": [
         {
           "title": "Escuela de Emprendimiento Joven Rural, del MAGP, marca un hito con más de 4.000 inscritos en su novena edición",
@@ -275,7 +300,7 @@
       "category": "Economía & Negocios",
       "color": "#1D3557",
       "sourceUrl": "https://www.sri.gob.ec/noticias",
-      "status": "ok",
+      "status": "error",
       "news": [
         {
           "title": "Plazo para declaración de impuesto a la renta de personas naturales vence el 28 de abril",
@@ -514,12 +539,71 @@
         }
       ],
       "lastUpdated": "2026-04-25T06:00:00.000Z"
+    },
+    {
+      "id": "cne",
+      "name": "CNE",
+      "fullName": "Consejo Nacional Electoral",
+      "category": "Legislativo & Judicial",
+      "color": "#F72585",
+      "sourceUrl": "https://www.cne.gob.ec/noticias/",
+      "status": "error",
+      "news": [],
+      "lastUpdated": "2026-04-29T15:34:04.519Z"
+    },
+    {
+      "id": "asamblea",
+      "name": "Asamblea",
+      "fullName": "Asamblea Nacional del Ecuador",
+      "category": "Legislativo & Judicial",
+      "color": "#7209B7",
+      "sourceUrl": "https://www.asambleanacional.gob.ec/es/noticias",
+      "status": "error",
+      "news": [],
+      "lastUpdated": "2026-04-29T15:34:14.713Z"
+    },
+    {
+      "id": "corte-constitucional",
+      "name": "Corte Const.",
+      "fullName": "Corte Constitucional del Ecuador",
+      "category": "Legislativo & Judicial",
+      "color": "#3A0CA3",
+      "sourceUrl": "https://www.corteconstitucional.gob.ec/noticias/",
+      "status": "ok",
+      "news": [
+        {
+          "title": "Sentencias constitucionales - Edición Constitucional No. 226",
+          "date": "2026-04-22",
+          "url": "https://esacc.corteconstitucional.gob.ec/storage/api/v1/10_DWL_FL/eyJjYXJwZXRhIjoicm8iLCJ1dWlkIjoiZWZlOWY3MDgtYzgyZS00M2QwLTg1YTctYmE0NTc1OTc4ZmI2LnBkZiJ9"
+        },
+        {
+          "title": "Sentencias y autos de la Corte - Edición Constitucional No. 227",
+          "date": "2026-04-22",
+          "url": "https://esacc.corteconstitucional.gob.ec/storage/api/v1/10_DWL_FL/eyJjYXJwZXRhIjoicm8iLCJ1dWlkIjoiZWNjYmQxOGUtNmQ3OS00ZTg0LWFiNjgtMTkyMWUwNmQ2MTZmLnBkZiJ9"
+        },
+        {
+          "title": "Dictamen favorable para la convocatoria a referéndum de reforma del CPCCS",
+          "date": "2026-04-21",
+          "url": "https://www.metroecuador.com.ec/noticias/2026/04/22/corte-constitucional-autoriza-a-noboa-convocar-referendum-para-reformar-el-cpccs/"
+        },
+        {
+          "title": "Auto de aclaración y ampliación del Acuerdo entre Ecuador y Emiratos Árabes Unidos",
+          "date": "2026-04-16",
+          "url": "https://www.eluniverso.com/noticias/politica/corte-constitucional-rechaza-solicitudes-aclaracion-ratifica-validez-acuerdo-ecuador-emiratos-arabes-unidos-nota/"
+        },
+        {
+          "title": "Comunicado sobre preocupación por presiones a la independencia judicial",
+          "date": "2026-04-01",
+          "url": "https://www.primicias.ec/politica/renuncia-raul-llasag-juez-corte-constitucional-contraloria-fiscalia-119950/"
+        }
+      ],
+      "lastUpdated": "2026-04-29T15:34:42.526Z"
     }
   ],
   "summary": {
-    "total": 12,
-    "ok": 3,
+    "total": 15,
+    "ok": 2,
     "stale": 0,
-    "error": 9
+    "error": 13
   }
 }
