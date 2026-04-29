@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-04-29T15:34:52.531Z",
+  "lastScraped": "2026-04-29T16:30:03.098Z",
   "institutions": [
     {
       "id": "iniap",
@@ -8,7 +8,7 @@
       "category": "Agro & Investigación",
       "color": "#52B788",
       "sourceUrl": "https://www.iniap.gob.ec/noticias/",
-      "status": "ok",
+      "status": "error",
       "news": [
         {
           "title": "INIAP presenta nuevas variedades de maíz adaptadas a condiciones de sierra ecuatoriana",
@@ -569,7 +569,7 @@
       "category": "Legislativo & Judicial",
       "color": "#3A0CA3",
       "sourceUrl": "https://www.corteconstitucional.gob.ec/noticias/",
-      "status": "ok",
+      "status": "error",
       "news": [
         {
           "title": "Sentencias constitucionales - Edición Constitucional No. 226",
@@ -602,8 +602,8 @@
   ],
   "summary": {
     "total": 15,
-    "ok": 2,
+    "ok": 0,
     "stale": 0,
-    "error": 13
+    "error": 15
   }
 }
