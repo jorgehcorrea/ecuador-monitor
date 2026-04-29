@@ -195,9 +195,10 @@ Rules:
 
   const raw = textBlocks[textBlocks.length - 1].text.trim();
 
-  // Parse JSON — strip any accidental markdown fences
-  const clean = raw.replace(/^```json\s*/i, '').replace(/^```\s*/i, '').replace(/```\s*$/i, '').trim();
-  const parsed = JSON.parse(clean);
+  // Extract JSON array — find the first [ ... ] block in the response
+  const jsonMatch = raw.match(/\[\s*\{[\s\S]*?\}\s*\]/);
+  if (!jsonMatch) throw new Error(`No JSON array found in response: ${raw.slice(0, 100)}`);
+  const parsed = JSON.parse(jsonMatch[0]);
 
   if (!Array.isArray(parsed)) throw new Error('Response is not an array');
 
@@ -298,7 +299,7 @@ async function main() {
     }
 
     // Respectful delay between API calls to avoid rate limiting
-    await delay(2000);
+    await delay(10000);
   }
 
   // Write output
