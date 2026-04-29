@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-04-29T13:39:52.544Z",
+  "lastScraped": "2026-04-29T13:52:44.153Z",
   "institutions": [
     {
       "id": "iniap",
@@ -19,6 +19,11 @@
           "title": "Investigadores del INIAP desarrollan protocolo de control biológico para mosca de la fruta",
           "date": "2026-04-10",
           "url": "https://www.iniap.gob.ec/noticias/"
+        },
+        {
+          "title": "Comisión recibe aportes para fortalecer al INIAP con enfoque en innovación y transferencia tecnológica",
+          "date": "2026-04-08",
+          "url": "https://www.asambleanacional.gob.ec/es/node/115596"
         },
         {
           "title": "INIAP y MAG firman convenio para tecnificación de productores de cacao fino de aroma",
@@ -46,7 +51,7 @@
           "url": "https://www.iniap.gob.ec/iniap-cierra-el-2024-consolidando-logros-significativos-en-beneficio-del-agro-ecuatoriano/"
         }
       ],
-      "lastUpdated": "2026-04-29T13:37:22.187Z"
+      "lastUpdated": "2026-04-29T13:48:14.142Z"
     },
     {
       "id": "mag",
@@ -88,6 +93,11 @@
           "url": "https://www.agricultura.gob.ec/noticias/"
         },
         {
+          "title": "2 mil productores de Chimborazo se benefician con tractores y títulos de propiedad que entrega el MAGP",
+          "date": "2026-04-14",
+          "url": "https://www.agricultura.gob.ec/2-mil-productores-de-chimborazo-se-benefician-con-tractores-y-titulos-de-propiedad-que-entrega-el-magp/"
+        },
+        {
           "title": "Ministro de Agricultura anuncia plan de apoyo a pequeños productores de brócoli en Cotopaxi",
           "date": "2026-04-12",
           "url": "https://www.agricultura.gob.ec/noticias/"
@@ -108,7 +118,7 @@
           "url": "https://www.agricultura.gob.ec/noticias/"
         }
       ],
-      "lastUpdated": "2026-04-29T13:37:42.105Z"
+      "lastUpdated": "2026-04-29T13:48:49.770Z"
     },
     {
       "id": "agrocalidad",
@@ -265,7 +275,7 @@
       "category": "Economía & Negocios",
       "color": "#1D3557",
       "sourceUrl": "https://www.sri.gob.ec/noticias",
-      "status": "error",
+      "status": "ok",
       "news": [
         {
           "title": "Plazo para declaración de impuesto a la renta de personas naturales vence el 28 de abril",
@@ -278,9 +288,24 @@
           "url": "https://www.sri.gob.ec/noticias"
         },
         {
+          "title": "SRI incorpora nuevos servicios en línea para contadores y representantes legales",
+          "date": "2026-04-01",
+          "url": "https://www.sri.gob.ec/en/noticias7"
+        },
+        {
           "title": "Recaudación tributaria supera los $1.800 millones en el primer trimestre de 2026",
           "date": "2026-03-31",
           "url": "https://www.sri.gob.ec/noticias"
+        },
+        {
+          "title": "Regularización voluntaria del anexo de gastos personales de 2025",
+          "date": "2026-03-27",
+          "url": "https://www.sri.gob.ec/en/noticias7"
+        },
+        {
+          "title": "SRI inicia control sobre el pago del ISD en importaciones financiadas desde el exterior",
+          "date": "2026-03-26",
+          "url": "https://www.sri.gob.ec/en/noticias7"
         },
         {
           "title": "SRI inicia campaña de control de evasión fiscal en sector de comercio informal en Guayaquil y Quito",
@@ -288,12 +313,22 @@
           "url": "https://www.sri.gob.ec/noticias"
         },
         {
+          "title": "SRI te ayuda a ponerte al día: más de 600.000 notificaciones para corregir a tiempo y evitar multas",
+          "date": "2026-03-17",
+          "url": "https://www.sri.gob.ec/en/noticias7"
+        },
+        {
+          "title": "SRI realiza operativos de control en la comercialización de combustibles",
+          "date": "2026-03-12",
+          "url": "https://www.sri.gob.ec/en/noticias7"
+        },
+        {
           "title": "Nuevos beneficios tributarios para empresas que contraten a personas con discapacidad entran en vigencia",
           "date": "2026-03-07",
           "url": "https://www.sri.gob.ec/noticias"
         }
       ],
-      "lastUpdated": "2026-04-25T06:00:00.000Z"
+      "lastUpdated": "2026-04-29T13:50:42.491Z"
     },
     {
       "id": "arcsa",
@@ -483,8 +518,8 @@
   ],
   "summary": {
     "total": 12,
-    "ok": 2,
+    "ok": 3,
     "stale": 0,
-    "error": 10
+    "error": 9
   }
 }
