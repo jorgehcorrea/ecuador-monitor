@@ -614,7 +614,7 @@ function FeedView({ institutions, query, activeInst, setActiveInst }) {
     <div className="feed-layout">
       <div className="feed-main">
         {filtered.length === 0
-          ? <div className="state-msg">{query ? `Sin resultados para "${query}"` : 'Sin noticias disponibles'}</div>
+          ? <div className="state-msg">{query ? `Sin resultados para "${query}"` : 'Sin noticias esta semana — el scraper actualiza diariamente a la 01:00 ECT'}</div>
           : grouped.map(g => (
               <div key={g.date}>
                 <div className="feed-date-header">{formatDateGroup(g.date)}</div>
@@ -652,7 +652,7 @@ function InstitutionCard({ inst, query }) {
         </span>
       </div>
       {inst.news.length === 0
-        ? <div className="empty-item">Sin datos disponibles</div>
+        ? <div className="empty-item">Sin noticias esta semana · actualización diaria 01:00 ECT</div>
         : <ul className="news-list">
             {inst.news.map((item, i) => (
               <li key={i} className="news-item">
