@@ -1,0 +1,55 @@
+{
+  "id": "cne",
+  "name": "CNE",
+  "lastUpdated": "2026-04-30T14:50:47.202Z",
+  "items": [
+    {
+      "key": "cne::cne-aprueba-adelanto-de-elecciones-seccionales-para-el-29-de",
+      "title": "CNE aprueba adelanto de elecciones seccionales para el 29 de noviembre de 2026",
+      "date": "2026-03-27",
+      "url": "https://www.primicias.ec/politica/cne-elecciones-seccionales-ecuador-29-noviembre-119142/",
+      "summary": "El Consejo Nacional Electoral adelantó 75 días las elecciones seccionales originalmente previstas para febrero de 2027, basándose en alertas de la Secretaría Nacional de Gestión de Riesgos sobre un posible fenómeno de El Niño que podría causar inundaciones e impedir el normal desarrollo de los comicios en enero-marzo de 2027.",
+      "scrapedAt": "2026-04-30T14:50:30.806Z"
+    },
+    {
+      "key": "cne::cne-inicia-proceso-administrativo-de-cancelación-contra-unid",
+      "title": "CNE inicia proceso administrativo de cancelación contra Unidad Popular y Construye",
+      "date": "2026-03-26",
+      "url": "https://www.primicias.ec/politica/cne-eliminacion-unidad-popular-dconstruye-diana-atamaint-voto-dirimente-121329/",
+      "summary": "El CNE inició en marzo un proceso administrativo contra las organizaciones políticas Unidad Popular y Construye por presunto incumplimiento de requisitos de afiliación exigidos por ley, argumentando que ambas no demostraban tener el número mínimo de adherentes permanentes requeridos para mantener su personería jurídica.",
+      "scrapedAt": "2026-04-30T14:50:30.806Z"
+    },
+    {
+      "key": "cne::cne-aprobó-el-calendario-electoral-para-las-elecciones-secci",
+      "title": "CNE aprobó el calendario electoral para las elecciones seccionales 2027",
+      "date": "2026-02-14",
+      "url": "https://www.primicias.ec/politica/calendario-electoral-elecciones2027-gobiernos-locales-alcaldias-prefecturas-cpccs-116124/",
+      "summary": "El CNE aprobó el calendario completo para las elecciones seccionales y de consejeros del CPCCS con votación fijada para el 14 de febrero de 2027, estableciendo todos los hitos electorales incluyendo inscripción de candidatos, debates y posesión de autoridades el 14 de mayo de 2027.",
+      "scrapedAt": "2026-04-30T14:50:16.362Z"
+    },
+    {
+      "key": "cne::cne-inició-el-período-electoral-para-las-elecciones-secciona",
+      "title": "CNE inició el período electoral para las elecciones seccionales 2027",
+      "date": "2026-02-14",
+      "url": "https://www.primicias.ec/politica/ecuador-periodo-electoral-alcaldias-prefecturas-cpccs-cne-116069/",
+      "summary": "El CNE formalmente inició el período electoral el 14 de febrero de 2026, marcando el comienzo oficial del proceso para elegir alcaldes, prefectos, concejales, vocales de juntas parroquiales y miembros del Consejo de Participación Ciudadana para el período 2027-2031.",
+      "scrapedAt": "2026-04-30T14:50:16.362Z"
+    },
+    {
+      "key": "cne::cne-inició-pago-de-compensación-económica-a-miembros-de-mesa",
+      "title": "CNE inició pago de compensación económica a miembros de mesa",
+      "date": "2026-02-03",
+      "url": "https://www.eluniverso.com/noticias/politica/miembros-de-mesa-de-consulta-popular-en-ecuador-ya-pueden-cobrar-20-dolares-nota/",
+      "summary": "El CNE comenzó el pago de compensación económica a más de 200.000 personas que integraron las juntas receptoras del voto en la consulta popular y referéndum de 2025, con cobros disponibles en Banco del Pacífico y BanEcuador hasta el 2 de julio.",
+      "scrapedAt": "2026-04-30T14:50:16.362Z"
+    },
+    {
+      "key": "cne::cne-presenta-nuevo-sistema-para-cambio-de-domicilio-electora",
+      "title": "CNE presenta nuevo sistema para cambio de domicilio electoral",
+      "date": "2026-01-20",
+      "url": "https://www.primicias.ec/politica/cne-cambio-domicilio-ecuador-exterior-nuevo-sistema-tramite-114234/",
+      "summary": "El CNE habilitó un sistema gratuito y permanente disponible 24/7 para que ciudadanos cambien su domicilio de residencia dentro y fuera del país, lo que permite actualizar el recinto donde ejercerán el voto en futuros procesos electorales como las elecciones seccionales de 2027.",
+      "scrapedAt": "2026-04-30T14:49:56.951Z"
+    }
+  ]
+}

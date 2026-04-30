@@ -1,0 +1,47 @@
+{
+  "id": "asamblea",
+  "name": "Asamblea",
+  "lastUpdated": "2026-04-30T15:10:40.087Z",
+  "items": [
+    {
+      "key": "asamblea::asamblea-nacional-tramita-reformas-para-fortalecimiento-del-",
+      "title": "Asamblea Nacional tramita reformas para fortalecimiento del sistema penitenciario",
+      "date": "2026-01-27",
+      "url": "https://www.asambleanacional.gob.ec/es/noticia/112731-asamblea-nacional-debate-ley-que-fortalece-el",
+      "summary": "El Pleno debatió en primer debate proyecto de ley reformatoria para fortalecer sistema penitenciario frente a criminalidad organizada, con énfasis en inteligencia penitenciaria, complementariedad policial y reclasificación de privados de libertad. El proyecto fue remitido a comisión para informe de segundo debate.",
+      "scrapedAt": "2026-04-30T14:51:18.726Z"
+    },
+    {
+      "key": "asamblea::asamblea-nacional-rechaza-objeciones-presidenciales-a-reform",
+      "title": "Asamblea Nacional rechaza objeciones presidenciales a reformas de Ley de Registro",
+      "date": "2026-01-27",
+      "url": "https://www.asambleanacional.gob.ec/es/blogs/andres-guschmer-tamariz/112805-sesion-no-065-2025-2029",
+      "summary": "El Pleno rechazó la objeción total del Ejecutivo a reformas de Ley de Registro sobre inscripción de resoluciones de jurisdicción indígena, pero la moción de ratificación obtuvo solo 73 votos, insuficientes para los 101 requeridos. Las reformas no prosperaron.",
+      "scrapedAt": "2026-04-30T14:51:18.726Z"
+    },
+    {
+      "key": "asamblea::asamblea-nacional-debate-proyecto-de-ley-orgánica-de-desarro",
+      "title": "Asamblea Nacional debate proyecto de Ley Orgánica de Desarrollo Agropecuario",
+      "date": "2026-01-22",
+      "url": "https://www.asambleanacional.gob.ec/es/node/112544",
+      "summary": "El Pleno inició primer debate del proyecto que unifica diversos proyectos de ley en marco normativo integral para fomento y desarrollo del sector agropecuario, priorizando soberanía alimentaria. El presidente Niels Olsen suspendió el debate para continuar posteriormente.",
+      "scrapedAt": "2026-04-30T14:51:18.726Z"
+    },
+    {
+      "key": "asamblea::asamblea-nacional-califica-solicitud-de-juicio-político-cont",
+      "title": "Asamblea Nacional califica solicitud de juicio político contra presidente del Consejo de la Judicatura",
+      "date": "2026-01-15",
+      "url": "https://www.asambleanacional.gob.ec/es/node/112392",
+      "summary": "La Comisión de Fiscalización calificó la solicitud de juicio político contra Mario Godoy Naranjo, presidente del Consejo de la Judicatura, iniciando el proceso de sustanciación. El juicio político ahora continuará con notificación de partes, presentación de pruebas y elaboración de informe motivado para decisión del Pleno.",
+      "scrapedAt": "2026-04-30T14:51:18.726Z"
+    },
+    {
+      "key": "asamblea::asamblea-nacional-recibe-rendición-de-cuentas-de-autoridades",
+      "title": "Asamblea Nacional recibe rendición de cuentas de autoridades de control del Estado",
+      "date": "2026-01-15",
+      "url": "https://www.asambleanacional.gob.ec/es/node/112386",
+      "summary": "El Pleno en Sesión 061 recibió la rendición de cuentas anual de máximas autoridades de control del Estado, permitiendo a legisladores conocer avances y desafíos de instituciones clave. Esta función constitucional permitió evaluación del desempeño institucional durante 2025.",
+      "scrapedAt": "2026-04-30T14:51:18.726Z"
+    }
+  ]
+}
