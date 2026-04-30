@@ -1,8 +1,49 @@
 {
   "id": "asamblea",
   "name": "Asamblea",
-  "lastUpdated": "2026-04-30T15:10:40.087Z",
+  "fullName": "Asamblea Nacional del Ecuador",
+  "lastUpdated": "2026-04-30T15:30:25.156Z",
   "items": [
+    {
+      "key": "asamblea::comisión-aprueba-informe-para-primer-debate-de-reformas-a-la",
+      "title": "Comisión aprueba informe para primer debate de reformas a la Ley de Juventudes con enfoque en derechos y diversidad",
+      "date": "2026-04-29",
+      "url": "https://www.asambleanacional.gob.ec/es/noticia/116065-comision-aprueba-informe-para-primer-debate-de-reformas",
+      "summary": "La Comisión de Garantías Constitucionales aprobó por unanimidad el informe para el primer debate del proyecto de reforma a la Ley Orgánica de Juventudes, que busca garantizar integralmente los derechos de los jóvenes ecuatorianos con base en los desafíos actuales y estándares internacionales.",
+      "scrapedAt": "2026-04-30T15:30:25.156Z"
+    },
+    {
+      "key": "asamblea::asamblea-enviará-al-registro-oficial-la-ley-para-fortalecer-",
+      "title": "Asamblea enviará al Registro Oficial la ley para fortalecer el sistema penitenciario",
+      "date": "2026-04-28",
+      "url": "https://www.asambleanacional.gob.ec/es/node/116029",
+      "summary": "El Pleno aprobó con 85 votos la objeción parcial del presidente a la reforma penitenciaria, permitiendo que la ley se remita al Registro Oficial para su publicación y entrada en vigencia, fortaleciendo el control estatal sobre los centros de privación de libertad.",
+      "scrapedAt": "2026-04-30T15:30:25.156Z"
+    },
+    {
+      "key": "asamblea::niels-olsen-impulsa-una-alianza-parlamentaria-de-latinoaméri",
+      "title": "Niels Olsen impulsa una alianza parlamentaria de Latinoamérica para fortalecer la cooperación legislativa regional",
+      "date": "2026-04-27",
+      "url": "https://www.asambleanacional.gob.ec/es/noticia/116018-niels-olsen-impulsa-una-alianza-parlamentaria-de",
+      "summary": "El presidente de la Asamblea Nacional impulsa una alianza parlamentaria regional con Chile, Uruguay y Argentina para fortalecer la cooperación legislativa, compartir experiencias en seguridad, modernización estatal y transformación digital entre los parlamentos de la región.",
+      "scrapedAt": "2026-04-30T15:30:25.156Z"
+    },
+    {
+      "key": "asamblea::asamblea-nacional-aprueba-por-unanimidad-proyecto-de-ley-que",
+      "title": "Asamblea Nacional aprueba por unanimidad proyecto de ley que fortalece la salud mental de niñas, niños y adolescentes",
+      "date": "2026-04-22",
+      "url": "https://www.asambleanacional.gob.ec/es/node/115926",
+      "summary": "El Pleno aprobó por unanimidad la Ley de Promoción, Prevención y Atención Psicosocial para menores, que incorpora la materia obligatoria de Psicoeducación en las escuelas y obliga a las aseguradoras a cubrir salud mental, respondiendo a la crisis de suicidio y depresión en adolescentes.",
+      "scrapedAt": "2026-04-30T15:30:25.156Z"
+    },
+    {
+      "key": "asamblea::nueva-ley-establece-formación-financiera-desde-la-educación-",
+      "title": "Nueva ley establece formación financiera desde la educación inicial hasta la superior",
+      "date": "2026-04-15",
+      "url": "https://www.asambleanacional.gob.ec/es/node/115830",
+      "summary": "La Asamblea aprobó con 88 votos la Ley Orgánica de Educación Financiera, que instituye obligatoriamente la educación financiera como componente transversal en todos los niveles educativos del país, dotando a estudiantes de herramientas para tomar decisiones económicas responsables.",
+      "scrapedAt": "2026-04-30T15:30:25.156Z"
+    },
     {
       "key": "asamblea::asamblea-nacional-tramita-reformas-para-fortalecimiento-del-",
       "title": "Asamblea Nacional tramita reformas para fortalecimiento del sistema penitenciario",

@@ -1,0 +1,32 @@
+{
+  "id": "min-interior",
+  "name": "Min. Interior",
+  "fullName": "Ministerio del Interior",
+  "lastUpdated": "2026-04-30T15:28:24.182Z",
+  "items": [
+    {
+      "key": "min-interior::ecuador-deporta-a-ciudadano-colombiano-requerido-por-delito-",
+      "title": "Ecuador Deporta a Ciudadano Colombiano Requerido por Delito Sexual",
+      "date": "2026-04-25",
+      "url": "https://www.expreso.ec/justicia/ecuador-deporta-ciudadano-colombiano-requerido-delito-sexual-esto-280120.html",
+      "summary": "El Ministerio del Interior ejecutó la deportación de un ciudadano colombiano que era requerido por autoridades colombianas por el delito de actos sexuales contra una menor de edad, en coordinación con la Subsecretaría de Migración y la Dirección General de Inteligencia de la Policía Nacional.",
+      "scrapedAt": "2026-04-30T15:28:24.175Z"
+    },
+    {
+      "key": "min-interior::ministro-del-interior-descarta-salvoconductos-y-semaforizaci",
+      "title": "Ministro del Interior Descarta Salvoconductos y Semaforización para Nuevo Período de Toque de Queda",
+      "date": "2026-04-23",
+      "url": "https://www.eldiario.ec/ecuador/el-ministro-del-interior-descarta-salvoconductos-y-semaforizacion-para-el-nuevo-periodo-de-toque-de-queda-que-regira-en-ecuador-23042026/",
+      "summary": "El ministro John Reimberg anunció que el Gobierno Nacional descartó los sistemas de semaforización y salvoconductos para el próximo toque de queda del 3 al 18 de mayo, implementando en su lugar un régimen más restrictivo para evitar la dispersión de controles y garantizar la eficacia de las operaciones de seguridad.",
+      "scrapedAt": "2026-04-30T15:28:24.175Z"
+    },
+    {
+      "key": "min-interior::ecuador-y-estados-unidos-firman-memorando-de-entendimiento-p",
+      "title": "Ecuador y Estados Unidos Firman Memorando de Entendimiento para Establecer Investigaciones Conjuntas",
+      "date": "2026-04-20",
+      "url": "https://www.ministeriodelinterior.gob.ec/ecuador-y-estados-unidos-firman-memorando-de-entendimiento-para-establecer-investigaciones-conjuntas/",
+      "summary": "Ecuador y Estados Unidos suscribieron un memorando de cooperación bilateral que permitirá fortalecer el intercambio de información e inteligencia, así como la coordinación operativa entre las agencias de ambos países para combatir el crimen organizado transnacional, el narcotráfico, tráfico de armas y delitos conexos.",
+      "scrapedAt": "2026-04-30T15:28:24.175Z"
+    }
+  ]
+}
