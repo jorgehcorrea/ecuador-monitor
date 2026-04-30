@@ -161,7 +161,7 @@ const INSTITUTIONS = [
     category: 'Legislativo & Judicial',
     color: '#F72585',
     sourceUrl: 'https://www.cne.gob.ec/noticias/',
-    searchQuery: 'Consejo Nacional Electoral CNE Ecuador noticias resoluciones 2025 2026',
+    searchQuery: 'CNE Ecuador resolvió aprobó suspendió electoral noticias recientes site:primicias.ec OR site:eluniverso.com OR site:expreso.ec OR site:cne.gob.ec',
   },
   {
     id: 'asamblea',
@@ -170,7 +170,7 @@ const INSTITUTIONS = [
     category: 'Legislativo & Judicial',
     color: '#7209B7',
     sourceUrl: 'https://www.asambleanacional.gob.ec/es/noticias',
-    searchQuery: 'Asamblea Nacional Ecuador leyes proyectos aprobados noticias 2025 2026',
+    searchQuery: 'Asamblea Nacional Ecuador aprobó debatió archivó ley proyecto noticias recientes site:primicias.ec OR site:eluniverso.com OR site:asambleanacional.gob.ec',
   },
   {
     id: 'corte-constitucional',
@@ -179,7 +179,7 @@ const INSTITUTIONS = [
     category: 'Legislativo & Judicial',
     color: '#3A0CA3',
     sourceUrl: 'https://www.corteconstitucional.gob.ec/noticias/',
-    searchQuery: 'Corte Constitucional Ecuador sentencias resoluciones noticias 2025 2026',
+    searchQuery: 'Corte Constitucional Ecuador falló dictaminó declaró inconstitucional noticias recientes site:primicias.ec OR site:eluniverso.com OR site:corteconstitucional.gob.ec',
   },
   {
     id: 'pge',
@@ -188,7 +188,7 @@ const INSTITUTIONS = [
     category: 'Legislativo & Judicial',
     color: '#560BAD',
     sourceUrl: 'https://www.pge.gob.ec/',
-    searchQuery: 'Procuraduría General Estado Ecuador pronunciamientos consultas jurídicas resoluciones 2025 2026',
+    searchQuery: 'Procuraduría General Estado Ecuador pronunciamiento opinión jurídica resolvió noticias recientes site:primicias.ec OR site:eluniverso.com OR site:pge.gob.ec',
   },
   {
     id: 'contraloria',
@@ -197,7 +197,7 @@ const INSTITUTIONS = [
     category: 'Legislativo & Judicial',
     color: '#480CA8',
     sourceUrl: 'https://www.contraloria.gob.ec/SalaDePrensa/',
-    searchQuery: 'Contraloría General Estado Ecuador auditorías informes responsabilidades noticias 2025 2026',
+    searchQuery: 'Contraloría General Estado Ecuador auditoría responsabilidad glosa informe noticias recientes site:primicias.ec OR site:eluniverso.com OR site:contraloria.gob.ec',
   },
   {
     id: 'registro-oficial',
@@ -206,7 +206,7 @@ const INSTITUTIONS = [
     category: 'Legislativo & Judicial',
     color: '#3A0CA3',
     sourceUrl: 'https://www.registroficial.gob.ec/',
-    searchQuery: 'Registro Oficial Ecuador decretos ejecutivos leyes orgánicas resoluciones importantes 2025 2026',
+    searchQuery: 'Registro Oficial Ecuador decreto ejecutivo ley orgánica acuerdo ministerial publicado noticias recientes site:registroficial.gob.ec OR site:primicias.ec OR site:eluniverso.com',
   },
 ];
 
