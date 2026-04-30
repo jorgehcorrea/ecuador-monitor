@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-04-30T14:08:58.045Z",
+  "lastScraped": "2026-04-30T15:25:12.119Z",
   "institutions": [
     {
       "id": "iniap",
@@ -41,7 +41,7 @@
           "summary": "El INIAP abrió oficialmente la Convocatoria FIASA 2026, un mecanismo de financiamiento estatal para apoyar proyectos científicos en investigación de agrobiodiversidad, mejora de semillas y agricultura sustentable. Los investigadores ecuatorianos pueden postular instituciones legales establecidas para acceder a estos fondos de investigación."
         }
       ],
-      "lastUpdated": "2026-04-30T14:00:07.699Z"
+      "lastUpdated": "2026-04-30T15:20:40.281Z"
     },
     {
       "id": "mag",
@@ -52,7 +52,7 @@
       "sourceUrl": "https://www.agricultura.gob.ec/noticias/",
       "status": "stale",
       "news": [],
-      "lastUpdated": "2026-04-30T14:00:32.882Z"
+      "lastUpdated": "2026-04-30T15:21:05.515Z"
     },
     {
       "id": "agrocalidad",
@@ -63,7 +63,7 @@
       "sourceUrl": "https://www.agrocalidad.gob.ec/noticias/",
       "status": "stale",
       "news": [],
-      "lastUpdated": "2026-04-30T14:00:58.040Z"
+      "lastUpdated": "2026-04-30T15:21:30.886Z"
     },
     {
       "id": "proecuador",
@@ -72,9 +72,40 @@
       "category": "Agro & Investigación",
       "color": "#95D5B2",
       "sourceUrl": "https://www.proecuador.gob.ec/noticias/",
-      "status": "stale",
-      "news": [],
-      "lastUpdated": "2026-04-30T14:01:23.219Z"
+      "status": "ok",
+      "news": [
+        {
+          "title": "ProEcuador abre convocatoria para participación en Americas Food & Beverage Show 2026",
+          "date": "2026-04-13",
+          "url": "https://www.linkedin.com/in/pro-ecuador-25217465/",
+          "summary": "ProEcuador lanzó una convocatoria abierta hasta el 13 de abril de 2026 para que empresas de sectores como alimentos procesados, gourmet, bebidas y acuacultura participen en la feria Americas Food & Beverage Show que se realizará en Miami en septiembre, permitiendo conectar con compradores estadounidenses y generar negocios internacionales."
+        },
+        {
+          "title": "ProEcuador ofrece capacitación gratuita en identificación de mercados estratégicos",
+          "date": "2026-04-01",
+          "url": "https://www.linkedin.com/in/pro-ecuador-25217465/",
+          "summary": "ProEcuador realizó una capacitación gratuita sobre herramientas de análisis de mercado TradeMap y MacMap para ayudar a exportadores a identificar mercados clave y tomar decisiones basadas en información estratégica para fortalecer sus procesos exportadores."
+        },
+        {
+          "title": "Ecuador participa en Seafood Expo North America 2026 con delegación de empresas acuícolas",
+          "date": "2026-03-17",
+          "url": "https://www.munichtvdigital.com/ecuador-presente-en-el-seafood-expo-north-america-2026/",
+          "summary": "Cuatro empresas ecuatorianas del sector pesquero y acuícola participaron en la feria internacional Seafood Expo North America 2026 en Boston con apoyo de ProEcuador, posicionando la calidad y sostenibilidad de los productos del mar ecuatorianos ante compradores internacionales."
+        },
+        {
+          "title": "ProEcuador reporta USD 345,2 millones en negocios internacionales con crecimiento del 176% en 2025",
+          "date": "2026-03-02",
+          "url": "https://www.proecuador.gob.ec/tendencias-alimentarias-2025/",
+          "summary": "ProEcuador registró un crecimiento histórico de 176% en negocios internacionales concretados entre enero y octubre de 2025, alcanzando USD 345,2 millones, lo que demuestra el fortalecimiento de las estrategias de promoción comercial y la internacionalización de empresas ecuatorianas."
+        },
+        {
+          "title": "ProEcuador impulsa la oferta exportable ecuatoriana en Gulfood Dubái 2026",
+          "date": "2026-01-27",
+          "url": "https://www.proecuador.gob.ec/gobierno-de-daniel-noboa-impulsa-la-oferta-exportable-ecuatoriana-en-gulfood-dubai/",
+          "summary": "Ecuador participó en Gulfood 2026, la feria internacional de alimentos y bebidas más importante del mundo, a través de ProEcuador que organizó un pabellón nacional para promover productos agroalimentarios ecuatorianos ante más de 100.000 compradores internacionales de 190 países."
+        }
+      ],
+      "lastUpdated": "2026-04-30T15:22:15.815Z"
     },
     {
       "id": "bce",
@@ -85,7 +116,7 @@
       "sourceUrl": "https://www.bce.fin.ec/comunicados/",
       "status": "stale",
       "news": [],
-      "lastUpdated": "2026-04-30T14:01:48.391Z"
+      "lastUpdated": "2026-04-30T15:22:41.062Z"
     },
     {
       "id": "mipro",
@@ -127,7 +158,7 @@
           "summary": "El MPCEI concluyó las negociaciones del Acuerdo de Facilitación de Inversiones Sostenibles (SIFA) con la Unión Europea, convirtiendo a Ecuador en el primer país latinoamericano con este instrumento. El SIFA simplifica procedimientos de inversión, reduce incertidumbre regulatoria y promueve un clima empresarial más transparente, acompañado de 8 millones de euros de cooperación técnica para transición energética e inversiones sostenibles."
         }
       ],
-      "lastUpdated": "2026-04-30T14:02:32.864Z"
+      "lastUpdated": "2026-04-30T15:23:06.258Z"
     },
     {
       "id": "sri",
@@ -138,7 +169,7 @@
       "sourceUrl": "https://www.sri.gob.ec/noticias",
       "status": "stale",
       "news": [],
-      "lastUpdated": "2026-04-30T14:02:57.994Z"
+      "lastUpdated": "2026-04-30T15:23:31.521Z"
     },
     {
       "id": "arcsa",
@@ -149,7 +180,7 @@
       "sourceUrl": "https://www.controlsanitario.gob.ec/noticias/",
       "status": "stale",
       "news": [],
-      "lastUpdated": "2026-04-30T14:03:23.241Z"
+      "lastUpdated": "2026-04-30T15:23:56.725Z"
     },
     {
       "id": "senescyt",
@@ -160,7 +191,7 @@
       "sourceUrl": "https://www.senescyt.gob.ec/noticias/",
       "status": "stale",
       "news": [],
-      "lastUpdated": "2026-04-30T14:03:48.493Z"
+      "lastUpdated": "2026-04-30T15:24:21.928Z"
     },
     {
       "id": "sercop",
@@ -202,7 +233,7 @@
           "summary": "El SERCOP desarrolló mesas de trabajo el 3 y 4 de marzo con 10 instituciones y empresas públicas para crear un nuevo perfil profesional del Responsable Institucional de Cumplimiento en Contratación Pública, figura orientada a fortalecer mecanismos de control, transparencia e integridad en las compras públicas."
         }
       ],
-      "lastUpdated": "2026-04-30T14:04:42.880Z"
+      "lastUpdated": "2026-04-30T15:24:47.118Z"
     },
     {
       "id": "min-interior",
@@ -306,8 +337,8 @@
   ],
   "summary": {
     "total": 19,
-    "ok": 3,
-    "stale": 16,
-    "error": 16
+    "ok": 4,
+    "stale": 15,
+    "error": 0
   }
 }
