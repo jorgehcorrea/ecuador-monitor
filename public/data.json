@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-04-29T22:33:31.468Z",
+  "lastScraped": "2026-04-30T08:05:53.096Z",
   "institutions": [
     {
       "id": "iniap",
@@ -8,7 +8,7 @@
       "category": "Agro & Investigación",
       "color": "#52B788",
       "sourceUrl": "https://www.iniap.gob.ec/noticias/",
-      "status": "error",
+      "status": "ok",
       "news": [
         {
           "title": "INIAP presenta nuevas variedades de maíz adaptadas a condiciones de sierra ecuatoriana",
@@ -76,7 +76,7 @@
           "url": "https://www.iniap.gob.ec/iniap-cierra-el-2024-consolidando-logros-significativos-en-beneficio-del-agro-ecuatoriano/"
         }
       ],
-      "lastUpdated": "2026-04-29T19:20:53.435Z"
+      "lastUpdated": "2026-04-30T07:57:15.523Z"
     },
     {
       "id": "mag",
@@ -293,17 +293,41 @@
       "category": "Economía & Negocios",
       "color": "#6A9AB0",
       "sourceUrl": "https://www.produccion.gob.ec/noticias/",
-      "status": "error",
+      "status": "ok",
       "news": [
+        {
+          "title": "Con la FAO y sector privado, Gobierno inició proceso para desarrollar la Política Pública Agroindustrial al 2036",
+          "date": "2026-04-30",
+          "url": "https://www.eluniverso.com/noticias/economia/politica-publica-agroindustrial-2036-ministerio-de-produccion-comercio-exterior-e-inversiones-organizacion-de-las-naciones-unidas-para-la-alimentacion-y-la-agricultura-ecuador-2026-nota/",
+          "summary": "El MPCEI inició el desarrollo de una hoja de ruta agroindustrial al 2036 con acompañamiento técnico de la FAO. El objetivo es transformar la economía ecuatoriana desde una basada en materias primas hacia una agroindustria competitiva con capacidad de posicionarse en mercados internacionales exigentes."
+        },
         {
           "title": "MIPRO lanza programa de apoyo a PYMEs manufactureras con fondo de $10 millones",
           "date": "2026-04-17",
           "url": "https://www.produccion.gob.ec/noticias/"
         },
         {
+          "title": "Gobierno del presidente Noboa posiciona a Ecuador en WTM Latin America 2026 y fortalece su presencia internacional",
+          "date": "2026-04-16",
+          "url": "https://www.produccion.gob.ec/gobierno-del-presidente-noboa-posiciona-a-ecuador-en-wtm-latin-america-2026-y-fortalece-su-presencia-internacional/",
+          "summary": "Ecuador participó en la World Travel Market Latin America 2026 en São Paulo con 13 empresas turísticas para fortalecer su posicionamiento internacional. Una agencia ecuatoriana fue reconocida con premio de plata en la categoría de turismo indígena y comunitario."
+        },
+        {
+          "title": "Gobierno del presidente Noboa impulsa la apertura de mercados y posiciona las flores ecuatorianas en Corea del Sur",
+          "date": "2026-04-13",
+          "url": "https://www.produccion.gob.ec/gobierno-del-presidente-noboa-impulsa-la-apertura-de-mercados-y-posiciona-las-flores-ecuatorianas-en-corea-del-sur/",
+          "summary": "Ecuador participó en la Feria Internacional de Flores de Goyang 2026 en Corea del Sur, donde empresas ecuatorianas consolidaron nuevos acercamientos comerciales con importadores surcoreanos. La participación permitió fortalecer la presencia de las flores ecuatorianas en el mercado asiático."
+        },
+        {
           "title": "Acuerdo comercial con Canadá entra en fase técnica de negociación arancelaria",
           "date": "2026-04-11",
           "url": "https://www.produccion.gob.ec/noticias/"
+        },
+        {
+          "title": "Ecuador logra superávit comercial con Colombia por primera vez en más de 25 años",
+          "date": "2026-04-03",
+          "url": "https://www.produccion.gob.ec/ecuador-logra-superavit-comercial-con-colombia-por-primera-vez-en-mas-de-25-anos/",
+          "summary": "Ecuador logró un superávit comercial de USD 62,9 millones con Colombia entre febrero y marzo de 2026, pasando de un déficit de USD 145,9 millones. Las exportaciones ecuatorianas crecieron 32% mientras que las importaciones de Colombia se redujeron 56,7%."
         },
         {
           "title": "Ecuador participa en feria internacional de inversiones en Singapur con 14 proyectos del sector manufacturero",
@@ -316,12 +340,18 @@
           "url": "https://www.produccion.gob.ec/noticias/"
         },
         {
+          "title": "La apertura comercial del país impulsa la agenda de negociación de más de 15 acuerdos, bajo el liderazgo del gobierno del presidente Daniel Noboa",
+          "date": "2026-03-13",
+          "url": "https://www.produccion.gob.ec/la-apertura-comercial-del-pais-impulsa-la-agenda-de-negociacion-de-mas-de-15-acuerdos-bajo-el-liderazgo-del-gobierno-del-presidente-daniel-noboa/",
+          "summary": "Ecuador firmó el Acuerdo de Comercio Recíproco (ART) con Estados Unidos el 13 de marzo de 2026 en Washington. El país mantiene en negociación 15 tratados comerciales adicionales con socios estratégicos en Asia, Europa y América."
+        },
+        {
           "title": "Sector pesquero artesanal recibe $3.5 millones en créditos subsidiados a través del programa Reactívate",
           "date": "2026-03-08",
           "url": "https://www.produccion.gob.ec/noticias/"
         }
       ],
-      "lastUpdated": "2026-04-25T06:00:00.000Z"
+      "lastUpdated": "2026-04-30T07:59:39.150Z"
     },
     {
       "id": "sri",
@@ -622,7 +652,7 @@
       "category": "Legislativo & Judicial",
       "color": "#3A0CA3",
       "sourceUrl": "https://www.corteconstitucional.gob.ec/noticias/",
-      "status": "ok",
+      "status": "error",
       "news": [
         {
           "title": "Jueza Karla Quevedo avoca conocimiento de demanda sobre reglamento de selección de Fiscal General",
@@ -718,8 +748,8 @@
   ],
   "summary": {
     "total": 19,
-    "ok": 1,
+    "ok": 2,
     "stale": 0,
-    "error": 18
+    "error": 17
   }
 }
