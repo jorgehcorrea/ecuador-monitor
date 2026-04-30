@@ -230,7 +230,7 @@ async function main() {
         totalErrors++;
       }
 
-      await delay(8000);
+      await delay(20000);
     }
 
     const updated = [...newItems, ...archive].sort((a,b) => (b.date||'').localeCompare(a.date||''));
