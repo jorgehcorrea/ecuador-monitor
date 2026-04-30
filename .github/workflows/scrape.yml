@@ -2,12 +2,12 @@ name: Daily Institution News Scraper
 
 on:
   schedule:
-    - cron: '0 6 * * *'   # Batch 1 — 01:00 ECT (INIAP, MAG, AGROCALIDAD, INAMHI)
-    - cron: '0 8 * * *'   # Batch 2 — 03:00 ECT (ProEcuador, BCE, MIPRO)
-    - cron: '0 10 * * *'  # Batch 3 — 05:00 ECT (SRI, ARCSA, SENESCYT, SERCOP)
-    - cron: '0 12 * * *'  # Batch 4 — 07:00 ECT (Min. Interior, Min. Gobierno, Presidencia, ECU911)
-    - cron: '0 14 * * *'  # Batch 5 — 09:00 ECT (CNE, Asamblea, Corte Const.)
-    - cron: '0 16 * * *'  # Batch 6 — 11:00 ECT (PGE, Contraloria, Reg. Oficial)
+    - cron: '0 1 * * *'   # Batch 1 — 20:00 ECT prev day (INIAP, MAG, AGROCALIDAD, INAMHI)
+    - cron: '0 3 * * *'   # Batch 2 — 22:00 ECT prev day (ProEcuador, BCE, MIPRO)
+    - cron: '0 5 * * *'   # Batch 3 — 00:00 ECT midnight (SRI, ARCSA, SENESCYT, SERCOP)
+    - cron: '0 7 * * *'   # Batch 4 — 02:00 ECT (Min. Interior, Min. Gobierno, Presidencia, ECU911)
+    - cron: '0 9 * * *'   # Batch 5 — 04:00 ECT (CNE, Asamblea, Corte Const.)
+    - cron: '0 11 * * *'  # Batch 6 — 06:00 ECT (PGE, Contraloria, Reg. Oficial)
   workflow_dispatch:
     inputs:
       batch:
@@ -40,17 +40,17 @@ jobs:
         run: |
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
             echo "BATCH=${{ github.event.inputs.batch }}" >> $GITHUB_ENV
-          elif [ "${{ github.event.schedule }}" = "0 6 * * *" ]; then
+          elif [ "${{ github.event.schedule }}" = "0 1 * * *" ]; then
             echo "BATCH=1" >> $GITHUB_ENV
-          elif [ "${{ github.event.schedule }}" = "0 8 * * *" ]; then
+          elif [ "${{ github.event.schedule }}" = "0 3 * * *" ]; then
             echo "BATCH=2" >> $GITHUB_ENV
-          elif [ "${{ github.event.schedule }}" = "0 10 * * *" ]; then
+          elif [ "${{ github.event.schedule }}" = "0 5 * * *" ]; then
             echo "BATCH=3" >> $GITHUB_ENV
-          elif [ "${{ github.event.schedule }}" = "0 12 * * *" ]; then
+          elif [ "${{ github.event.schedule }}" = "0 7 * * *" ]; then
             echo "BATCH=4" >> $GITHUB_ENV
-          elif [ "${{ github.event.schedule }}" = "0 14 * * *" ]; then
+          elif [ "${{ github.event.schedule }}" = "0 9 * * *" ]; then
             echo "BATCH=5" >> $GITHUB_ENV
-          elif [ "${{ github.event.schedule }}" = "0 16 * * *" ]; then
+          elif [ "${{ github.event.schedule }}" = "0 11 * * *" ]; then
             echo "BATCH=6" >> $GITHUB_ENV
           else
             echo "BATCH=0" >> $GITHUB_ENV
