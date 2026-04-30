@@ -147,3 +147,4 @@ ANTHROPIC_API_KEY=sk-ant-... node scraper.js
 | v1.4 | 2026-04-28 | Hover summary cards en feed items |
 | v1.5 | 2026-04-29 | +4 instituciones: Presidencia, PGE, Contraloría, Registro Oficial (19 total) |
 | v1.6 | 2026-04-29 | Clean reset: strip seed data, 25s delay, empty states limpios |
+| v2.0 | 2026-04-30 | Archive database: per-institution JSON files, dedup by key, cached summaries, Node 24 |
