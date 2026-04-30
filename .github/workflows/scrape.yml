@@ -2,8 +2,14 @@ name: Daily Institution News Scraper
 
 on:
   schedule:
-    - cron: '0 6 * * *'
+    - cron: '0 6 * * *'   # Batch 1 — 01:00 ECT (institutions 1-10)
+    - cron: '0 8 * * *'   # Batch 2 — 03:00 ECT (institutions 11-19)
   workflow_dispatch:
+    inputs:
+      batch:
+        description: 'Batch to run (1=first 10, 2=last 9, 0=all)'
+        required: false
+        default: '0'
 
 jobs:
   scrape:
@@ -26,9 +32,23 @@ jobs:
           cd scripts
           npm install
 
+      - name: Determine batch
+        id: batch
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "BATCH=${{ github.event.inputs.batch }}" >> $GITHUB_ENV
+          elif [ "${{ github.event.schedule }}" = "0 6 * * *" ]; then
+            echo "BATCH=1" >> $GITHUB_ENV
+          elif [ "${{ github.event.schedule }}" = "0 8 * * *" ]; then
+            echo "BATCH=2" >> $GITHUB_ENV
+          else
+            echo "BATCH=0" >> $GITHUB_ENV
+          fi
+
       - name: Run scraper
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ecuador_monitor }}
+          BATCH: ${{ env.BATCH }}
         run: |
           cd scripts
           node scraper.js
@@ -38,5 +58,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add public/data.json public/archive/
-          git diff --staged --quiet || git commit -m "chore: update news and archive [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+          git diff --staged --quiet || git commit -m "chore: update news batch ${{ env.BATCH }} [$(date -u '+%Y-%m-%d %H:%M UTC')]"
           git push

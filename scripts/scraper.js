@@ -26,6 +26,11 @@ if (!API_KEY) {
   process.exit(1);
 }
 
+// ── Batch support ─────────────────────────────────────────────────────────
+// BATCH=1 processes institutions 1-10, BATCH=2 processes 11-19
+// Allows splitting across two cron runs to avoid rate limiting
+const BATCH = process.env.BATCH ? parseInt(process.env.BATCH) : 0;
+
 // ── Institution definitions ───────────────────────────────────────────────
 const INSTITUTIONS = [
   // --- Agro & Investigación ---
@@ -344,7 +349,14 @@ async function main() {
   let newItemsTotal = 0;
   let cachedItemsTotal = 0;
 
-  for (const inst of INSTITUTIONS) {
+  // Filter by batch if specified
+  const targets = BATCH === 1 ? INSTITUTIONS.slice(0, 10) :
+                  BATCH === 2 ? INSTITUTIONS.slice(10) :
+                  INSTITUTIONS;
+
+  console.log(`Processing ${targets.length} institutions${BATCH ? ` (batch ${BATCH})` : ''}\n`);
+
+  for (const inst of targets) {
     process.stdout.write(`  [${inst.id}] `);
 
     // Load existing archive for this institution
@@ -435,15 +447,26 @@ async function main() {
     await delay(25000);
   }
 
-  // Write lean data.json for the dashboard
+  // Merge with existing data.json to preserve other batch's institutions
+  let existingData = { institutions: [] };
+  try {
+    existingData = JSON.parse(readFileSync(DATA_PATH, 'utf8'));
+  } catch {}
+
+  // Build merged institution list — this batch overwrites its own institutions
+  const thisIds = new Set(dataInstitutions.map(i => i.id));
+  const otherInstitutions = existingData.institutions.filter(i => !thisIds.has(i.id));
+  const allInstitutions = [...otherInstitutions, ...dataInstitutions]
+    .sort((a, b) => INSTITUTIONS.findIndex(i => i.id === a.id) - INSTITUTIONS.findIndex(i => i.id === b.id));
+
   const output = {
     lastScraped: new Date().toISOString(),
-    institutions: dataInstitutions,
+    institutions: allInstitutions,
     summary: {
-      total: dataInstitutions.length,
-      ok: okCount,
-      stale: dataInstitutions.filter(i => i.status === 'stale').length,
-      error: errCount,
+      total: allInstitutions.length,
+      ok: allInstitutions.filter(i => i.status === 'ok').length,
+      stale: allInstitutions.filter(i => i.status === 'stale').length,
+      error: allInstitutions.filter(i => i.status === 'error').length,
     },
   };
 
