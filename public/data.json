@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-04-30T08:05:53.096Z",
+  "lastScraped": "2026-04-30T13:43:40.675Z",
   "institutions": [
     {
       "id": "iniap",
@@ -8,7 +8,7 @@
       "category": "Agro & Investigación",
       "color": "#52B788",
       "sourceUrl": "https://www.iniap.gob.ec/noticias/",
-      "status": "ok",
+      "status": "error",
       "news": [
         {
           "title": "INIAP presenta nuevas variedades de maíz adaptadas a condiciones de sierra ecuatoriana",
@@ -85,8 +85,20 @@
       "category": "Agro & Investigación",
       "color": "#74C69D",
       "sourceUrl": "https://www.agricultura.gob.ec/noticias/",
-      "status": "error",
+      "status": "ok",
       "news": [
+        {
+          "title": "Ministerio de Agricultura adelanta inicio de compra directa de arroz y activa recepción desde el 4 de mayo en beneficio de pequeños y medianos productores",
+          "date": "2026-04-28",
+          "url": "https://www.agricultura.gob.ec/ministerio-de-agricultura-adelanta-inicio-de-compra-directa-de-arroz-y-activa-recepcion-desde-el-4-de-mayo-en-beneficio-de-pequenos-y-medianos-productores/",
+          "summary": "El ministerio ha adelantado el inicio de la compra directa de arroz para pequeños y medianos productores, iniciando la recepción desde el 4 de mayo de 2026. Esta medida garantiza un precio mínimo de 34 dólares por saca de grano corto y 36 dólares para grano largo, sin intermediarios ni piladoras."
+        },
+        {
+          "title": "120 productores de Santa Elena se benefician con SOMA entregada por el MAGP",
+          "date": "2026-04-28",
+          "url": "https://www.agricultura.gob.ec/120-productores-de-santa-elena-se-benefician-con-soma-entregada-por-el-magp/",
+          "summary": "El ministerio entregó una Solución de Mecanización Agroproductiva (SOMA) a la Junta de Riego y Drenaje Bajadita de Colonche, beneficiando directamente a 120 productores. Esta inversión de 35.070 dólares permitirá mecanizar 230 hectáreas y optimizar la preparación de suelos."
+        },
         {
           "title": "Escuela de Emprendimiento Joven Rural, del MAGP, marca un hito con más de 4.000 inscritos en su novena edición",
           "date": "2026-04-28",
@@ -143,7 +155,7 @@
           "url": "https://www.agricultura.gob.ec/noticias/"
         }
       ],
-      "lastUpdated": "2026-04-29T13:48:49.770Z"
+      "lastUpdated": "2026-04-30T13:35:14.784Z"
     },
     {
       "id": "agrocalidad",
@@ -293,7 +305,7 @@
       "category": "Economía & Negocios",
       "color": "#6A9AB0",
       "sourceUrl": "https://www.produccion.gob.ec/noticias/",
-      "status": "ok",
+      "status": "error",
       "news": [
         {
           "title": "Con la FAO y sector privado, Gobierno inició proceso para desarrollar la Política Pública Agroindustrial al 2036",
@@ -422,12 +434,42 @@
       "category": "Regulatorio",
       "color": "#E9C46A",
       "sourceUrl": "https://www.controlsanitario.gob.ec/noticias/",
-      "status": "error",
+      "status": "ok",
       "news": [
+        {
+          "title": "Arcsa alerta sobre presencia de bacteria en lote 26-01-026D del producto HELADO DE LECHE CON GRASA VEGETAL SABOR A CHOCOLATE \"LA ARTESANAL\"",
+          "date": "2026-04-29",
+          "url": "https://www.controlsanitario.gob.ec/arcsa-alerta-sobre-presencia-de-bacteria-en-lote-26-01-026d-del-producto-helado-de-leche-con-grasa-vegetal-sabor-a-chocolate-la-artesanal/",
+          "summary": "Arcsa detectó la bacteria Listeria monocytogenes en un lote específico de helado de chocolate La Artesanal y ordenó su retiro inmediato del mercado. La bacteria puede causar listeriosis, una infección grave que representa mayor riesgo para mujeres embarazadas, recién nacidos, adultos mayores y personas con inmunodeficiencia."
+        },
+        {
+          "title": "Ecuador actualiza lista de medicamentos de venta libre y endurece controles",
+          "date": "2026-04-27",
+          "url": "https://radiogovea.wordpress.com/2026/04/27/ecuador-actualiza-lista-de-medicamentos-de-venta-libre-y-endurece-controles/",
+          "summary": "Arcsa actualizó el listado de medicamentos de venta libre, eliminando 30 principios activos por riesgos como toxicidad o cambios en clasificación regulatoria. La revisión de más de 2.100 productos detectó inconsistencias e ingredientes potencialmente peligrosos como triclosán y mercurio cromo que quedan fuera de la venta sin receta."
+        },
+        {
+          "title": "Arcsa detecta miles de dispositivos médicos irregulares en Cuenca",
+          "date": "2026-04-24",
+          "url": "https://www.controlsanitario.gob.ec/arcsa-detecta-miles-de-dispositivos-medicos-irregulares-en-cuenca/",
+          "summary": "Arcsa inmovilizó 4.686 dispositivos odontológicos sin registro sanitario o caducados en una distribuidora de Cuenca, incluyendo agujas, instrumentos de endodoncia, bisturíes y otros insumos. El establecimiento fue clausurado inmediatamente para evitar su comercialización y proteger la salud de los pacientes."
+        },
         {
           "title": "ARCSA actualiza reglamento técnico para registro sanitario de suplementos alimenticios",
           "date": "2026-04-14",
           "url": "https://www.controlsanitario.gob.ec/noticias/"
+        },
+        {
+          "title": "Más de 4500 productos irregulares fueron retirados del mercado en Santo Domingo",
+          "date": "2026-04-13",
+          "url": "https://www.controlsanitario.gob.ec/mas-de-4500-productos-irregulares-fueron-retirados-del-mercado-en-santo-domingo/",
+          "summary": "Arcsa inmovilizó más de 4500 productos cosméticos sin notificación sanitaria ecuatoriana en una comercializadora de Santo Domingo, incluyendo colonias, lociones, jabones e inciensos. El establecimiento fue clausurado como medida para proteger la salud de la población."
+        },
+        {
+          "title": "Operativo permite detectar graves irregularidades en cuatro locales de Machala",
+          "date": "2026-04-07",
+          "url": "https://www.controlsanitario.gob.ec/operativo-permite-detectar-graves-irregularidades-en-cuatro-locales-de-machala/",
+          "summary": "Arcsa inspeccionó 12 establecimientos de alimentación en Machala y encontró que 4 incumplían normas sanitarias, clausurando 2 de ellos preventivamente. Se detectaron graves problemas como presencia de cucarachas, acumulación de grasa, heces de animales e inadecuada manipulación de alimentos."
         },
         {
           "title": "Nuevos requisitos de etiquetado nutricional entran en vigencia para productos de consumo masivo",
@@ -450,7 +492,7 @@
           "url": "https://www.controlsanitario.gob.ec/noticias/"
         }
       ],
-      "lastUpdated": "2026-04-25T06:00:00.000Z"
+      "lastUpdated": "2026-04-30T13:38:03.359Z"
     },
     {
       "id": "senescyt",
@@ -619,9 +661,40 @@
       "category": "Seguridad & Gobierno",
       "color": "#E63946",
       "sourceUrl": "https://www.comunicacion.gob.ec/noticias/",
-      "status": "error",
-      "news": [],
-      "lastUpdated": "2026-04-29T19:23:16.953Z"
+      "status": "ok",
+      "news": [
+        {
+          "title": "Firma del contrato de explotación del proyecto minero Los Cangrejos con inversión superior a USD 1.700 millones",
+          "date": "2026-04-27",
+          "url": "https://www.ambienteyenergia.gob.ec/firma-del-proyecto-minero-los-cangrejos-impulsa-usd-1-700-millonesde-inversion-en-el-pais/",
+          "summary": "El Gobierno ecuatoriano firmó el contrato para la explotación del proyecto minero Los Cangrejos en la provincia de El Oro, que representa una inversión superior a USD 1.700 millones y generará más de 1.000 empleos directos. El Estado recibirá ingresos estimados de USD 4.386 millones en impuestos, regalías y utilidades durante la vida del proyecto."
+        },
+        {
+          "title": "Entrega de vehículos a la Policía donados por el sector privado",
+          "date": "2026-04-23",
+          "url": "https://www.presidencia.gob.ec/blog/2026/04/28/2026-04-23-entrega-de-vehiculos-a-la-policia-donados-por-el-sector-privado/",
+          "summary": "El Gobierno entregó vehículos donados por el sector privado a la Policía Nacional para fortalecer sus operaciones investigativas e inteligencia. Esta contribución de empresas privadas refleja el apoyo del sector para mejorar la seguridad y capacidades operacionales de la institución policial."
+        },
+        {
+          "title": "Más de 18 mil docentes contratados en Educa Empleo para fortalecer la educación",
+          "date": "2026-04-22",
+          "url": "https://www.presidencia.gob.ec/blog/2026/04/25/2026-04-22-mas-de-18-mil-docentes-contratados-en-educa-empleo-para-fortalecer-la-educacion/",
+          "summary": "El Gobierno incorporó más de dos mil nuevos docentes al sistema educativo público a través de la plataforma Educa Empleo, alcanzando un total de 18 mil maestros contratados durante la administración Noboa. La medida busca fortalecer la educación nacional mediante la contratación de profesionales con vocación docente."
+        },
+        {
+          "title": "Entrega de 50 millones para impulsar el desarrollo amazónico",
+          "date": "2026-04-16",
+          "url": "https://www.presidencia.gob.ec/blog/2026/04/17/2026-04-16-entrega-de-50-millones-para-impulsar-el-desarrollo-amazonico/",
+          "summary": "El Gobierno destinó 50 millones de dólares para impulsar proyectos de desarrollo en la región amazónica ecuatoriana. Estos recursos buscan fortalecer la economía local, mejorar la infraestructura y promover el desarrollo sostenible de las comunidades amazónicas."
+        },
+        {
+          "title": "Presentación del portal de emprendedores Ecuayapa",
+          "date": "2026-04-15",
+          "url": "https://www.presidencia.gob.ec/blog/2026/04/16/2026-04-15-presentacion-del-portal-de-emprendedores-ecuayapa/",
+          "summary": "Se presentó la plataforma digital Ecuayapa, un portal destinado a facilitar el acceso de emprendedores ecuatorianos a herramientas, información y oportunidades para desarrollar y consolidar sus negocios. La plataforma busca democratizar el acceso a recursos para la economía popular y solidaria."
+        }
+      ],
+      "lastUpdated": "2026-04-30T13:40:44.457Z"
     },
     {
       "id": "cne",
@@ -748,8 +821,8 @@
   ],
   "summary": {
     "total": 19,
-    "ok": 2,
+    "ok": 3,
     "stale": 0,
-    "error": 17
+    "error": 16
   }
 }
