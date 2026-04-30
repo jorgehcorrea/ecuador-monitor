@@ -149,3 +149,4 @@ ANTHROPIC_API_KEY=sk-ant-... node scraper.js
 | v1.6 | 2026-04-29 | Clean reset: strip seed data, 25s delay, empty states limpios |
 | v2.0 | 2026-04-30 | Archive database: per-institution JSON files, dedup by key, cached summaries, Node 24 |
 | v2.1 | 2026-04-30 | Split scraper into 2 batches to fix rate limiting, merge logic for data.json |
+| v2.2 | 2026-04-30 | Add INAMHI and ECU911, split into 6 daily batches (01:00-11:00 ECT) |

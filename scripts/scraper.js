@@ -27,8 +27,13 @@ if (!API_KEY) {
 }
 
 // ── Batch support ─────────────────────────────────────────────────────────
-// BATCH=1 processes institutions 1-10, BATCH=2 processes 11-19
-// Allows splitting across two cron runs to avoid rate limiting
+// BATCH=1 processes institutions 1-4   (INIAP, MAG, AGROCALIDAD, INAMHI)
+// BATCH=2 processes institutions 5-7   (ProEcuador, BCE, MIPRO)
+// BATCH=3 processes institutions 8-11  (SRI, ARCSA, SENESCYT, SERCOP)
+// BATCH=4 processes institutions 12-15 (Min. Interior, Min. Gobierno, Presidencia, ECU911)
+// BATCH=5 processes institutions 16-18 (CNE, Asamblea, Corte Const.)
+// BATCH=6 processes institutions 19-21 (PGE, Contraloria, Reg. Oficial)
+// BATCH=0 processes all (not recommended — may hit rate limits)
 const BATCH = process.env.BATCH ? parseInt(process.env.BATCH) : 0;
 
 // ── Institution definitions ───────────────────────────────────────────────
@@ -69,6 +74,15 @@ const INSTITUTIONS = [
     color: '#95D5B2',
     sourceUrl: 'https://www.proecuador.gob.ec/noticias/',
     searchQuery: 'ProEcuador exportaciones inversiones noticias comunicados 2025 2026',
+  },
+  {
+    id: 'inamhi',
+    name: 'INAMHI',
+    fullName: 'Instituto Nacional de Meteorología e Hidrología',
+    category: 'Agro & Investigación',
+    color: '#168AAD',
+    sourceUrl: 'https://www.inamhi.gob.ec/',
+    searchQuery: 'INAMHI Ecuador meteorología hidrología alertas clima noticias 2025 2026 site:inamhi.gob.ec OR site:primicias.ec OR site:eluniverso.com',
   },
 
   // --- Economía & Negocios ---
@@ -156,6 +170,15 @@ const INSTITUTIONS = [
     color: '#E63946',
     sourceUrl: 'https://www.comunicacion.gob.ec/noticias/',
     searchQuery: 'Presidencia República Ecuador Noboa decretos ejecutivos acciones gobierno noticias 2025 2026',
+  },
+  {
+    id: 'ecu911',
+    name: 'ECU 911',
+    fullName: 'Servicio Integrado de Seguridad ECU 911',
+    category: 'Seguridad & Gobierno',
+    color: '#EF233C',
+    sourceUrl: 'https://www.ecu911.gob.ec/',
+    searchQuery: 'ECU 911 Ecuador emergencias seguridad estadísticas operativo noticias 2025 2026 site:ecu911.gob.ec OR site:primicias.ec OR site:eluniverso.com',
   },
 
   // --- Legislativo & Judicial ---
@@ -349,9 +372,19 @@ async function main() {
   let newItemsTotal = 0;
   let cachedItemsTotal = 0;
 
-  // Filter by batch if specified
-  const targets = BATCH === 1 ? INSTITUTIONS.slice(0, 10) :
-                  BATCH === 2 ? INSTITUTIONS.slice(10) :
+  // Filter by batch if specified (6 batches of ~3-4 institutions each)
+  // Batch 1: INIAP, MAG, AGROCALIDAD, INAMHI
+  // Batch 2: ProEcuador, BCE, MIPRO
+  // Batch 3: SRI, ARCSA, SENESCYT, SERCOP
+  // Batch 4: Min. Interior, Min. Gobierno, Presidencia, ECU911
+  // Batch 5: CNE, Asamblea, Corte Const.
+  // Batch 6: PGE, Contraloria, Reg. Oficial
+  const targets = BATCH === 1 ? INSTITUTIONS.slice(0, 4) :
+                  BATCH === 2 ? INSTITUTIONS.slice(4, 7) :
+                  BATCH === 3 ? INSTITUTIONS.slice(7, 11) :
+                  BATCH === 4 ? INSTITUTIONS.slice(11, 15) :
+                  BATCH === 5 ? INSTITUTIONS.slice(15, 18) :
+                  BATCH === 6 ? INSTITUTIONS.slice(18) :
                   INSTITUTIONS;
 
   console.log(`Processing ${targets.length} institutions${BATCH ? ` (batch ${BATCH})` : ''}\n`);

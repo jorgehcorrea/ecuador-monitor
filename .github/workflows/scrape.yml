@@ -2,12 +2,16 @@ name: Daily Institution News Scraper
 
 on:
   schedule:
-    - cron: '0 6 * * *'   # Batch 1 — 01:00 ECT (institutions 1-10)
-    - cron: '0 8 * * *'   # Batch 2 — 03:00 ECT (institutions 11-19)
+    - cron: '0 6 * * *'   # Batch 1 — 01:00 ECT (INIAP, MAG, AGROCALIDAD, INAMHI)
+    - cron: '0 8 * * *'   # Batch 2 — 03:00 ECT (ProEcuador, BCE, MIPRO)
+    - cron: '0 10 * * *'  # Batch 3 — 05:00 ECT (SRI, ARCSA, SENESCYT, SERCOP)
+    - cron: '0 12 * * *'  # Batch 4 — 07:00 ECT (Min. Interior, Min. Gobierno, Presidencia, ECU911)
+    - cron: '0 14 * * *'  # Batch 5 — 09:00 ECT (CNE, Asamblea, Corte Const.)
+    - cron: '0 16 * * *'  # Batch 6 — 11:00 ECT (PGE, Contraloria, Reg. Oficial)
   workflow_dispatch:
     inputs:
       batch:
-        description: 'Batch to run (1=first 10, 2=last 9, 0=all)'
+        description: 'Batch (1=INIAP/MAG/AGRO/INAMHI, 2=ProEC/BCE/MIPRO, 3=SRI/ARCSA/SEN/SER, 4=Interior/Gob/Pres/ECU911, 5=CNE/Asam/Corte, 6=PGE/Cont/RegOf, 0=all)'
         required: false
         default: '0'
 
@@ -33,7 +37,6 @@ jobs:
           npm install
 
       - name: Determine batch
-        id: batch
         run: |
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
             echo "BATCH=${{ github.event.inputs.batch }}" >> $GITHUB_ENV
@@ -41,6 +44,14 @@ jobs:
             echo "BATCH=1" >> $GITHUB_ENV
           elif [ "${{ github.event.schedule }}" = "0 8 * * *" ]; then
             echo "BATCH=2" >> $GITHUB_ENV
+          elif [ "${{ github.event.schedule }}" = "0 10 * * *" ]; then
+            echo "BATCH=3" >> $GITHUB_ENV
+          elif [ "${{ github.event.schedule }}" = "0 12 * * *" ]; then
+            echo "BATCH=4" >> $GITHUB_ENV
+          elif [ "${{ github.event.schedule }}" = "0 14 * * *" ]; then
+            echo "BATCH=5" >> $GITHUB_ENV
+          elif [ "${{ github.event.schedule }}" = "0 16 * * *" ]; then
+            echo "BATCH=6" >> $GITHUB_ENV
           else
             echo "BATCH=0" >> $GITHUB_ENV
           fi
