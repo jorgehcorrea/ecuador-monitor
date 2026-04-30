@@ -1,0 +1,48 @@
+{
+  "id": "iniap",
+  "name": "INIAP",
+  "fullName": "Instituto Nacional de Investigaciones Agropecuarias",
+  "lastUpdated": "2026-04-30T14:00:07.699Z",
+  "items": [
+    {
+      "key": "iniap::comisión-de-soberanía-alimentaria-avanza-en-reformas-a-la-le",
+      "title": "Comisión de Soberanía Alimentaria avanza en reformas a la Ley Constitutiva del INIAP",
+      "date": "2026-04-08",
+      "url": "https://www.asambleanacional.gob.ec/es/node/115596",
+      "summary": "La Asamblea Nacional avanza en el tratamiento del proyecto de reformas a la Ley Constitutiva del INIAP para modernizar la gobernanza del instituto y mejorar la articulación entre el sector público, productores y academia. Estas reformas permitirán al INIAP responder mejor a las necesidades del sector productivo ecuatoriano con una visión territorial.",
+      "scrapedAt": "2026-04-30T14:00:07.691Z"
+    },
+    {
+      "key": "iniap::comisión-de-soberanía-alimentaria-inicia-trámite-de-reformas",
+      "title": "Comisión de Soberanía Alimentaria inicia trámite de reformas al INIAP en respuesta a las necesidades del sector productivo",
+      "date": "2026-03-25",
+      "url": "https://kchcomunicacion.com/2026/03/26/soberania-alimentaria-inicia-tramite-de-reformas-al-iniap-en-respuesta-a-las-necesidades-del-sector-productivo/",
+      "summary": "La asambleísta Besibell Mendoza presentó un proyecto de reformas para actualizar la normativa del INIAP relacionada con investigación, innovación y transferencia tecnológica. Las reformas buscan mejorar la gobernanza institucional e integrar esfuerzos entre sectores público, privado y académico.",
+      "scrapedAt": "2026-04-30T14:00:07.691Z"
+    },
+    {
+      "key": "iniap::el-iniap-con-el-respaldo-del-fiasa-concluyó-cinco-proyecto",
+      "title": "El INIAP, con el respaldo del FIASA, concluyó cinco proyectos de investigación en 2025",
+      "date": "2026-01-02",
+      "url": "https://www.eluniverso.com/noticias/economia/cinco-proyectos-investigacion-agricola-iniap-fiasa-ecuador-2025-nota/",
+      "summary": "El INIAP finalizó cinco proyectos de investigación en 2025 que incluyen nuevas variedades de trigo (Iniap-Yurak 2024) y dos líneas promisorias de arroz (Go-04207 y Go-04429) que se registrarán como nuevas variedades. Estos desarrollos benefician a pequeños y medianos productores y fortalecen la seguridad alimentaria nacional.",
+      "scrapedAt": "2026-04-30T14:00:07.691Z"
+    },
+    {
+      "key": "iniap::iniap-prepara-nuevas-variedades-de-papa-con-potencial-indust",
+      "title": "INIAP prepara nuevas variedades de papa con potencial industrial para 2026",
+      "date": "2025-12-07",
+      "url": "https://www.argenpapa.com.ar/noticia/16843-ecuador-iniap-prepara-nuevas-variedades-de-papa-con-potencial-industrial-para-2026",
+      "summary": "El INIAP desarrolla dos nuevas variedades de papa con alto contenido de antocianinas para la industria de chips de colores, que podrían liberarse en 2026. Estas variedades cultivables entre 2.800 y 3.300 metros de altura ofrecen características específicas de textura, color y rendimiento requeridas por la industria.",
+      "scrapedAt": "2026-04-30T14:00:07.691Z"
+    },
+    {
+      "key": "iniap::iniap-anuncia-la-apertura-de-la-convocatoria-fiasa-2026-para",
+      "title": "INIAP anuncia la apertura de la Convocatoria FIASA 2026 para proyectos de investigación agropecuaria",
+      "date": "2025-05-12",
+      "url": "https://www.iniap.gob.ec/convocatoria-fiasa-2026-haz-realidad-tu-proyecto-de-investigacion-agropecuaria/",
+      "summary": "El INIAP abrió oficialmente la Convocatoria FIASA 2026, un mecanismo de financiamiento estatal para apoyar proyectos científicos en investigación de agrobiodiversidad, mejora de semillas y agricultura sustentable. Los investigadores ecuatorianos pueden postular instituciones legales establecidas para acceder a estos fondos de investigación.",
+      "scrapedAt": "2026-04-30T14:00:07.691Z"
+    }
+  ]
+}

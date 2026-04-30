@@ -1,0 +1,48 @@
+{
+  "id": "mipro",
+  "name": "MIPRO",
+  "fullName": "Ministerio de Producción, Comercio Exterior, Inversiones y Pesca",
+  "lastUpdated": "2026-04-30T14:02:32.863Z",
+  "items": [
+    {
+      "key": "mipro::gobierno-del-presidente-daniel-noboa-traza-su-hoja-de-ruta-a",
+      "title": "Gobierno del presidente Daniel Noboa traza su hoja de ruta agroindustrial al 2036 con el respaldo técnico de la FAO",
+      "date": "2026-04-29",
+      "url": "https://www.produccion.gob.ec/gobierno-del-presidente-daniel-noboa-traza-su-hoja-de-ruta-agroindustrial-al-2036-con-el-respaldo-tecnico-de-la-fao/",
+      "summary": "El Ministerio desarrolló el evento \"Hacia la Agroindustria 2036\" para iniciar la construcción colaborativa de una Política Pública Agroindustrial 2026-2036, transformando la economía desde materias primas hacia agroindustria competitiva con valor agregado. Este proceso permitirá diseñar estrategias orientadas a mejorar la productividad, competitividad e inserción internacional del sector agroalimentario ecuatoriano.",
+      "scrapedAt": "2026-04-30T14:02:32.863Z"
+    },
+    {
+      "key": "mipro::acuerdos-comerciales-e-inversiones-por-más-de--1000-millon",
+      "title": "Acuerdos comerciales e inversiones por más de $ 1.000 millones destacaron en producción y comercio exterior en 2025",
+      "date": "2026-04-24",
+      "url": "https://www.produccion.gob.ec/",
+      "summary": "Durante la Rendición de Cuentas de 2025, el MPCEI destacó la firma de acuerdos estratégicos como el Acuerdo de Comercio Recíproco con Estados Unidos, el Tratado Bilateral de Inversiones con Emiratos Árabes Unidos y el Acuerdo de Facilitación de Inversiones Sostenibles con la Unión Europea. Estos instrumentos amplían las oportunidades comerciales y mejoran las condiciones de acceso para productos ecuatorianos en mercados internacionales clave.",
+      "scrapedAt": "2026-04-30T14:02:32.863Z"
+    },
+    {
+      "key": "mipro::camino-violeta-el-gobierno-de-daniel-noboa-abre-registro-",
+      "title": "\"Camino Violeta\": el Gobierno de Daniel Noboa abre registro de formalización para mujeres emprendedoras",
+      "date": "2026-03-08",
+      "url": "https://www.produccion.gob.ec/camino-violeta-el-gobierno-de-daniel-noboa-abre-registro-de-formalizacion-para-mujeres-emprendedoras/",
+      "summary": "El MPCEI lanzó \"Camino Violeta\", un registro que reconoce oficialmente a mujeres emprendedoras no formalizadas y facilita su transición hacia la formalidad. Las inscritas acceden a capacitaciones técnicas gratuitas, incentivos tributarios, y productos de financiamiento especializado a través de BanEcuador con tasas bajas, reduciendo brechas históricas de acceso al crédito y redes de apoyo.",
+      "scrapedAt": "2026-04-30T14:02:32.863Z"
+    },
+    {
+      "key": "mipro::ecuador-es-reconocido-como-destino-del-año-en-turismo-de-av",
+      "title": "Ecuador es reconocido como \"Destino del Año en Turismo de Aventura\" en ITB Berlín 2026, bajo el liderazgo del presidente Noboa",
+      "date": "2026-03-02",
+      "url": "https://www.produccion.gob.ec/ecuador-es-reconocido-como-destino-del-ano-en-turismo-de-aventura-en-itb-berlin-2026-bajo-el-liderazgo-del-presidente-noboa/",
+      "summary": "Ecuador recibió el reconocimiento internacional \"Destination of the Year – Adventure Experiences\" en la ITB Berlín 2026, otorgado por la Pacific Area Travel Writers Association. Este galardón posiciona al país como destino competitivo en turismo de aventura y fortalece su imagen en mercados internacionales, atrayendo visitantes que generan mayor permanencia y gasto en servicios especializados locales.",
+      "scrapedAt": "2026-04-30T14:02:32.863Z"
+    },
+    {
+      "key": "mipro::gobierno-de-daniel-noboa-posiciona-a-ecuador-como-el-primer-",
+      "title": "Gobierno de Daniel Noboa posiciona a Ecuador como el primer país de América Latina en concretar un acuerdo de inversiones sostenibles con la Unión Europea",
+      "date": "2026-01-23",
+      "url": "https://www.produccion.gob.ec/gobierno-de-daniel-noboa-posiciona-a-ecuador-como-el-primer-pais-de-america-latina-en-concretar-un-acuerdo-de-inversiones-sostenibles-con-la-union-europea/",
+      "summary": "El MPCEI concluyó las negociaciones del Acuerdo de Facilitación de Inversiones Sostenibles (SIFA) con la Unión Europea, convirtiendo a Ecuador en el primer país latinoamericano con este instrumento. El SIFA simplifica procedimientos de inversión, reduce incertidumbre regulatoria y promueve un clima empresarial más transparente, acompañado de 8 millones de euros de cooperación técnica para transición energética e inversiones sostenibles.",
+      "scrapedAt": "2026-04-30T14:02:32.863Z"
+    }
+  ]
+}
