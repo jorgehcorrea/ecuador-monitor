@@ -284,9 +284,19 @@
       align-items: flex-start;
     }
     .feed-item:hover { background: var(--surface); }
-    .feed-item.is-read { opacity: 0.45; }
-    .feed-item.is-read:hover { opacity: 0.75; }
-    .feed-item.is-read .feed-stripe { opacity: 0.4; }
+    .feed-item.is-read .feed-title,
+    .feed-item.is-read .feed-inst-tag,
+    .feed-item.is-read .feed-cat-tag,
+    .feed-item.is-read .feed-date,
+    .feed-item.is-read .feed-link,
+    .feed-item.is-read .unread-dot { opacity: 0.4; }
+    .feed-item.is-read:hover .feed-title,
+    .feed-item.is-read:hover .feed-inst-tag,
+    .feed-item.is-read:hover .feed-cat-tag,
+    .feed-item.is-read:hover .feed-date,
+    .feed-item.is-read:hover .feed-link { opacity: 0.7; }
+    .feed-item.is-read .feed-stripe { opacity: 0.35; }
+    .feed-item.is-read .summary-card { opacity: 1 !important; }
     .unread-dot {
       width: 6px;
       height: 6px;
@@ -435,6 +445,7 @@
       pointer-events: none;
     }
     .feed-item:hover .summary-card { display: block; }
+    .feed-item.is-read .summary-card { opacity: 1; background: var(--surface2); }
     .summary-label {
       font-family: var(--mono);
       font-size: 0.55rem;
@@ -544,7 +555,6 @@ function Sidebar({ institutions, instCounts, activeInst, setActiveInst, sidebarO
 
 /* ── READ STATE HELPERS ── */
 const READ_KEY = 'ecu-monitor-read';
-const READ_TTL_MS = 48 * 60 * 60 * 1000; // 48 hours
 
 function getReadMap() {
   try {
@@ -561,10 +571,8 @@ function markRead(itemKey) {
   try { localStorage.setItem(READ_KEY, JSON.stringify(map)); } catch {}
 }
 
-function isRead(itemKey, itemDate) {
-  // Auto-read after 48 hours regardless of clicks
-  const itemAge = Date.now() - new Date(itemDate + 'T12:00:00').getTime();
-  if (itemAge > READ_TTL_MS) return true;
+function isRead(itemKey) {
+  // Only dim if explicitly clicked — never auto-dim by age
   const map = getReadMap();
   return !!map[itemKey];
 }
@@ -577,7 +585,7 @@ function itemKey(item) {
 function FeedItem({ item, query }) {
   const { useState: useLocalState } = React;
   const key = itemKey(item);
-  const [read, setRead] = useLocalState(() => isRead(key, item.date));
+  const [read, setRead] = useLocalState(() => isRead(key));
   const bg = item.inst.color + '22';
 
   function handleClick() {
