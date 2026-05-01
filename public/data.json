@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-05-01T04:45:46.304Z",
+  "lastScraped": "2026-05-01T06:20:15.676Z",
   "institutions": [
     {
       "id": "iniap",
@@ -108,6 +108,48 @@
       "lastUpdated": "2026-05-01T04:45:21.304Z"
     },
     {
+      "id": "inamhi",
+      "name": "INAMHI",
+      "fullName": "Instituto Nacional de Meteorología e Hidrología",
+      "category": "Agro & Investigación",
+      "color": "#168AAD",
+      "sourceUrl": "https://www.inamhi.gob.ec/",
+      "status": "ok",
+      "news": [
+        {
+          "title": "Advertencia Meteorológica N° 31: Lluvias y tormentas para feriado de mayo",
+          "date": "2026-04-29",
+          "url": "https://www.extra.ec/noticia/ecuador/habra-lluvias-intensas-tormentas-feriado-mayo-zonas-riesgo-152748.html",
+          "summary": "Entre el 29 de abril y 3 de mayo habrá alta inestabilidad atmosférica con lluvias de variable intensidad, especialmente en la Amazonía y zonas del interior del Litoral. Se prevén deslizamientos de tierra y crecidas de ríos en regiones vulnerables."
+        },
+        {
+          "title": "Advertencia Meteorológica N° 30: Lluvias intensas y tormentas hasta el 29 de abril",
+          "date": "2026-04-27",
+          "url": "https://www.metroecuador.com.ec/noticias/2026/04/27/alerta-por-lluvias-en-ecuador-estas-son-las-provincias-con-mayor-riesgo-segun-inamhi/",
+          "summary": "Se advierte sobre precipitaciones intensas, tormentas eléctricas y ráfagas de viento hasta el 29 de abril con mayor impacto en la región amazónica y zonas de la cordillera occidental. Existe riesgo significativo de deslizamientos y crecidas de ríos en zonas de estribación."
+        },
+        {
+          "title": "INAMHI explica fenómeno de calor extremo en la Costa ecuatoriana",
+          "date": "2026-04-19",
+          "url": "https://www.extra.ec/noticia/ecuador/tanto-calor-costa-ecuador-abril-2026-inamhi-explica-fenomeno-151955.html",
+          "summary": "El calentamiento anómalo del océano (2°C por encima de lo normal) está causando temperaturas récord en la región Litoral, con sensación térmica que puede superar los 40°C. Este patrón persistirá en las próximas semanas debido al cambio climático global."
+        },
+        {
+          "title": "Alerta de lluvias intensas y tormentas eléctricas hasta el 21 de abril",
+          "date": "2026-04-17",
+          "url": "https://www.eldiario.ec/ecuador/el-inamhi-emite-alerta-por-intensificacion-de-lluvias-y-tormentas-electricas-en-ecuador-hasta-el-21-de-abril-17042026/",
+          "summary": "Se esperan lluvias intensas y tormentas eléctricas desde el 17 hasta el 21 de abril con mayor concentración en la Amazonía. Existe riesgo de desbordes en cuerpos de agua y afectaciones severas a la red vial nacional por deslizamientos de tierra."
+        },
+        {
+          "title": "INAMHI alerta sobre ola de calor sin precedentes en el Litoral",
+          "date": "2026-04-12",
+          "url": "https://www.eltelegrafo.com.ec/noticias/nacionales/210/inamhi-advierte-ola-calor-sin-precedentes-ecuador",
+          "summary": "Se registran temperaturas récord en la región Litoral especialmente entre las 10:00 y 15:00 horas, con ciudades como Guayaquil y Santa Rosa superando valores históricos recientes. El INAMHI recomienda reducir exposición solar, mantenerse hidratado y proteger grupos vulnerables."
+        }
+      ],
+      "lastUpdated": "2026-05-01T06:19:00.113Z"
+    },
+    {
       "id": "bce",
       "name": "Banco Central",
       "fullName": "Banco Central del Ecuador",
@@ -116,7 +158,7 @@
       "sourceUrl": "https://www.bce.fin.ec/comunicados/",
       "status": "stale",
       "news": [],
-      "lastUpdated": "2026-04-30T15:22:41.062Z"
+      "lastUpdated": "2026-05-01T06:19:25.376Z"
     },
     {
       "id": "mipro",
@@ -158,7 +200,7 @@
           "summary": "El MPCEI concluyó las negociaciones del Acuerdo de Facilitación de Inversiones Sostenibles (SIFA) con la Unión Europea, convirtiendo a Ecuador en el primer país latinoamericano con este instrumento. El SIFA simplifica procedimientos de inversión, reduce incertidumbre regulatoria y promueve un clima empresarial más transparente, acompañado de 8 millones de euros de cooperación técnica para transición energética e inversiones sostenibles."
         }
       ],
-      "lastUpdated": "2026-04-30T15:23:06.258Z"
+      "lastUpdated": "2026-05-01T06:19:50.669Z"
     },
     {
       "id": "sri",
@@ -436,8 +478,8 @@
     }
   ],
   "summary": {
-    "total": 19,
-    "ok": 8,
+    "total": 20,
+    "ok": 9,
     "stale": 11,
     "error": 0
   }
