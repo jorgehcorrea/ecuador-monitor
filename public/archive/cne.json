@@ -1,8 +1,49 @@
 {
   "id": "cne",
   "name": "CNE",
-  "lastUpdated": "2026-04-30T14:50:47.202Z",
+  "fullName": "Consejo Nacional Electoral",
+  "lastUpdated": "2026-05-01T10:14:52.978Z",
   "items": [
+    {
+      "key": "cne::ciudadanía-podrá-inscribirse-del-4-al-13-de-mayo-para-integr",
+      "title": "Ciudadanía podrá inscribirse del 4 al 13 de mayo para integrar la veeduría de selección de candidatos al CPCCS",
+      "date": "2026-04-29",
+      "url": "https://www.cne.gob.ec/ciudadania-podra-inscribirse-del-4-al-13-de-mayo-para-integrar-la-veeduria-de-seleccion-de-candidatos-al-cpccs/",
+      "summary": "El CNE abrió inscripciones para que ciudadanos y organizaciones se registren como veedores que supervisarán la selección de candidatos al Consejo de Participación Ciudadana. Este proceso es obligatorio antes de que se reciban las candidaturas para vocales del CPCCS entre junio 12 y 25.",
+      "scrapedAt": "2026-05-01T10:14:52.970Z"
+    },
+    {
+      "key": "cne::cne-reforma-instructivo-para-calificación-de-candidaturas-pa",
+      "title": "CNE reforma instructivo para calificación de candidaturas para vocales del Consejo de Participación Ciudadana",
+      "date": "2026-04-27",
+      "url": "https://www.eluniverso.com/noticias/politica/cne-reforma-instructivo-candidaturas-eleccion-vocales-cpccs-nota/",
+      "summary": "El CNE aprobó cambios al instructivo que regula cómo se calificarán las candidaturas para el CPCCS, incluyendo nuevos requisitos y procesos de acreditación de veedurías. Los aspirantes a vocales ahora deberán tener título de tercer nivel y demostrar probidad notoria.",
+      "scrapedAt": "2026-05-01T10:14:52.970Z"
+    },
+    {
+      "key": "cne::cne-aprueba-observadores-nacionales-e-internacionales-para-l",
+      "title": "CNE aprueba observadores nacionales e internacionales para las elecciones seccionales Ecuador 2026",
+      "date": "2026-04-21",
+      "url": "https://www.cne.gob.ec/cne-invita-a-observacion-nacional-e-internacional-para-las-elecciones-seccionales-y-cpccs-2027/",
+      "summary": "El CNE formalizó invitaciones a organismos internacionales como la OEA y la Unión Europea, así como a universidades y ciudadanos ecuatorianos en el exterior, para que supervisen las elecciones seccionales del 29 de noviembre. Los observadores verificarán la transparencia y cumplimiento de estándares en todas las fases del proceso electoral.",
+      "scrapedAt": "2026-05-01T10:14:52.970Z"
+    },
+    {
+      "key": "cne::cne-actualiza-reglamento-y-manual-para-la-organización-de-21",
+      "title": "CNE actualiza reglamento y manual para la organización de 21 debates de prefecturas y de 24 alcaldías",
+      "date": "2026-04-12",
+      "url": "https://www.cne.gob.ec/cne-actualiza-reglamento-y-manual-para-la-organizacion-de-21-debates-de-prefecturas-y-de-24-alcaldias/",
+      "summary": "El CNE estableció nuevas reglas y procedimientos para los 45 debates electorales que se realizarán entre noviembre 12 y 26 de 2026. Los cambios buscan garantizar condiciones equitativas para todos los candidatos y asegurar que la ciudadanía pueda conocer las propuestas de quienes aspiran a dirigir provincias y cantones.",
+      "scrapedAt": "2026-05-01T10:14:52.970Z"
+    },
+    {
+      "key": "cne::cne-actualiza-número-de-circunscripciones-para-la-elección-d",
+      "title": "CNE actualiza número de circunscripciones para la elección de concejales urbanos y rurales en Ecuador",
+      "date": "2026-04-03",
+      "url": "https://www.cne.gob.ec/cne-actualiza-numero-de-circunscripciones-para-la-eleccion-de-concejales-urbanos-y-rurales-en-ecuador/",
+      "summary": "El CNE modificó la delimitación de circunscripciones electorales para concejales en 17 cantones del país para asegurar mejor representación en jurisdicciones con mayor densidad poblacional. Esta medida afecta la distribución de 5.742 autoridades que se elegirán el 29 de noviembre.",
+      "scrapedAt": "2026-05-01T10:14:52.970Z"
+    },
     {
       "key": "cne::cne-aprueba-adelanto-de-elecciones-seccionales-para-el-29-de",
       "title": "CNE aprueba adelanto de elecciones seccionales para el 29 de noviembre de 2026",

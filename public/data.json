@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-05-01T08:58:00.385Z",
+  "lastScraped": "2026-05-01T10:16:25.463Z",
   "institutions": [
     {
       "id": "iniap",
@@ -393,37 +393,37 @@
       "status": "ok",
       "news": [
         {
-          "title": "CNE aprueba adelanto de elecciones seccionales para el 29 de noviembre de 2026",
-          "date": "2026-03-27",
-          "url": "https://www.primicias.ec/politica/cne-elecciones-seccionales-ecuador-29-noviembre-119142/",
-          "summary": "El Consejo Nacional Electoral adelantó 75 días las elecciones seccionales originalmente previstas para febrero de 2027, basándose en alertas de la Secretaría Nacional de Gestión de Riesgos sobre un posible fenómeno de El Niño que podría causar inundaciones e impedir el normal desarrollo de los comicios en enero-marzo de 2027."
+          "title": "Ciudadanía podrá inscribirse del 4 al 13 de mayo para integrar la veeduría de selección de candidatos al CPCCS",
+          "date": "2026-04-29",
+          "url": "https://www.cne.gob.ec/ciudadania-podra-inscribirse-del-4-al-13-de-mayo-para-integrar-la-veeduria-de-seleccion-de-candidatos-al-cpccs/",
+          "summary": "El CNE abrió inscripciones para que ciudadanos y organizaciones se registren como veedores que supervisarán la selección de candidatos al Consejo de Participación Ciudadana. Este proceso es obligatorio antes de que se reciban las candidaturas para vocales del CPCCS entre junio 12 y 25."
         },
         {
-          "title": "CNE inicia proceso administrativo de cancelación contra Unidad Popular y Construye",
-          "date": "2026-03-26",
-          "url": "https://www.primicias.ec/politica/cne-eliminacion-unidad-popular-dconstruye-diana-atamaint-voto-dirimente-121329/",
-          "summary": "El CNE inició en marzo un proceso administrativo contra las organizaciones políticas Unidad Popular y Construye por presunto incumplimiento de requisitos de afiliación exigidos por ley, argumentando que ambas no demostraban tener el número mínimo de adherentes permanentes requeridos para mantener su personería jurídica."
+          "title": "CNE reforma instructivo para calificación de candidaturas para vocales del Consejo de Participación Ciudadana",
+          "date": "2026-04-27",
+          "url": "https://www.eluniverso.com/noticias/politica/cne-reforma-instructivo-candidaturas-eleccion-vocales-cpccs-nota/",
+          "summary": "El CNE aprobó cambios al instructivo que regula cómo se calificarán las candidaturas para el CPCCS, incluyendo nuevos requisitos y procesos de acreditación de veedurías. Los aspirantes a vocales ahora deberán tener título de tercer nivel y demostrar probidad notoria."
         },
         {
-          "title": "CNE aprobó el calendario electoral para las elecciones seccionales 2027",
-          "date": "2026-02-14",
-          "url": "https://www.primicias.ec/politica/calendario-electoral-elecciones2027-gobiernos-locales-alcaldias-prefecturas-cpccs-116124/",
-          "summary": "El CNE aprobó el calendario completo para las elecciones seccionales y de consejeros del CPCCS con votación fijada para el 14 de febrero de 2027, estableciendo todos los hitos electorales incluyendo inscripción de candidatos, debates y posesión de autoridades el 14 de mayo de 2027."
+          "title": "CNE aprueba observadores nacionales e internacionales para las elecciones seccionales Ecuador 2026",
+          "date": "2026-04-21",
+          "url": "https://www.cne.gob.ec/cne-invita-a-observacion-nacional-e-internacional-para-las-elecciones-seccionales-y-cpccs-2027/",
+          "summary": "El CNE formalizó invitaciones a organismos internacionales como la OEA y la Unión Europea, así como a universidades y ciudadanos ecuatorianos en el exterior, para que supervisen las elecciones seccionales del 29 de noviembre. Los observadores verificarán la transparencia y cumplimiento de estándares en todas las fases del proceso electoral."
         },
         {
-          "title": "CNE inició el período electoral para las elecciones seccionales 2027",
-          "date": "2026-02-14",
-          "url": "https://www.primicias.ec/politica/ecuador-periodo-electoral-alcaldias-prefecturas-cpccs-cne-116069/",
-          "summary": "El CNE formalmente inició el período electoral el 14 de febrero de 2026, marcando el comienzo oficial del proceso para elegir alcaldes, prefectos, concejales, vocales de juntas parroquiales y miembros del Consejo de Participación Ciudadana para el período 2027-2031."
+          "title": "CNE actualiza reglamento y manual para la organización de 21 debates de prefecturas y de 24 alcaldías",
+          "date": "2026-04-12",
+          "url": "https://www.cne.gob.ec/cne-actualiza-reglamento-y-manual-para-la-organizacion-de-21-debates-de-prefecturas-y-de-24-alcaldias/",
+          "summary": "El CNE estableció nuevas reglas y procedimientos para los 45 debates electorales que se realizarán entre noviembre 12 y 26 de 2026. Los cambios buscan garantizar condiciones equitativas para todos los candidatos y asegurar que la ciudadanía pueda conocer las propuestas de quienes aspiran a dirigir provincias y cantones."
         },
         {
-          "title": "CNE inició pago de compensación económica a miembros de mesa",
-          "date": "2026-02-03",
-          "url": "https://www.eluniverso.com/noticias/politica/miembros-de-mesa-de-consulta-popular-en-ecuador-ya-pueden-cobrar-20-dolares-nota/",
-          "summary": "El CNE comenzó el pago de compensación económica a más de 200.000 personas que integraron las juntas receptoras del voto en la consulta popular y referéndum de 2025, con cobros disponibles en Banco del Pacífico y BanEcuador hasta el 2 de julio."
+          "title": "CNE actualiza número de circunscripciones para la elección de concejales urbanos y rurales en Ecuador",
+          "date": "2026-04-03",
+          "url": "https://www.cne.gob.ec/cne-actualiza-numero-de-circunscripciones-para-la-eleccion-de-concejales-urbanos-y-rurales-en-ecuador/",
+          "summary": "El CNE modificó la delimitación de circunscripciones electorales para concejales en 17 cantones del país para asegurar mejor representación en jurisdicciones con mayor densidad poblacional. Esta medida afecta la distribución de 5.742 autoridades que se elegirán el 29 de noviembre."
         }
       ],
-      "lastUpdated": "2026-04-30T15:29:39.775Z"
+      "lastUpdated": "2026-05-01T10:14:52.978Z"
     },
     {
       "id": "asamblea",
@@ -434,6 +434,12 @@
       "sourceUrl": "https://www.asambleanacional.gob.ec/es/noticias",
       "status": "ok",
       "news": [
+        {
+          "title": "Asamblea posesiona a Mercedes Caicedo y Ramón Echaiz como vocales del Consejo de la Judicatura",
+          "date": "2026-04-29",
+          "url": "https://www.asambleanacional.gob.ec/es/node/116075",
+          "summary": "Mercedes Caicedo Aldaz fue posesionada como presidenta del Consejo de la Judicatura, asumiendo la responsabilidad de fortalecer la independencia judicial, combatir la corrupción y modernizar tecnológicamente la entidad. Este cambio marca un nuevo liderazgo en el máximo órgano de administración judicial del país."
+        },
         {
           "title": "Comisión aprueba informe para primer debate de reformas a la Ley de Juventudes con enfoque en derechos y diversidad",
           "date": "2026-04-29",
@@ -447,13 +453,19 @@
           "summary": "El Pleno aprobó con 85 votos la objeción parcial del presidente a la reforma penitenciaria, permitiendo que la ley se remita al Registro Oficial para su publicación y entrada en vigencia, fortaleciendo el control estatal sobre los centros de privación de libertad."
         },
         {
+          "title": "Presidente de la Asamblea Nacional impulsa alianza parlamentaria regional para fortalecer cooperación entre parlamentos",
+          "date": "2026-04-27",
+          "url": "https://www.asambleanacional.gob.ec/es",
+          "summary": "El presidente Niels Olsen promueve una alianza parlamentaria regional con Chile, Uruguay y Argentina para construir una agenda común en seguridad e inversiones. Se espera que Ecuador realice el primer encuentro formal de esta red parlamentaria de Latinoamérica durante 2026."
+        },
+        {
           "title": "Niels Olsen impulsa una alianza parlamentaria de Latinoamérica para fortalecer la cooperación legislativa regional",
           "date": "2026-04-27",
           "url": "https://www.asambleanacional.gob.ec/es/noticia/116018-niels-olsen-impulsa-una-alianza-parlamentaria-de",
           "summary": "El presidente de la Asamblea Nacional impulsa una alianza parlamentaria regional con Chile, Uruguay y Argentina para fortalecer la cooperación legislativa, compartir experiencias en seguridad, modernización estatal y transformación digital entre los parlamentos de la región."
         }
       ],
-      "lastUpdated": "2026-04-30T15:30:25.156Z"
+      "lastUpdated": "2026-05-01T10:15:35.151Z"
     },
     {
       "id": "corte-constitucional",
@@ -495,7 +507,7 @@
           "summary": "La Corte emitió dictamen favorable sobre propuesta de enmienda que trasladaría la facultad de designación de autoridades del CPCCS a la Asamblea Nacional, permitiendo avanzar hacia un referéndum."
         }
       ],
-      "lastUpdated": "2026-04-30T15:30:50.366Z"
+      "lastUpdated": "2026-05-01T10:16:00.462Z"
     },
     {
       "id": "pge",

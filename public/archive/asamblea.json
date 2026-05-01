@@ -2,8 +2,16 @@
   "id": "asamblea",
   "name": "Asamblea",
   "fullName": "Asamblea Nacional del Ecuador",
-  "lastUpdated": "2026-04-30T15:30:25.156Z",
+  "lastUpdated": "2026-05-01T10:15:35.150Z",
   "items": [
+    {
+      "key": "asamblea::asamblea-posesiona-a-mercedes-caicedo-y-ramón-echaiz-como-vo",
+      "title": "Asamblea posesiona a Mercedes Caicedo y Ramón Echaiz como vocales del Consejo de la Judicatura",
+      "date": "2026-04-29",
+      "url": "https://www.asambleanacional.gob.ec/es/node/116075",
+      "summary": "Mercedes Caicedo Aldaz fue posesionada como presidenta del Consejo de la Judicatura, asumiendo la responsabilidad de fortalecer la independencia judicial, combatir la corrupción y modernizar tecnológicamente la entidad. Este cambio marca un nuevo liderazgo en el máximo órgano de administración judicial del país.",
+      "scrapedAt": "2026-05-01T10:15:35.150Z"
+    },
     {
       "key": "asamblea::comisión-aprueba-informe-para-primer-debate-de-reformas-a-la",
       "title": "Comisión aprueba informe para primer debate de reformas a la Ley de Juventudes con enfoque en derechos y diversidad",
@@ -21,6 +29,14 @@
       "scrapedAt": "2026-04-30T15:30:25.156Z"
     },
     {
+      "key": "asamblea::presidente-de-la-asamblea-nacional-impulsa-alianza-parlament",
+      "title": "Presidente de la Asamblea Nacional impulsa alianza parlamentaria regional para fortalecer cooperación entre parlamentos",
+      "date": "2026-04-27",
+      "url": "https://www.asambleanacional.gob.ec/es",
+      "summary": "El presidente Niels Olsen promueve una alianza parlamentaria regional con Chile, Uruguay y Argentina para construir una agenda común en seguridad e inversiones. Se espera que Ecuador realice el primer encuentro formal de esta red parlamentaria de Latinoamérica durante 2026.",
+      "scrapedAt": "2026-05-01T10:15:35.150Z"
+    },
+    {
       "key": "asamblea::niels-olsen-impulsa-una-alianza-parlamentaria-de-latinoaméri",
       "title": "Niels Olsen impulsa una alianza parlamentaria de Latinoamérica para fortalecer la cooperación legislativa regional",
       "date": "2026-04-27",
@@ -32,16 +48,24 @@
       "key": "asamblea::asamblea-nacional-aprueba-por-unanimidad-proyecto-de-ley-que",
       "title": "Asamblea Nacional aprueba por unanimidad proyecto de ley que fortalece la salud mental de niñas, niños y adolescentes",
       "date": "2026-04-22",
-      "url": "https://www.asambleanacional.gob.ec/es/node/115926",
-      "summary": "El Pleno aprobó por unanimidad la Ley de Promoción, Prevención y Atención Psicosocial para menores, que incorpora la materia obligatoria de Psicoeducación en las escuelas y obliga a las aseguradoras a cubrir salud mental, respondiendo a la crisis de suicidio y depresión en adolescentes.",
+      "url": "https://www.asambleanacional.gob.ec/es/Ley-Organica-Promocion-Prevencion-Atencion-Psicosocial-Ninas-Ninos-Adolescentes",
+      "summary": "Se aprobó por unanimidad la Ley de Promoción, Prevención y Atención Psicosocial para Niñas, Niños y Adolescentes, que incorpora la asignatura obligatoria de Psicoeducación en todas las escuelas y establece programas de prevención de salud mental con enfoque intercultural. La ley responde a la crisis de salud mental evidenciada por el aumento de depresión, ansiedad y conductas suicidas en menores.",
       "scrapedAt": "2026-04-30T15:30:25.156Z"
+    },
+    {
+      "key": "asamblea::reforma-al-código-orgánico-del-ambiente-avanza-en-la-asamble",
+      "title": "Reforma al Código Orgánico del Ambiente avanza en la Asamblea para fortalecer gestión climática",
+      "date": "2026-04-15",
+      "url": "https://www.asambleanacional.gob.ec/es/node/115818",
+      "summary": "El Pleno tramitó en primer debate el proyecto de reforma ambiental que busca consolidar la regulación sobre cambio climático en un solo cuerpo normativo. La iniciativa incluye herramientas para mitigación y adaptación climática, además de mecanismos para acceder a financiamiento internacional mediante mercados de carbono.",
+      "scrapedAt": "2026-05-01T10:15:35.150Z"
     },
     {
       "key": "asamblea::nueva-ley-establece-formación-financiera-desde-la-educación-",
       "title": "Nueva ley establece formación financiera desde la educación inicial hasta la superior",
       "date": "2026-04-15",
       "url": "https://www.asambleanacional.gob.ec/es/node/115830",
-      "summary": "La Asamblea aprobó con 88 votos la Ley Orgánica de Educación Financiera, que instituye obligatoriamente la educación financiera como componente transversal en todos los niveles educativos del país, dotando a estudiantes de herramientas para tomar decisiones económicas responsables.",
+      "summary": "La Asamblea aprobó con 88 votos la Ley Orgánica de Educación Financiera, que institucionaliza la educación financiera como componente obligatorio en todos los niveles educativos. La normativa busca dotar a los ecuatorianos, especialmente jóvenes, de herramientas para usar responsablemente el dinero, evitar estafas y gestionar créditos adecuadamente.",
       "scrapedAt": "2026-04-30T15:30:25.156Z"
     },
     {
