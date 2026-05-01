@@ -2,7 +2,7 @@
   "id": "min-interior",
   "name": "Min. Interior",
   "fullName": "Ministerio del Interior",
-  "lastUpdated": "2026-04-30T15:28:24.182Z",
+  "lastUpdated": "2026-05-01T08:56:19.417Z",
   "items": [
     {
       "key": "min-interior::ecuador-deporta-a-ciudadano-colombiano-requerido-por-delito-",
@@ -22,11 +22,43 @@
     },
     {
       "key": "min-interior::ecuador-y-estados-unidos-firman-memorando-de-entendimiento-p",
-      "title": "Ecuador y Estados Unidos Firman Memorando de Entendimiento para Establecer Investigaciones Conjuntas",
+      "title": "ECUADOR Y ESTADOS UNIDOS FIRMAN MEMORANDO DE ENTENDIMIENTO PARA ESTABLECER INVESTIGACIONES CONJUNTAS",
       "date": "2026-04-20",
       "url": "https://www.ministeriodelinterior.gob.ec/ecuador-y-estados-unidos-firman-memorando-de-entendimiento-para-establecer-investigaciones-conjuntas/",
-      "summary": "Ecuador y Estados Unidos suscribieron un memorando de cooperación bilateral que permitirá fortalecer el intercambio de información e inteligencia, así como la coordinación operativa entre las agencias de ambos países para combatir el crimen organizado transnacional, el narcotráfico, tráfico de armas y delitos conexos.",
+      "summary": "Ecuador y Estados Unidos suscriben un acuerdo bilateral para intercambiar información, inteligencia y asistencia técnica en la lucha contra el crimen organizado transnacional, permitiendo investigaciones conjuntas sobre narcotráfico, tráfico de armas, trata de personas y otros delitos internacionales.",
       "scrapedAt": "2026-04-30T15:28:24.175Z"
+    },
+    {
+      "key": "min-interior::el-gobierno-nacional-fortalece-la-seguridad-ciudadana-con-de",
+      "title": "EL GOBIERNO NACIONAL FORTALECE LA SEGURIDAD CIUDADANA CON DENUNCIAS DIGITALES A TRAVÉS DEL QR DE LA CÉDULA",
+      "date": "2026-04-09",
+      "url": "https://www.ministeriodelinterior.gob.ec/el-gobierno-nacional-fortalece-la-seguridad-ciudadana-con-denuncias-digitales-a-traves-del-qr-de-la-cedula/",
+      "summary": "El Ministerio del Interior implementa un sistema digital mediante el código QR en las cédulas de identidad que permite a los ciudadanos denunciar delitos de manera ágil y segura, facilitando la participación ciudadana en la prevención del crimen.",
+      "scrapedAt": "2026-05-01T08:56:19.408Z"
+    },
+    {
+      "key": "min-interior::ecuador-y-la-unión-europea-reafirman-su-alianza-para-combati",
+      "title": "ECUADOR Y LA UNIÓN EUROPEA REAFIRMAN SU ALIANZA PARA COMBATIR EL CRIMEN TRANSNACIONAL Y REFORZAR LA SEGURIDAD FRONTERIZA",
+      "date": "2026-03-17",
+      "url": "https://www.ministeriodelinterior.gob.ec/ecuador-y-la-union-europea-reafirman-su-alianza-para-combatir-el-crimen-transnacional-y-reforzar-la-seguridad-fronteriza/",
+      "summary": "Ecuador y la Unión Europea suscriben una Declaración de Intención para fortalecer el trabajo conjunto en seguridad fronteriza, intercambio de información migratoria y control de flujos irregulares, posicionando la cooperación internacional como fundamental para enfrentar amenazas transnacionales.",
+      "scrapedAt": "2026-05-01T08:56:19.408Z"
+    },
+    {
+      "key": "min-interior::gobierno-nacional-lidera-operativo-gran-fénix-3-contra-red",
+      "title": "GOBIERNO NACIONAL LIDERA OPERATIVO \"GRAN FÉNIX 3\" CONTRA RED DE DELINCUENCIA ORGANIZADA VINCULADA A LA AGENCIA NACIONAL DE TRÁNSITO",
+      "date": "2026-01-30",
+      "url": "https://www.ministeriodelinterior.gob.ec/gobierno-nacional-lidera-operativo-gran-fenix-3-contra-red-de-delincuencia-organizada-vinculada-a-la-agencia-nacional-de-transito/",
+      "summary": "La Policía Nacional ejecuta el operativo Gran Fénix 3 en tres provincias, capturando a 10 personas vinculadas con la emisión irregular de licencias de conducir mediante corrupción de funcionarios públicos que cobraban pagos ilegales desde noviembre de 2024.",
+      "scrapedAt": "2026-05-01T08:56:19.408Z"
+    },
+    {
+      "key": "min-interior::policía-nacional-desarticula-estructuras-de-secuestro-extor",
+      "title": "POLICÍA NACIONAL DESARTICULA ESTRUCTURAS DE SECUESTRO, EXTORSIÓN Y TRÁFICO ILÍCITO EN OPERATIVOS SIMULTÁNEOS",
+      "date": "2026-01-23",
+      "url": "https://www.ministeriodelinterior.gob.ec/policia-nacional-desarticula-estructuras-de-secuestro-extorsion-y-trafico-ilicito-en-operativos-simultaneos/",
+      "summary": "La Unidad Nacional Antisecuestros y Extorsión libera a una víctima de secuestro extorsivo y desarticulaba estructuras criminales que exigían pagos entre USD 10.000 y 500.000, capturando 14 personas e incautando armas, drogas y vehículos.",
+      "scrapedAt": "2026-05-01T08:56:19.408Z"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-05-01T07:28:22.455Z",
+  "lastScraped": "2026-05-01T08:58:00.385Z",
   "institutions": [
     {
       "id": "iniap",
@@ -330,13 +330,25 @@
           "summary": "El ministro John Reimberg anunció que el Gobierno Nacional descartó los sistemas de semaforización y salvoconductos para el próximo toque de queda del 3 al 18 de mayo, implementando en su lugar un régimen más restrictivo para evitar la dispersión de controles y garantizar la eficacia de las operaciones de seguridad."
         },
         {
-          "title": "Ecuador y Estados Unidos Firman Memorando de Entendimiento para Establecer Investigaciones Conjuntas",
+          "title": "ECUADOR Y ESTADOS UNIDOS FIRMAN MEMORANDO DE ENTENDIMIENTO PARA ESTABLECER INVESTIGACIONES CONJUNTAS",
           "date": "2026-04-20",
           "url": "https://www.ministeriodelinterior.gob.ec/ecuador-y-estados-unidos-firman-memorando-de-entendimiento-para-establecer-investigaciones-conjuntas/",
-          "summary": "Ecuador y Estados Unidos suscribieron un memorando de cooperación bilateral que permitirá fortalecer el intercambio de información e inteligencia, así como la coordinación operativa entre las agencias de ambos países para combatir el crimen organizado transnacional, el narcotráfico, tráfico de armas y delitos conexos."
+          "summary": "Ecuador y Estados Unidos suscriben un acuerdo bilateral para intercambiar información, inteligencia y asistencia técnica en la lucha contra el crimen organizado transnacional, permitiendo investigaciones conjuntas sobre narcotráfico, tráfico de armas, trata de personas y otros delitos internacionales."
+        },
+        {
+          "title": "EL GOBIERNO NACIONAL FORTALECE LA SEGURIDAD CIUDADANA CON DENUNCIAS DIGITALES A TRAVÉS DEL QR DE LA CÉDULA",
+          "date": "2026-04-09",
+          "url": "https://www.ministeriodelinterior.gob.ec/el-gobierno-nacional-fortalece-la-seguridad-ciudadana-con-denuncias-digitales-a-traves-del-qr-de-la-cedula/",
+          "summary": "El Ministerio del Interior implementa un sistema digital mediante el código QR en las cédulas de identidad que permite a los ciudadanos denunciar delitos de manera ágil y segura, facilitando la participación ciudadana en la prevención del crimen."
+        },
+        {
+          "title": "ECUADOR Y LA UNIÓN EUROPEA REAFIRMAN SU ALIANZA PARA COMBATIR EL CRIMEN TRANSNACIONAL Y REFORZAR LA SEGURIDAD FRONTERIZA",
+          "date": "2026-03-17",
+          "url": "https://www.ministeriodelinterior.gob.ec/ecuador-y-la-union-europea-reafirman-su-alianza-para-combatir-el-crimen-transnacional-y-reforzar-la-seguridad-fronteriza/",
+          "summary": "Ecuador y la Unión Europea suscriben una Declaración de Intención para fortalecer el trabajo conjunto en seguridad fronteriza, intercambio de información migratoria y control de flujos irregulares, posicionando la cooperación internacional como fundamental para enfrentar amenazas transnacionales."
         }
       ],
-      "lastUpdated": "2026-04-30T15:28:24.182Z"
+      "lastUpdated": "2026-05-01T08:56:19.417Z"
     },
     {
       "id": "min-gobierno",
@@ -347,7 +359,7 @@
       "sourceUrl": "https://www.ministeriodegobierno.gob.ec/noticias/",
       "status": "stale",
       "news": [],
-      "lastUpdated": "2026-04-30T15:28:49.367Z"
+      "lastUpdated": "2026-05-01T08:56:44.943Z"
     },
     {
       "id": "presidencia",
@@ -358,7 +370,18 @@
       "sourceUrl": "https://www.comunicacion.gob.ec/noticias/",
       "status": "stale",
       "news": [],
-      "lastUpdated": "2026-04-30T15:29:14.583Z"
+      "lastUpdated": "2026-05-01T08:57:10.233Z"
+    },
+    {
+      "id": "ecu911",
+      "name": "ECU 911",
+      "fullName": "Servicio Integrado de Seguridad ECU 911",
+      "category": "Seguridad & Gobierno",
+      "color": "#EF233C",
+      "sourceUrl": "https://www.ecu911.gob.ec/",
+      "status": "stale",
+      "news": [],
+      "lastUpdated": "2026-05-01T08:57:35.384Z"
     },
     {
       "id": "cne",
@@ -509,9 +532,9 @@
     }
   ],
   "summary": {
-    "total": 20,
+    "total": 21,
     "ok": 10,
-    "stale": 10,
+    "stale": 11,
     "error": 0
   }
 }
