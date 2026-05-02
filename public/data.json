@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-05-01T12:04:36.329Z",
+  "lastScraped": "2026-05-02T04:16:32.556Z",
   "institutions": [
     {
       "id": "iniap",
@@ -41,7 +41,7 @@
           "summary": "El INIAP resalta su contribución al desarrollo del cultivo de papa mediante investigación, mejora nutricional y prácticas sostenibles para beneficio de productores nacionales."
         }
       ],
-      "lastUpdated": "2026-05-01T04:44:05.786Z"
+      "lastUpdated": "2026-05-02T04:14:52.166Z"
     },
     {
       "id": "mag",
@@ -52,7 +52,7 @@
       "sourceUrl": "https://www.agricultura.gob.ec/noticias/",
       "status": "stale",
       "news": [],
-      "lastUpdated": "2026-05-01T04:44:30.878Z"
+      "lastUpdated": "2026-05-02T04:15:17.274Z"
     },
     {
       "id": "agrocalidad",
@@ -63,7 +63,7 @@
       "sourceUrl": "https://www.agrocalidad.gob.ec/noticias/",
       "status": "stale",
       "news": [],
-      "lastUpdated": "2026-05-01T04:44:56.098Z"
+      "lastUpdated": "2026-05-02T04:15:42.382Z"
     },
     {
       "id": "proecuador",
@@ -105,7 +105,7 @@
           "summary": "Ecuador participó en Gulfood 2026, la feria internacional de alimentos y bebidas más importante del mundo, a través de ProEcuador que organizó un pabellón nacional para promover productos agroalimentarios ecuatorianos ante más de 100.000 compradores internacionales de 190 países."
         }
       ],
-      "lastUpdated": "2026-05-01T04:45:21.304Z"
+      "lastUpdated": "2026-05-02T04:16:07.553Z"
     },
     {
       "id": "inamhi",
