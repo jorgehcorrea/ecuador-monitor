@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-05-03T09:59:50.066Z",
+  "lastScraped": "2026-05-03T11:52:45.390Z",
   "institutions": [
     {
       "id": "iniap",
@@ -518,7 +518,7 @@
       "sourceUrl": "https://www.pge.gob.ec/",
       "status": "stale",
       "news": [],
-      "lastUpdated": "2026-05-02T11:52:29.415Z"
+      "lastUpdated": "2026-05-03T11:51:30.258Z"
     },
     {
       "id": "contraloria",
@@ -529,7 +529,7 @@
       "sourceUrl": "https://www.contraloria.gob.ec/SalaDePrensa/",
       "status": "stale",
       "news": [],
-      "lastUpdated": "2026-05-02T11:52:54.552Z"
+      "lastUpdated": "2026-05-03T11:51:55.328Z"
     },
     {
       "id": "registro-oficial",
@@ -540,7 +540,7 @@
       "sourceUrl": "https://www.registroficial.gob.ec/",
       "status": "stale",
       "news": [],
-      "lastUpdated": "2026-05-02T11:53:19.678Z"
+      "lastUpdated": "2026-05-03T11:52:20.387Z"
     }
   ],
   "summary": {
