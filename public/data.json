@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-05-04T07:49:49.152Z",
+  "lastScraped": "2026-05-04T09:14:37.388Z",
   "institutions": [
     {
       "id": "iniap",
@@ -348,7 +348,7 @@
           "summary": "Ecuador y la Unión Europea suscriben una Declaración de Intención para fortalecer el trabajo conjunto en seguridad fronteriza, intercambio de información migratoria y control de flujos irregulares, posicionando la cooperación internacional como fundamental para enfrentar amenazas transnacionales."
         }
       ],
-      "lastUpdated": "2026-05-03T08:44:31.923Z"
+      "lastUpdated": "2026-05-04T09:12:56.950Z"
     },
     {
       "id": "min-gobierno",
@@ -359,7 +359,7 @@
       "sourceUrl": "https://www.ministeriodegobierno.gob.ec/noticias/",
       "status": "stale",
       "news": [],
-      "lastUpdated": "2026-05-03T08:44:57.220Z"
+      "lastUpdated": "2026-05-04T09:13:22.070Z"
     },
     {
       "id": "presidencia",
@@ -370,7 +370,7 @@
       "sourceUrl": "https://www.comunicacion.gob.ec/noticias/",
       "status": "stale",
       "news": [],
-      "lastUpdated": "2026-05-03T08:45:22.272Z"
+      "lastUpdated": "2026-05-04T09:13:47.217Z"
     },
     {
       "id": "ecu911",
@@ -381,7 +381,7 @@
       "sourceUrl": "https://www.ecu911.gob.ec/",
       "status": "stale",
       "news": [],
-      "lastUpdated": "2026-05-03T08:45:47.391Z"
+      "lastUpdated": "2026-05-04T09:14:12.384Z"
     },
     {
       "id": "cne",
