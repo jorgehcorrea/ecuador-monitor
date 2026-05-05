@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-05-05T04:13:46.279Z",
+  "lastScraped": "2026-05-05T05:48:32.604Z",
   "institutions": [
     {
       "id": "iniap",
@@ -147,7 +147,7 @@
           "summary": "Se registran temperaturas récord en la región Litoral especialmente entre las 10:00 y 15:00 horas, con ciudades como Guayaquil y Santa Rosa superando valores históricos recientes. El INAMHI recomienda reducir exposición solar, mantenerse hidratado y proteger grupos vulnerables."
         }
       ],
-      "lastUpdated": "2026-05-04T06:17:21.902Z"
+      "lastUpdated": "2026-05-05T05:47:17.211Z"
     },
     {
       "id": "bce",
@@ -158,7 +158,7 @@
       "sourceUrl": "https://www.bce.fin.ec/comunicados/",
       "status": "stale",
       "news": [],
-      "lastUpdated": "2026-05-04T06:17:47.049Z"
+      "lastUpdated": "2026-05-05T05:47:42.427Z"
     },
     {
       "id": "mipro",
@@ -200,7 +200,7 @@
           "summary": "El MPCEI concluyó las negociaciones del Acuerdo de Facilitación de Inversiones Sostenibles (SIFA) con la Unión Europea, convirtiendo a Ecuador en el primer país latinoamericano con este instrumento. El SIFA simplifica procedimientos de inversión, reduce incertidumbre regulatoria y promueve un clima empresarial más transparente, acompañado de 8 millones de euros de cooperación técnica para transición energética e inversiones sostenibles."
         }
       ],
-      "lastUpdated": "2026-05-04T06:18:12.203Z"
+      "lastUpdated": "2026-05-05T05:48:07.600Z"
     },
     {
       "id": "sri",
