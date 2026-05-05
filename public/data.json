@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-05-05T05:48:32.604Z",
+  "lastScraped": "2026-05-05T07:21:27.598Z",
   "institutions": [
     {
       "id": "iniap",
@@ -242,7 +242,7 @@
           "summary": "Según el boletín oficial del SRI, las ventas en Ecuador crecieron 8,2% en 2025, superando los USD 265 mil millones, demostrando el dinamismo económico del país. Este crecimiento sustenta el aumento en la recaudación tributaria durante el período."
         }
       ],
-      "lastUpdated": "2026-05-04T07:48:08.885Z"
+      "lastUpdated": "2026-05-05T07:19:45.886Z"
     },
     {
       "id": "arcsa",
@@ -253,7 +253,7 @@
       "sourceUrl": "https://www.controlsanitario.gob.ec/noticias/",
       "status": "stale",
       "news": [],
-      "lastUpdated": "2026-05-04T07:48:33.973Z"
+      "lastUpdated": "2026-05-05T07:20:12.329Z"
     },
     {
       "id": "senescyt",
@@ -264,7 +264,7 @@
       "sourceUrl": "https://www.senescyt.gob.ec/noticias/",
       "status": "stale",
       "news": [],
-      "lastUpdated": "2026-05-04T07:48:59.061Z"
+      "lastUpdated": "2026-05-05T07:20:37.467Z"
     },
     {
       "id": "sercop",
@@ -306,7 +306,7 @@
           "summary": "El SERCOP desarrolló mesas de trabajo el 3 y 4 de marzo con 10 instituciones y empresas públicas para crear un nuevo perfil profesional del Responsable Institucional de Cumplimiento en Contratación Pública, figura orientada a fortalecer mecanismos de control, transparencia e integridad en las compras públicas."
         }
       ],
-      "lastUpdated": "2026-05-04T07:49:24.149Z"
+      "lastUpdated": "2026-05-05T07:21:02.593Z"
     },
     {
       "id": "min-interior",
