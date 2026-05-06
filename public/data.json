@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-05-05T12:09:01.879Z",
+  "lastScraped": "2026-05-06T04:31:52.305Z",
   "institutions": [
     {
       "id": "iniap",
@@ -41,7 +41,7 @@
           "summary": "El INIAP resalta su contribución al desarrollo del cultivo de papa mediante investigación, mejora nutricional y prácticas sostenibles para beneficio de productores nacionales."
         }
       ],
-      "lastUpdated": "2026-05-05T04:12:05.902Z"
+      "lastUpdated": "2026-05-06T04:29:52.695Z"
     },
     {
       "id": "mag",
@@ -52,7 +52,7 @@
       "sourceUrl": "https://www.agricultura.gob.ec/noticias/",
       "status": "stale",
       "news": [],
-      "lastUpdated": "2026-05-05T04:12:31.043Z"
+      "lastUpdated": "2026-05-06T04:30:18.158Z"
     },
     {
       "id": "agrocalidad",
@@ -63,7 +63,7 @@
       "sourceUrl": "https://www.agrocalidad.gob.ec/noticias/",
       "status": "stale",
       "news": [],
-      "lastUpdated": "2026-05-05T04:12:56.155Z"
+      "lastUpdated": "2026-05-06T04:30:43.326Z"
     },
     {
       "id": "proecuador",
@@ -74,6 +74,12 @@
       "sourceUrl": "https://www.proecuador.gob.ec/noticias/",
       "status": "ok",
       "news": [
+        {
+          "title": "Roger Crespo designado nuevo viceministro de Promoción de Exportaciones e Inversiones",
+          "date": "2026-05-04",
+          "url": "https://www.eluniverso.com/noticias/economia/roger-crespo-nuevo-viceministro-de-promocion-de-exportaciones-e-inversiones-ecuador-2026-nota/",
+          "summary": "Roger Crespo fue designado nuevo viceministro de Promoción de Exportaciones e Inversiones en Ecuador, asumiendo funciones clave en la promoción comercial y de inversiones del país en mercados internacionales."
+        },
         {
           "title": "ProEcuador abre convocatoria para participación en Americas Food & Beverage Show 2026",
           "date": "2026-04-13",
@@ -93,19 +99,13 @@
           "summary": "Cuatro empresas ecuatorianas del sector pesquero y acuícola participaron en la feria internacional Seafood Expo North America 2026 en Boston con apoyo de ProEcuador, posicionando la calidad y sostenibilidad de los productos del mar ecuatorianos ante compradores internacionales."
         },
         {
-          "title": "ProEcuador reporta USD 345,2 millones en negocios internacionales con crecimiento del 176% en 2025",
+          "title": "PRO ECUADOR reporta USD 345,2 millones en negocios internacionales con crecimiento de 176% respecto a 2024",
           "date": "2026-03-02",
-          "url": "https://www.proecuador.gob.ec/tendencias-alimentarias-2025/",
-          "summary": "ProEcuador registró un crecimiento histórico de 176% en negocios internacionales concretados entre enero y octubre de 2025, alcanzando USD 345,2 millones, lo que demuestra el fortalecimiento de las estrategias de promoción comercial y la internacionalización de empresas ecuatorianas."
-        },
-        {
-          "title": "ProEcuador impulsa la oferta exportable ecuatoriana en Gulfood Dubái 2026",
-          "date": "2026-01-27",
-          "url": "https://www.proecuador.gob.ec/gobierno-de-daniel-noboa-impulsa-la-oferta-exportable-ecuatoriana-en-gulfood-dubai/",
-          "summary": "Ecuador participó en Gulfood 2026, la feria internacional de alimentos y bebidas más importante del mundo, a través de ProEcuador que organizó un pabellón nacional para promover productos agroalimentarios ecuatorianos ante más de 100.000 compradores internacionales de 190 países."
+          "url": "https://www.proecuador.gob.ec/proecuador-reporta-usd-3452-millones-en-negocios-internacionales-y-registra-un-crecimiento-de-176-respecto-a-2024/",
+          "summary": "Entre enero y octubre de 2025, los procesos comerciales acompañados por ProEcuador permitieron concretar negocios por USD 345,2 millones, evidenciando la capacidad del país para captar demanda internacional y potenciar su inserción comercial en un entorno global competitivo."
         }
       ],
-      "lastUpdated": "2026-05-05T04:13:21.277Z"
+      "lastUpdated": "2026-05-06T04:31:27.300Z"
     },
     {
       "id": "inamhi",

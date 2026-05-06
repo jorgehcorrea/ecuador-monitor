@@ -2,7 +2,7 @@
   "id": "iniap",
   "name": "INIAP",
   "fullName": "Instituto Nacional de Investigaciones Agropecuarias",
-  "lastUpdated": "2026-05-01T04:44:05.786Z",
+  "lastUpdated": "2026-05-06T04:29:52.695Z",
   "items": [
     {
       "key": "iniap::comisión-de-soberanía-alimentaria-avanza-en-reformas-a-la-le",
@@ -61,20 +61,20 @@
       "scrapedAt": "2026-05-01T04:44:05.777Z"
     },
     {
-      "key": "iniap::convocatoria-fiasa-2026-haz-realidad-tu-proyecto-de-invest",
-      "title": "Convocatoria FIASA 2026: ¡Haz realidad tu proyecto de investigación agropecuaria!",
-      "date": "2025-05-12",
-      "url": "https://www.iniap.gob.ec/convocatoria-fiasa-2026-haz-realidad-tu-proyecto-de-investigacion-agropecuaria/",
-      "summary": "Se abrió oficialmente la Convocatoria FIASA 2026, un mecanismo de financiamiento estatal para apoyar proyectos científicos sobre agrobiodiversidad, semillas y agricultura sustentable con hasta USD 150,000 por año.",
-      "scrapedAt": "2026-05-01T04:44:05.777Z"
-    },
-    {
       "key": "iniap::iniap-anuncia-la-apertura-de-la-convocatoria-fiasa-2026-para",
       "title": "INIAP anuncia la apertura de la Convocatoria FIASA 2026 para proyectos de investigación agropecuaria",
       "date": "2025-05-12",
       "url": "https://www.iniap.gob.ec/convocatoria-fiasa-2026-haz-realidad-tu-proyecto-de-investigacion-agropecuaria/",
       "summary": "El INIAP abrió oficialmente la Convocatoria FIASA 2026, un mecanismo de financiamiento estatal para apoyar proyectos científicos en investigación de agrobiodiversidad, mejora de semillas y agricultura sustentable. Los investigadores ecuatorianos pueden postular instituciones legales establecidas para acceder a estos fondos de investigación.",
       "scrapedAt": "2026-04-30T14:00:07.691Z"
+    },
+    {
+      "key": "iniap::convocatoria-fiasa-2026-haz-realidad-tu-proyecto-de-invest",
+      "title": "Convocatoria FIASA 2026: ¡Haz realidad tu proyecto de investigación agropecuaria!",
+      "date": "2025-05-12",
+      "url": "https://www.iniap.gob.ec/convocatoria-fiasa-2026-haz-realidad-tu-proyecto-de-investigacion-agropecuaria/",
+      "summary": "Se abrió oficialmente la Convocatoria FIASA 2026, un mecanismo de financiamiento estatal que permite a instituciones investigar sobre agrobiodiversidad, semillas y agricultura sustentable para obtener fondos de proyectos científicos y tecnológicos en el sector agropecuario ecuatoriano.",
+      "scrapedAt": "2026-05-01T04:44:05.777Z"
     },
     {
       "key": "iniap::iniap-cierra-el-2024-consolidando-logros-significativos-en-b",

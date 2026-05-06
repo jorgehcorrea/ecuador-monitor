@@ -2,8 +2,16 @@
   "id": "proecuador",
   "name": "ProEcuador",
   "fullName": "Instituto de Promoción de Exportaciones e Inversiones",
-  "lastUpdated": "2026-04-30T15:22:15.814Z",
+  "lastUpdated": "2026-05-06T04:31:27.299Z",
   "items": [
+    {
+      "key": "proecuador::roger-crespo-designado-nuevo-viceministro-de-promoción-de-ex",
+      "title": "Roger Crespo designado nuevo viceministro de Promoción de Exportaciones e Inversiones",
+      "date": "2026-05-04",
+      "url": "https://www.eluniverso.com/noticias/economia/roger-crespo-nuevo-viceministro-de-promocion-de-exportaciones-e-inversiones-ecuador-2026-nota/",
+      "summary": "Roger Crespo fue designado nuevo viceministro de Promoción de Exportaciones e Inversiones en Ecuador, asumiendo funciones clave en la promoción comercial y de inversiones del país en mercados internacionales.",
+      "scrapedAt": "2026-05-06T04:31:27.299Z"
+    },
     {
       "key": "proecuador::proecuador-abre-convocatoria-para-participación-en-americas-",
       "title": "ProEcuador abre convocatoria para participación en Americas Food & Beverage Show 2026",
@@ -29,6 +37,14 @@
       "scrapedAt": "2026-04-30T15:22:15.807Z"
     },
     {
+      "key": "proecuador::pro-ecuador-reporta-usd-3452-millones-en-negocios-internaci",
+      "title": "PRO ECUADOR reporta USD 345,2 millones en negocios internacionales con crecimiento de 176% respecto a 2024",
+      "date": "2026-03-02",
+      "url": "https://www.proecuador.gob.ec/proecuador-reporta-usd-3452-millones-en-negocios-internacionales-y-registra-un-crecimiento-de-176-respecto-a-2024/",
+      "summary": "Entre enero y octubre de 2025, los procesos comerciales acompañados por ProEcuador permitieron concretar negocios por USD 345,2 millones, evidenciando la capacidad del país para captar demanda internacional y potenciar su inserción comercial en un entorno global competitivo.",
+      "scrapedAt": "2026-05-06T04:31:27.299Z"
+    },
+    {
       "key": "proecuador::proecuador-reporta-usd-3452-millones-en-negocios-internacio",
       "title": "ProEcuador reporta USD 345,2 millones en negocios internacionales con crecimiento del 176% en 2025",
       "date": "2026-03-02",
@@ -37,12 +53,28 @@
       "scrapedAt": "2026-04-30T15:22:15.807Z"
     },
     {
+      "key": "proecuador::ecuador-participa-en-gulfood-dubai-2026-con-delegación-de-em",
+      "title": "Ecuador participa en Gulfood Dubai 2026 con delegación de empresas del sector alimentario",
+      "date": "2026-02-02",
+      "url": "https://latingulf.ae/2026/02/02/ecuador-captivates-international-buyers-at-gulfood-with-exceptional-products/",
+      "summary": "Ecuador participó en Gulfood 2026 (enero 26-30) a través de ProEcuador, presentando una delegación de empresas ecuatorianas del sector alimentario para conectar con compradores internacionales y fortalecer la reputación comercial del país en mercados globales.",
+      "scrapedAt": "2026-05-06T04:31:27.299Z"
+    },
+    {
       "key": "proecuador::proecuador-impulsa-la-oferta-exportable-ecuatoriana-en-gulfo",
       "title": "ProEcuador impulsa la oferta exportable ecuatoriana en Gulfood Dubái 2026",
       "date": "2026-01-27",
       "url": "https://www.proecuador.gob.ec/gobierno-de-daniel-noboa-impulsa-la-oferta-exportable-ecuatoriana-en-gulfood-dubai/",
       "summary": "Ecuador participó en Gulfood 2026, la feria internacional de alimentos y bebidas más importante del mundo, a través de ProEcuador que organizó un pabellón nacional para promover productos agroalimentarios ecuatorianos ante más de 100.000 compradores internacionales de 190 países.",
       "scrapedAt": "2026-04-30T15:22:15.807Z"
+    },
+    {
+      "key": "proecuador::pro-ecuador-y-propanamá-firman-acuerdo-de-colaboración-para-",
+      "title": "PRO ECUADOR y PROPANAMÁ firman Acuerdo de Colaboración para impulsar comercio e inversión",
+      "date": "2025-10-03",
+      "url": "https://www.proecuador.gob.ec/pro-ecuador-y-propanama-firman-acuerdo-estrategico-para-impulsar-comercio-e-inversion/",
+      "summary": "ProEcuador y ProPanamá suscribieron un acuerdo que establece marco de colaboración en sectores como agroindustria, manufactura, logística e inversión forestal, permitiendo crear redes de contacto entre empresas y facilitar nuevas oportunidades de negocio bilaterales.",
+      "scrapedAt": "2026-05-06T04:31:27.299Z"
     }
   ]
 }
