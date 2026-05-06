@@ -2,8 +2,16 @@
   "id": "mipro",
   "name": "MIPRO",
   "fullName": "Ministerio de Producción, Comercio Exterior, Inversiones y Pesca",
-  "lastUpdated": "2026-04-30T14:02:32.863Z",
+  "lastUpdated": "2026-05-06T06:10:13.620Z",
   "items": [
+    {
+      "key": "mipro::roger-crespo-es-designado-nuevo-viceministro-de-promoción-de",
+      "title": "Roger Crespo es designado nuevo viceministro de Promoción de Exportaciones e Inversiones",
+      "date": "2026-05-04",
+      "url": "https://www.eluniverso.com/noticias/economia/roger-crespo-nuevo-viceministro-de-promocion-de-exportaciones-e-inversiones-ecuador-2026-nota/",
+      "summary": "Roger Crespo, con amplia experiencia en comercio internacional y emprendimiento, fue designado como nuevo viceministro de Promoción de Exportaciones e Inversiones del MPCEI. Este nombramiento fortalece el equipo técnico responsable de impulsar las exportaciones no petroleras y atraer inversión extranjera hacia Ecuador.",
+      "scrapedAt": "2026-05-06T06:10:13.612Z"
+    },
     {
       "key": "mipro::gobierno-del-presidente-daniel-noboa-traza-su-hoja-de-ruta-a",
       "title": "Gobierno del presidente Daniel Noboa traza su hoja de ruta agroindustrial al 2036 con el respaldo técnico de la FAO",
@@ -21,11 +29,19 @@
       "scrapedAt": "2026-04-30T14:02:32.863Z"
     },
     {
+      "key": "mipro::gobierno-del-presidente-noboa-posiciona-a-ecuador-en-wtm-lat",
+      "title": "Gobierno del presidente Noboa posiciona a Ecuador en WTM Latin America 2026 y fortalece su presencia internacional",
+      "date": "2026-04-16",
+      "url": "https://www.produccion.gob.ec/gobierno-del-presidente-noboa-posiciona-a-ecuador-en-wtm-latin-america-2026-y-fortalece-su-presencia-internacional/",
+      "summary": "Ecuador participó con una delegación de empresas turísticas en la World Travel Market Latin America 2026 en São Paulo, Brasil, del 14 al 16 de abril. Esta participación permitió generar alianzas estratégicas con operadores internacionales y posicionar al país como destino competitivo en el mercado brasileño.",
+      "scrapedAt": "2026-05-06T06:10:13.612Z"
+    },
+    {
       "key": "mipro::camino-violeta-el-gobierno-de-daniel-noboa-abre-registro-",
       "title": "\"Camino Violeta\": el Gobierno de Daniel Noboa abre registro de formalización para mujeres emprendedoras",
       "date": "2026-03-08",
       "url": "https://www.produccion.gob.ec/camino-violeta-el-gobierno-de-daniel-noboa-abre-registro-de-formalizacion-para-mujeres-emprendedoras/",
-      "summary": "El MPCEI lanzó \"Camino Violeta\", un registro que reconoce oficialmente a mujeres emprendedoras no formalizadas y facilita su transición hacia la formalidad. Las inscritas acceden a capacitaciones técnicas gratuitas, incentivos tributarios, y productos de financiamiento especializado a través de BanEcuador con tasas bajas, reduciendo brechas históricas de acceso al crédito y redes de apoyo.",
+      "summary": "El MPCEI lanzó oficialmente el programa \"Camino Violeta\" con el Registro de Mujeres Emprendedoras No Formalizadas (MENF), permitiendo a mujeres acceder a capacitaciones, créditos especiales de BanEcuador e incentivos tributarios para formalizar y fortalecer sus negocios. Esta iniciativa busca reducir brechas históricas de acceso a financiamiento para emprendedoras ecuatorianas.",
       "scrapedAt": "2026-04-30T14:02:32.863Z"
     },
     {
@@ -33,8 +49,16 @@
       "title": "Ecuador es reconocido como \"Destino del Año en Turismo de Aventura\" en ITB Berlín 2026, bajo el liderazgo del presidente Noboa",
       "date": "2026-03-02",
       "url": "https://www.produccion.gob.ec/ecuador-es-reconocido-como-destino-del-ano-en-turismo-de-aventura-en-itb-berlin-2026-bajo-el-liderazgo-del-presidente-noboa/",
-      "summary": "Ecuador recibió el reconocimiento internacional \"Destination of the Year – Adventure Experiences\" en la ITB Berlín 2026, otorgado por la Pacific Area Travel Writers Association. Este galardón posiciona al país como destino competitivo en turismo de aventura y fortalece su imagen en mercados internacionales, atrayendo visitantes que generan mayor permanencia y gasto en servicios especializados locales.",
+      "summary": "Ecuador recibió el galardón \"Destination of the Year – Adventure Experiences\" de la Pacific Area Travel Writers Association durante la ITB Berlín 2026. Este reconocimiento internacional posiciona al país como destino competitivo para turismo de aventura gracias a su biodiversidad y capacidad de ofrecer experiencias en Andes, Amazonía, Costa y Galápagos en distancias cortas.",
       "scrapedAt": "2026-04-30T14:02:32.863Z"
+    },
+    {
+      "key": "mipro::ecuador-fortalece-su-posicionamiento-turístico-internacional",
+      "title": "Ecuador fortalece su posicionamiento turístico internacional en ANATO 2026 con más de 700 reuniones de negocios",
+      "date": "2026-02-27",
+      "url": "https://www.produccion.gob.ec/ecuador-fortalece-su-posicionamiento-turistico-internacional-en-anato-2026-con-mas-de-700-reuniones-de-negocios/",
+      "summary": "Ecuador participó en la Vitrina Turística ANATO 2026 en Bogotá, Colombia, con una delegación liderada por el MPCEI que realizó más de 720 reuniones de negociación con mayoristas, agencias de viajes y aerolíneas. Esta participación permitió generar nuevas oportunidades comerciales y alianzas estratégicas para fortalecer el turismo receptivo.",
+      "scrapedAt": "2026-05-06T06:10:13.612Z"
     },
     {
       "key": "mipro::gobierno-de-daniel-noboa-posiciona-a-ecuador-como-el-primer-",

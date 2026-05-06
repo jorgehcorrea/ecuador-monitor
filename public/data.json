@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-05-06T04:31:52.305Z",
+  "lastScraped": "2026-05-06T06:10:38.624Z",
   "institutions": [
     {
       "id": "iniap",
@@ -147,7 +147,7 @@
           "summary": "Se registran temperaturas récord en la región Litoral especialmente entre las 10:00 y 15:00 horas, con ciudades como Guayaquil y Santa Rosa superando valores históricos recientes. El INAMHI recomienda reducir exposición solar, mantenerse hidratado y proteger grupos vulnerables."
         }
       ],
-      "lastUpdated": "2026-05-05T05:47:17.211Z"
+      "lastUpdated": "2026-05-06T06:09:02.095Z"
     },
     {
       "id": "bce",
@@ -158,7 +158,7 @@
       "sourceUrl": "https://www.bce.fin.ec/comunicados/",
       "status": "stale",
       "news": [],
-      "lastUpdated": "2026-05-05T05:47:42.427Z"
+      "lastUpdated": "2026-05-06T06:09:27.379Z"
     },
     {
       "id": "mipro",
@@ -169,6 +169,12 @@
       "sourceUrl": "https://www.produccion.gob.ec/noticias/",
       "status": "ok",
       "news": [
+        {
+          "title": "Roger Crespo es designado nuevo viceministro de Promoción de Exportaciones e Inversiones",
+          "date": "2026-05-04",
+          "url": "https://www.eluniverso.com/noticias/economia/roger-crespo-nuevo-viceministro-de-promocion-de-exportaciones-e-inversiones-ecuador-2026-nota/",
+          "summary": "Roger Crespo, con amplia experiencia en comercio internacional y emprendimiento, fue designado como nuevo viceministro de Promoción de Exportaciones e Inversiones del MPCEI. Este nombramiento fortalece el equipo técnico responsable de impulsar las exportaciones no petroleras y atraer inversión extranjera hacia Ecuador."
+        },
         {
           "title": "Gobierno del presidente Daniel Noboa traza su hoja de ruta agroindustrial al 2036 con el respaldo técnico de la FAO",
           "date": "2026-04-29",
@@ -182,25 +188,19 @@
           "summary": "Durante la Rendición de Cuentas de 2025, el MPCEI destacó la firma de acuerdos estratégicos como el Acuerdo de Comercio Recíproco con Estados Unidos, el Tratado Bilateral de Inversiones con Emiratos Árabes Unidos y el Acuerdo de Facilitación de Inversiones Sostenibles con la Unión Europea. Estos instrumentos amplían las oportunidades comerciales y mejoran las condiciones de acceso para productos ecuatorianos en mercados internacionales clave."
         },
         {
+          "title": "Gobierno del presidente Noboa posiciona a Ecuador en WTM Latin America 2026 y fortalece su presencia internacional",
+          "date": "2026-04-16",
+          "url": "https://www.produccion.gob.ec/gobierno-del-presidente-noboa-posiciona-a-ecuador-en-wtm-latin-america-2026-y-fortalece-su-presencia-internacional/",
+          "summary": "Ecuador participó con una delegación de empresas turísticas en la World Travel Market Latin America 2026 en São Paulo, Brasil, del 14 al 16 de abril. Esta participación permitió generar alianzas estratégicas con operadores internacionales y posicionar al país como destino competitivo en el mercado brasileño."
+        },
+        {
           "title": "\"Camino Violeta\": el Gobierno de Daniel Noboa abre registro de formalización para mujeres emprendedoras",
           "date": "2026-03-08",
           "url": "https://www.produccion.gob.ec/camino-violeta-el-gobierno-de-daniel-noboa-abre-registro-de-formalizacion-para-mujeres-emprendedoras/",
-          "summary": "El MPCEI lanzó \"Camino Violeta\", un registro que reconoce oficialmente a mujeres emprendedoras no formalizadas y facilita su transición hacia la formalidad. Las inscritas acceden a capacitaciones técnicas gratuitas, incentivos tributarios, y productos de financiamiento especializado a través de BanEcuador con tasas bajas, reduciendo brechas históricas de acceso al crédito y redes de apoyo."
-        },
-        {
-          "title": "Ecuador es reconocido como \"Destino del Año en Turismo de Aventura\" en ITB Berlín 2026, bajo el liderazgo del presidente Noboa",
-          "date": "2026-03-02",
-          "url": "https://www.produccion.gob.ec/ecuador-es-reconocido-como-destino-del-ano-en-turismo-de-aventura-en-itb-berlin-2026-bajo-el-liderazgo-del-presidente-noboa/",
-          "summary": "Ecuador recibió el reconocimiento internacional \"Destination of the Year – Adventure Experiences\" en la ITB Berlín 2026, otorgado por la Pacific Area Travel Writers Association. Este galardón posiciona al país como destino competitivo en turismo de aventura y fortalece su imagen en mercados internacionales, atrayendo visitantes que generan mayor permanencia y gasto en servicios especializados locales."
-        },
-        {
-          "title": "Gobierno de Daniel Noboa posiciona a Ecuador como el primer país de América Latina en concretar un acuerdo de inversiones sostenibles con la Unión Europea",
-          "date": "2026-01-23",
-          "url": "https://www.produccion.gob.ec/gobierno-de-daniel-noboa-posiciona-a-ecuador-como-el-primer-pais-de-america-latina-en-concretar-un-acuerdo-de-inversiones-sostenibles-con-la-union-europea/",
-          "summary": "El MPCEI concluyó las negociaciones del Acuerdo de Facilitación de Inversiones Sostenibles (SIFA) con la Unión Europea, convirtiendo a Ecuador en el primer país latinoamericano con este instrumento. El SIFA simplifica procedimientos de inversión, reduce incertidumbre regulatoria y promueve un clima empresarial más transparente, acompañado de 8 millones de euros de cooperación técnica para transición energética e inversiones sostenibles."
+          "summary": "El MPCEI lanzó oficialmente el programa \"Camino Violeta\" con el Registro de Mujeres Emprendedoras No Formalizadas (MENF), permitiendo a mujeres acceder a capacitaciones, créditos especiales de BanEcuador e incentivos tributarios para formalizar y fortalecer sus negocios. Esta iniciativa busca reducir brechas históricas de acceso a financiamiento para emprendedoras ecuatorianas."
         }
       ],
-      "lastUpdated": "2026-05-05T05:48:07.600Z"
+      "lastUpdated": "2026-05-06T06:10:13.620Z"
     },
     {
       "id": "sri",
