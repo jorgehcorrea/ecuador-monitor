@@ -1,0 +1,40 @@
+{
+  "id": "senescyt",
+  "name": "SENESCYT",
+  "fullName": "Secretaría de Educación Superior, Ciencia, Tecnología e Innovación",
+  "lastUpdated": "2026-05-06T07:37:39.190Z",
+  "items": [
+    {
+      "key": "senescyt::reforma-de-las-bases-del-programa-de-becas-para-educación-co",
+      "title": "Reforma de las Bases del Programa de Becas para Educación Continua 'Because He Is Nice 2026'",
+      "date": "2026-03-13",
+      "url": "https://siau.senescyt.gob.ec/wp-content/uploads/2026/03/20260313_bcof-bhn2026-bases_ref.pdf",
+      "summary": "SENESCYT publicó las bases reformadas del programa de becas 'Because He Is Nice 2026' en su plataforma oficial. Los cambios incluyen ajustes en el cronograma de validación de requisitos con fechas del 6 al 10 de abril de 2026.",
+      "scrapedAt": "2026-05-06T07:37:39.190Z"
+    },
+    {
+      "key": "senescyt::programa-de-becas-para-educación-continua-because-he-is-nic",
+      "title": "PROGRAMA DE BECAS PARA EDUCACIÓN CONTINUA 'BECAUSE HE IS NICE 2026'",
+      "date": "2026-02-25",
+      "url": "https://siau.senescyt.gob.ec/programa-de-becas-para-educacion-continua-because-he-is-nice-2026/",
+      "summary": "Se abrió la convocatoria del programa de becas 'Because He Is Nice 2026' desde el 25 de febrero hasta el 13 de marzo de 2026. El programa cubre la totalidad del costo de cursos de inglés nivel A1 para ecuatorianos.",
+      "scrapedAt": "2026-05-06T07:37:39.190Z"
+    },
+    {
+      "key": "senescyt::gobierno-nacional-abre-la-inscripción-al-curso-gratuito-impú",
+      "title": "GOBIERNO NACIONAL ABRE LA INSCRIPCIÓN AL CURSO GRATUITO IMPÚLSAT PARA RENDIR LA EVALUACIÓN DE ACCESO A INSTITUTOS PÚBLICOS DEL 8 AL 16 DE ENERO",
+      "date": "2026-01-09",
+      "url": "https://www.educacionsuperior.gob.ec/noticias/",
+      "summary": "El gobierno habilitó las inscripciones para el curso gratuito de nivelación IMPÚLSAT del 8 al 16 de enero de 2026. Este curso prepara a los aspirantes para la evaluación de acceso a institutos tecnológicos y conservatorios superiores públicos del país.",
+      "scrapedAt": "2026-05-06T07:37:39.190Z"
+    },
+    {
+      "key": "senescyt::gobierno-del-presidente-daniel-noboa-habilita-la-inscripción",
+      "title": "Gobierno del presidente Daniel Noboa habilita la inscripción para 54 institutos y conservatorios superiores públicos",
+      "date": "2025-12-16",
+      "url": "https://www.educacionsuperior.gob.ec/gobierno-del-presidente-daniel-noboa-habilita-la-inscripcion-para-54-institutos-y-conservatorios-superiores-publicos/",
+      "summary": "El Ministerio de Educación abrió la etapa de inscripción para 54 institutos tecnológicos y conservatorios superiores públicos del país para el primer período 2026. Esta fase es obligatoria para jóvenes que completaron el Registro Nacional.",
+      "scrapedAt": "2026-05-06T07:37:39.190Z"
+    }
+  ]
+}

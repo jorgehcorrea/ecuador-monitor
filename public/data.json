@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-05-06T06:10:38.624Z",
+  "lastScraped": "2026-05-06T07:38:29.382Z",
   "institutions": [
     {
       "id": "iniap",
@@ -212,37 +212,37 @@
       "status": "ok",
       "news": [
         {
+          "title": "Ventas en Ecuador crecen 12,7% en abril 2026 según registros del SRI",
+          "date": "2026-05-04",
+          "url": "https://www.expreso.ec/economia-y-negocios/ventas-ecuador-crecen-12-7-abril-2026-marcan-nivel-alto-dos-anos-280933.html",
+          "summary": "Las ventas registradas en Ecuador durante abril de 2026 alcanzaron $24.369,7 millones, el nivel más alto para ese mes en dos años. Los comprobantes electrónicos procesados por el SRI muestran crecimiento en sectores como inmobiliarias, transporte y construcción."
+        },
+        {
+          "title": "SRI limita uso de notas de crédito para pagar impuestos: solo el 60% desde el 1 de mayo",
+          "date": "2026-05-01",
+          "url": "https://elmercurio.com.ec/nacional/2026/05/01/notas-de-credito-sri-pago-impuestos-ecuador/",
+          "summary": "A partir del 1 de mayo de 2026, los contribuyentes solo pueden cubrir hasta el 60% de sus obligaciones tributarias con notas de crédito emitidas por el SRI. El 40% restante debe pagarse obligatoriamente mediante canales habilitados como transferencia bancaria, débito o ventanilla."
+        },
+        {
+          "title": "SRI amplía de manera excepcional los plazos para declaraciones con vencimiento 20 de abril de 2026",
+          "date": "2026-04-22",
+          "url": "https://x.com/SRIoficialEc/status/2046450431635959902",
+          "summary": "El SRI amplió excepcionalmente los plazos para la presentación de las declaraciones de impuestos con fecha de vencimiento 20 de abril de 2026. Los contribuyentes que no presentaron sus declaraciones a tiempo pueden hacerlo dentro de este nuevo plazo ampliado."
+        },
+        {
+          "title": "Declaración y pago del IVA se realizarán en un solo paso desde junio de 2026",
+          "date": "2026-04-16",
+          "url": "https://www.eluniverso.com/noticias/economia/sri-pago-declaracion-iva-ecuador-junio-2026-servicio-de-rentas-internas-nota/",
+          "summary": "Desde junio de 2026, la declaración y el pago del Impuesto al Valor Agregado (IVA) se realizarán en un solo paso. Las declaraciones del IVA solo serán válidas si se presentan junto con el pago total del impuesto para evitar omisiones y fortalecer la recaudación tributaria."
+        },
+        {
           "title": "A partir de junio de 2026 la declaración y el pago del IVA se efectuarán en un solo paso",
           "date": "2026-04-16",
           "url": "https://www.eluniverso.com/noticias/economia/sri-pago-declaracion-iva-ecuador-junio-2026-servicio-de-rentas-internas-nota/",
           "summary": "El SRI implementará un cambio en el procedimiento del IVA: a partir de junio de 2026, los contribuyentes deberán declarar y pagar el impuesto en un solo paso en el mismo día. La declaración se considerará incompleta si no se registra con el pago total del impuesto."
-        },
-        {
-          "title": "Ventas en Ecuador alcanzaron USD 267.196 millones en 2025 con crecimiento del 9%",
-          "date": "2026-04-15",
-          "url": "https://www.eluniverso.com/noticias/economia/sri-ventas-2025-servicios-en-linea-atencion-contribuyentes-nota/",
-          "summary": "El SRI reportó que las ventas totales en 2025 alcanzaron USD 267.196 millones, representando un incremento del 9% respecto a 2024. La recaudación tributaria llegó a USD 21.501 millones, un aumento del 6,8%, mientras se atendió a más de 2,1 millones de contribuyentes."
-        },
-        {
-          "title": "SRI informa sobre plazos en abril para declarar el Impuesto a la Renta de sociedades",
-          "date": "2026-04-08",
-          "url": "https://www.eldiario.ec/ecuador/ya-sabes-cuando-vence-tu-plazo-para-pagar-el-impuesto-a-la-renta-en-abril-el-sri-lo-acaba-de-revelar-08042026/",
-          "summary": "El SRI publicó el calendario para que las sociedades declaren y paguen el impuesto a la renta del ejercicio fiscal 2025 en abril de 2026, con vencimientos escalonados según el noveno dígito del RUC. Los plazos se ajustan cuando coinciden con feriados, trasladándose al siguiente día hábil."
-        },
-        {
-          "title": "SRI implementa restricción del 60% en el uso de notas de crédito para pago de impuestos",
-          "date": "2026-03-31",
-          "url": "https://www.expreso.ec/economia-y-negocios/cambios-sri-mayo-2026-asi-funcionaran-notas-credito-280346.html",
-          "summary": "A partir del 1 de mayo de 2026, los contribuyentes solo pueden usar notas de crédito para pagar el 60% de sus obligaciones tributarias, debiendo cancelar el 40% restante en efectivo o transferencia bancaria. Esta medida busca garantizar mayor flujo de recaudación tributaria."
-        },
-        {
-          "title": "La economía ecuatoriana mantiene su dinamismo con ventas que crecieron 8,2% en 2025",
-          "date": "2026-01-15",
-          "url": "https://www.sri.gob.ec/en/boletines-2026",
-          "summary": "Según el boletín oficial del SRI, las ventas en Ecuador crecieron 8,2% en 2025, superando los USD 265 mil millones, demostrando el dinamismo económico del país. Este crecimiento sustenta el aumento en la recaudación tributaria durante el período."
         }
       ],
-      "lastUpdated": "2026-05-05T07:19:45.886Z"
+      "lastUpdated": "2026-05-06T07:36:30.717Z"
     },
     {
       "id": "arcsa",
@@ -253,7 +253,7 @@
       "sourceUrl": "https://www.controlsanitario.gob.ec/noticias/",
       "status": "stale",
       "news": [],
-      "lastUpdated": "2026-05-05T07:20:12.329Z"
+      "lastUpdated": "2026-05-06T07:36:55.913Z"
     },
     {
       "id": "senescyt",
@@ -262,9 +262,34 @@
       "category": "Regulatorio",
       "color": "#F4A261",
       "sourceUrl": "https://www.senescyt.gob.ec/noticias/",
-      "status": "stale",
-      "news": [],
-      "lastUpdated": "2026-05-05T07:20:37.467Z"
+      "status": "ok",
+      "news": [
+        {
+          "title": "Reforma de las Bases del Programa de Becas para Educación Continua 'Because He Is Nice 2026'",
+          "date": "2026-03-13",
+          "url": "https://siau.senescyt.gob.ec/wp-content/uploads/2026/03/20260313_bcof-bhn2026-bases_ref.pdf",
+          "summary": "SENESCYT publicó las bases reformadas del programa de becas 'Because He Is Nice 2026' en su plataforma oficial. Los cambios incluyen ajustes en el cronograma de validación de requisitos con fechas del 6 al 10 de abril de 2026."
+        },
+        {
+          "title": "PROGRAMA DE BECAS PARA EDUCACIÓN CONTINUA 'BECAUSE HE IS NICE 2026'",
+          "date": "2026-02-25",
+          "url": "https://siau.senescyt.gob.ec/programa-de-becas-para-educacion-continua-because-he-is-nice-2026/",
+          "summary": "Se abrió la convocatoria del programa de becas 'Because He Is Nice 2026' desde el 25 de febrero hasta el 13 de marzo de 2026. El programa cubre la totalidad del costo de cursos de inglés nivel A1 para ecuatorianos."
+        },
+        {
+          "title": "GOBIERNO NACIONAL ABRE LA INSCRIPCIÓN AL CURSO GRATUITO IMPÚLSAT PARA RENDIR LA EVALUACIÓN DE ACCESO A INSTITUTOS PÚBLICOS DEL 8 AL 16 DE ENERO",
+          "date": "2026-01-09",
+          "url": "https://www.educacionsuperior.gob.ec/noticias/",
+          "summary": "El gobierno habilitó las inscripciones para el curso gratuito de nivelación IMPÚLSAT del 8 al 16 de enero de 2026. Este curso prepara a los aspirantes para la evaluación de acceso a institutos tecnológicos y conservatorios superiores públicos del país."
+        },
+        {
+          "title": "Gobierno del presidente Daniel Noboa habilita la inscripción para 54 institutos y conservatorios superiores públicos",
+          "date": "2025-12-16",
+          "url": "https://www.educacionsuperior.gob.ec/gobierno-del-presidente-daniel-noboa-habilita-la-inscripcion-para-54-institutos-y-conservatorios-superiores-publicos/",
+          "summary": "El Ministerio de Educación abrió la etapa de inscripción para 54 institutos tecnológicos y conservatorios superiores públicos del país para el primer período 2026. Esta fase es obligatoria para jóvenes que completaron el Registro Nacional."
+        }
+      ],
+      "lastUpdated": "2026-05-06T07:37:39.190Z"
     },
     {
       "id": "sercop",
@@ -306,7 +331,7 @@
           "summary": "El SERCOP desarrolló mesas de trabajo el 3 y 4 de marzo con 10 instituciones y empresas públicas para crear un nuevo perfil profesional del Responsable Institucional de Cumplimiento en Contratación Pública, figura orientada a fortalecer mecanismos de control, transparencia e integridad en las compras públicas."
         }
       ],
-      "lastUpdated": "2026-05-05T07:21:02.593Z"
+      "lastUpdated": "2026-05-06T07:38:04.381Z"
     },
     {
       "id": "min-interior",
@@ -533,8 +558,8 @@
   ],
   "summary": {
     "total": 21,
-    "ok": 10,
-    "stale": 11,
+    "ok": 11,
+    "stale": 10,
     "error": 0
   }
 }
