@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-05-06T07:38:29.382Z",
+  "lastScraped": "2026-05-06T09:20:16.601Z",
   "institutions": [
     {
       "id": "iniap",
@@ -358,7 +358,7 @@
           "title": "ECUADOR Y ESTADOS UNIDOS FIRMAN MEMORANDO DE ENTENDIMIENTO PARA ESTABLECER INVESTIGACIONES CONJUNTAS",
           "date": "2026-04-20",
           "url": "https://www.ministeriodelinterior.gob.ec/ecuador-y-estados-unidos-firman-memorando-de-entendimiento-para-establecer-investigaciones-conjuntas/",
-          "summary": "Ecuador y Estados Unidos suscriben un acuerdo bilateral para intercambiar información, inteligencia y asistencia técnica en la lucha contra el crimen organizado transnacional, permitiendo investigaciones conjuntas sobre narcotráfico, tráfico de armas, trata de personas y otros delitos internacionales."
+          "summary": "Ecuador y Estados Unidos suscriben un memorando de entendimiento entre el Ministerio del Interior ecuatoriano y la Oficina de Investigaciones de Seguridad Nacional estadounidense (HSI) para fortalecer la cooperación bilateral en la lucha contra el crimen organizado transnacional. El acuerdo permitirá modernizar la capacidad de respuesta institucional mediante el intercambio de información, inteligencia y coordinación operativa en delitos como narcotráfico, tráfico de armas, trata de personas y explotación sexual infantil."
         },
         {
           "title": "EL GOBIERNO NACIONAL FORTALECE LA SEGURIDAD CIUDADANA CON DENUNCIAS DIGITALES A TRAVÉS DEL QR DE LA CÉDULA",
@@ -367,13 +367,13 @@
           "summary": "El Ministerio del Interior implementa un sistema digital mediante el código QR en las cédulas de identidad que permite a los ciudadanos denunciar delitos de manera ágil y segura, facilitando la participación ciudadana en la prevención del crimen."
         },
         {
-          "title": "ECUADOR Y LA UNIÓN EUROPEA REAFIRMAN SU ALIANZA PARA COMBATIR EL CRIMEN TRANSNACIONAL Y REFORZAR LA SEGURIDAD FRONTERIZA",
-          "date": "2026-03-17",
-          "url": "https://www.ministeriodelinterior.gob.ec/ecuador-y-la-union-europea-reafirman-su-alianza-para-combatir-el-crimen-transnacional-y-reforzar-la-seguridad-fronteriza/",
-          "summary": "Ecuador y la Unión Europea suscriben una Declaración de Intención para fortalecer el trabajo conjunto en seguridad fronteriza, intercambio de información migratoria y control de flujos irregulares, posicionando la cooperación internacional como fundamental para enfrentar amenazas transnacionales."
+          "title": "CAEN 16 IMPLICADOS EN RED DE TRÁFICO DE HIDROCARBUROS",
+          "date": "2026-04-08",
+          "url": "https://www.ministeriodelinterior.gob.ec/caen-16-implicados-en-red-de-trafico-de-hidrocarburos/",
+          "summary": "El Ministerio del Interior, a través de la Policía Nacional, desarticuló una estructura delictiva dedicada al desvío y uso ilícito de hidrocarburos mediante la operación Gran Fortaleza 1. Se aprehendió a 16 personas incluyendo cinco servidores policiales, tres militares en servicio activo y ocho civiles, en allanamientos simultáneos en siete provincias, golpeando las economías criminales e instituciones corruptas."
         }
       ],
-      "lastUpdated": "2026-05-05T09:04:47.736Z"
+      "lastUpdated": "2026-05-06T09:18:35.854Z"
     },
     {
       "id": "min-gobierno",
@@ -384,7 +384,7 @@
       "sourceUrl": "https://www.ministeriodegobierno.gob.ec/noticias/",
       "status": "stale",
       "news": [],
-      "lastUpdated": "2026-05-05T09:05:12.921Z"
+      "lastUpdated": "2026-05-06T09:19:01.095Z"
     },
     {
       "id": "presidencia",
@@ -395,7 +395,7 @@
       "sourceUrl": "https://www.comunicacion.gob.ec/noticias/",
       "status": "stale",
       "news": [],
-      "lastUpdated": "2026-05-05T09:05:38.056Z"
+      "lastUpdated": "2026-05-06T09:19:26.286Z"
     },
     {
       "id": "ecu911",
@@ -406,7 +406,7 @@
       "sourceUrl": "https://www.ecu911.gob.ec/",
       "status": "stale",
       "news": [],
-      "lastUpdated": "2026-05-05T09:06:03.208Z"
+      "lastUpdated": "2026-05-06T09:19:51.594Z"
     },
     {
       "id": "cne",
