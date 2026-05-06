@@ -2,8 +2,24 @@
   "id": "asamblea",
   "name": "Asamblea",
   "fullName": "Asamblea Nacional del Ecuador",
-  "lastUpdated": "2026-05-01T10:15:35.150Z",
+  "lastUpdated": "2026-05-06T10:56:47.348Z",
   "items": [
+    {
+      "key": "asamblea::asamblea-tramitó-en-primer-debate-reforma-legal-para-agiliza",
+      "title": "Asamblea tramitó en primer debate reforma legal para agilizar los procesos de adopción de niñas, niños y adolescentes",
+      "date": "2026-05-05",
+      "url": "https://www.asambleanacional.gob.ec/es/noticia/116151-asamblea-tramito-en-primer-debate-reforma-legal-para",
+      "summary": "El Pleno aprobó el primer debate del Proyecto de Ley Orgánica de Agilización Judicial para la Adopción, que busca reducir tiempos en procesos judiciales y administrativos de adopción garantizando el interés superior de niños y niñas. La reforma incluye sanciones por incumplimiento de plazos y establece becas para adolescentes que cumplan mayoría de edad sin ser adoptados.",
+      "scrapedAt": "2026-05-06T10:56:47.348Z"
+    },
+    {
+      "key": "asamblea::asamblea-nacional-posesiona-a-mercedes-caicedo-y-ramón-echai",
+      "title": "Asamblea Nacional posesiona a Mercedes Caicedo y Ramón Echaiz como vocales del Consejo de la Judicatura",
+      "date": "2026-04-29",
+      "url": "https://www.asambleanacional.gob.ec/es/node/116075",
+      "summary": "Se posesionó a Mercedes Johanna Caicedo Aldaz como vocal principal y presidenta del Consejo de la Judicatura, y a Ramón Antonio Echaiz Lavayen como vocal suplente. Caicedo ejercerá sus funciones orientadas a fortalecer la independencia judicial, la meritocracia y la modernización tecnológica del sistema de justicia ecuatoriano.",
+      "scrapedAt": "2026-05-06T10:56:47.348Z"
+    },
     {
       "key": "asamblea::asamblea-posesiona-a-mercedes-caicedo-y-ramón-echaiz-como-vo",
       "title": "Asamblea posesiona a Mercedes Caicedo y Ramón Echaiz como vocales del Consejo de la Judicatura",
@@ -25,7 +41,7 @@
       "title": "Asamblea enviará al Registro Oficial la ley para fortalecer el sistema penitenciario",
       "date": "2026-04-28",
       "url": "https://www.asambleanacional.gob.ec/es/node/116029",
-      "summary": "El Pleno aprobó con 85 votos la objeción parcial del presidente a la reforma penitenciaria, permitiendo que la ley se remita al Registro Oficial para su publicación y entrada en vigencia, fortaleciendo el control estatal sobre los centros de privación de libertad.",
+      "summary": "El Pleno se allanó a la objeción parcial del Proyecto de Ley Orgánica Reformatoria para el Fortalecimiento del Sistema Penitenciario con 85 votos afirmativos. La ley busca resolver problemas de hacinamiento y control en cárceles, mediante reformas que clarifiquen competencias institucionales y mejoren el régimen disciplinario penitenciario.",
       "scrapedAt": "2026-04-30T15:30:25.156Z"
     },
     {
@@ -41,7 +57,7 @@
       "title": "Niels Olsen impulsa una alianza parlamentaria de Latinoamérica para fortalecer la cooperación legislativa regional",
       "date": "2026-04-27",
       "url": "https://www.asambleanacional.gob.ec/es/noticia/116018-niels-olsen-impulsa-una-alianza-parlamentaria-de",
-      "summary": "El presidente de la Asamblea Nacional impulsa una alianza parlamentaria regional con Chile, Uruguay y Argentina para fortalecer la cooperación legislativa, compartir experiencias en seguridad, modernización estatal y transformación digital entre los parlamentos de la región.",
+      "summary": "El presidente de la Asamblea impulsó una alianza parlamentaria regional con Chile, Uruguay y Argentina para fortalecer cooperación en temas de seguridad, inversiones, modernización del Estado y transformación digital. Se prevé realizar en Ecuador el primer encuentro formal de esta Red Parlamentaria de Latinoamérica durante 2026.",
       "scrapedAt": "2026-04-30T15:30:25.156Z"
     },
     {
@@ -49,7 +65,7 @@
       "title": "Asamblea Nacional aprueba por unanimidad proyecto de ley que fortalece la salud mental de niñas, niños y adolescentes",
       "date": "2026-04-22",
       "url": "https://www.asambleanacional.gob.ec/es/Ley-Organica-Promocion-Prevencion-Atencion-Psicosocial-Ninas-Ninos-Adolescentes",
-      "summary": "Se aprobó por unanimidad la Ley de Promoción, Prevención y Atención Psicosocial para Niñas, Niños y Adolescentes, que incorpora la asignatura obligatoria de Psicoeducación en todas las escuelas y establece programas de prevención de salud mental con enfoque intercultural. La ley responde a la crisis de salud mental evidenciada por el aumento de depresión, ansiedad y conductas suicidas en menores.",
+      "summary": "La Asamblea aprobó la Ley Orgánica de Promoción, Prevención y Atención Psicosocial para Niñas, Niños y Adolescentes que obliga a incorporar 'Psicoeducación' en currículas escolares y establece programas estatales de prevención y atención de la salud mental, incluyendo cobertura obligatoria en seguros privados.",
       "scrapedAt": "2026-04-30T15:30:25.156Z"
     },
     {

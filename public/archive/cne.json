@@ -2,8 +2,32 @@
   "id": "cne",
   "name": "CNE",
   "fullName": "Consejo Nacional Electoral",
-  "lastUpdated": "2026-05-01T10:14:52.978Z",
+  "lastUpdated": "2026-05-06T10:55:46.093Z",
   "items": [
+    {
+      "key": "cne::cne-actualiza-registro-237-organizaciones-políticas-inscrit",
+      "title": "CNE actualiza registro: 237 organizaciones políticas inscritas para elecciones seccionales de 2026",
+      "date": "2026-05-05",
+      "url": "https://www.eldiario.ec/ecuador/cne-actualiza-registro-237-organizaciones-politicas-inscritas-para-elecciones-seccionales-de-2026-05052026/",
+      "summary": "El CNE incorporó siete nuevos movimientos locales al registro, elevando el total de organizaciones habilitadas de 231 a 237, tras el cierre del plazo de inscripción del 3 de mayo. Dos organizaciones nacionales (Unidad Popular y Construye) enfrentan aún recursos legales pendientes que podrían derivar en su extinción.",
+      "scrapedAt": "2026-05-06T10:55:46.085Z"
+    },
+    {
+      "key": "cne::cne-habilita-15-días-para-reclamos-al-registro-electoral-de-",
+      "title": "CNE habilita 15 días para reclamos al Registro Electoral de cara a las elecciones de 2026",
+      "date": "2026-05-04",
+      "url": "https://www.eldiario.ec/ecuador/cne-habilita-15-dias-para-reclamos-al-registro-electoral-de-cara-a-las-elecciones-de-2026-04052026/",
+      "summary": "El CNE abrió un período de 15 días para que ciudadanos y organizaciones políticas presenten reclamos administrativos y observaciones al Registro Electoral, buscando asegurar la integridad del padrón electoral antes de la inscripción de candidatos.",
+      "scrapedAt": "2026-05-06T10:55:46.085Z"
+    },
+    {
+      "key": "cne::231-organizaciones-políticas-participarán-en-las-elecciones-",
+      "title": "231 organizaciones políticas participarán en las elecciones seccionales de Ecuador del 29 de noviembre de 2026",
+      "date": "2026-05-03",
+      "url": "https://www.eldiario.ec/ecuador/elecciones-seccionales-ecuador-2026-organizaciones-politicas-04052026/",
+      "summary": "El CNE cerró el plazo de inscripción de organizaciones políticas con 231 agrupaciones habilitadas, aunque dos enfrentan procesos administrativos de cancelación. El pleno también rechazó el registro de dos movimientos que no subsanaron requisitos legales.",
+      "scrapedAt": "2026-05-06T10:55:46.085Z"
+    },
     {
       "key": "cne::ciudadanía-podrá-inscribirse-del-4-al-13-de-mayo-para-integr",
       "title": "Ciudadanía podrá inscribirse del 4 al 13 de mayo para integrar la veeduría de selección de candidatos al CPCCS",
@@ -21,11 +45,19 @@
       "scrapedAt": "2026-05-01T10:14:52.970Z"
     },
     {
+      "key": "cne::ecuador-el-consejo-electoral-canceló-a-dos-partidos-y-defen",
+      "title": "Ecuador: el Consejo Electoral canceló a dos partidos y defendió que garantizó el debido proceso",
+      "date": "2026-04-26",
+      "url": "https://www.infobae.com/america/america-latina/2026/04/27/ecuador-el-consejo-electoral-cancelo-a-dos-partidos-y-defendio-que-garantizo-el-debido-proceso/",
+      "summary": "El CNE canceló la personería jurídica de Unidad Popular y Construye por no mantener el número mínimo de afiliados requerido por ley, excluyéndolas del registro de partidos habilitados para las elecciones de noviembre.",
+      "scrapedAt": "2026-05-06T10:55:46.085Z"
+    },
+    {
       "key": "cne::cne-aprueba-observadores-nacionales-e-internacionales-para-l",
       "title": "CNE aprueba observadores nacionales e internacionales para las elecciones seccionales Ecuador 2026",
-      "date": "2026-04-21",
-      "url": "https://www.cne.gob.ec/cne-invita-a-observacion-nacional-e-internacional-para-las-elecciones-seccionales-y-cpccs-2027/",
-      "summary": "El CNE formalizó invitaciones a organismos internacionales como la OEA y la Unión Europea, así como a universidades y ciudadanos ecuatorianos en el exterior, para que supervisen las elecciones seccionales del 29 de noviembre. Los observadores verificarán la transparencia y cumplimiento de estándares en todas las fases del proceso electoral.",
+      "date": "2026-04-22",
+      "url": "https://www.eldiario.ec/ecuador/elecciones-seccionales-ecuador-2026-cne-observadores-nacionales-internacionales-22042026/",
+      "summary": "El CNE aprobó invitaciones a organismos internacionales como la OEA y la Unión Europea, además de actores nacionales como universidades y ciudadanos en el exterior, para observar las elecciones seccionales del 29 de noviembre.",
       "scrapedAt": "2026-05-01T10:14:52.970Z"
     },
     {
