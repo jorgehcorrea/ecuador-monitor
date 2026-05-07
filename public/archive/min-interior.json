@@ -2,8 +2,16 @@
   "id": "min-interior",
   "name": "Min. Interior",
   "fullName": "Ministerio del Interior",
-  "lastUpdated": "2026-05-06T09:18:35.854Z",
+  "lastUpdated": "2026-05-07T09:28:00.781Z",
   "items": [
+    {
+      "key": "min-interior::ministerio-del-interior-policía-nacional-y-embajada-del-rei",
+      "title": "Ministerio del Interior, Policía Nacional y Embajada del Reino Unido suscriben acta de compromiso para fortalecer capacidades del GEMA",
+      "date": "2026-05-06",
+      "url": "https://www.eltelegrafo.com.ec/noticias/nacionales/210/ecuador-reino-unido-fortalecen-capacidades-gema-aniversario",
+      "summary": "El Ministerio del Interior suscribió un acta de compromiso con el Reino Unido para entregar medios logísticos y tecnológicos que fortalecerán la capacidad operativa del Grupo Especial Móvil Antinarcóticos en su lucha contra el narcotráfico.",
+      "scrapedAt": "2026-05-07T09:28:00.773Z"
+    },
     {
       "key": "min-interior::ecuador-deporta-a-ciudadano-colombiano-requerido-por-delito-",
       "title": "Ecuador Deporta a Ciudadano Colombiano Requerido por Delito Sexual",
@@ -22,10 +30,10 @@
     },
     {
       "key": "min-interior::ecuador-y-estados-unidos-firman-memorando-de-entendimiento-p",
-      "title": "ECUADOR Y ESTADOS UNIDOS FIRMAN MEMORANDO DE ENTENDIMIENTO PARA ESTABLECER INVESTIGACIONES CONJUNTAS",
+      "title": "Ecuador y Estados Unidos firman Memorando de Entendimiento para establecer investigaciones conjuntas",
       "date": "2026-04-20",
       "url": "https://www.ministeriodelinterior.gob.ec/ecuador-y-estados-unidos-firman-memorando-de-entendimiento-para-establecer-investigaciones-conjuntas/",
-      "summary": "Ecuador y Estados Unidos suscriben un memorando de entendimiento entre el Ministerio del Interior ecuatoriano y la Oficina de Investigaciones de Seguridad Nacional estadounidense (HSI) para fortalecer la cooperación bilateral en la lucha contra el crimen organizado transnacional. El acuerdo permitirá modernizar la capacidad de respuesta institucional mediante el intercambio de información, inteligencia y coordinación operativa en delitos como narcotráfico, tráfico de armas, trata de personas y explotación sexual infantil.",
+      "summary": "El Ministerio del Interior y la Oficina de Investigaciones de Seguridad Nacional de Estados Unidos suscribieron un memorando para fortalecer la cooperación bilateral en investigaciones conjuntas contra el crimen organizado transnacional, incluyendo narcotráfico, tráfico de armas y explotación sexual infantil.",
       "scrapedAt": "2026-04-30T15:28:24.175Z"
     },
     {
@@ -38,10 +46,10 @@
     },
     {
       "key": "min-interior::caen-16-implicados-en-red-de-tráfico-de-hidrocarburos",
-      "title": "CAEN 16 IMPLICADOS EN RED DE TRÁFICO DE HIDROCARBUROS",
+      "title": "Caen 16 implicados en red de tráfico de hidrocarburos",
       "date": "2026-04-08",
       "url": "https://www.ministeriodelinterior.gob.ec/caen-16-implicados-en-red-de-trafico-de-hidrocarburos/",
-      "summary": "El Ministerio del Interior, a través de la Policía Nacional, desarticuló una estructura delictiva dedicada al desvío y uso ilícito de hidrocarburos mediante la operación Gran Fortaleza 1. Se aprehendió a 16 personas incluyendo cinco servidores policiales, tres militares en servicio activo y ocho civiles, en allanamientos simultáneos en siete provincias, golpeando las economías criminales e instituciones corruptas.",
+      "summary": "El Ministerio del Interior ejecutó la operación Gran Fortaleza 1 desarticulando una estructura delictiva dedicada al desvío ilícito de hidrocarburos, con la aprehensión de 16 personas incluidos servidores policiales y militares en servicio activo.",
       "scrapedAt": "2026-05-06T09:18:35.846Z"
     },
     {
@@ -51,6 +59,22 @@
       "url": "https://www.ministeriodelinterior.gob.ec/ecuador-y-la-union-europea-reafirman-su-alianza-para-combatir-el-crimen-transnacional-y-reforzar-la-seguridad-fronteriza/",
       "summary": "Ecuador y la Unión Europea suscriben una Declaración de Intención para fortalecer el trabajo conjunto en seguridad fronteriza, intercambio de información migratoria y control de flujos irregulares, posicionando la cooperación internacional como fundamental para enfrentar amenazas transnacionales.",
       "scrapedAt": "2026-05-01T08:56:19.408Z"
+    },
+    {
+      "key": "min-interior::ecuador-y-estados-unidos-fortalecen-cooperación-en-seguridad",
+      "title": "Ecuador y Estados Unidos fortalecen cooperación en seguridad con Memorando de Entendimiento entre el Ministerio del Interior y el FBI",
+      "date": "2026-03-11",
+      "url": "https://www.ministeriodelinterior.gob.ec/ecuador-y-estados-unidos-fortalecen-cooperacion-en-seguridad-con-memorando-de-entendimiento-entre-el-ministerio-del-interior-y-el-fbi/",
+      "summary": "El Ministerio del Interior suscribió un memorando con el FBI para fortalecer la cooperación bilateral en investigación criminal y lucha contra el crimen organizado transnacional, estableciendo marcos de colaboración en inteligencia criminal e investigación compleja.",
+      "scrapedAt": "2026-05-07T09:28:00.773Z"
+    },
+    {
+      "key": "min-interior::gobierno-nacional-lidera-operativo-gran-fénix-3-contra-red-d",
+      "title": "Gobierno Nacional lidera operativo Gran Fénix 3 contra red de delincuencia organizada vinculada a la Agencia Nacional de Tránsito",
+      "date": "2026-01-30",
+      "url": "https://www.ministeriodelinterior.gob.ec/gobierno-nacional-lidera-operativo-gran-fenix-3-contra-red-de-delincuencia-organizada-vinculada-a-la-agencia-nacional-de-transito/",
+      "summary": "El Ministerio del Interior lideró el operativo Gran Fénix 3 en Pichincha, Imbabura y Santo Domingo de los Tsáchilas, resultando en 10 aprehensiones y 19 allanamientos contra una estructura dedicada a la emisión irregular de licencias de conducir.",
+      "scrapedAt": "2026-05-07T09:28:00.773Z"
     },
     {
       "key": "min-interior::gobierno-nacional-lidera-operativo-gran-fénix-3-contra-red",
