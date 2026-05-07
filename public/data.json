@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-05-07T06:15:59.196Z",
+  "lastScraped": "2026-05-07T07:45:19.497Z",
   "institutions": [
     {
       "id": "iniap",
@@ -206,31 +206,19 @@
           "summary": "Las ventas registradas en Ecuador durante abril de 2026 alcanzaron $24.369,7 millones, el nivel más alto para ese mes en dos años. Los comprobantes electrónicos procesados por el SRI muestran crecimiento en sectores como inmobiliarias, transporte y construcción."
         },
         {
+          "title": "SRI limita uso de notas de crédito para pagar impuestos tributarios",
+          "date": "2026-05-01",
+          "url": "https://elmercurio.com.ec/nacional/2026/05/01/notas-de-credito-sri-pago-impuestos-ecuador/",
+          "summary": "A partir del 1 de mayo de 2026, los contribuyentes solo pueden utilizar notas de crédito del SRI para cubrir hasta el 60% de sus obligaciones tributarias, lo que representa una limitación significativa en este mecanismo de pago que anteriormente permitía mayor flexibilidad."
+        },
+        {
           "title": "SRI limita uso de notas de crédito para pagar impuestos: solo el 60% desde el 1 de mayo",
           "date": "2026-05-01",
           "url": "https://elmercurio.com.ec/nacional/2026/05/01/notas-de-credito-sri-pago-impuestos-ecuador/",
           "summary": "A partir del 1 de mayo de 2026, los contribuyentes solo pueden cubrir hasta el 60% de sus obligaciones tributarias con notas de crédito emitidas por el SRI. El 40% restante debe pagarse obligatoriamente mediante canales habilitados como transferencia bancaria, débito o ventanilla."
-        },
-        {
-          "title": "SRI amplía de manera excepcional los plazos para declaraciones con vencimiento 20 de abril de 2026",
-          "date": "2026-04-22",
-          "url": "https://x.com/SRIoficialEc/status/2046450431635959902",
-          "summary": "El SRI amplió excepcionalmente los plazos para la presentación de las declaraciones de impuestos con fecha de vencimiento 20 de abril de 2026. Los contribuyentes que no presentaron sus declaraciones a tiempo pueden hacerlo dentro de este nuevo plazo ampliado."
-        },
-        {
-          "title": "Declaración y pago del IVA se realizarán en un solo paso desde junio de 2026",
-          "date": "2026-04-16",
-          "url": "https://www.eluniverso.com/noticias/economia/sri-pago-declaracion-iva-ecuador-junio-2026-servicio-de-rentas-internas-nota/",
-          "summary": "Desde junio de 2026, la declaración y el pago del Impuesto al Valor Agregado (IVA) se realizarán en un solo paso. Las declaraciones del IVA solo serán válidas si se presentan junto con el pago total del impuesto para evitar omisiones y fortalecer la recaudación tributaria."
-        },
-        {
-          "title": "A partir de junio de 2026 la declaración y el pago del IVA se efectuarán en un solo paso",
-          "date": "2026-04-16",
-          "url": "https://www.eluniverso.com/noticias/economia/sri-pago-declaracion-iva-ecuador-junio-2026-servicio-de-rentas-internas-nota/",
-          "summary": "El SRI implementará un cambio en el procedimiento del IVA: a partir de junio de 2026, los contribuyentes deberán declarar y pagar el impuesto en un solo paso en el mismo día. La declaración se considerará incompleta si no se registra con el pago total del impuesto."
         }
       ],
-      "lastUpdated": "2026-05-06T07:36:30.717Z"
+      "lastUpdated": "2026-05-07T07:43:38.730Z"
     },
     {
       "id": "arcsa",
@@ -241,7 +229,7 @@
       "sourceUrl": "https://www.controlsanitario.gob.ec/noticias/",
       "status": "stale",
       "news": [],
-      "lastUpdated": "2026-05-06T07:36:55.913Z"
+      "lastUpdated": "2026-05-07T07:44:04.111Z"
     },
     {
       "id": "senescyt",
@@ -277,7 +265,7 @@
           "summary": "El Ministerio de Educación abrió la etapa de inscripción para 54 institutos tecnológicos y conservatorios superiores públicos del país para el primer período 2026. Esta fase es obligatoria para jóvenes que completaron el Registro Nacional."
         }
       ],
-      "lastUpdated": "2026-05-06T07:37:39.190Z"
+      "lastUpdated": "2026-05-07T07:44:29.303Z"
     },
     {
       "id": "sercop",
@@ -319,7 +307,7 @@
           "summary": "El SERCOP desarrolló mesas de trabajo el 3 y 4 de marzo con 10 instituciones y empresas públicas para crear un nuevo perfil profesional del Responsable Institucional de Cumplimiento en Contratación Pública, figura orientada a fortalecer mecanismos de control, transparencia e integridad en las compras públicas."
         }
       ],
-      "lastUpdated": "2026-05-06T07:38:04.381Z"
+      "lastUpdated": "2026-05-07T07:44:54.495Z"
     },
     {
       "id": "min-interior",
