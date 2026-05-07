@@ -2,7 +2,7 @@
   "id": "iniap",
   "name": "INIAP",
   "fullName": "Instituto Nacional de Investigaciones Agropecuarias",
-  "lastUpdated": "2026-05-06T04:29:52.695Z",
+  "lastUpdated": "2026-05-07T04:30:35.438Z",
   "items": [
     {
       "key": "iniap::comisión-de-soberanía-alimentaria-avanza-en-reformas-a-la-le",
@@ -40,24 +40,32 @@
       "key": "iniap::día-nacional-de-la-papa-iniap-impulsa-el-desarrollo-del-cul",
       "title": "Día Nacional de la Papa: INIAP impulsa el desarrollo del cultivo con investigación, nutrición y sostenibilidad",
       "date": "2025-06-27",
-      "url": "https://www.iniap.gob.ec/noticias/",
-      "summary": "El INIAP resalta su contribución al desarrollo del cultivo de papa mediante investigación, mejora nutricional y prácticas sostenibles para beneficio de productores nacionales.",
+      "url": "https://www.iniap.gob.ec/iniap-participa-en-la-celebracion-del-dia-nacional-de-la-papa/",
+      "summary": "El INIAP conmemora el Día Nacional de la Papa (29 de junio) promoviendo investigaciones, nuevas variedades y tecnologías para mejorar la productividad y sostenibilidad del cultivo. El Instituto organiza eventos científicos que reúnen a investigadores, productores y especialistas para compartir avances en mejoramiento genético y manejo agroecológico de la papa.",
       "scrapedAt": "2026-05-01T04:44:05.777Z"
     },
     {
       "key": "iniap::iniap-y-usfq-firman-convenio-de-cooperación-para-fortalecer-",
       "title": "INIAP y USFQ firman convenio de cooperación para fortalecer la investigación y el desarrollo agropecuario del Ecuador",
       "date": "2025-06-13",
-      "url": "https://www.iniap.gob.ec/noticias/",
-      "summary": "INIAP y la Universidad San Francisco de Quito firmaron un convenio de cooperación técnica para fortalecer investigación conjunta en el sector agropecuario ecuatoriano.",
+      "url": "https://www.iniap.gob.ec/category/comunicamos/noticias-destacadas/",
+      "summary": "INIAP y la Universidad San Francisco de Quito suscriben un convenio de cooperación interinstitucional para fortalecer la investigación científica y el desarrollo de tecnologías agropecuarias. Este acuerdo permite colaboración en proyectos de investigación, formación académica y transferencia de tecnología en el sector agrícola ecuatoriano.",
       "scrapedAt": "2026-05-01T04:44:05.777Z"
     },
     {
       "key": "iniap::el-iniap-fortalece-la-producción-de-arroz-en-ecuador-a-trav",
       "title": "El INIAP fortalece la producción de arroz en Ecuador, a través de la generación de materiales y producción de semilla de calidad",
       "date": "2025-06-06",
-      "url": "https://www.iniap.gob.ec/noticias/",
-      "summary": "El INIAP continúa generando nuevos materiales y semillas de calidad para fortalecer la producción de arroz como uno de los rubros prioritarios del sector agrícola ecuatoriano.",
+      "url": "https://www.iniap.gob.ec/category/comunicamos/noticias-destacadas/",
+      "summary": "El INIAP presenta nuevas líneas promisorias de arroz desarrolladas mediante el FIASA, con características de alto rendimiento, resistencia a plagas y adaptación a condiciones locales. La semilla estará disponible para los productores en el primer semestre de 2026, mejorando la seguridad alimentaria nacional.",
+      "scrapedAt": "2026-05-01T04:44:05.777Z"
+    },
+    {
+      "key": "iniap::convocatoria-fiasa-2026-haz-realidad-tu-proyecto-de-invest",
+      "title": "Convocatoria FIASA 2026: ¡Haz realidad tu proyecto de investigación agropecuaria!",
+      "date": "2025-05-13",
+      "url": "https://www.iniap.gob.ec/convocatoria-fiasa-2026-haz-realidad-tu-proyecto-de-investigacion-agropecuaria/",
+      "summary": "Se abre oficialmente la Convocatoria FIASA 2026, un mecanismo de financiamiento estatal que permite a investigadores y instituciones acceder a hasta USD 150.000 anuales para proyectos de agrobiodiversidad, semillas y agricultura sostenible. Los investigadores pueden enviar sus notas conceptuales hasta el 6 de junio de 2025.",
       "scrapedAt": "2026-05-01T04:44:05.777Z"
     },
     {
@@ -69,12 +77,12 @@
       "scrapedAt": "2026-04-30T14:00:07.691Z"
     },
     {
-      "key": "iniap::convocatoria-fiasa-2026-haz-realidad-tu-proyecto-de-invest",
-      "title": "Convocatoria FIASA 2026: ¡Haz realidad tu proyecto de investigación agropecuaria!",
-      "date": "2025-05-12",
-      "url": "https://www.iniap.gob.ec/convocatoria-fiasa-2026-haz-realidad-tu-proyecto-de-investigacion-agropecuaria/",
-      "summary": "Se abrió oficialmente la Convocatoria FIASA 2026, un mecanismo de financiamiento estatal que permite a instituciones investigar sobre agrobiodiversidad, semillas y agricultura sustentable para obtener fondos de proyectos científicos y tecnológicos en el sector agropecuario ecuatoriano.",
-      "scrapedAt": "2026-05-01T04:44:05.777Z"
+      "key": "iniap::ecuador-será-la-sede-del-ix-congreso-mundial-de-la-quinua-y-",
+      "title": "Ecuador será la sede del IX Congreso Mundial de la Quinua y el VI Simposio Internacional de Granos Andinos",
+      "date": "2025-05-07",
+      "url": "https://www.iniap.gob.ec/category/comunicamos/noticias-destacadas/",
+      "summary": "Ecuador será anfitrión de importantes eventos internacionales sobre cultivos andinos, reuniendo a investigadores, productores y expertos mundiales. Estos congresos permiten el intercambio de conocimientos sobre mejoramiento genético, producción sostenible y comercialización de quinua y otros granos andinos de importancia para la seguridad alimentaria regional.",
+      "scrapedAt": "2026-05-07T04:30:35.431Z"
     },
     {
       "key": "iniap::iniap-cierra-el-2024-consolidando-logros-significativos-en-b",

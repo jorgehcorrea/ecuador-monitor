@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-05-06T13:00:33.376Z",
+  "lastScraped": "2026-05-07T04:32:16.143Z",
   "institutions": [
     {
       "id": "iniap",
@@ -37,11 +37,11 @@
         {
           "title": "Día Nacional de la Papa: INIAP impulsa el desarrollo del cultivo con investigación, nutrición y sostenibilidad",
           "date": "2025-06-27",
-          "url": "https://www.iniap.gob.ec/noticias/",
-          "summary": "El INIAP resalta su contribución al desarrollo del cultivo de papa mediante investigación, mejora nutricional y prácticas sostenibles para beneficio de productores nacionales."
+          "url": "https://www.iniap.gob.ec/iniap-participa-en-la-celebracion-del-dia-nacional-de-la-papa/",
+          "summary": "El INIAP conmemora el Día Nacional de la Papa (29 de junio) promoviendo investigaciones, nuevas variedades y tecnologías para mejorar la productividad y sostenibilidad del cultivo. El Instituto organiza eventos científicos que reúnen a investigadores, productores y especialistas para compartir avances en mejoramiento genético y manejo agroecológico de la papa."
         }
       ],
-      "lastUpdated": "2026-05-06T04:29:52.695Z"
+      "lastUpdated": "2026-05-07T04:30:35.439Z"
     },
     {
       "id": "mag",
@@ -52,7 +52,7 @@
       "sourceUrl": "https://www.agricultura.gob.ec/noticias/",
       "status": "stale",
       "news": [],
-      "lastUpdated": "2026-05-06T04:30:18.158Z"
+      "lastUpdated": "2026-05-07T04:31:00.650Z"
     },
     {
       "id": "agrocalidad",
@@ -63,7 +63,7 @@
       "sourceUrl": "https://www.agrocalidad.gob.ec/noticias/",
       "status": "stale",
       "news": [],
-      "lastUpdated": "2026-05-06T04:30:43.326Z"
+      "lastUpdated": "2026-05-07T04:31:25.888Z"
     },
     {
       "id": "proecuador",
@@ -105,7 +105,7 @@
           "summary": "Entre enero y octubre de 2025, los procesos comerciales acompañados por ProEcuador permitieron concretar negocios por USD 345,2 millones, evidenciando la capacidad del país para captar demanda internacional y potenciar su inserción comercial en un entorno global competitivo."
         }
       ],
-      "lastUpdated": "2026-05-06T04:31:27.300Z"
+      "lastUpdated": "2026-05-07T04:31:51.140Z"
     },
     {
       "id": "inamhi",
