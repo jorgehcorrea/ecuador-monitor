@@ -2,8 +2,40 @@
   "id": "inamhi",
   "name": "INAMHI",
   "fullName": "Instituto Nacional de Meteorología e Hidrología",
-  "lastUpdated": "2026-05-01T06:19:00.112Z",
+  "lastUpdated": "2026-05-07T06:14:15.747Z",
   "items": [
+    {
+      "key": "inamhi::pronóstico-de-radiación-ultravioleta-extrema-5-de-mayo-de-2",
+      "title": "Pronóstico de Radiación Ultravioleta Extrema (5 de mayo de 2026)",
+      "date": "2026-05-05",
+      "url": "https://radiocentro.com.ec/radiacion-ultravioleta-provincias-de-ecuador-advierte-inamhi/",
+      "summary": "El INAMHI advirtió sobre niveles extremos de radiación ultravioleta en varias provincias del Ecuador para el martes 5 de mayo. Manabí, Santa Elena y Loja enfrentan los niveles más altos, requiriendo precaución y protección solar especial entre las 10:00 y 16:00.",
+      "scrapedAt": "2026-05-07T06:14:15.740Z"
+    },
+    {
+      "key": "inamhi::alerta-general-por-lluvias-y-tormentas-eléctricas-4-de-mayo",
+      "title": "Alerta General por Lluvias y Tormentas Eléctricas (4 de mayo de 2026)",
+      "date": "2026-05-04",
+      "url": "https://radiocentro.com.ec/inamhi-lanza-alerta-general-por-posibles-temporales-durante-la-presente-semana",
+      "summary": "El INAMHI emitió alerta general por lluvias y tormentas eléctricas que afectarán principalmente la Amazonía hasta el miércoles 6 de mayo. Se esperan acumulados entre 22 y 31 milímetros, con picos de hasta 54 milímetros en sectores críticos, generando riesgos de deslizamientos e inundaciones.",
+      "scrapedAt": "2026-05-07T06:14:15.740Z"
+    },
+    {
+      "key": "inamhi::advertencia-meteorológica-por-lluvias-de-variable-intensidad",
+      "title": "Advertencia Meteorológica por Lluvias de Variable Intensidad y Tormentas en la Amazonía (3 de mayo de 2026)",
+      "date": "2026-05-03",
+      "url": "https://www.eluniverso.com/noticias/ecuador/inamhi-alerta-lluvias-intensas-y-tormentas-en-la-amazonia-ecuatoriana-nota/",
+      "summary": "El INAMHI emitió alerta por lluvias de intensidad variable y tormentas en la región Amazónica desde la noche del 3 hasta el 6 de mayo. Se esperan acumulados de 22 a 31 milímetros diarios con riesgos de deslizamientos de tierra y crecidas de ríos en provincias como Sucumbíos, Orellana y Pastaza.",
+      "scrapedAt": "2026-05-07T06:14:15.740Z"
+    },
+    {
+      "key": "inamhi::advertencia-por-lluvias-de-intensidad-media-y-alta-durante-f",
+      "title": "Advertencia por Lluvias de Intensidad Media y Alta durante Feriado (29 de abril - 3 de mayo de 2026)",
+      "date": "2026-04-29",
+      "url": "https://www.teleamazonas.com/actualidad/noticias/ecuador/alerta-inamhi-lluvias-feriado-ecuador/",
+      "summary": "El INAMHI emitió alerta por lluvias de intensidad media y alta durante el feriado del Día del Trabajador, desde la noche del 29 de abril hasta el 3 de mayo. La región Amazónica será la más afectada, con riesgo de deslizamientos, crecidas de ríos y acumulación de agua en viviendas y vías.",
+      "scrapedAt": "2026-05-07T06:14:15.740Z"
+    },
     {
       "key": "inamhi::advertencia-meteorológica-n-31-lluvias-y-tormentas-para-fe",
       "title": "Advertencia Meteorológica N° 31: Lluvias y tormentas para feriado de mayo",
@@ -27,6 +59,14 @@
       "url": "https://www.extra.ec/noticia/ecuador/tanto-calor-costa-ecuador-abril-2026-inamhi-explica-fenomeno-151955.html",
       "summary": "El calentamiento anómalo del océano (2°C por encima de lo normal) está causando temperaturas récord en la región Litoral, con sensación térmica que puede superar los 40°C. Este patrón persistirá en las próximas semanas debido al cambio climático global.",
       "scrapedAt": "2026-05-01T06:19:00.105Z"
+    },
+    {
+      "key": "inamhi::advertencia-meteorológica-nro-28-por-intensificación-de-llu",
+      "title": "Advertencia Meteorológica Nro. 28 por Intensificación de Lluvias y Tormentas Eléctricas (17 de abril de 2026)",
+      "date": "2026-04-17",
+      "url": "https://www.eldiario.ec/ecuador/el-inamhi-emite-alerta-por-intensificacion-de-lluvias-y-tormentas-electricas-en-ecuador-hasta-el-21-de-abril-17042026/",
+      "summary": "El INAMHI emitió advertencia por continuidad e intensificación de precipitaciones desde la tarde del 17 hasta las 10:00 del 21 de abril de 2026. La mayor concentración de humedad se localizará en la región amazónica, con riesgo de deslizamientos de tierra y caída de árboles que afectan la red vial nacional.",
+      "scrapedAt": "2026-05-07T06:14:15.740Z"
     },
     {
       "key": "inamhi::alerta-de-lluvias-intensas-y-tormentas-eléctricas-hasta-el-2",

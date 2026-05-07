@@ -2,7 +2,7 @@
   "id": "mipro",
   "name": "MIPRO",
   "fullName": "Ministerio de Producción, Comercio Exterior, Inversiones y Pesca",
-  "lastUpdated": "2026-05-06T06:10:13.620Z",
+  "lastUpdated": "2026-05-07T06:15:34.193Z",
   "items": [
     {
       "key": "mipro::roger-crespo-es-designado-nuevo-viceministro-de-promoción-de",
@@ -29,27 +29,43 @@
       "scrapedAt": "2026-04-30T14:02:32.863Z"
     },
     {
+      "key": "mipro::la-apertura-comercial-del-país-impulsa-la-agenda-de-negociac",
+      "title": "La apertura comercial del país impulsa la agenda de negociación de más de 15 acuerdos, bajo el liderazgo del gobierno del presidente Daniel Noboa",
+      "date": "2026-04-23",
+      "url": "https://www.produccion.gob.ec/la-apertura-comercial-del-pais-impulsa-la-agenda-de-negociacion-de-mas-de-15-acuerdos-bajo-el-liderazgo-del-gobierno-del-presidente-daniel-noboa/",
+      "summary": "El Gobierno continúa negociando instrumentos comerciales con 15 países, incluyendo Emiratos Árabes Unidos, Estados Unidos, Panamá y otros, con el objetivo de fortalecer las relaciones bilaterales de comercio e inversión y ampliar los mercados para los exportadores ecuatorianos.",
+      "scrapedAt": "2026-05-07T06:15:34.193Z"
+    },
+    {
       "key": "mipro::gobierno-del-presidente-noboa-posiciona-a-ecuador-en-wtm-lat",
       "title": "Gobierno del presidente Noboa posiciona a Ecuador en WTM Latin America 2026 y fortalece su presencia internacional",
       "date": "2026-04-16",
       "url": "https://www.produccion.gob.ec/gobierno-del-presidente-noboa-posiciona-a-ecuador-en-wtm-latin-america-2026-y-fortalece-su-presencia-internacional/",
-      "summary": "Ecuador participó con una delegación de empresas turísticas en la World Travel Market Latin America 2026 en São Paulo, Brasil, del 14 al 16 de abril. Esta participación permitió generar alianzas estratégicas con operadores internacionales y posicionar al país como destino competitivo en el mercado brasileño.",
+      "summary": "Ecuador participó en WTM Latin America 2026 con aproximadamente 650 citas de negocios y activaciones culturales y gastronómicas, consolidando al país como destino turístico atractivo en la región de América Latina ante actores del sector turístico global.",
       "scrapedAt": "2026-05-06T06:10:13.612Z"
+    },
+    {
+      "key": "mipro::gobierno-de-daniel-noboa-concreta-el-acuerdo-de-comercio-rec",
+      "title": "Gobierno de Daniel Noboa concreta el Acuerdo de Comercio Recíproco (ART) entre Ecuador y Estados Unidos, que libera el 53% de las exportaciones no petroleras",
+      "date": "2026-03-13",
+      "url": "https://www.produccion.gob.ec/gobierno-de-daniel-noboa-concreta-el-acuerdo-de-comercio-reciproco-art-entre-ecuador-y-estados-unidos-que-libera-el-53-de-las-exportaciones-no-petroleras/",
+      "summary": "Ecuador y Estados Unidos firmaron el Acuerdo de Comercio Recíproco que beneficia el 53% de las exportaciones no petroleras ecuatorianas, eliminando sobretasas y permitiendo el acceso a maquinaria agrícola e industriales con arancel cero, lo que ampliará significativamente las oportunidades comerciales bilaterales.",
+      "scrapedAt": "2026-05-07T06:15:34.193Z"
     },
     {
       "key": "mipro::camino-violeta-el-gobierno-de-daniel-noboa-abre-registro-",
       "title": "\"Camino Violeta\": el Gobierno de Daniel Noboa abre registro de formalización para mujeres emprendedoras",
       "date": "2026-03-08",
       "url": "https://www.produccion.gob.ec/camino-violeta-el-gobierno-de-daniel-noboa-abre-registro-de-formalizacion-para-mujeres-emprendedoras/",
-      "summary": "El MPCEI lanzó oficialmente el programa \"Camino Violeta\" con el Registro de Mujeres Emprendedoras No Formalizadas (MENF), permitiendo a mujeres acceder a capacitaciones, créditos especiales de BanEcuador e incentivos tributarios para formalizar y fortalecer sus negocios. Esta iniciativa busca reducir brechas históricas de acceso a financiamiento para emprendedoras ecuatorianas.",
+      "summary": "El Gobierno creó el Registro de Mujeres Emprendedoras No Formalizadas (MENF) que permite a mujeres ecuatorianas emprendedoras acceder gratuitamente a la formalización y beneficiarse de créditos y capacitación a través de BanEcuador y programas de apoyo del Estado.",
       "scrapedAt": "2026-04-30T14:02:32.863Z"
     },
     {
       "key": "mipro::ecuador-es-reconocido-como-destino-del-año-en-turismo-de-av",
       "title": "Ecuador es reconocido como \"Destino del Año en Turismo de Aventura\" en ITB Berlín 2026, bajo el liderazgo del presidente Noboa",
-      "date": "2026-03-02",
+      "date": "2026-03-04",
       "url": "https://www.produccion.gob.ec/ecuador-es-reconocido-como-destino-del-ano-en-turismo-de-aventura-en-itb-berlin-2026-bajo-el-liderazgo-del-presidente-noboa/",
-      "summary": "Ecuador recibió el galardón \"Destination of the Year – Adventure Experiences\" de la Pacific Area Travel Writers Association durante la ITB Berlín 2026. Este reconocimiento internacional posiciona al país como destino competitivo para turismo de aventura gracias a su biodiversidad y capacidad de ofrecer experiencias en Andes, Amazonía, Costa y Galápagos en distancias cortas.",
+      "summary": "Ecuador recibió el reconocimiento internacional \"Destination of the Year – Adventure Experiences\" de la Pacific Area Travel Writers Association, posicionando al país entre los destinos más atractivos del mundo para turismo de aventura y resaltando su biodiversidad única en cortas distancias.",
       "scrapedAt": "2026-04-30T14:02:32.863Z"
     },
     {
