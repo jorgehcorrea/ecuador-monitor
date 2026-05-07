@@ -2,15 +2,31 @@
   "id": "cne",
   "name": "CNE",
   "fullName": "Consejo Nacional Electoral",
-  "lastUpdated": "2026-05-06T10:55:46.093Z",
+  "lastUpdated": "2026-05-07T11:00:05.052Z",
   "items": [
+    {
+      "key": "cne::ciudadanía-y-organizaciones-políticas-pueden-presentar-recla",
+      "title": "Ciudadanía y organizaciones políticas pueden presentar reclamos al Registro Electoral del 4 al 18 de mayo",
+      "date": "2026-05-05",
+      "url": "https://www.cne.gob.ec/ciudadania-y-organizaciones-politicas-pueden-presentar-reclamos-al-registro-electoral-del-4-al-18-de-mayo/",
+      "summary": "Los ciudadanos y partidos políticos tienen oportunidad de presentar observaciones y reclamos al registro electoral hasta el 18 de mayo, siendo fundamental para corregir errores antes de que se apruebe la versión definitiva el 2 de julio de 2026.",
+      "scrapedAt": "2026-05-07T11:00:05.044Z"
+    },
     {
       "key": "cne::cne-actualiza-registro-237-organizaciones-políticas-inscrit",
       "title": "CNE actualiza registro: 237 organizaciones políticas inscritas para elecciones seccionales de 2026",
       "date": "2026-05-05",
       "url": "https://www.eldiario.ec/ecuador/cne-actualiza-registro-237-organizaciones-politicas-inscritas-para-elecciones-seccionales-de-2026-05052026/",
-      "summary": "El CNE incorporó siete nuevos movimientos locales al registro, elevando el total de organizaciones habilitadas de 231 a 237, tras el cierre del plazo de inscripción del 3 de mayo. Dos organizaciones nacionales (Unidad Popular y Construye) enfrentan aún recursos legales pendientes que podrían derivar en su extinción.",
+      "summary": "El CNE confirmó que 237 organizaciones políticas están habilitadas para participar en las elecciones seccionales del 29 de noviembre, tras incorporar siete nuevos movimientos de ámbito local después del cierre del plazo.",
       "scrapedAt": "2026-05-06T10:55:46.085Z"
+    },
+    {
+      "key": "cne::hasta-el-13-de-mayo-el-cne-recepta-inscripciones-para-integr",
+      "title": "Hasta el 13 de mayo el CNE recepta inscripciones para integrar veedurías del proceso de elección del CPCCS 2027",
+      "date": "2026-05-04",
+      "url": "https://www.cne.gob.ec/hasta-el-13-de-mayo-el-cne-recepta-inscripciones-para-integrar-veedurias-del-proceso-de-eleccion-del-cpccs-2027/",
+      "summary": "El CNE abre inscripciones hasta el 13 de mayo para que ciudadanos y organizaciones se registren como veedores del proceso de selección de candidatos al Consejo de Participación Ciudadana y Control Social, permitiendo mayor fiscalización ciudadana.",
+      "scrapedAt": "2026-05-07T11:00:05.044Z"
     },
     {
       "key": "cne::cne-habilita-15-días-para-reclamos-al-registro-electoral-de-",
@@ -29,12 +45,28 @@
       "scrapedAt": "2026-05-06T10:55:46.085Z"
     },
     {
+      "key": "cne::cne-habilitó-simulador-virtual-de-apoyo-técnico-a-organizaci",
+      "title": "CNE habilitó simulador virtual de apoyo técnico a organizaciones políticas para inscripción de candidaturas",
+      "date": "2026-04-30",
+      "url": "https://www.cne.gob.ec/cne-habilito-simulador-virtual-de-apoyo-tecnico-a-organizaciones-politicas-para-inscripcion-de-candidaturas/",
+      "summary": "El CNE puso en funcionamiento una herramienta digital para que los partidos verifiquen sus listas de candidatos y cumplan con requisitos de participación de mujeres y jóvenes antes de la inscripción oficial.",
+      "scrapedAt": "2026-05-07T11:00:05.044Z"
+    },
+    {
       "key": "cne::ciudadanía-podrá-inscribirse-del-4-al-13-de-mayo-para-integr",
       "title": "Ciudadanía podrá inscribirse del 4 al 13 de mayo para integrar la veeduría de selección de candidatos al CPCCS",
       "date": "2026-04-29",
       "url": "https://www.cne.gob.ec/ciudadania-podra-inscribirse-del-4-al-13-de-mayo-para-integrar-la-veeduria-de-seleccion-de-candidatos-al-cpccs/",
       "summary": "El CNE abrió inscripciones para que ciudadanos y organizaciones se registren como veedores que supervisarán la selección de candidatos al Consejo de Participación Ciudadana. Este proceso es obligatorio antes de que se reciban las candidaturas para vocales del CPCCS entre junio 12 y 25.",
       "scrapedAt": "2026-05-01T10:14:52.970Z"
+    },
+    {
+      "key": "cne::instructivo-aprobado-para-la-inscripción-de-candidatos-al-co",
+      "title": "Instructivo aprobado para la inscripción de candidatos al Consejo de Participación Ciudadana y Control Social",
+      "date": "2026-04-27",
+      "url": "https://www.primicias.ec/politica/elecciones-seccionales-candidatos-consejo-participacion-cne-referendo-autoridades-121502/",
+      "summary": "El CNE aprobó un instructivo detallado que establece los requisitos y prohibiciones para candidatos al CPCCS, incluyendo edad mínima de 18 años, probidad notoria y ausencia de antecedentes administrativos.",
+      "scrapedAt": "2026-05-07T11:00:05.044Z"
     },
     {
       "key": "cne::cne-reforma-instructivo-para-calificación-de-candidaturas-pa",

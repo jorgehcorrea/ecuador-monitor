@@ -2,8 +2,48 @@
   "id": "asamblea",
   "name": "Asamblea",
   "fullName": "Asamblea Nacional del Ecuador",
-  "lastUpdated": "2026-05-06T10:56:47.348Z",
+  "lastUpdated": "2026-05-07T11:00:52.552Z",
   "items": [
+    {
+      "key": "asamblea::asamblea-nacional-fortalece-su-gestión-con-más-del-50--de-l",
+      "title": "Asamblea Nacional fortalece su gestión con más del 50 % de la agenda parlamentaria 2025-2027 cumplida, destaca Niels Olsen",
+      "date": "2026-05-06",
+      "url": "https://www.asambleanacional.gob.ec/es/noticia/116196-asamblea-nacional-fortalece-su-gestion-con-mas-del-50",
+      "summary": "El presidente de la Asamblea destacó el cumplimiento de más del 50% de la agenda legislativa en casi un año, incluyendo reformas para fortalecer estabilidad jurídica, seguridad, salud y desarrollar medidas disciplinarias como controles electrónicos y sanciones por nepotismo.",
+      "scrapedAt": "2026-05-07T11:00:52.552Z"
+    },
+    {
+      "key": "asamblea::comisión-de-salud-aprueba-texto-final-de-reforma-para-person",
+      "title": "Comisión de Salud aprueba texto final de reforma para personas que padecen diabetes",
+      "date": "2026-05-06",
+      "url": "https://www.asambleanacional.gob.ec/es/noticia/116218-comision-de-salud-aprueba-texto-final-de-reforma-para",
+      "summary": "La Comisión aprobó la reforma final que establece que servicios de salud pública, medicina prepagada y aseguradoras deben aceptar pacientes con diabetes en cualquier estado clínico, prohibiendo expresamente rechazos o exclusiones por esta enfermedad.",
+      "scrapedAt": "2026-05-07T11:00:52.552Z"
+    },
+    {
+      "key": "asamblea::comisión-de-régimen-debate-reforma-financiera-y-el-cobro-de-",
+      "title": "Comisión de Régimen debate reforma financiera y el cobro de intereses sobre intereses que afecta a usuarios",
+      "date": "2026-05-06",
+      "url": "https://www.asambleanacional.gob.ec/es/noticia/116171-comision-de-regimen-debate-reforma-financiera-y-el",
+      "summary": "La Comisión analizó reformas al Código Orgánico Monetario y Financiero para limitar el anatocismo (intereses sobre intereses), buscando fortalecer la regulación para proteger a usuarios del sistema financiero.",
+      "scrapedAt": "2026-05-07T11:00:52.552Z"
+    },
+    {
+      "key": "asamblea::asamblea-nacional-archiva-proyecto-sobre-control-previo-de-l",
+      "title": "Asamblea Nacional archiva proyecto sobre control previo de legalidad por improcedente",
+      "date": "2026-05-05",
+      "url": "https://www.asambleanacional.gob.ec/es/noticia/116162-asamblea-nacional-archiva-proyecto-sobre-control-previo-de-legalidad-por-improcedente",
+      "summary": "El Pleno archivó con 138 votos un proyecto de 2019 sobre control previo de legalidad, considerando que el contexto jurídico actual ya cuenta con diversas reformas implementadas y la Procuraduría presentó iniciativa paralela sobre el tema.",
+      "scrapedAt": "2026-05-07T11:00:52.552Z"
+    },
+    {
+      "key": "asamblea::luis-molina-propone-reforma-para-garantizar-la-probidad-en-l",
+      "title": "Luis Molina propone reforma para garantizar la probidad en la designación de Fiscal General",
+      "date": "2026-05-05",
+      "url": "https://www.asambleanacional.gob.ec/es/noticia/116145-luis-molina-impulsa-reforma-al-cootad-para-ampliar",
+      "summary": "Se presentó un proyecto de reforma al Código Orgánico de la Función Judicial para incorporar requisitos adicionales de probidad notoria en la designación del Fiscal General del Estado, fortaleciendo mecanismos de control en acceso al cargo.",
+      "scrapedAt": "2026-05-07T11:00:52.552Z"
+    },
     {
       "key": "asamblea::asamblea-tramitó-en-primer-debate-reforma-legal-para-agiliza",
       "title": "Asamblea tramitó en primer debate reforma legal para agilizar los procesos de adopción de niñas, niños y adolescentes",

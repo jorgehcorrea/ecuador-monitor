@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-05-07T09:29:41.548Z",
+  "lastScraped": "2026-05-07T11:01:42.737Z",
   "institutions": [
     {
       "id": "iniap",
@@ -394,10 +394,22 @@
       "status": "ok",
       "news": [
         {
+          "title": "Ciudadanía y organizaciones políticas pueden presentar reclamos al Registro Electoral del 4 al 18 de mayo",
+          "date": "2026-05-05",
+          "url": "https://www.cne.gob.ec/ciudadania-y-organizaciones-politicas-pueden-presentar-reclamos-al-registro-electoral-del-4-al-18-de-mayo/",
+          "summary": "Los ciudadanos y partidos políticos tienen oportunidad de presentar observaciones y reclamos al registro electoral hasta el 18 de mayo, siendo fundamental para corregir errores antes de que se apruebe la versión definitiva el 2 de julio de 2026."
+        },
+        {
           "title": "CNE actualiza registro: 237 organizaciones políticas inscritas para elecciones seccionales de 2026",
           "date": "2026-05-05",
           "url": "https://www.eldiario.ec/ecuador/cne-actualiza-registro-237-organizaciones-politicas-inscritas-para-elecciones-seccionales-de-2026-05052026/",
-          "summary": "El CNE incorporó siete nuevos movimientos locales al registro, elevando el total de organizaciones habilitadas de 231 a 237, tras el cierre del plazo de inscripción del 3 de mayo. Dos organizaciones nacionales (Unidad Popular y Construye) enfrentan aún recursos legales pendientes que podrían derivar en su extinción."
+          "summary": "El CNE confirmó que 237 organizaciones políticas están habilitadas para participar en las elecciones seccionales del 29 de noviembre, tras incorporar siete nuevos movimientos de ámbito local después del cierre del plazo."
+        },
+        {
+          "title": "Hasta el 13 de mayo el CNE recepta inscripciones para integrar veedurías del proceso de elección del CPCCS 2027",
+          "date": "2026-05-04",
+          "url": "https://www.cne.gob.ec/hasta-el-13-de-mayo-el-cne-recepta-inscripciones-para-integrar-veedurias-del-proceso-de-eleccion-del-cpccs-2027/",
+          "summary": "El CNE abre inscripciones hasta el 13 de mayo para que ciudadanos y organizaciones se registren como veedores del proceso de selección de candidatos al Consejo de Participación Ciudadana y Control Social, permitiendo mayor fiscalización ciudadana."
         },
         {
           "title": "CNE habilita 15 días para reclamos al Registro Electoral de cara a las elecciones de 2026",
@@ -412,13 +424,13 @@
           "summary": "El CNE cerró el plazo de inscripción de organizaciones políticas con 231 agrupaciones habilitadas, aunque dos enfrentan procesos administrativos de cancelación. El pleno también rechazó el registro de dos movimientos que no subsanaron requisitos legales."
         },
         {
-          "title": "Ciudadanía podrá inscribirse del 4 al 13 de mayo para integrar la veeduría de selección de candidatos al CPCCS",
-          "date": "2026-04-29",
-          "url": "https://www.cne.gob.ec/ciudadania-podra-inscribirse-del-4-al-13-de-mayo-para-integrar-la-veeduria-de-seleccion-de-candidatos-al-cpccs/",
-          "summary": "El CNE abrió inscripciones para que ciudadanos y organizaciones se registren como veedores que supervisarán la selección de candidatos al Consejo de Participación Ciudadana. Este proceso es obligatorio antes de que se reciban las candidaturas para vocales del CPCCS entre junio 12 y 25."
+          "title": "CNE habilitó simulador virtual de apoyo técnico a organizaciones políticas para inscripción de candidaturas",
+          "date": "2026-04-30",
+          "url": "https://www.cne.gob.ec/cne-habilito-simulador-virtual-de-apoyo-tecnico-a-organizaciones-politicas-para-inscripcion-de-candidaturas/",
+          "summary": "El CNE puso en funcionamiento una herramienta digital para que los partidos verifiquen sus listas de candidatos y cumplan con requisitos de participación de mujeres y jóvenes antes de la inscripción oficial."
         }
       ],
-      "lastUpdated": "2026-05-06T10:55:46.093Z"
+      "lastUpdated": "2026-05-07T11:00:05.111Z"
     },
     {
       "id": "asamblea",
@@ -430,31 +442,43 @@
       "status": "ok",
       "news": [
         {
+          "title": "Asamblea Nacional fortalece su gestión con más del 50 % de la agenda parlamentaria 2025-2027 cumplida, destaca Niels Olsen",
+          "date": "2026-05-06",
+          "url": "https://www.asambleanacional.gob.ec/es/noticia/116196-asamblea-nacional-fortalece-su-gestion-con-mas-del-50",
+          "summary": "El presidente de la Asamblea destacó el cumplimiento de más del 50% de la agenda legislativa en casi un año, incluyendo reformas para fortalecer estabilidad jurídica, seguridad, salud y desarrollar medidas disciplinarias como controles electrónicos y sanciones por nepotismo."
+        },
+        {
+          "title": "Comisión de Salud aprueba texto final de reforma para personas que padecen diabetes",
+          "date": "2026-05-06",
+          "url": "https://www.asambleanacional.gob.ec/es/noticia/116218-comision-de-salud-aprueba-texto-final-de-reforma-para",
+          "summary": "La Comisión aprobó la reforma final que establece que servicios de salud pública, medicina prepagada y aseguradoras deben aceptar pacientes con diabetes en cualquier estado clínico, prohibiendo expresamente rechazos o exclusiones por esta enfermedad."
+        },
+        {
+          "title": "Comisión de Régimen debate reforma financiera y el cobro de intereses sobre intereses que afecta a usuarios",
+          "date": "2026-05-06",
+          "url": "https://www.asambleanacional.gob.ec/es/noticia/116171-comision-de-regimen-debate-reforma-financiera-y-el",
+          "summary": "La Comisión analizó reformas al Código Orgánico Monetario y Financiero para limitar el anatocismo (intereses sobre intereses), buscando fortalecer la regulación para proteger a usuarios del sistema financiero."
+        },
+        {
+          "title": "Asamblea Nacional archiva proyecto sobre control previo de legalidad por improcedente",
+          "date": "2026-05-05",
+          "url": "https://www.asambleanacional.gob.ec/es/noticia/116162-asamblea-nacional-archiva-proyecto-sobre-control-previo-de-legalidad-por-improcedente",
+          "summary": "El Pleno archivó con 138 votos un proyecto de 2019 sobre control previo de legalidad, considerando que el contexto jurídico actual ya cuenta con diversas reformas implementadas y la Procuraduría presentó iniciativa paralela sobre el tema."
+        },
+        {
+          "title": "Luis Molina propone reforma para garantizar la probidad en la designación de Fiscal General",
+          "date": "2026-05-05",
+          "url": "https://www.asambleanacional.gob.ec/es/noticia/116145-luis-molina-impulsa-reforma-al-cootad-para-ampliar",
+          "summary": "Se presentó un proyecto de reforma al Código Orgánico de la Función Judicial para incorporar requisitos adicionales de probidad notoria en la designación del Fiscal General del Estado, fortaleciendo mecanismos de control en acceso al cargo."
+        },
+        {
           "title": "Asamblea tramitó en primer debate reforma legal para agilizar los procesos de adopción de niñas, niños y adolescentes",
           "date": "2026-05-05",
           "url": "https://www.asambleanacional.gob.ec/es/noticia/116151-asamblea-tramito-en-primer-debate-reforma-legal-para",
           "summary": "El Pleno aprobó el primer debate del Proyecto de Ley Orgánica de Agilización Judicial para la Adopción, que busca reducir tiempos en procesos judiciales y administrativos de adopción garantizando el interés superior de niños y niñas. La reforma incluye sanciones por incumplimiento de plazos y establece becas para adolescentes que cumplan mayoría de edad sin ser adoptados."
-        },
-        {
-          "title": "Asamblea Nacional posesiona a Mercedes Caicedo y Ramón Echaiz como vocales del Consejo de la Judicatura",
-          "date": "2026-04-29",
-          "url": "https://www.asambleanacional.gob.ec/es/node/116075",
-          "summary": "Se posesionó a Mercedes Johanna Caicedo Aldaz como vocal principal y presidenta del Consejo de la Judicatura, y a Ramón Antonio Echaiz Lavayen como vocal suplente. Caicedo ejercerá sus funciones orientadas a fortalecer la independencia judicial, la meritocracia y la modernización tecnológica del sistema de justicia ecuatoriano."
-        },
-        {
-          "title": "Asamblea posesiona a Mercedes Caicedo y Ramón Echaiz como vocales del Consejo de la Judicatura",
-          "date": "2026-04-29",
-          "url": "https://www.asambleanacional.gob.ec/es/node/116075",
-          "summary": "Mercedes Caicedo Aldaz fue posesionada como presidenta del Consejo de la Judicatura, asumiendo la responsabilidad de fortalecer la independencia judicial, combatir la corrupción y modernizar tecnológicamente la entidad. Este cambio marca un nuevo liderazgo en el máximo órgano de administración judicial del país."
-        },
-        {
-          "title": "Comisión aprueba informe para primer debate de reformas a la Ley de Juventudes con enfoque en derechos y diversidad",
-          "date": "2026-04-29",
-          "url": "https://www.asambleanacional.gob.ec/es/noticia/116065-comision-aprueba-informe-para-primer-debate-de-reformas",
-          "summary": "La Comisión de Garantías Constitucionales aprobó por unanimidad el informe para el primer debate del proyecto de reforma a la Ley Orgánica de Juventudes, que busca garantizar integralmente los derechos de los jóvenes ecuatorianos con base en los desafíos actuales y estándares internacionales."
         }
       ],
-      "lastUpdated": "2026-05-06T10:56:47.348Z"
+      "lastUpdated": "2026-05-07T11:00:52.553Z"
     },
     {
       "id": "corte-constitucional",
@@ -496,7 +520,7 @@
           "summary": "La Corte emitió dictamen favorable sobre propuesta de enmienda que trasladaría la facultad de designación de autoridades del CPCCS a la Asamblea Nacional, permitiendo avanzar hacia un referéndum."
         }
       ],
-      "lastUpdated": "2026-05-06T10:57:12.637Z"
+      "lastUpdated": "2026-05-07T11:01:17.736Z"
     },
     {
       "id": "pge",
