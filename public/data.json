@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-05-07T13:01:36.208Z",
+  "lastScraped": "2026-05-08T04:14:30.869Z",
   "institutions": [
     {
       "id": "iniap",
@@ -37,11 +37,11 @@
         {
           "title": "Día Nacional de la Papa: INIAP impulsa el desarrollo del cultivo con investigación, nutrición y sostenibilidad",
           "date": "2025-06-27",
-          "url": "https://www.iniap.gob.ec/iniap-participa-en-la-celebracion-del-dia-nacional-de-la-papa/",
-          "summary": "El INIAP conmemora el Día Nacional de la Papa (29 de junio) promoviendo investigaciones, nuevas variedades y tecnologías para mejorar la productividad y sostenibilidad del cultivo. El Instituto organiza eventos científicos que reúnen a investigadores, productores y especialistas para compartir avances en mejoramiento genético y manejo agroecológico de la papa."
+          "url": "https://www.iniap.gob.ec/category/comunicamos/noticias-destacadas/",
+          "summary": "El INIAP presentó nuevas variedades de papa con potencial industrial para la producción de hojuelas de colores, con capacidad de adaptarse a zonas paperas entre 2.800 y 3.300 metros de altura en Ecuador."
         }
       ],
-      "lastUpdated": "2026-05-07T04:30:35.439Z"
+      "lastUpdated": "2026-05-08T04:12:37.907Z"
     },
     {
       "id": "mag",
@@ -52,7 +52,7 @@
       "sourceUrl": "https://www.agricultura.gob.ec/noticias/",
       "status": "stale",
       "news": [],
-      "lastUpdated": "2026-05-07T04:31:00.650Z"
+      "lastUpdated": "2026-05-08T04:13:03.250Z"
     },
     {
       "id": "agrocalidad",
@@ -63,7 +63,7 @@
       "sourceUrl": "https://www.agrocalidad.gob.ec/noticias/",
       "status": "stale",
       "news": [],
-      "lastUpdated": "2026-05-07T04:31:25.888Z"
+      "lastUpdated": "2026-05-08T04:13:28.472Z"
     },
     {
       "id": "proecuador",
@@ -105,7 +105,7 @@
           "summary": "Entre enero y octubre de 2025, los procesos comerciales acompañados por ProEcuador permitieron concretar negocios por USD 345,2 millones, evidenciando la capacidad del país para captar demanda internacional y potenciar su inserción comercial en un entorno global competitivo."
         }
       ],
-      "lastUpdated": "2026-05-07T04:31:51.140Z"
+      "lastUpdated": "2026-05-08T04:14:05.862Z"
     },
     {
       "id": "inamhi",
