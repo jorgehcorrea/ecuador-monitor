@@ -2,7 +2,7 @@
   "id": "sri",
   "name": "SRI",
   "fullName": "Servicio de Rentas Internas",
-  "lastUpdated": "2026-05-07T07:43:38.730Z",
+  "lastUpdated": "2026-05-08T06:53:04.989Z",
   "items": [
     {
       "key": "sri::ventas-en-ecuador-crecen-127-en-abril-2026-según-registros",
@@ -11,6 +11,14 @@
       "url": "https://www.expreso.ec/economia-y-negocios/ventas-ecuador-crecen-12-7-abril-2026-marcan-nivel-alto-dos-anos-280933.html",
       "summary": "Las ventas registradas en Ecuador durante abril de 2026 alcanzaron $24.369,7 millones, el nivel más alto para ese mes en dos años. Los comprobantes electrónicos procesados por el SRI muestran crecimiento en sectores como inmobiliarias, transporte y construcción.",
       "scrapedAt": "2026-05-06T07:36:30.709Z"
+    },
+    {
+      "key": "sri::ventas-crecen-127-en-abril-impulsadas-por-políticas-económ",
+      "title": "Ventas crecen 12,7% en abril impulsadas por políticas económicas del gobierno de Daniel Noboa",
+      "date": "2026-05-02",
+      "url": "https://www.expreso.ec/economia-y-negocios/ventas-ecuador-crecen-12-7-abril-2026-marcan-nivel-alto-dos-anos-280933.html",
+      "summary": "Las ventas en Ecuador alcanzaron $24.369,7 millones en abril, el nivel más alto en dos años, mostrando que el consumo interno se ha recuperado con fuerza después de que el comercio creciera 16,9% comparado con el 10,6% de 2025.",
+      "scrapedAt": "2026-05-08T06:53:04.981Z"
     },
     {
       "key": "sri::sri-limita-uso-de-notas-de-crédito-para-pagar-impuestos-trib",
@@ -29,6 +37,14 @@
       "scrapedAt": "2026-05-06T07:36:30.709Z"
     },
     {
+      "key": "sri::sri-amplía-de-manera-excepcional-los-plazos-para-las-declara",
+      "title": "SRI amplía de manera excepcional los plazos para las declaraciones de impuestos con fecha de vencimiento 20 de abril de 2026",
+      "date": "2026-04-24",
+      "url": "https://www.primicias.ec/economia/sri-amplia-plazos-presentacion-declaraciones-impuestos-vencimiento-20abril-120917/",
+      "summary": "El SRI concedió una prórroga excepcional para contribuyentes con vencimientos el 20 de abril, permitiéndoles más tiempo para presentar sus declaraciones de impuestos sin incurrir en penalizaciones.",
+      "scrapedAt": "2026-05-08T06:53:04.981Z"
+    },
+    {
       "key": "sri::sri-amplía-de-manera-excepcional-los-plazos-para-declaracion",
       "title": "SRI amplía de manera excepcional los plazos para declaraciones con vencimiento 20 de abril de 2026",
       "date": "2026-04-22",
@@ -45,20 +61,20 @@
       "scrapedAt": "2026-05-07T07:43:38.722Z"
     },
     {
-      "key": "sri::a-partir-de-junio-de-2026-la-declaración-y-el-pago-del-iva-s",
-      "title": "A partir de junio de 2026 la declaración y el pago del IVA se efectuarán en un solo paso",
-      "date": "2026-04-16",
-      "url": "https://www.eluniverso.com/noticias/economia/sri-pago-declaracion-iva-ecuador-junio-2026-servicio-de-rentas-internas-nota/",
-      "summary": "El SRI implementará un cambio en el procedimiento del IVA: a partir de junio de 2026, los contribuyentes deberán declarar y pagar el impuesto en un solo paso en el mismo día. La declaración se considerará incompleta si no se registra con el pago total del impuesto.",
-      "scrapedAt": "2026-05-01T07:26:41.703Z"
-    },
-    {
       "key": "sri::declaración-y-pago-del-iva-se-realizarán-en-un-solo-paso-des",
       "title": "Declaración y pago del IVA se realizarán en un solo paso desde junio de 2026",
       "date": "2026-04-16",
       "url": "https://www.eluniverso.com/noticias/economia/sri-pago-declaracion-iva-ecuador-junio-2026-servicio-de-rentas-internas-nota/",
       "summary": "El SRI dispuso que a partir de junio de 2026, la declaración y el pago del IVA deben efectuarse en un solo acto; si no se realiza el pago total, la declaración se considerará como no presentada, fortaleciendo la recaudación tributaria.",
       "scrapedAt": "2026-05-06T07:36:30.709Z"
+    },
+    {
+      "key": "sri::a-partir-de-junio-de-2026-la-declaración-y-el-pago-del-iva-s",
+      "title": "A partir de junio de 2026 la declaración y el pago del IVA se efectuarán en un solo paso",
+      "date": "2026-04-16",
+      "url": "https://www.eluniverso.com/noticias/economia/sri-pago-declaracion-iva-ecuador-junio-2026-servicio-de-rentas-internas-nota/",
+      "summary": "Desde junio de 2026, los contribuyentes obligados a declarar IVA deberán realizar la declaración y el pago simultáneamente en un solo paso, lo que simplifica el proceso pero requiere que el pago sea completo para que la declaración sea válida.",
+      "scrapedAt": "2026-05-01T07:26:41.703Z"
     },
     {
       "key": "sri::ventas-en-ecuador-alcanzaron-usd-267196-millones-en-2025-co",
@@ -70,11 +86,19 @@
     },
     {
       "key": "sri::sri-informa-sobre-plazos-en-abril-para-declarar-el-impuesto-",
-      "title": "SRI informa sobre plazos en abril para declarar el Impuesto a la Renta de sociedades",
+      "title": "SRI informa sobre plazos en abril para declarar el impuesto a la renta de sociedades",
       "date": "2026-04-08",
       "url": "https://www.eldiario.ec/ecuador/ya-sabes-cuando-vence-tu-plazo-para-pagar-el-impuesto-a-la-renta-en-abril-el-sri-lo-acaba-de-revelar-08042026/",
-      "summary": "El SRI publicó el calendario para que las sociedades declaren y paguen el impuesto a la renta del ejercicio fiscal 2025 en abril de 2026, con vencimientos escalonados según el noveno dígito del RUC. Los plazos se ajustan cuando coinciden con feriados, trasladándose al siguiente día hábil.",
+      "summary": "El SRI publicó el calendario de abril 2026 para que las sociedades declaren y paguen el impuesto a la renta del ejercicio fiscal 2025, con fechas escalonadas entre el 10 y 28 de abril según el noveno dígito del RUC de cada contribuyente.",
       "scrapedAt": "2026-05-01T07:26:41.703Z"
+    },
+    {
+      "key": "sri::resolución-nac-dgercgc26-00000015-notas-de-crédito-desmater",
+      "title": "Resolución NAC-DGERCGC26-00000015: Notas de crédito desmaterializadas solo pueden extinguir hasta el 60% de obligaciones tributarias",
+      "date": "2026-03-31",
+      "url": "https://boletincontable.com/2026/04/02/notas-de-credito-desmaterializadas-sri-nueva-resolucion/",
+      "summary": "A partir del 1 de mayo de 2026, los contribuyentes solo podrán usar notas de crédito para cubrir hasta el 60% de sus declaraciones, siendo obligatorio pagar el 40% restante en efectivo a través de los medios habilitados en el sistema SRI en Línea.",
+      "scrapedAt": "2026-05-08T06:53:04.981Z"
     },
     {
       "key": "sri::sri-implementa-restricción-del-60-en-el-uso-de-notas-de-cré",
