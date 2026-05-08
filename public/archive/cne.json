@@ -2,22 +2,14 @@
   "id": "cne",
   "name": "CNE",
   "fullName": "Consejo Nacional Electoral",
-  "lastUpdated": "2026-05-07T11:00:05.052Z",
+  "lastUpdated": "2026-05-08T10:16:54.787Z",
   "items": [
-    {
-      "key": "cne::ciudadanía-y-organizaciones-políticas-pueden-presentar-recla",
-      "title": "Ciudadanía y organizaciones políticas pueden presentar reclamos al Registro Electoral del 4 al 18 de mayo",
-      "date": "2026-05-05",
-      "url": "https://www.cne.gob.ec/ciudadania-y-organizaciones-politicas-pueden-presentar-reclamos-al-registro-electoral-del-4-al-18-de-mayo/",
-      "summary": "Los ciudadanos y partidos políticos tienen oportunidad de presentar observaciones y reclamos al registro electoral hasta el 18 de mayo, siendo fundamental para corregir errores antes de que se apruebe la versión definitiva el 2 de julio de 2026.",
-      "scrapedAt": "2026-05-07T11:00:05.044Z"
-    },
     {
       "key": "cne::cne-actualiza-registro-237-organizaciones-políticas-inscrit",
       "title": "CNE actualiza registro: 237 organizaciones políticas inscritas para elecciones seccionales de 2026",
       "date": "2026-05-05",
-      "url": "https://www.eldiario.ec/ecuador/cne-actualiza-registro-237-organizaciones-politicas-inscritas-para-elecciones-seccionales-de-2026-05052026/",
-      "summary": "El CNE confirmó que 237 organizaciones políticas están habilitadas para participar en las elecciones seccionales del 29 de noviembre, tras incorporar siete nuevos movimientos de ámbito local después del cierre del plazo.",
+      "url": "https://www.cne.gob.ec/ciudadania-y-organizaciones-politicas-pueden-presentar-reclamos-al-registro-electoral-del-4-al-18-de-mayo/",
+      "summary": "El CNE registró un total de 237 organizaciones políticas habilitadas para participar en las elecciones seccionales del 29 de noviembre de 2026, tras incorporar siete nuevos movimientos de ámbito local y cerrar el plazo de inscripción el 3 de mayo. Los electores tendrán estas opciones disponibles para presentar sus candidatos en los comicios.",
       "scrapedAt": "2026-05-06T10:55:46.085Z"
     },
     {
@@ -35,6 +27,14 @@
       "url": "https://www.eldiario.ec/ecuador/cne-habilita-15-dias-para-reclamos-al-registro-electoral-de-cara-a-las-elecciones-de-2026-04052026/",
       "summary": "El CNE abrió un período de 15 días para que ciudadanos y organizaciones políticas presenten reclamos administrativos y observaciones al Registro Electoral, buscando asegurar la integridad del padrón electoral antes de la inscripción de candidatos.",
       "scrapedAt": "2026-05-06T10:55:46.085Z"
+    },
+    {
+      "key": "cne::ciudadanía-y-organizaciones-políticas-pueden-presentar-recla",
+      "title": "Ciudadanía y organizaciones políticas pueden presentar reclamos al Registro Electoral del 4 al 18 de mayo",
+      "date": "2026-05-04",
+      "url": "https://www.cne.gob.ec/ciudadania-y-organizaciones-politicas-pueden-presentar-reclamos-al-registro-electoral-del-4-al-18-de-mayo/",
+      "summary": "El CNE abrió un período de 15 días para que ciudadanos y organizaciones políticas presenten reclamos y observaciones al Registro Electoral. Esta etapa de depuración del padrón es fundamental antes de que el 2 de julio se apruebe el registro definitivo que se utilizará en las elecciones de noviembre.",
+      "scrapedAt": "2026-05-07T11:00:05.044Z"
     },
     {
       "key": "cne::231-organizaciones-políticas-participarán-en-las-elecciones-",
@@ -77,6 +77,14 @@
       "scrapedAt": "2026-05-01T10:14:52.970Z"
     },
     {
+      "key": "cne::cne-cancela-la-personería-jurídica-de-unidad-popular-y-const",
+      "title": "CNE cancela la personería jurídica de Unidad Popular y Construye",
+      "date": "2026-04-26",
+      "url": "https://www.cne.gob.ec/",
+      "summary": "El CNE resolvió cancelar la personería jurídica de las organizaciones políticas Unidad Popular y Construye por no cumplir con el número mínimo de afiliados permanentes exigido por la ley. Esta resolución las excluye del registro oficial de partidos y movimientos habilitados para participar en las próximas elecciones.",
+      "scrapedAt": "2026-05-08T10:16:54.779Z"
+    },
+    {
       "key": "cne::ecuador-el-consejo-electoral-canceló-a-dos-partidos-y-defen",
       "title": "Ecuador: el Consejo Electoral canceló a dos partidos y defendió que garantizó el debido proceso",
       "date": "2026-04-26",
@@ -93,12 +101,28 @@
       "scrapedAt": "2026-05-01T10:14:52.970Z"
     },
     {
+      "key": "cne::cne-aprueba-cambio-de-denominación-de-democracia-sí-a-futuro",
+      "title": "CNE aprueba cambio de denominación de Democracia Sí a Futuro",
+      "date": "2026-04-13",
+      "url": "https://www.cne.gob.ec/",
+      "summary": "El pleno del CNE aprobó el cambio oficial de denominación del movimiento político Democracia Sí, que pasará a llamarse jurídicamente movimiento Futuro, conservando la asignación de la lista 20. Esta reestructuración responde a una solicitud de reformas al régimen orgánico de la organización política.",
+      "scrapedAt": "2026-05-08T10:16:54.779Z"
+    },
+    {
       "key": "cne::cne-actualiza-reglamento-y-manual-para-la-organización-de-21",
       "title": "CNE actualiza reglamento y manual para la organización de 21 debates de prefecturas y de 24 alcaldías",
       "date": "2026-04-12",
       "url": "https://www.cne.gob.ec/cne-actualiza-reglamento-y-manual-para-la-organizacion-de-21-debates-de-prefecturas-y-de-24-alcaldias/",
       "summary": "El CNE estableció nuevas reglas y procedimientos para los 45 debates electorales que se realizarán entre noviembre 12 y 26 de 2026. Los cambios buscan garantizar condiciones equitativas para todos los candidatos y asegurar que la ciudadanía pueda conocer las propuestas de quienes aspiran a dirigir provincias y cantones.",
       "scrapedAt": "2026-05-01T10:14:52.970Z"
+    },
+    {
+      "key": "cne::cne-aprueba-nueva-delimitación-de-circunscripciones-para-la-",
+      "title": "CNE aprueba nueva delimitación de circunscripciones para la elección de concejales urbanos y rurales",
+      "date": "2026-04-03",
+      "url": "https://www.cne.gob.ec/cne-actualiza-numero-de-circunscripciones-para-la-eleccion-de-concejales-urbanos-y-rurales-en-ecuador/",
+      "summary": "El pleno del CNE aprobó la nueva delimitación de circunscripciones electorales para la elección de concejales urbanos y rurales en 17 cantones del país. Este cambio en la geografía electoral permitirá una mejor representación territorial para las elecciones seccionales del 29 de noviembre de 2026.",
+      "scrapedAt": "2026-05-08T10:16:54.779Z"
     },
     {
       "key": "cne::cne-actualiza-número-de-circunscripciones-para-la-elección-d",

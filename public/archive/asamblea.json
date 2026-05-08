@@ -2,23 +2,23 @@
   "id": "asamblea",
   "name": "Asamblea",
   "fullName": "Asamblea Nacional del Ecuador",
-  "lastUpdated": "2026-05-07T11:00:52.552Z",
+  "lastUpdated": "2026-05-08T10:17:34.373Z",
   "items": [
     {
-      "key": "asamblea::asamblea-nacional-fortalece-su-gestión-con-más-del-50--de-l",
-      "title": "Asamblea Nacional fortalece su gestión con más del 50 % de la agenda parlamentaria 2025-2027 cumplida, destaca Niels Olsen",
-      "date": "2026-05-06",
-      "url": "https://www.asambleanacional.gob.ec/es/noticia/116196-asamblea-nacional-fortalece-su-gestion-con-mas-del-50",
-      "summary": "El presidente de la Asamblea destacó el cumplimiento de más del 50% de la agenda legislativa en casi un año, incluyendo reformas para fortalecer estabilidad jurídica, seguridad, salud y desarrollar medidas disciplinarias como controles electrónicos y sanciones por nepotismo.",
-      "scrapedAt": "2026-05-07T11:00:52.552Z"
+      "key": "asamblea::asamblea-condecoró-al-artista-damiano-y-a-productores-de-pro",
+      "title": "Asamblea condecoró al artista Damiano y a productores de programas de la Radio Legislativa por sus 15 años",
+      "date": "2026-05-07",
+      "url": "https://www.asambleanacional.gob.ec/es/node/116232",
+      "summary": "El Pleno reconoció la trayectoria artística del músico Nelson Fernando Proaño Guerra (Damiano) y condecoró a seis programas de la Radio de la Asamblea por sus contribuciones a la difusión cultural y preservación del patrimonio musical ecuatoriano durante los últimos 15 años.",
+      "scrapedAt": "2026-05-08T10:17:34.373Z"
     },
     {
-      "key": "asamblea::comisión-de-salud-aprueba-texto-final-de-reforma-para-person",
-      "title": "Comisión de Salud aprueba texto final de reforma para personas que padecen diabetes",
-      "date": "2026-05-06",
-      "url": "https://www.asambleanacional.gob.ec/es/noticia/116218-comision-de-salud-aprueba-texto-final-de-reforma-para",
-      "summary": "La Comisión aprobó la reforma final que establece que servicios de salud pública, medicina prepagada y aseguradoras deben aceptar pacientes con diabetes en cualquier estado clínico, prohibiendo expresamente rechazos o exclusiones por esta enfermedad.",
-      "scrapedAt": "2026-05-07T11:00:52.552Z"
+      "key": "asamblea::asamblea-nacional-tramita-en-primer-debate-reformas-a-la-ley",
+      "title": "Asamblea Nacional tramita en primer debate reformas a la Ley Orgánica de Garantías Jurisdiccionales y Control Constitucional",
+      "date": "2026-05-07",
+      "url": "https://www.asambleanacional.gob.ec/es/node/116236",
+      "summary": "La Asamblea analiza un proyecto de reforma para fortalecer la seguridad jurídica, prevenir el uso indebido de las acciones constitucionales y optimizar el sistema de justicia, estableciendo un plazo de 45 días para resolver consultas de norma y buscando reducir los abusos en demandas que crecieron 211% entre 2018 y 2022.",
+      "scrapedAt": "2026-05-08T10:17:34.373Z"
     },
     {
       "key": "asamblea::comisión-de-régimen-debate-reforma-financiera-y-el-cobro-de-",
@@ -27,6 +27,30 @@
       "url": "https://www.asambleanacional.gob.ec/es/noticia/116171-comision-de-regimen-debate-reforma-financiera-y-el",
       "summary": "La Comisión analizó reformas al Código Orgánico Monetario y Financiero para limitar el anatocismo (intereses sobre intereses), buscando fortalecer la regulación para proteger a usuarios del sistema financiero.",
       "scrapedAt": "2026-05-07T11:00:52.552Z"
+    },
+    {
+      "key": "asamblea::asamblea-nacional-fortalece-su-gestión-con-más-del-50--de-l",
+      "title": "Asamblea Nacional fortalece su gestión con más del 50 % de la agenda parlamentaria 2025-2027 cumplida, destaca Niels Olsen",
+      "date": "2026-05-06",
+      "url": "https://www.asambleanacional.gob.ec/es/noticia/116196-asamblea-nacional-fortalece-su-gestion-con-mas-del-50",
+      "summary": "El presidente de la Asamblea informó que se ha cumplido más del 50% de la agenda legislativa 2025-2027, con avances en estabilidad jurídica, seguridad, salud y combate a la corrupción, además de implementar reformas para mejorar disciplina parlamentaria y transparencia electoral mediante un registro electrónico automático.",
+      "scrapedAt": "2026-05-07T11:00:52.552Z"
+    },
+    {
+      "key": "asamblea::comisión-de-salud-aprueba-texto-final-de-reforma-para-person",
+      "title": "Comisión de Salud aprueba texto final de reforma para personas que padecen diabetes",
+      "date": "2026-05-06",
+      "url": "https://www.asambleanacional.gob.ec/es/noticia/116218-comision-de-salud-aprueba-texto-final-de-reforma-para",
+      "summary": "La Comisión del Derecho a la Salud aprobó el texto final de la reforma que obliga a los servicios públicos de salud, empresas de medicina prepagada y aseguradoras a aceptar pacientes con diabetes en cualquier estado clínico, prohibiendo rechazos por esa condición.",
+      "scrapedAt": "2026-05-07T11:00:52.552Z"
+    },
+    {
+      "key": "asamblea::asamblea-archiva-reforma-a-garantías-jurisdiccionales-y-abre",
+      "title": "Asamblea archiva reforma a garantías jurisdiccionales y abre paso a nuevo proyecto en trámite",
+      "date": "2026-05-05",
+      "url": "https://www.asambleanacional.gob.ec/es/node/116155",
+      "summary": "El Pleno archivó con 140 votos un proyecto de reforma a la Ley de Garantías Jurisdiccionales por incumplimiento de plazos procedimentales, pero abre camino a un nuevo proyecto de reforma presentado por la Comisión de Transparencia cuyo primer debate está previsto para la siguiente semana.",
+      "scrapedAt": "2026-05-08T10:17:34.373Z"
     },
     {
       "key": "asamblea::asamblea-nacional-archiva-proyecto-sobre-control-previo-de-l",

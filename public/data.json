@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-05-08T08:20:59.621Z",
+  "lastScraped": "2026-05-08T10:18:39.235Z",
   "institutions": [
     {
       "id": "iniap",
@@ -437,16 +437,10 @@
       "status": "ok",
       "news": [
         {
-          "title": "Ciudadanía y organizaciones políticas pueden presentar reclamos al Registro Electoral del 4 al 18 de mayo",
-          "date": "2026-05-05",
-          "url": "https://www.cne.gob.ec/ciudadania-y-organizaciones-politicas-pueden-presentar-reclamos-al-registro-electoral-del-4-al-18-de-mayo/",
-          "summary": "Los ciudadanos y partidos políticos tienen oportunidad de presentar observaciones y reclamos al registro electoral hasta el 18 de mayo, siendo fundamental para corregir errores antes de que se apruebe la versión definitiva el 2 de julio de 2026."
-        },
-        {
           "title": "CNE actualiza registro: 237 organizaciones políticas inscritas para elecciones seccionales de 2026",
           "date": "2026-05-05",
-          "url": "https://www.eldiario.ec/ecuador/cne-actualiza-registro-237-organizaciones-politicas-inscritas-para-elecciones-seccionales-de-2026-05052026/",
-          "summary": "El CNE confirmó que 237 organizaciones políticas están habilitadas para participar en las elecciones seccionales del 29 de noviembre, tras incorporar siete nuevos movimientos de ámbito local después del cierre del plazo."
+          "url": "https://www.cne.gob.ec/ciudadania-y-organizaciones-politicas-pueden-presentar-reclamos-al-registro-electoral-del-4-al-18-de-mayo/",
+          "summary": "El CNE registró un total de 237 organizaciones políticas habilitadas para participar en las elecciones seccionales del 29 de noviembre de 2026, tras incorporar siete nuevos movimientos de ámbito local y cerrar el plazo de inscripción el 3 de mayo. Los electores tendrán estas opciones disponibles para presentar sus candidatos en los comicios."
         },
         {
           "title": "Hasta el 13 de mayo el CNE recepta inscripciones para integrar veedurías del proceso de elección del CPCCS 2027",
@@ -461,19 +455,19 @@
           "summary": "El CNE abrió un período de 15 días para que ciudadanos y organizaciones políticas presenten reclamos administrativos y observaciones al Registro Electoral, buscando asegurar la integridad del padrón electoral antes de la inscripción de candidatos."
         },
         {
+          "title": "Ciudadanía y organizaciones políticas pueden presentar reclamos al Registro Electoral del 4 al 18 de mayo",
+          "date": "2026-05-04",
+          "url": "https://www.cne.gob.ec/ciudadania-y-organizaciones-politicas-pueden-presentar-reclamos-al-registro-electoral-del-4-al-18-de-mayo/",
+          "summary": "El CNE abrió un período de 15 días para que ciudadanos y organizaciones políticas presenten reclamos y observaciones al Registro Electoral. Esta etapa de depuración del padrón es fundamental antes de que el 2 de julio se apruebe el registro definitivo que se utilizará en las elecciones de noviembre."
+        },
+        {
           "title": "231 organizaciones políticas participarán en las elecciones seccionales de Ecuador del 29 de noviembre de 2026",
           "date": "2026-05-03",
           "url": "https://www.eldiario.ec/ecuador/elecciones-seccionales-ecuador-2026-organizaciones-politicas-04052026/",
           "summary": "El CNE cerró el plazo de inscripción de organizaciones políticas con 231 agrupaciones habilitadas, aunque dos enfrentan procesos administrativos de cancelación. El pleno también rechazó el registro de dos movimientos que no subsanaron requisitos legales."
-        },
-        {
-          "title": "CNE habilitó simulador virtual de apoyo técnico a organizaciones políticas para inscripción de candidaturas",
-          "date": "2026-04-30",
-          "url": "https://www.cne.gob.ec/cne-habilito-simulador-virtual-de-apoyo-tecnico-a-organizaciones-politicas-para-inscripcion-de-candidaturas/",
-          "summary": "El CNE puso en funcionamiento una herramienta digital para que los partidos verifiquen sus listas de candidatos y cumplan con requisitos de participación de mujeres y jóvenes antes de la inscripción oficial."
         }
       ],
-      "lastUpdated": "2026-05-07T11:00:05.111Z"
+      "lastUpdated": "2026-05-08T10:16:54.787Z"
     },
     {
       "id": "asamblea",
@@ -485,22 +479,40 @@
       "status": "ok",
       "news": [
         {
-          "title": "Asamblea Nacional fortalece su gestión con más del 50 % de la agenda parlamentaria 2025-2027 cumplida, destaca Niels Olsen",
-          "date": "2026-05-06",
-          "url": "https://www.asambleanacional.gob.ec/es/noticia/116196-asamblea-nacional-fortalece-su-gestion-con-mas-del-50",
-          "summary": "El presidente de la Asamblea destacó el cumplimiento de más del 50% de la agenda legislativa en casi un año, incluyendo reformas para fortalecer estabilidad jurídica, seguridad, salud y desarrollar medidas disciplinarias como controles electrónicos y sanciones por nepotismo."
+          "title": "Asamblea condecoró al artista Damiano y a productores de programas de la Radio Legislativa por sus 15 años",
+          "date": "2026-05-07",
+          "url": "https://www.asambleanacional.gob.ec/es/node/116232",
+          "summary": "El Pleno reconoció la trayectoria artística del músico Nelson Fernando Proaño Guerra (Damiano) y condecoró a seis programas de la Radio de la Asamblea por sus contribuciones a la difusión cultural y preservación del patrimonio musical ecuatoriano durante los últimos 15 años."
         },
         {
-          "title": "Comisión de Salud aprueba texto final de reforma para personas que padecen diabetes",
-          "date": "2026-05-06",
-          "url": "https://www.asambleanacional.gob.ec/es/noticia/116218-comision-de-salud-aprueba-texto-final-de-reforma-para",
-          "summary": "La Comisión aprobó la reforma final que establece que servicios de salud pública, medicina prepagada y aseguradoras deben aceptar pacientes con diabetes en cualquier estado clínico, prohibiendo expresamente rechazos o exclusiones por esta enfermedad."
+          "title": "Asamblea Nacional tramita en primer debate reformas a la Ley Orgánica de Garantías Jurisdiccionales y Control Constitucional",
+          "date": "2026-05-07",
+          "url": "https://www.asambleanacional.gob.ec/es/node/116236",
+          "summary": "La Asamblea analiza un proyecto de reforma para fortalecer la seguridad jurídica, prevenir el uso indebido de las acciones constitucionales y optimizar el sistema de justicia, estableciendo un plazo de 45 días para resolver consultas de norma y buscando reducir los abusos en demandas que crecieron 211% entre 2018 y 2022."
         },
         {
           "title": "Comisión de Régimen debate reforma financiera y el cobro de intereses sobre intereses que afecta a usuarios",
           "date": "2026-05-06",
           "url": "https://www.asambleanacional.gob.ec/es/noticia/116171-comision-de-regimen-debate-reforma-financiera-y-el",
           "summary": "La Comisión analizó reformas al Código Orgánico Monetario y Financiero para limitar el anatocismo (intereses sobre intereses), buscando fortalecer la regulación para proteger a usuarios del sistema financiero."
+        },
+        {
+          "title": "Asamblea Nacional fortalece su gestión con más del 50 % de la agenda parlamentaria 2025-2027 cumplida, destaca Niels Olsen",
+          "date": "2026-05-06",
+          "url": "https://www.asambleanacional.gob.ec/es/noticia/116196-asamblea-nacional-fortalece-su-gestion-con-mas-del-50",
+          "summary": "El presidente de la Asamblea informó que se ha cumplido más del 50% de la agenda legislativa 2025-2027, con avances en estabilidad jurídica, seguridad, salud y combate a la corrupción, además de implementar reformas para mejorar disciplina parlamentaria y transparencia electoral mediante un registro electrónico automático."
+        },
+        {
+          "title": "Comisión de Salud aprueba texto final de reforma para personas que padecen diabetes",
+          "date": "2026-05-06",
+          "url": "https://www.asambleanacional.gob.ec/es/noticia/116218-comision-de-salud-aprueba-texto-final-de-reforma-para",
+          "summary": "La Comisión del Derecho a la Salud aprobó el texto final de la reforma que obliga a los servicios públicos de salud, empresas de medicina prepagada y aseguradoras a aceptar pacientes con diabetes en cualquier estado clínico, prohibiendo rechazos por esa condición."
+        },
+        {
+          "title": "Asamblea archiva reforma a garantías jurisdiccionales y abre paso a nuevo proyecto en trámite",
+          "date": "2026-05-05",
+          "url": "https://www.asambleanacional.gob.ec/es/node/116155",
+          "summary": "El Pleno archivó con 140 votos un proyecto de reforma a la Ley de Garantías Jurisdiccionales por incumplimiento de plazos procedimentales, pero abre camino a un nuevo proyecto de reforma presentado por la Comisión de Transparencia cuyo primer debate está previsto para la siguiente semana."
         },
         {
           "title": "Asamblea Nacional archiva proyecto sobre control previo de legalidad por improcedente",
@@ -521,7 +533,7 @@
           "summary": "El Pleno aprobó el primer debate del Proyecto de Ley Orgánica de Agilización Judicial para la Adopción, que busca reducir tiempos en procesos judiciales y administrativos de adopción garantizando el interés superior de niños y niñas. La reforma incluye sanciones por incumplimiento de plazos y establece becas para adolescentes que cumplan mayoría de edad sin ser adoptados."
         }
       ],
-      "lastUpdated": "2026-05-07T11:00:52.553Z"
+      "lastUpdated": "2026-05-08T10:17:34.373Z"
     },
     {
       "id": "corte-constitucional",
@@ -532,6 +544,18 @@
       "sourceUrl": "https://www.corteconstitucional.gob.ec/noticias/",
       "status": "ok",
       "news": [
+        {
+          "title": "Corte Constitucional verifica incumplimiento del Cosepe en entrega de información sobre caso El Comercio",
+          "date": "2026-05-04",
+          "url": "https://www.expreso.ec/justicia/informacion-asesinato-periodistas-comercio-inconsistencias-dice-corte-280958.html",
+          "summary": "La Corte determinó que el Consejo de Seguridad Pública y del Estado (Cosepe) incumplió con la entrega de documentación desclasificada a las familias de los periodistas asesinados en 2018, ordenando una reunión presencial para que las familias accedan a las actas, audios y transcripciones relevantes."
+        },
+        {
+          "title": "Corte Constitucional acepta renuncia del juez Raúl Llasag y designa a Sandra Cordero Gárate como su reemplazo",
+          "date": "2026-05-04",
+          "url": "https://www.expreso.ec/justicia/corte-constitucional-sandra-cordero-asume-renuncia-juez-raul-llasag-280984.html",
+          "summary": "El Pleno de la Corte Constitucional aceptó formalmente la renuncia del juez Raúl Llasag mediante Resolución 004-CCE-PLE-2026 y designó a Sandra Cordero Gárate como su sucesora, iniciando el proceso de titularización correspondiente para garantizar continuidad en la máxima instancia de control constitucional."
+        },
         {
           "title": "Corte tramita demanda de inconstitucionalidad contra reglamento del concurso de Fiscal General",
           "date": "2026-04-29",
@@ -545,25 +569,13 @@
           "summary": "La Corte Constitucional emitió sentencia histórica que reconoce prácticas análogas a la esclavitud, trabajo infantil y racismo estructural sufridos por campesinos afroecuatorianos en haciendas de Furukawa Plantaciones, ordenando reparación integral."
         },
         {
-          "title": "Corte Constitucional autoriza referéndum sobre funciones del CPCCS",
+          "title": "Presidente Noboa remite Acuerdo de Comercio Recíproco con Estados Unidos a la Corte Constitucional para control previo",
           "date": "2026-04-21",
-          "url": "https://www.primicias.ec/politica/corte-constitucional-propuesta-daniel-noboa-referendo-consejo-participacion-ciudadana-cpccs-121000/",
-          "summary": "La Corte Constitucional declaró que el presidente Daniel Noboa cumplió con el dictamen previo, habilitándolo para emitir un decreto ejecutivo que convoque a referéndum para trasladar la designación de autoridades del CPCCS a la Asamblea Nacional."
-        },
-        {
-          "title": "Renuncia del juez constitucional Raúl Llasag Fernández",
-          "date": "2026-04-08",
-          "url": "https://www.primicias.ec/politica/renuncia-raul-llasag-juez-corte-constitucional-contraloria-fiscalia-119950/",
-          "summary": "El juez Raúl Llasag Fernández presentó su renuncia alegando motivos de salud, en medio de investigaciones de la Fiscalía y Contraloría sobre el patrimonio de los magistrados constitucionales."
-        },
-        {
-          "title": "Dictamen favorable sobre enmienda constitucional del CPCCS",
-          "date": "2026-03-31",
-          "url": "https://www.vistazo.com/politica/nacional/2026-03-31-corte-constitucional-enmienda-trasladar-designaciones-cpccs-asamblea-EL10823689",
-          "summary": "La Corte emitió dictamen favorable sobre propuesta de enmienda que trasladaría la facultad de designación de autoridades del CPCCS a la Asamblea Nacional, permitiendo avanzar hacia un referéndum."
+          "url": "https://www.eluniverso.com/noticias/politica/daniel-noboa-remitio-acuerdo-con-ee-uu-a-la-corte-constitucional-y-espera-sobre-si-requiere-o-no-aprobacion-de-la-asamblea-nacional-nota/",
+          "summary": "El presidente envió el Acuerdo de Comercio Recíproco con Estados Unidos a la Corte para que evalúe si requiere aprobación previa de la Asamblea Nacional, según lo establecido en la Constitución para tratados internacionales, con la causa asignada a la jueza Alejandra Cárdenas."
         }
       ],
-      "lastUpdated": "2026-05-07T11:01:17.736Z"
+      "lastUpdated": "2026-05-08T10:18:14.230Z"
     },
     {
       "id": "pge",
