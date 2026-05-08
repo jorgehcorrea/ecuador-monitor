@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-05-08T06:55:00.719Z",
+  "lastScraped": "2026-05-08T08:20:59.621Z",
   "institutions": [
     {
       "id": "iniap",
@@ -373,7 +373,7 @@
           "summary": "El Ministerio del Interior implementa un sistema digital mediante el código QR en las cédulas de identidad que permite a los ciudadanos denunciar delitos de manera ágil y segura, facilitando la participación ciudadana en la prevención del crimen."
         }
       ],
-      "lastUpdated": "2026-05-07T09:28:00.782Z"
+      "lastUpdated": "2026-05-08T08:19:06.512Z"
     },
     {
       "id": "min-gobierno",
@@ -384,7 +384,7 @@
       "sourceUrl": "https://www.ministeriodegobierno.gob.ec/noticias/",
       "status": "stale",
       "news": [],
-      "lastUpdated": "2026-05-07T09:28:26.175Z"
+      "lastUpdated": "2026-05-08T08:19:31.742Z"
     },
     {
       "id": "presidencia",
@@ -395,7 +395,7 @@
       "sourceUrl": "https://www.comunicacion.gob.ec/noticias/",
       "status": "stale",
       "news": [],
-      "lastUpdated": "2026-05-07T09:28:51.372Z"
+      "lastUpdated": "2026-05-08T08:19:56.943Z"
     },
     {
       "id": "ecu911",
@@ -404,9 +404,28 @@
       "category": "Seguridad & Gobierno",
       "color": "#EF233C",
       "sourceUrl": "https://www.ecu911.gob.ec/",
-      "status": "stale",
-      "news": [],
-      "lastUpdated": "2026-05-07T09:29:16.547Z"
+      "status": "ok",
+      "news": [
+        {
+          "title": "ECU 911 gestionó 267 mil emergencias durante el mes de abril 2026",
+          "date": "2026-05-06",
+          "url": "https://www.ecu911.gob.ec/ecu-911-gestiono-267-mil-emergencias-durante-el-mes-de-abril-2026/",
+          "summary": "Durante abril de 2026, ECU 911 coordinó 267.832 emergencias a nivel nacional, representando un aumento del 1,66% comparado con abril de 2025. Los servicios de respuesta continúan bajo presión durante la temporada invernal, con énfasis en el uso responsable de la línea única 9-1-1."
+        },
+        {
+          "title": "2.894 cámaras del ECU 911 monitorean el retorno a clases en la región Costa y Galápagos",
+          "date": "2026-05-04",
+          "url": "https://www.ecu911.gob.ec/2-894-camaras-del-ecu-911-monitorean-el-retorno-a-clases-en-la-region-costa-y-galapagos/",
+          "summary": "Con el inicio escalonado del año lectivo 2026-2027 en la Costa y Galápagos, ECU 911 activó 2.894 cámaras en instituciones educativas para monitoreo preventivo y seguridad de estudiantes. Se desplegó capacitación a 7.479 funcionarios del Ministerio de Educación para usar herramientas tecnológicas de alerta."
+        },
+        {
+          "title": "47.030 emergencias coordinó el ECU 911 durante el feriado del Día del Trabajo",
+          "date": "2026-05-03",
+          "url": "https://www.ecu911.gob.ec/47-030-emergencias-coordino-el-ecu-911-durante-el-feriado-del-dia-del-trabajo/",
+          "summary": "Durante el feriado del 30 de abril al 3 de mayo, ECU 911 atendió 47.030 emergencias a nivel nacional. Las provincias de Pichincha y Guayas registraron la mayor cantidad de incidentes, con Quito y Guayaquil liderando en llamadas de emergencia."
+        }
+      ],
+      "lastUpdated": "2026-05-08T08:20:34.621Z"
     },
     {
       "id": "cne",
@@ -582,8 +601,8 @@
   ],
   "summary": {
     "total": 21,
-    "ok": 11,
-    "stale": 10,
+    "ok": 12,
+    "stale": 9,
     "error": 0
   }
 }

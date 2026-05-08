@@ -1,0 +1,48 @@
+{
+  "id": "ecu911",
+  "name": "ECU 911",
+  "fullName": "Servicio Integrado de Seguridad ECU 911",
+  "lastUpdated": "2026-05-08T08:20:34.621Z",
+  "items": [
+    {
+      "key": "ecu911::ecu-911-gestionó-267-mil-emergencias-durante-el-mes-de-abril",
+      "title": "ECU 911 gestionó 267 mil emergencias durante el mes de abril 2026",
+      "date": "2026-05-06",
+      "url": "https://www.ecu911.gob.ec/ecu-911-gestiono-267-mil-emergencias-durante-el-mes-de-abril-2026/",
+      "summary": "Durante abril de 2026, ECU 911 coordinó 267.832 emergencias a nivel nacional, representando un aumento del 1,66% comparado con abril de 2025. Los servicios de respuesta continúan bajo presión durante la temporada invernal, con énfasis en el uso responsable de la línea única 9-1-1.",
+      "scrapedAt": "2026-05-08T08:20:34.613Z"
+    },
+    {
+      "key": "ecu911::2894-cámaras-del-ecu-911-monitorean-el-retorno-a-clases-en-",
+      "title": "2.894 cámaras del ECU 911 monitorean el retorno a clases en la región Costa y Galápagos",
+      "date": "2026-05-04",
+      "url": "https://www.ecu911.gob.ec/2-894-camaras-del-ecu-911-monitorean-el-retorno-a-clases-en-la-region-costa-y-galapagos/",
+      "summary": "Con el inicio escalonado del año lectivo 2026-2027 en la Costa y Galápagos, ECU 911 activó 2.894 cámaras en instituciones educativas para monitoreo preventivo y seguridad de estudiantes. Se desplegó capacitación a 7.479 funcionarios del Ministerio de Educación para usar herramientas tecnológicas de alerta.",
+      "scrapedAt": "2026-05-08T08:20:34.614Z"
+    },
+    {
+      "key": "ecu911::47030-emergencias-coordinó-el-ecu-911-durante-el-feriado-de",
+      "title": "47.030 emergencias coordinó el ECU 911 durante el feriado del Día del Trabajo",
+      "date": "2026-05-03",
+      "url": "https://www.ecu911.gob.ec/47-030-emergencias-coordino-el-ecu-911-durante-el-feriado-del-dia-del-trabajo/",
+      "summary": "Durante el feriado del 30 de abril al 3 de mayo, ECU 911 atendió 47.030 emergencias a nivel nacional. Las provincias de Pichincha y Guayas registraron la mayor cantidad de incidentes, con Quito y Guayaquil liderando en llamadas de emergencia.",
+      "scrapedAt": "2026-05-08T08:20:34.614Z"
+    },
+    {
+      "key": "ecu911::ecu-911-con-operatividad-al-100-durante-el-feriado-por-el-d",
+      "title": "ECU 911 con operatividad al 100% durante el feriado por el Día de Trabajo",
+      "date": "2026-04-30",
+      "url": "https://www.ecu911.gob.ec/ecu-911-con-operatividad-al-100-durante-el-feriado-por-el-dia-de-trabajo/",
+      "summary": "ECU 911 mantuvo sus 16 centros zonales y locales operativos al 100% durante el feriado del Día del Trabajo, coordinando con 154 entidades articuladas y 6.000 cámaras de videovigilancia para monitoreo preventivo de vías, ciudades y espacios públicos.",
+      "scrapedAt": "2026-05-08T08:20:34.614Z"
+    },
+    {
+      "key": "ecu911::la-máxima-autoridad-del-ecu-911-presentó-su-rendición-de-cue",
+      "title": "La máxima autoridad del ECU 911 presentó su rendición de cuentas 2025",
+      "date": "2026-04-15",
+      "url": "https://www.ecu911.gob.ec/la-maxima-autoridad-del-ecu-911-presento-su-rendicion-de-cuentas-2025/",
+      "summary": "El Director General del ECU 911, Juan Carlos Paladines, presentó oficialmente la rendición de cuentas correspondiente a 2025, exponiendo los logros y avances alcanzados por la central de emergencias durante el año anterior ante autoridades y ciudadanía.",
+      "scrapedAt": "2026-05-08T08:20:34.614Z"
+    }
+  ]
+}
