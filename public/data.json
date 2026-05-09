@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-05-08T12:15:51.627Z",
+  "lastScraped": "2026-05-09T04:20:59.541Z",
   "institutions": [
     {
       "id": "iniap",
@@ -41,7 +41,7 @@
           "summary": "El INIAP presentó nuevas variedades de papa con potencial industrial para la producción de hojuelas de colores, con capacidad de adaptarse a zonas paperas entre 2.800 y 3.300 metros de altura en Ecuador."
         }
       ],
-      "lastUpdated": "2026-05-08T04:12:37.907Z"
+      "lastUpdated": "2026-05-09T04:18:55.126Z"
     },
     {
       "id": "mag",
@@ -52,7 +52,7 @@
       "sourceUrl": "https://www.agricultura.gob.ec/noticias/",
       "status": "stale",
       "news": [],
-      "lastUpdated": "2026-05-08T04:13:03.250Z"
+      "lastUpdated": "2026-05-09T04:19:20.344Z"
     },
     {
       "id": "agrocalidad",
@@ -61,9 +61,40 @@
       "category": "Agro & Investigación",
       "color": "#40916C",
       "sourceUrl": "https://www.agrocalidad.gob.ec/noticias/",
-      "status": "stale",
-      "news": [],
-      "lastUpdated": "2026-05-08T04:13:28.472Z"
+      "status": "ok",
+      "news": [
+        {
+          "title": "Agrocalidad se transforma en beneficio del agro ecuatoriano",
+          "date": "2026-04-17",
+          "url": "https://www.agrocalidad.gob.ec/agrocalidad-se-transforma-en-beneficio-del-agro-ecuatoriano/",
+          "summary": "Agrocalidad presentó su transformación institucional enfocada en fortalecer la sanidad animal, protección vegetal, inocuidad de alimentos y competitividad del sector agropecuario. La agencia trabaja hacia la meta de que Ecuador sea certificado como país libre de fiebre aftosa sin vacunación en 2027 y moderniza sus sistemas de trazabilidad y certificación de predios."
+        },
+        {
+          "title": "Con la directriz del Presidente, Daniel Noboa Azin, Ecuador está listo para exportar huevos de mesa a Emiratos Árabes Unidos",
+          "date": "2026-04-01",
+          "url": "https://www.agrocalidad.gob.ec/con-la-directriz-del-presidente-daniel-noboa-azin-ecuador-esta-listo-para-exportar-huevos-de-mesa-a-emiratos-arabes-unidos/",
+          "summary": "Tras completar el proceso de homologación de requisitos sanitarios entre Ecuador y Emiratos Árabes Unidos, productores ecuatorianos pueden iniciar la exportación de huevos de mesa a este nuevo mercado. Este avance abre oportunidades comerciales internacionales para la industria avícola nacional que produce más de 3.800 millones de huevos anuales."
+        },
+        {
+          "title": "Ecuador impulsa la sanidad equina y fortalece la economía del sector ecuestre",
+          "date": "2026-03-25",
+          "url": "https://www.agrocalidad.gob.ec/ecuador-impulsa-la-sanidad-equina-y-fortalece-la-economia-del-sector-ecuestre/",
+          "summary": "Quito fue sede de la IX Cumbre y II Simposio de la Red de Vigilancia Epidemiológica de la Federación Iberoamericana de Asociaciones de Veterinarios de Équidos con apoyo de Agrocalidad. El evento reunió especialistas de 14 países para fortalecer la vigilancia, prevención y control de enfermedades en équidos, mejorando protocolos y capacidades técnicas del sector."
+        },
+        {
+          "title": "Gracias al compromiso del presidente Daniel Noboa, Ecuador avanza para en 2027 obtener la declaratoria de país libre de fiebre aftosa sin vacunación",
+          "date": "2026-03-11",
+          "url": "https://www.agrocalidad.gob.ec/gracias-al-compromiso-del-presidente-daniel-noboa-ecuador-avanza-para-en-2027-obtener-la-declaratoria-de-pais-libre-de-fiebre-aftosa-sin-vacunacion/",
+          "summary": "Ecuador notificó a la Organización Mundial de Sanidad Animal el fin de la vacunación contra fiebre aftosa en bovinos y bufalinos a partir del 29 de enero de 2026, iniciando una nueva etapa hacia el estatus de país libre sin vacunación. Este logro representa un ahorro aproximado de 6 millones de dólares anuales y fortalece el acceso a mercados internacionales para productos pecuarios."
+        },
+        {
+          "title": "100 nuevos inspectores sanitarios para centros de faenamiento",
+          "date": "2026-03-06",
+          "url": "https://www.agrocalidad.gob.ec/100-nuevos-inspectores-sanitarios-para-centros-de-faenamiento/",
+          "summary": "Agrocalidad capacitó a 100 profesionales veterinarios como inspectores sanitarios en centros de faenamiento en Ibarra. La capacitación abordó diseño de procesos, requisitos sanitarios, bienestar animal, control de riesgos de inocuidad e higiene para fortalecer los controles que protegen la salud de la población en la cadena cárnica nacional."
+        }
+      ],
+      "lastUpdated": "2026-05-09T04:20:09.311Z"
     },
     {
       "id": "proecuador",
@@ -105,7 +136,7 @@
           "summary": "Entre enero y octubre de 2025, los procesos comerciales acompañados por ProEcuador permitieron concretar negocios por USD 345,2 millones, evidenciando la capacidad del país para captar demanda internacional y potenciar su inserción comercial en un entorno global competitivo."
         }
       ],
-      "lastUpdated": "2026-05-08T04:14:05.862Z"
+      "lastUpdated": "2026-05-09T04:20:34.534Z"
     },
     {
       "id": "inamhi",
@@ -613,8 +644,8 @@
   ],
   "summary": {
     "total": 21,
-    "ok": 12,
-    "stale": 9,
+    "ok": 13,
+    "stale": 8,
     "error": 0
   }
 }
