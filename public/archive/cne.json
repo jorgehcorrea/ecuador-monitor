@@ -2,23 +2,15 @@
   "id": "cne",
   "name": "CNE",
   "fullName": "Consejo Nacional Electoral",
-  "lastUpdated": "2026-05-08T10:16:54.787Z",
+  "lastUpdated": "2026-05-09T10:00:17.580Z",
   "items": [
     {
       "key": "cne::cne-actualiza-registro-237-organizaciones-políticas-inscrit",
       "title": "CNE actualiza registro: 237 organizaciones políticas inscritas para elecciones seccionales de 2026",
       "date": "2026-05-05",
       "url": "https://www.cne.gob.ec/ciudadania-y-organizaciones-politicas-pueden-presentar-reclamos-al-registro-electoral-del-4-al-18-de-mayo/",
-      "summary": "El CNE registró un total de 237 organizaciones políticas habilitadas para participar en las elecciones seccionales del 29 de noviembre de 2026, tras incorporar siete nuevos movimientos de ámbito local y cerrar el plazo de inscripción el 3 de mayo. Los electores tendrán estas opciones disponibles para presentar sus candidatos en los comicios.",
+      "summary": "El CNE incorporó siete nuevos movimientos políticos locales, elevando a 237 el total de organizaciones habilitadas para participar en las elecciones seccionales del 29 de noviembre. Esto asegura que más actores políticos puedan presentar candidatos en los comicios para elegir autoridades locales y miembros del CPCCS.",
       "scrapedAt": "2026-05-06T10:55:46.085Z"
-    },
-    {
-      "key": "cne::hasta-el-13-de-mayo-el-cne-recepta-inscripciones-para-integr",
-      "title": "Hasta el 13 de mayo el CNE recepta inscripciones para integrar veedurías del proceso de elección del CPCCS 2027",
-      "date": "2026-05-04",
-      "url": "https://www.cne.gob.ec/hasta-el-13-de-mayo-el-cne-recepta-inscripciones-para-integrar-veedurias-del-proceso-de-eleccion-del-cpccs-2027/",
-      "summary": "El CNE abre inscripciones hasta el 13 de mayo para que ciudadanos y organizaciones se registren como veedores del proceso de selección de candidatos al Consejo de Participación Ciudadana y Control Social, permitiendo mayor fiscalización ciudadana.",
-      "scrapedAt": "2026-05-07T11:00:05.044Z"
     },
     {
       "key": "cne::cne-habilita-15-días-para-reclamos-al-registro-electoral-de-",
@@ -33,7 +25,23 @@
       "title": "Ciudadanía y organizaciones políticas pueden presentar reclamos al Registro Electoral del 4 al 18 de mayo",
       "date": "2026-05-04",
       "url": "https://www.cne.gob.ec/ciudadania-y-organizaciones-politicas-pueden-presentar-reclamos-al-registro-electoral-del-4-al-18-de-mayo/",
-      "summary": "El CNE abrió un período de 15 días para que ciudadanos y organizaciones políticas presenten reclamos y observaciones al Registro Electoral. Esta etapa de depuración del padrón es fundamental antes de que el 2 de julio se apruebe el registro definitivo que se utilizará en las elecciones de noviembre.",
+      "summary": "El CNE habilitó un período para que ciudadanos e instituciones políticas presenten observaciones sobre datos del padrón electoral antes de su aprobación definitiva el 2 de julio. Este proceso permite depurar el registro y corregir errores que podrían afectar el derecho al voto en las elecciones de noviembre.",
+      "scrapedAt": "2026-05-07T11:00:05.044Z"
+    },
+    {
+      "key": "cne::hasta-el-13-de-mayo-el-cne-recepta-inscripciones-para-integr",
+      "title": "Hasta el 13 de mayo el CNE recepta inscripciones para integrar veedurías del proceso de elección del CPCCS 2027",
+      "date": "2026-05-04",
+      "url": "https://www.cne.gob.ec/hasta-el-13-de-mayo-el-cne-recepta-inscripciones-para-integrar-veedurias-del-proceso-de-eleccion-del-cpccs-2027/",
+      "summary": "El CNE abrió inscripciones para que ciudadanos y organizaciones sociales conformen veedurías que supervisarán la selección de candidatos al CPCCS. Los observadores ciudadanos asegurarán transparencia durante el proceso de recepción de postulaciones e impugnaciones de candidaturas.",
+      "scrapedAt": "2026-05-07T11:00:05.044Z"
+    },
+    {
+      "key": "cne::cne-habilitó-simulador-virtual-de-apoyo-técnico-a-organizaci",
+      "title": "CNE habilitó simulador virtual de apoyo técnico a organizaciones políticas para inscripción de candidaturas",
+      "date": "2026-05-04",
+      "url": "https://www.cne.gob.ec/cne-habilito-simulador-virtual-de-apoyo-tecnico-a-organizaciones-politicas-para-inscripcion-de-candidaturas/",
+      "summary": "El CNE puso a disposición una herramienta digital que permite a partidos y movimientos verificar que sus listas cumplan con requisitos de paridad de género y participación de jóvenes. El simulador evita rechazos de candidaturas por incumplimiento de estos requisitos obligatorios.",
       "scrapedAt": "2026-05-07T11:00:05.044Z"
     },
     {
@@ -43,14 +51,6 @@
       "url": "https://www.eldiario.ec/ecuador/elecciones-seccionales-ecuador-2026-organizaciones-politicas-04052026/",
       "summary": "El CNE cerró el plazo de inscripción de organizaciones políticas con 231 agrupaciones habilitadas, aunque dos enfrentan procesos administrativos de cancelación. El pleno también rechazó el registro de dos movimientos que no subsanaron requisitos legales.",
       "scrapedAt": "2026-05-06T10:55:46.085Z"
-    },
-    {
-      "key": "cne::cne-habilitó-simulador-virtual-de-apoyo-técnico-a-organizaci",
-      "title": "CNE habilitó simulador virtual de apoyo técnico a organizaciones políticas para inscripción de candidaturas",
-      "date": "2026-04-30",
-      "url": "https://www.cne.gob.ec/cne-habilito-simulador-virtual-de-apoyo-tecnico-a-organizaciones-politicas-para-inscripcion-de-candidaturas/",
-      "summary": "El CNE puso en funcionamiento una herramienta digital para que los partidos verifiquen sus listas de candidatos y cumplan con requisitos de participación de mujeres y jóvenes antes de la inscripción oficial.",
-      "scrapedAt": "2026-05-07T11:00:05.044Z"
     },
     {
       "key": "cne::ciudadanía-podrá-inscribirse-del-4-al-13-de-mayo-para-integr",
@@ -77,20 +77,20 @@
       "scrapedAt": "2026-05-01T10:14:52.970Z"
     },
     {
-      "key": "cne::cne-cancela-la-personería-jurídica-de-unidad-popular-y-const",
-      "title": "CNE cancela la personería jurídica de Unidad Popular y Construye",
-      "date": "2026-04-26",
-      "url": "https://www.cne.gob.ec/",
-      "summary": "El CNE resolvió cancelar la personería jurídica de las organizaciones políticas Unidad Popular y Construye por no cumplir con el número mínimo de afiliados permanentes exigido por la ley. Esta resolución las excluye del registro oficial de partidos y movimientos habilitados para participar en las próximas elecciones.",
-      "scrapedAt": "2026-05-08T10:16:54.779Z"
-    },
-    {
       "key": "cne::ecuador-el-consejo-electoral-canceló-a-dos-partidos-y-defen",
       "title": "Ecuador: el Consejo Electoral canceló a dos partidos y defendió que garantizó el debido proceso",
       "date": "2026-04-26",
       "url": "https://www.infobae.com/america/america-latina/2026/04/27/ecuador-el-consejo-electoral-cancelo-a-dos-partidos-y-defendio-que-garantizo-el-debido-proceso/",
       "summary": "El CNE canceló la personería jurídica de Unidad Popular y Construye por no mantener el número mínimo de afiliados requerido por ley, excluyéndolas del registro de partidos habilitados para las elecciones de noviembre.",
       "scrapedAt": "2026-05-06T10:55:46.085Z"
+    },
+    {
+      "key": "cne::cne-cancela-la-personería-jurídica-de-unidad-popular-y-const",
+      "title": "CNE cancela la personería jurídica de Unidad Popular y Construye",
+      "date": "2026-04-26",
+      "url": "https://www.infobae.com/america/america-latina/2026/04/27/ecuador-el-consejo-electoral-cancelo-a-dos-partidos-y-defendio-que-garantizo-el-debido-proceso/",
+      "summary": "El CNE resolvió cancelar el registro legal de dos organizaciones políticas por no mantener el número mínimo de afiliados requerido por ley. Esta decisión excluye a ambas agrupaciones del registro oficial de partidos habilitados para participar en las próximas elecciones seccionales.",
+      "scrapedAt": "2026-05-08T10:16:54.779Z"
     },
     {
       "key": "cne::cne-aprueba-observadores-nacionales-e-internacionales-para-l",
