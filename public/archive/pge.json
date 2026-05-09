@@ -1,0 +1,32 @@
+{
+  "id": "pge",
+  "name": "PGE",
+  "fullName": "Procuraduría General del Estado",
+  "lastUpdated": "2026-05-09T11:56:17.318Z",
+  "items": [
+    {
+      "key": "pge::tribunal-arbitral-rechaza-demanda-de-pdvsa-ecuador-contra-pe",
+      "title": "Tribunal arbitral rechaza demanda de PDVSA Ecuador contra Petroecuador",
+      "date": "2026-04-16",
+      "url": "https://www.eluniverso.com/noticias/politica/tribunal-arbitral-rechaza-demanda-pdvsa-ecuador-contra-petroecuador-nota/",
+      "summary": "La Procuraduría General del Estado informó que un tribunal arbitral rechazó completamente la demanda de PDVSA Ecuador contra Petroecuador, lo que genera un ahorro de USD 35,6 millones para el Estado ecuatoriano. La decisión evita que el Estado tenga que pagar una cantidad millonaria que la empresa demandante solicitaba por gastos, costos e inversiones relacionados con la operación de un pozo exploratorio.",
+      "scrapedAt": "2026-05-09T11:56:17.309Z"
+    },
+    {
+      "key": "pge::laudos-arbitrales-favorecen-a-consorcio-acciona-en-dispute-p",
+      "title": "Laudos arbitrales favorecen a Consorcio Acciona en dispute por Metro de Quito",
+      "date": "2026-04-16",
+      "url": "https://www.primicias.ec/quito/metro-quito-municipio-pierde-arbitraje-millones-constructora-espanola-acciona-120645/",
+      "summary": "La Procuraduría General del Estado confirmó que tribunales arbitrales de la Cámara de Comercio Internacional emitieron dos laudos a favor del Consorcio Acciona, obligando al Municipio de Quito a pagar más de USD 10,3 millones por ajustes económicos derivados de cambios legislativos. La PGE junto con un estudio jurídico internacional analiza opciones legales para recurrir los laudos conforme a la legislación aplicable en Santiago de Chile, sede del arbitraje.",
+      "scrapedAt": "2026-05-09T11:56:17.309Z"
+    },
+    {
+      "key": "pge::procuraduría-acoge-decisión-de-la-corte-internacional-de-jus",
+      "title": "Procuraduría acoge decisión de la Corte Internacional de Justicia sobre seguridad de diplomáticos mexicanos",
+      "date": "2024-05-23",
+      "url": "https://www.primicias.ec/noticias/politica/procurador-ecuador-mexico-corte-internacional-seguridad/",
+      "summary": "La Procuraduría General del Estado recibió con beneplácito la decisión unánime de la Corte Internacional de Justicia que rechazó las medidas cautelares solicitadas por México respecto al asalto a su embajada. El procurador Juan Carlos Larrea destacó la labor del equipo técnico ecuatoriano en la defensa de la posición de Ecuador ante el tribunal internacional.",
+      "scrapedAt": "2026-05-09T11:56:17.309Z"
+    }
+  ]
+}
