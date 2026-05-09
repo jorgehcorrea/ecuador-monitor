@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-05-09T07:10:47.941Z",
+  "lastScraped": "2026-05-09T08:26:46.878Z",
   "institutions": [
     {
       "id": "iniap",
@@ -398,37 +398,31 @@
       "status": "ok",
       "news": [
         {
+          "title": "Operativo desarticuló estructura criminal con sofisticados métodos de narcotráfico en Guayaquil",
+          "date": "2026-05-08",
+          "url": "https://www.eluniverso.com/noticias/seguridad/gancho-ciego-candados-satelitales-y-bunkeres-el-sofisticado-metodo-de-la-narcoestructura-desarticulada-en-ecuador-nota/",
+          "summary": "El Ministerio del Interior reportó la desarticulación de una organización que habría movilizado cerca de 400 millones de dólares en drogas desde 2021. Los operativos incautaron más de 10 toneladas de cocaína y permitieron identificar búnkeres subterráneos y métodos sofisticados de envío."
+        },
+        {
+          "title": "Exjueza deportada de Estados Unidos es entregada a la justicia ecuatoriana",
+          "date": "2026-05-07",
+          "url": "https://www.eluniverso.com/noticias/ecuador",
+          "summary": "La exjueza Gina Zambrano Zambrano fue deportada desde Estados Unidos y entregada a las autoridades ecuatorianas el 7 de mayo de 2026. Su captura reactiva la investigación por delito de prevaricato en Ecuador, castigado entre 5 y 7 años de prisión."
+        },
+        {
           "title": "Ministerio del Interior, Policía Nacional y Embajada del Reino Unido suscriben acta de compromiso para fortalecer capacidades del GEMA",
           "date": "2026-05-06",
           "url": "https://www.eltelegrafo.com.ec/noticias/nacionales/210/ecuador-reino-unido-fortalecen-capacidades-gema-aniversario",
           "summary": "El Ministerio del Interior suscribió un acta de compromiso con el Reino Unido para entregar medios logísticos y tecnológicos que fortalecerán la capacidad operativa del Grupo Especial Móvil Antinarcóticos en su lucha contra el narcotráfico."
         },
         {
-          "title": "Ecuador Deporta a Ciudadano Colombiano Requerido por Delito Sexual",
-          "date": "2026-04-25",
-          "url": "https://www.expreso.ec/justicia/ecuador-deporta-ciudadano-colombiano-requerido-delito-sexual-esto-280120.html",
-          "summary": "El Ministerio del Interior ejecutó la deportación de un ciudadano colombiano que era requerido por autoridades colombianas por el delito de actos sexuales contra una menor de edad, en coordinación con la Subsecretaría de Migración y la Dirección General de Inteligencia de la Policía Nacional."
-        },
-        {
-          "title": "Ministro del Interior Descarta Salvoconductos y Semaforización para Nuevo Período de Toque de Queda",
-          "date": "2026-04-23",
-          "url": "https://www.eldiario.ec/ecuador/el-ministro-del-interior-descarta-salvoconductos-y-semaforizacion-para-el-nuevo-periodo-de-toque-de-queda-que-regira-en-ecuador-23042026/",
-          "summary": "El ministro John Reimberg anunció que el Gobierno Nacional descartó los sistemas de semaforización y salvoconductos para el próximo toque de queda del 3 al 18 de mayo, implementando en su lugar un régimen más restrictivo para evitar la dispersión de controles y garantizar la eficacia de las operaciones de seguridad."
-        },
-        {
-          "title": "Ecuador y Estados Unidos firman Memorando de Entendimiento para establecer investigaciones conjuntas",
-          "date": "2026-04-20",
-          "url": "https://www.ministeriodelinterior.gob.ec/ecuador-y-estados-unidos-firman-memorando-de-entendimiento-para-establecer-investigaciones-conjuntas/",
-          "summary": "El Ministerio del Interior y la Oficina de Investigaciones de Seguridad Nacional de Estados Unidos suscribieron un memorando para fortalecer la cooperación bilateral en investigaciones conjuntas contra el crimen organizado transnacional, incluyendo narcotráfico, tráfico de armas y explotación sexual infantil."
-        },
-        {
-          "title": "EL GOBIERNO NACIONAL FORTALECE LA SEGURIDAD CIUDADANA CON DENUNCIAS DIGITALES A TRAVÉS DEL QR DE LA CÉDULA",
-          "date": "2026-04-09",
-          "url": "https://www.ministeriodelinterior.gob.ec/el-gobierno-nacional-fortalece-la-seguridad-ciudadana-con-denuncias-digitales-a-traves-del-qr-de-la-cedula/",
-          "summary": "El Ministerio del Interior implementa un sistema digital mediante el código QR en las cédulas de identidad que permite a los ciudadanos denunciar delitos de manera ágil y segura, facilitando la participación ciudadana en la prevención del crimen."
+          "title": "Ministro del Interior cuestiona decisión judicial en caso de extorsión en El Oro",
+          "date": "2026-05-04",
+          "url": "https://www.eldiario.ec/seguridad/john-reimberg-cuestiona-decision-judicial-tras-operativo-contra-extorsion-en-el-oro-04052026/",
+          "summary": "El Ministerio del Interior cuestionó públicamente la resolución del juez que otorgó medidas sustitutivas a cuatro procesados por extorsión tras el operativo Libertad 526 en Pasaje. El funcionario señaló que la víctima había enfrentado amenazas y detonación de un artefacto explosivo."
         }
       ],
-      "lastUpdated": "2026-05-08T08:19:06.512Z"
+      "lastUpdated": "2026-05-09T08:25:06.283Z"
     },
     {
       "id": "min-gobierno",
@@ -439,7 +433,7 @@
       "sourceUrl": "https://www.ministeriodegobierno.gob.ec/noticias/",
       "status": "stale",
       "news": [],
-      "lastUpdated": "2026-05-08T08:19:31.742Z"
+      "lastUpdated": "2026-05-09T08:25:31.509Z"
     },
     {
       "id": "presidencia",
@@ -450,7 +444,7 @@
       "sourceUrl": "https://www.comunicacion.gob.ec/noticias/",
       "status": "stale",
       "news": [],
-      "lastUpdated": "2026-05-08T08:19:56.943Z"
+      "lastUpdated": "2026-05-09T08:25:56.703Z"
     },
     {
       "id": "ecu911",
@@ -480,7 +474,7 @@
           "summary": "Durante el feriado del 30 de abril al 3 de mayo, ECU 911 atendió 47.030 emergencias a nivel nacional. Las provincias de Pichincha y Guayas registraron la mayor cantidad de incidentes, con Quito y Guayaquil liderando en llamadas de emergencia."
         }
       ],
-      "lastUpdated": "2026-05-08T08:20:34.621Z"
+      "lastUpdated": "2026-05-09T08:26:21.877Z"
     },
     {
       "id": "cne",
