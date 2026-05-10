@@ -2,8 +2,16 @@
   "id": "sri",
   "name": "SRI",
   "fullName": "Servicio de Rentas Internas",
-  "lastUpdated": "2026-05-08T06:53:04.989Z",
+  "lastUpdated": "2026-05-10T07:26:46.254Z",
   "items": [
+    {
+      "key": "sri::ventas-en-ecuador-crecen-127-en-abril-2026",
+      "title": "Ventas en Ecuador crecen 12,7% en abril 2026",
+      "date": "2026-05-04",
+      "url": "https://www.expreso.ec/economia-y-negocios/ventas-ecuador-crecen-12-7-abril-2026-marcan-nivel-alto-dos-anos-280933.html",
+      "summary": "Las ventas registradas en Ecuador durante abril de 2026 alcanzaron $24.369,7 millones según datos del SRI procesados mediante comprobantes electrónicos, reflejando un crecimiento del 12,7% frente a abril de 2025. Los sectores más dinámicos fueron actividades inmobiliarias con 28,4%, transporte y almacenamiento con 17,0%, y construcción con 14,4%, indicando mayor circulación de bienes y demanda doméstica activa.",
+      "scrapedAt": "2026-05-10T07:26:46.247Z"
+    },
     {
       "key": "sri::ventas-en-ecuador-crecen-127-en-abril-2026-según-registros",
       "title": "Ventas en Ecuador crecen 12,7% en abril 2026 según registros del SRI",
@@ -61,20 +69,20 @@
       "scrapedAt": "2026-05-07T07:43:38.722Z"
     },
     {
-      "key": "sri::declaración-y-pago-del-iva-se-realizarán-en-un-solo-paso-des",
-      "title": "Declaración y pago del IVA se realizarán en un solo paso desde junio de 2026",
-      "date": "2026-04-16",
-      "url": "https://www.eluniverso.com/noticias/economia/sri-pago-declaracion-iva-ecuador-junio-2026-servicio-de-rentas-internas-nota/",
-      "summary": "El SRI dispuso que a partir de junio de 2026, la declaración y el pago del IVA deben efectuarse en un solo acto; si no se realiza el pago total, la declaración se considerará como no presentada, fortaleciendo la recaudación tributaria.",
-      "scrapedAt": "2026-05-06T07:36:30.709Z"
-    },
-    {
       "key": "sri::a-partir-de-junio-de-2026-la-declaración-y-el-pago-del-iva-s",
       "title": "A partir de junio de 2026 la declaración y el pago del IVA se efectuarán en un solo paso",
       "date": "2026-04-16",
       "url": "https://www.eluniverso.com/noticias/economia/sri-pago-declaracion-iva-ecuador-junio-2026-servicio-de-rentas-internas-nota/",
       "summary": "Desde junio de 2026, los contribuyentes obligados a declarar IVA deberán realizar la declaración y el pago simultáneamente en un solo paso, lo que simplifica el proceso pero requiere que el pago sea completo para que la declaración sea válida.",
       "scrapedAt": "2026-05-01T07:26:41.703Z"
+    },
+    {
+      "key": "sri::declaración-y-pago-del-iva-se-realizarán-en-un-solo-paso-des",
+      "title": "Declaración y pago del IVA se realizarán en un solo paso desde junio de 2026",
+      "date": "2026-04-16",
+      "url": "https://www.sri.gob.ec/en/noticias7",
+      "summary": "A partir de junio de 2026, los contribuyentes obligados a declarar IVA podrán realizar la declaración y el pago en un mismo trámite, en lugar de hacerlo por separado. Esta reforma busca evitar omisiones y fortalecer la recaudación tributaria, requiriendo que se presenten las declaraciones con anticipación a la fecha de vencimiento.",
+      "scrapedAt": "2026-05-06T07:36:30.709Z"
     },
     {
       "key": "sri::ventas-en-ecuador-alcanzaron-usd-267196-millones-en-2025-co",
@@ -91,6 +99,14 @@
       "url": "https://www.eldiario.ec/ecuador/ya-sabes-cuando-vence-tu-plazo-para-pagar-el-impuesto-a-la-renta-en-abril-el-sri-lo-acaba-de-revelar-08042026/",
       "summary": "El SRI publicó el calendario de abril 2026 para que las sociedades declaren y paguen el impuesto a la renta del ejercicio fiscal 2025, con fechas escalonadas entre el 10 y 28 de abril según el noveno dígito del RUC de cada contribuyente.",
       "scrapedAt": "2026-05-01T07:26:41.703Z"
+    },
+    {
+      "key": "sri::sri-incorpora-nuevos-servicios-en-línea-para-contadores-y-re",
+      "title": "SRI incorpora nuevos servicios en línea para contadores y representantes legales",
+      "date": "2026-04-01",
+      "url": "https://www.sri.gob.ec/o/sri-portlet-biblioteca-alfresco-internet/descargar/de851ad4-b61a-44a2-9221-d62ee6089744/BOLETI%CC%81N%20019%20-%20SRI%20INCORPORA%20NUEVOS%20SERVICIOS%20EN%20L%C3%8DNEA%20PARA%20CONTADORES%20Y%20REPRESENTANTES%20LEGALES.pdf",
+      "summary": "El Boletín NAC-COM-26-019 del 1 de abril de 2026 anuncia la incorporación de nuevos servicios digitales en la plataforma del SRI destinados a facilitar la labor de contadores y representantes legales en la presentación de obligaciones tributarias y trámites ante la institución.",
+      "scrapedAt": "2026-05-10T07:26:46.247Z"
     },
     {
       "key": "sri::resolución-nac-dgercgc26-00000015-notas-de-crédito-desmater",
@@ -112,16 +128,16 @@
       "key": "sri::sri-establece-nuevos-porcentajes-de-retención-en-la-fuente-d",
       "title": "SRI establece nuevos porcentajes de retención en la fuente del Impuesto a la Renta",
       "date": "2026-02-27",
-      "url": "https://www.metroecuador.com.ec/noticias/2026/03/10/sri-quienes-deberan-aplicar-la-retencion-del-2-del-impuesto-a-la-renta-desde-marzo-de-2026/",
-      "summary": "Desde el 1 de marzo de 2026, el SRI aplicó nuevos porcentajes de retención en la fuente del Impuesto a la Renta que afectan diversos tipos de pagos, incluyendo transacciones de tarjetas de crédito, seguros y botellas plásticas reciclables.",
+      "url": "https://www.lexis.com.ec/noticias/sri-establece-nuevos-porcentajes-de-retencion-en-la-fuente-del-impuesto-a-la-renta",
+      "summary": "El SRI expidió las resoluciones NAC-DGERCGC26-00000009 y NAC-DGERCGC26-00000010 que establecen nuevos porcentajes de retención y designan nuevos agentes de retención. Estas disposiciones entraron en vigencia el 1 de marzo de 2026 con el objetivo de optimizar la recaudación fiscal y actualizar el catastro de contribuyentes obligados a actuar como agentes de retención.",
       "scrapedAt": "2026-05-07T07:43:38.722Z"
     },
     {
       "key": "sri::sri-habilita-la-proyección-de-gastos-personales-2026-para-re",
-      "title": "SRI habilita la proyección de gastos personales 2026 para reducir el Impuesto a la Renta",
+      "title": "SRI habilita la proyección de gastos personales 2026 para reducir el impuesto a la renta",
       "date": "2026-02-06",
       "url": "https://www.sri.gob.ec/o/sri-portlet-biblioteca-alfresco-internet/descargar/ea002a89-17d8-4cdf-be42-affedbe3f8d8/BOLET%C3%8DN%20006%20-%20SRI%20HABILITA%20LA%20PROYECCI%C3%93N%20DE%20GASTOS%20PERSONALES%202026%20PARA%20REDUCIR%20EL%20IMPUESTO%20A%20LA%20RENTA.pdf",
-      "summary": "El SRI habilitó el formulario de proyección de gastos personales para el período fiscal 2026, permitiendo a los trabajadores proyectar gastos en alimentación, educación, salud, vivienda y otros rubros para reducir el valor del Impuesto a la Renta a pagar.",
+      "summary": "El SRI puso a disposición de los contribuyentes el formulario de proyección de gastos personales para el año 2026, permitiendo que las personas naturales declaren anticipadamente sus gastos estimados en categorías como salud, educación, vivienda, alimentación, vestimenta y turismo para obtener una rebaja en el cálculo de su impuesto a la renta.",
       "scrapedAt": "2026-05-06T07:36:30.709Z"
     },
     {
