@@ -2,7 +2,7 @@
   "id": "cne",
   "name": "CNE",
   "fullName": "Consejo Nacional Electoral",
-  "lastUpdated": "2026-05-09T10:00:17.580Z",
+  "lastUpdated": "2026-05-10T10:05:19.933Z",
   "items": [
     {
       "key": "cne::cne-actualiza-registro-237-organizaciones-políticas-inscrit",
@@ -13,20 +13,20 @@
       "scrapedAt": "2026-05-06T10:55:46.085Z"
     },
     {
+      "key": "cne::ciudadanía-y-organizaciones-políticas-pueden-presentar-recla",
+      "title": "Ciudadanía y organizaciones políticas pueden presentar reclamos al Registro Electoral del 4 al 18 de mayo",
+      "date": "2026-05-05",
+      "url": "https://www.cne.gob.ec/ciudadania-y-organizaciones-politicas-pueden-presentar-reclamos-al-registro-electoral-del-4-al-18-de-mayo/",
+      "summary": "El CNE abre un período de 15 días para que ciudadanos y organizaciones políticas presenten observaciones sobre el registro electoral antes de la aprobación final del padrón el 2 de julio de 2026.",
+      "scrapedAt": "2026-05-07T11:00:05.044Z"
+    },
+    {
       "key": "cne::cne-habilita-15-días-para-reclamos-al-registro-electoral-de-",
       "title": "CNE habilita 15 días para reclamos al Registro Electoral de cara a las elecciones de 2026",
       "date": "2026-05-04",
       "url": "https://www.eldiario.ec/ecuador/cne-habilita-15-dias-para-reclamos-al-registro-electoral-de-cara-a-las-elecciones-de-2026-04052026/",
       "summary": "El CNE abrió un período de 15 días para que ciudadanos y organizaciones políticas presenten reclamos administrativos y observaciones al Registro Electoral, buscando asegurar la integridad del padrón electoral antes de la inscripción de candidatos.",
       "scrapedAt": "2026-05-06T10:55:46.085Z"
-    },
-    {
-      "key": "cne::ciudadanía-y-organizaciones-políticas-pueden-presentar-recla",
-      "title": "Ciudadanía y organizaciones políticas pueden presentar reclamos al Registro Electoral del 4 al 18 de mayo",
-      "date": "2026-05-04",
-      "url": "https://www.cne.gob.ec/ciudadania-y-organizaciones-politicas-pueden-presentar-reclamos-al-registro-electoral-del-4-al-18-de-mayo/",
-      "summary": "El CNE habilitó un período para que ciudadanos e instituciones políticas presenten observaciones sobre datos del padrón electoral antes de su aprobación definitiva el 2 de julio. Este proceso permite depurar el registro y corregir errores que podrían afectar el derecho al voto en las elecciones de noviembre.",
-      "scrapedAt": "2026-05-07T11:00:05.044Z"
     },
     {
       "key": "cne::hasta-el-13-de-mayo-el-cne-recepta-inscripciones-para-integr",
@@ -77,6 +77,14 @@
       "scrapedAt": "2026-05-01T10:14:52.970Z"
     },
     {
+      "key": "cne::el-consejo-electoral-canceló-a-dos-partidos-y-defendió-que-g",
+      "title": "El Consejo Electoral canceló a dos partidos y defendió que garantizó el debido proceso",
+      "date": "2026-04-26",
+      "url": "https://www.infobae.com/america/america-latina/2026/04/27/ecuador-el-consejo-electoral-cancelo-a-dos-partidos-y-defendio-que-garantizo-el-debido-proceso/",
+      "summary": "El CNE canceló la personería jurídica de Unidad Popular y Construye por no cumplir requisitos de afiliados mínimos, impidiéndoles participar en las elecciones seccionales aunque ambas organizaciones han anunciado recursos legales.",
+      "scrapedAt": "2026-05-10T10:05:19.925Z"
+    },
+    {
       "key": "cne::ecuador-el-consejo-electoral-canceló-a-dos-partidos-y-defen",
       "title": "Ecuador: el Consejo Electoral canceló a dos partidos y defendió que garantizó el debido proceso",
       "date": "2026-04-26",
@@ -95,9 +103,9 @@
     {
       "key": "cne::cne-aprueba-observadores-nacionales-e-internacionales-para-l",
       "title": "CNE aprueba observadores nacionales e internacionales para las elecciones seccionales Ecuador 2026",
-      "date": "2026-04-22",
-      "url": "https://www.eldiario.ec/ecuador/elecciones-seccionales-ecuador-2026-cne-observadores-nacionales-internacionales-22042026/",
-      "summary": "El CNE aprobó invitaciones a organismos internacionales como la OEA y la Unión Europea, además de actores nacionales como universidades y ciudadanos en el exterior, para observar las elecciones seccionales del 29 de noviembre.",
+      "date": "2026-04-23",
+      "url": "https://www.eldiario.ec/ecuador/elecciones-seccionales-ecuador-2026-cne-observadores-nacionales-internacionales-23042026/",
+      "summary": "El CNE autorizó la participación de observadores nacionales de universidades, consejos de igualdad y ciudadanos en el exterior, así como observadores internacionales para monitorear las elecciones del 29 de noviembre.",
       "scrapedAt": "2026-05-01T10:14:52.970Z"
     },
     {
@@ -117,6 +125,14 @@
       "scrapedAt": "2026-05-01T10:14:52.970Z"
     },
     {
+      "key": "cne::del-8-al-17-de-abril-la-ciudadanía-podrá-realizar-sus-cambio",
+      "title": "Del 8 al 17 de abril la ciudadanía podrá realizar sus Cambios de Domicilio Electoral",
+      "date": "2026-04-07",
+      "url": "https://www.cne.gob.ec/del-8-al-17-de-abril-la-ciudadania-podra-realizar-sus-cambios-de-domicilio-electoral/",
+      "summary": "El CNE habilitó una campaña de 10 días para que ciudadanos cambien su domicilio electoral de forma gratuita por internet o presencialmente, garantizando que voten en recintos cercanos a su residencia.",
+      "scrapedAt": "2026-05-10T10:05:19.925Z"
+    },
+    {
       "key": "cne::cne-aprueba-nueva-delimitación-de-circunscripciones-para-la-",
       "title": "CNE aprueba nueva delimitación de circunscripciones para la elección de concejales urbanos y rurales",
       "date": "2026-04-03",
@@ -129,7 +145,7 @@
       "title": "CNE actualiza número de circunscripciones para la elección de concejales urbanos y rurales en Ecuador",
       "date": "2026-04-03",
       "url": "https://www.cne.gob.ec/cne-actualiza-numero-de-circunscripciones-para-la-eleccion-de-concejales-urbanos-y-rurales-en-ecuador/",
-      "summary": "El CNE modificó la delimitación de circunscripciones electorales para concejales en 17 cantones del país para asegurar mejor representación en jurisdicciones con mayor densidad poblacional. Esta medida afecta la distribución de 5.742 autoridades que se elegirán el 29 de noviembre.",
+      "summary": "El CNE actualizó las circunscripciones electorales para elegir concejales en el 29 de noviembre de 2026, permitiendo que ciudadanos consulten su lugar de votación en la plataforma oficial.",
       "scrapedAt": "2026-05-01T10:14:52.970Z"
     },
     {

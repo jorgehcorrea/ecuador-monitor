@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-05-10T08:51:25.298Z",
+  "lastScraped": "2026-05-10T10:07:07.135Z",
   "institutions": [
     {
       "id": "iniap",
@@ -510,16 +510,16 @@
           "summary": "El CNE incorporó siete nuevos movimientos políticos locales, elevando a 237 el total de organizaciones habilitadas para participar en las elecciones seccionales del 29 de noviembre. Esto asegura que más actores políticos puedan presentar candidatos en los comicios para elegir autoridades locales y miembros del CPCCS."
         },
         {
+          "title": "Ciudadanía y organizaciones políticas pueden presentar reclamos al Registro Electoral del 4 al 18 de mayo",
+          "date": "2026-05-05",
+          "url": "https://www.cne.gob.ec/ciudadania-y-organizaciones-politicas-pueden-presentar-reclamos-al-registro-electoral-del-4-al-18-de-mayo/",
+          "summary": "El CNE abre un período de 15 días para que ciudadanos y organizaciones políticas presenten observaciones sobre el registro electoral antes de la aprobación final del padrón el 2 de julio de 2026."
+        },
+        {
           "title": "CNE habilita 15 días para reclamos al Registro Electoral de cara a las elecciones de 2026",
           "date": "2026-05-04",
           "url": "https://www.eldiario.ec/ecuador/cne-habilita-15-dias-para-reclamos-al-registro-electoral-de-cara-a-las-elecciones-de-2026-04052026/",
           "summary": "El CNE abrió un período de 15 días para que ciudadanos y organizaciones políticas presenten reclamos administrativos y observaciones al Registro Electoral, buscando asegurar la integridad del padrón electoral antes de la inscripción de candidatos."
-        },
-        {
-          "title": "Ciudadanía y organizaciones políticas pueden presentar reclamos al Registro Electoral del 4 al 18 de mayo",
-          "date": "2026-05-04",
-          "url": "https://www.cne.gob.ec/ciudadania-y-organizaciones-politicas-pueden-presentar-reclamos-al-registro-electoral-del-4-al-18-de-mayo/",
-          "summary": "El CNE habilitó un período para que ciudadanos e instituciones políticas presenten observaciones sobre datos del padrón electoral antes de su aprobación definitiva el 2 de julio. Este proceso permite depurar el registro y corregir errores que podrían afectar el derecho al voto en las elecciones de noviembre."
         },
         {
           "title": "Hasta el 13 de mayo el CNE recepta inscripciones para integrar veedurías del proceso de elección del CPCCS 2027",
@@ -540,7 +540,7 @@
           "summary": "El CNE cerró el plazo de inscripción de organizaciones políticas con 231 agrupaciones habilitadas, aunque dos enfrentan procesos administrativos de cancelación. El pleno también rechazó el registro de dos movimientos que no subsanaron requisitos legales."
         }
       ],
-      "lastUpdated": "2026-05-09T10:00:17.580Z"
+      "lastUpdated": "2026-05-10T10:05:19.933Z"
     },
     {
       "id": "asamblea",
@@ -561,7 +561,7 @@
           "title": "Asamblea condecoró al artista Damiano y a productores de programas de la Radio Legislativa por sus 15 años",
           "date": "2026-05-07",
           "url": "https://www.asambleanacional.gob.ec/es/node/116232",
-          "summary": "El Pleno de la Asamblea Nacional reconoció con condecoración la trayectoria artística de Damiano y el aporte de productores de programas radiales al desarrollo cultural del país. Este homenaje forma parte de la conmemoración de los 15 años de la Radio de la Asamblea."
+          "summary": "El Pleno de la Asamblea Nacional otorgó una condecoración a Nelson Fernando Proaño Guerra (Damiano) en reconocimiento a su trayectoria de más de 55 años en la música popular ecuatoriana y su contribución al desarrollo cultural del país. Este reconocimiento busca honrar su invaluable aporte a la identidad cultural nacional."
         },
         {
           "title": "Comisión de Régimen debate reforma financiera y el cobro de intereses sobre intereses que afecta a usuarios",
@@ -579,7 +579,7 @@
           "title": "Asamblea Nacional fortalece su gestión con más del 50 % de la agenda parlamentaria 2025-2027 cumplida, destaca Niels Olsen",
           "date": "2026-05-06",
           "url": "https://www.asambleanacional.gob.ec/es/noticia/116196-asamblea-nacional-fortalece-su-gestion-con-mas-del-50",
-          "summary": "El presidente de la Asamblea reportó el cumplimiento de más del 50% de la agenda parlamentaria, destacando avances en leyes de estabilidad jurídica, seguridad, salud y lucha contra la corrupción. Enfatizó una mayor productividad y disciplina institucional en el funcionamiento del Legislativo."
+          "summary": "El presidente de la Asamblea Nacional informó que se ha cumplido más del 50% de la agenda parlamentaria 2025-2027, destacando el avance en leyes clave para fortalecer la estabilidad jurídica, seguridad, salud y desarrollo social. Estos logros representan un proceso de transformación institucional que mejora la productividad y disciplina legislativa."
         },
         {
           "title": "Asamblea archiva reforma a garantías jurisdiccionales y abre paso a nuevo proyecto en trámite",
@@ -603,10 +603,10 @@
           "title": "Asamblea tramitó en primer debate reforma legal para agilizar los procesos de adopción de niñas, niños y adolescentes",
           "date": "2026-05-05",
           "url": "https://www.asambleanacional.gob.ec/es/noticia/116151-asamblea-tramito-en-primer-debate-reforma-legal-para",
-          "summary": "El Pleno debatió el proyecto de ley que busca reducir significativamente los tiempos de adopción mediante plazos claros y garantías procesales. La normativa propone cambios clave para eliminar barreras estructurales que actualmente retrasan estos procesos, priorizando el interés superior del niño."
+          "summary": "El Pleno debatió el Proyecto de Ley Orgánica de Agilización Judicial para la Adopción, que busca reducir significativamente los plazos de los procesos judicales y administrativos, garantizando el interés superior del niño. La reforma propone que la inscripción de sentencias en el Registro Civil se realice en 24 horas, transformando procesos que antes duraban años."
         }
       ],
-      "lastUpdated": "2026-05-09T10:01:09.093Z"
+      "lastUpdated": "2026-05-10T10:06:16.957Z"
     },
     {
       "id": "corte-constitucional",
@@ -648,7 +648,7 @@
           "summary": "El presidente envió el Acuerdo de Comercio Recíproco con Estados Unidos a la Corte para que evalúe si requiere aprobación previa de la Asamblea Nacional, según lo establecido en la Constitución para tratados internacionales, con la causa asignada a la jueza Alejandra Cárdenas."
         }
       ],
-      "lastUpdated": "2026-05-09T10:01:34.360Z"
+      "lastUpdated": "2026-05-10T10:06:42.129Z"
     },
     {
       "id": "pge",
