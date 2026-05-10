@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-05-09T11:57:32.693Z",
+  "lastScraped": "2026-05-10T04:41:12.185Z",
   "institutions": [
     {
       "id": "iniap",
@@ -41,7 +41,7 @@
           "summary": "El INIAP presentó nuevas variedades de papa con potencial industrial para la producción de hojuelas de colores, con capacidad de adaptarse a zonas paperas entre 2.800 y 3.300 metros de altura en Ecuador."
         }
       ],
-      "lastUpdated": "2026-05-09T04:18:55.126Z"
+      "lastUpdated": "2026-05-10T04:39:31.469Z"
     },
     {
       "id": "mag",
@@ -52,7 +52,7 @@
       "sourceUrl": "https://www.agricultura.gob.ec/noticias/",
       "status": "stale",
       "news": [],
-      "lastUpdated": "2026-05-09T04:19:20.344Z"
+      "lastUpdated": "2026-05-10T04:39:56.666Z"
     },
     {
       "id": "agrocalidad",
@@ -94,7 +94,7 @@
           "summary": "Agrocalidad capacitó a 100 profesionales veterinarios como inspectores sanitarios en centros de faenamiento en Ibarra. La capacitación abordó diseño de procesos, requisitos sanitarios, bienestar animal, control de riesgos de inocuidad e higiene para fortalecer los controles que protegen la salud de la población en la cadena cárnica nacional."
         }
       ],
-      "lastUpdated": "2026-05-09T04:20:09.311Z"
+      "lastUpdated": "2026-05-10T04:40:21.903Z"
     },
     {
       "id": "proecuador",
@@ -136,7 +136,7 @@
           "summary": "Entre enero y octubre de 2025, los procesos comerciales acompañados por ProEcuador permitieron concretar negocios por USD 345,2 millones, evidenciando la capacidad del país para captar demanda internacional y potenciar su inserción comercial en un entorno global competitivo."
         }
       ],
-      "lastUpdated": "2026-05-09T04:20:34.534Z"
+      "lastUpdated": "2026-05-10T04:40:47.179Z"
     },
     {
       "id": "inamhi",
