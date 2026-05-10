@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-05-10T07:28:26.857Z",
+  "lastScraped": "2026-05-10T08:51:25.298Z",
   "institutions": [
     {
       "id": "iniap",
@@ -398,6 +398,18 @@
       "status": "ok",
       "news": [
         {
+          "title": "Operativos policiales en Guayaquil: 61 allanamientos y 21 aprehendidos",
+          "date": "2026-05-09",
+          "url": "https://www.sisepuedeecuador.com/policia-incauto-50-bloques-de-droga-y-aprehendio-a-21-personas-en-guayaquil/",
+          "summary": "La Policía Nacional ejecutó 61 allanamientos en cinco distritos de Guayaquil entre el 8 y 9 de mayo, resultando en la aprehensión de 21 personas (incluyendo un adolescente) vinculadas a organizaciones como Latin King, Chone Killer, Lagartos y Fatales. Se incautaron armas de fuego, drogas y vehículos en esta operación contra grupos dedicados a asesinatos, robos y tráfico de drogas."
+        },
+        {
+          "title": "Operativo Jaguar: Desarticulación de banda narcodelictiva con afectación de USD 400 millones",
+          "date": "2026-05-08",
+          "url": "https://www.eltelegrafo.com.ec/noticias/nacionales/210/bloque-de-seguridad-ejecuta-megaoperativo-con-golpe-de-usd-400-millones",
+          "summary": "El Bloque de Seguridad ejecutó un megaoperativo que duró 12 horas contra una organización narcodelictiva que utilizaba exportaciones de chifles para enviar cocaína internacional. La operación desmanteló una estructura que movilizó aproximadamente USD 400 millones en droga entre 2021 y 2026, con destinos en Bélgica, España, Sierra Leona y Estados Unidos."
+        },
+        {
           "title": "Operativo desarticuló estructura criminal con sofisticados métodos de narcotráfico en Guayaquil",
           "date": "2026-05-08",
           "url": "https://www.eluniverso.com/noticias/seguridad/gancho-ciego-candados-satelitales-y-bunkeres-el-sofisticado-metodo-de-la-narcoestructura-desarticulada-en-ecuador-nota/",
@@ -408,6 +420,12 @@
           "date": "2026-05-07",
           "url": "https://www.eluniverso.com/noticias/ecuador",
           "summary": "La exjueza Gina Zambrano Zambrano fue deportada desde Estados Unidos y entregada a las autoridades ecuatorianas el 7 de mayo de 2026. Su captura reactiva la investigación por delito de prevaricato en Ecuador, castigado entre 5 y 7 años de prisión."
+        },
+        {
+          "title": "Operativo Gran Fénix 0020: Captura de tres implicados en atentado a cárcel El Encuentro",
+          "date": "2026-05-06",
+          "url": "https://www.vistazo.com/actualidad/nacional/2026-05-06-reimberg-anuncia-captura-implicados-atentado-carcel-el-encuentro-FK10927637",
+          "summary": "La Policía Nacional capturó a tres presuntos integrantes de Los Lobos responsables del atentado perpetrado el 25 de diciembre de 2024 contra la cárcel El Encuentro. Las detenciones ocurrieron durante el operativo Gran Fénix 0020 ejecutado en varias provincias en el marco del toque de queda nocturno vigente."
         },
         {
           "title": "Ministerio del Interior, Policía Nacional y Embajada del Reino Unido suscriben acta de compromiso para fortalecer capacidades del GEMA",
@@ -422,7 +440,7 @@
           "summary": "El Ministerio del Interior cuestionó públicamente la resolución del juez que otorgó medidas sustitutivas a cuatro procesados por extorsión tras el operativo Libertad 526 en Pasaje. El funcionario señaló que la víctima había enfrentado amenazas y detonación de un artefacto explosivo."
         }
       ],
-      "lastUpdated": "2026-05-09T08:25:06.283Z"
+      "lastUpdated": "2026-05-10T08:49:44.226Z"
     },
     {
       "id": "min-gobierno",
@@ -433,7 +451,7 @@
       "sourceUrl": "https://www.ministeriodegobierno.gob.ec/noticias/",
       "status": "stale",
       "news": [],
-      "lastUpdated": "2026-05-09T08:25:31.509Z"
+      "lastUpdated": "2026-05-10T08:50:09.453Z"
     },
     {
       "id": "presidencia",
@@ -444,7 +462,7 @@
       "sourceUrl": "https://www.comunicacion.gob.ec/noticias/",
       "status": "stale",
       "news": [],
-      "lastUpdated": "2026-05-09T08:25:56.703Z"
+      "lastUpdated": "2026-05-10T08:50:34.630Z"
     },
     {
       "id": "ecu911",
@@ -474,7 +492,7 @@
           "summary": "Durante el feriado del 30 de abril al 3 de mayo, ECU 911 atendió 47.030 emergencias a nivel nacional. Las provincias de Pichincha y Guayas registraron la mayor cantidad de incidentes, con Quito y Guayaquil liderando en llamadas de emergencia."
         }
       ],
-      "lastUpdated": "2026-05-09T08:26:21.877Z"
+      "lastUpdated": "2026-05-10T08:51:00.289Z"
     },
     {
       "id": "cne",
