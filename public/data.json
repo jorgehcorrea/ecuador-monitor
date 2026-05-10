@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-05-10T04:41:12.185Z",
+  "lastScraped": "2026-05-10T06:16:57.338Z",
   "institutions": [
     {
       "id": "iniap",
@@ -148,16 +148,16 @@
       "status": "ok",
       "news": [
         {
-          "title": "Alerta del INAMHI por fuertes lluvias y tormentas en Ecuador el 7 y 8 de mayo",
-          "date": "2026-05-08",
-          "url": "https://www.teleamazonas.com/actualidad/noticias/ecuador/alerta-inamhi-lluvias-tormentas-ecuador-mayo/",
-          "summary": "El INAMHI alertó sobre lluvias intensas y tormentas que se registrarían desde la tarde del 7 de mayo, con posibilidad de alcanzar niveles muy altos de acumulación de agua. Las vías podrían ser afectadas por deslizamientos de tierra y acumulación hídrica."
-        },
-        {
           "title": "Alerta por lluvias en Quito y otras zonas del país",
           "date": "2026-05-08",
           "url": "https://www.extra.ec/noticia/servicios-y-tramites/llovera-quito-viernes-8-mayo-pronostico-actualizado-153267.html",
           "summary": "El INAMHI advierte sobre lluvias dispersas y nubosidad alta en Pichincha y otras regiones de la Sierra, con posibles tormentas eléctricas que afectarán la movilidad y aumentarán riesgos en laderas y quebradas durante el viernes 8 de mayo."
+        },
+        {
+          "title": "Alerta del INAMHI por fuertes lluvias y tormentas en Ecuador el 7 y 8 de mayo",
+          "date": "2026-05-07",
+          "url": "https://www.teleamazonas.com/actualidad/noticias/ecuador/alerta-inamhi-lluvias-tormentas-ecuador-mayo/",
+          "summary": "El INAMHI alertó sobre la presencia de lluvias y tormentas desde la tarde del jueves 7 de mayo, con precipitaciones que alcanzarían niveles muy altos de agua y riesgo de deslizamientos de tierra y acumulación de agua en vías."
         },
         {
           "title": "Pronóstico de Radiación Ultravioleta Extrema (5 de mayo de 2026)",
@@ -184,12 +184,6 @@
           "summary": "El INAMHI emitió alerta general por lluvias y tormentas eléctricas que afectarán principalmente la Amazonía hasta el miércoles 6 de mayo. Se esperan acumulados entre 22 y 31 milímetros, con picos de hasta 54 milímetros en sectores críticos, generando riesgos de deslizamientos e inundaciones."
         },
         {
-          "title": "Advertencia meteorológica del INAMHI por lluvias extremas en provincias amazónicas hasta el 6 de mayo",
-          "date": "2026-05-03",
-          "url": "https://www.eldiario.ec/ecuador/reporte-del-inamhi-pone-en-alerta-a-cinco-provincias-debido-a-lluvias-extremas-y-tormentas-03052026/",
-          "summary": "El INAMHI emitió alerta por lluvias de intensidad media y alta con tormentas eléctricas en la región amazónica, particularmente en Sucumbíos, Napo, Orellana, Pastaza y Morona Santiago. Se esperan deslizamientos de tierra y crecidas de ríos que podrían afectar viviendas y carreteras."
-        },
-        {
           "title": "Advertencia Meteorológica N° 32: Lluvias de variable intensidad en la Amazonía hasta el 6 de mayo",
           "date": "2026-05-03",
           "url": "https://www.eluniverso.com/noticias/ecuador/inamhi-alerta-lluvias-intensas-y-tormentas-en-la-amazonia-ecuatoriana-nota/",
@@ -200,9 +194,15 @@
           "date": "2026-05-03",
           "url": "https://www.eluniverso.com/noticias/ecuador/inamhi-alerta-lluvias-intensas-y-tormentas-en-la-amazonia-ecuatoriana-nota/",
           "summary": "El INAMHI emitió alerta por lluvias de intensidad variable y tormentas en la región Amazónica desde la noche del 3 hasta el 6 de mayo. Se esperan acumulados de 22 a 31 milímetros diarios con riesgos de deslizamientos de tierra y crecidas de ríos en provincias como Sucumbíos, Orellana y Pastaza."
+        },
+        {
+          "title": "Advertencia meteorológica del INAMHI por lluvias extremas en región Amazónica hasta el 6 de mayo",
+          "date": "2026-05-03",
+          "url": "https://www.eldiario.ec/ecuador/reporte-del-inamhi-pone-en-alerta-a-cinco-provincias-debido-a-lluvias-extremas-y-tormentas-03052026/",
+          "summary": "El INAMHI emitió advertencia por lluvias de intensidad media y alta con tormentas eléctricas en Sucumbíos, Napo, Orellana, Pastaza y Morona Santiago, generando riesgo de deslizamientos de tierra y crecidas repentinas de ríos."
         }
       ],
-      "lastUpdated": "2026-05-09T05:51:43.991Z"
+      "lastUpdated": "2026-05-10T06:15:21.336Z"
     },
     {
       "id": "bce",
@@ -213,7 +213,7 @@
       "sourceUrl": "https://www.bce.fin.ec/comunicados/",
       "status": "stale",
       "news": [],
-      "lastUpdated": "2026-05-09T05:52:33.231Z"
+      "lastUpdated": "2026-05-10T06:16:07.172Z"
     },
     {
       "id": "mipro",
@@ -255,7 +255,7 @@
           "summary": "Ecuador participó en WTM Latin America 2026 con aproximadamente 650 citas de negocios y activaciones culturales y gastronómicas, consolidando al país como destino turístico atractivo en la región de América Latina ante actores del sector turístico global."
         }
       ],
-      "lastUpdated": "2026-05-09T05:52:58.489Z"
+      "lastUpdated": "2026-05-10T06:16:32.334Z"
     },
     {
       "id": "sri",

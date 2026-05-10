@@ -2,16 +2,8 @@
   "id": "inamhi",
   "name": "INAMHI",
   "fullName": "Instituto Nacional de Meteorología e Hidrología",
-  "lastUpdated": "2026-05-09T05:51:43.991Z",
+  "lastUpdated": "2026-05-10T06:15:21.336Z",
   "items": [
-    {
-      "key": "inamhi::alerta-del-inamhi-por-fuertes-lluvias-y-tormentas-en-ecuador",
-      "title": "Alerta del INAMHI por fuertes lluvias y tormentas en Ecuador el 7 y 8 de mayo",
-      "date": "2026-05-08",
-      "url": "https://www.teleamazonas.com/actualidad/noticias/ecuador/alerta-inamhi-lluvias-tormentas-ecuador-mayo/",
-      "summary": "El INAMHI alertó sobre lluvias intensas y tormentas que se registrarían desde la tarde del 7 de mayo, con posibilidad de alcanzar niveles muy altos de acumulación de agua. Las vías podrían ser afectadas por deslizamientos de tierra y acumulación hídrica.",
-      "scrapedAt": "2026-05-09T05:51:43.983Z"
-    },
     {
       "key": "inamhi::alerta-por-lluvias-en-quito-y-otras-zonas-del-país",
       "title": "Alerta por lluvias en Quito y otras zonas del país",
@@ -19,6 +11,14 @@
       "url": "https://www.extra.ec/noticia/servicios-y-tramites/llovera-quito-viernes-8-mayo-pronostico-actualizado-153267.html",
       "summary": "El INAMHI advierte sobre lluvias dispersas y nubosidad alta en Pichincha y otras regiones de la Sierra, con posibles tormentas eléctricas que afectarán la movilidad y aumentarán riesgos en laderas y quebradas durante el viernes 8 de mayo.",
       "scrapedAt": "2026-05-08T05:33:02.711Z"
+    },
+    {
+      "key": "inamhi::alerta-del-inamhi-por-fuertes-lluvias-y-tormentas-en-ecuador",
+      "title": "Alerta del INAMHI por fuertes lluvias y tormentas en Ecuador el 7 y 8 de mayo",
+      "date": "2026-05-07",
+      "url": "https://www.teleamazonas.com/actualidad/noticias/ecuador/alerta-inamhi-lluvias-tormentas-ecuador-mayo/",
+      "summary": "El INAMHI alertó sobre la presencia de lluvias y tormentas desde la tarde del jueves 7 de mayo, con precipitaciones que alcanzarían niveles muy altos de agua y riesgo de deslizamientos de tierra y acumulación de agua en vías.",
+      "scrapedAt": "2026-05-09T05:51:43.983Z"
     },
     {
       "key": "inamhi::pronóstico-de-radiación-ultravioleta-extrema-5-de-mayo-de-2",
@@ -53,14 +53,6 @@
       "scrapedAt": "2026-05-07T06:14:15.740Z"
     },
     {
-      "key": "inamhi::advertencia-meteorológica-del-inamhi-por-lluvias-extremas-en",
-      "title": "Advertencia meteorológica del INAMHI por lluvias extremas en provincias amazónicas hasta el 6 de mayo",
-      "date": "2026-05-03",
-      "url": "https://www.eldiario.ec/ecuador/reporte-del-inamhi-pone-en-alerta-a-cinco-provincias-debido-a-lluvias-extremas-y-tormentas-03052026/",
-      "summary": "El INAMHI emitió alerta por lluvias de intensidad media y alta con tormentas eléctricas en la región amazónica, particularmente en Sucumbíos, Napo, Orellana, Pastaza y Morona Santiago. Se esperan deslizamientos de tierra y crecidas de ríos que podrían afectar viviendas y carreteras.",
-      "scrapedAt": "2026-05-09T05:51:43.983Z"
-    },
-    {
       "key": "inamhi::advertencia-meteorológica-n-32-lluvias-de-variable-intensi",
       "title": "Advertencia Meteorológica N° 32: Lluvias de variable intensidad en la Amazonía hasta el 6 de mayo",
       "date": "2026-05-03",
@@ -75,6 +67,22 @@
       "url": "https://www.eluniverso.com/noticias/ecuador/inamhi-alerta-lluvias-intensas-y-tormentas-en-la-amazonia-ecuatoriana-nota/",
       "summary": "El INAMHI emitió alerta por lluvias de intensidad variable y tormentas en la región Amazónica desde la noche del 3 hasta el 6 de mayo. Se esperan acumulados de 22 a 31 milímetros diarios con riesgos de deslizamientos de tierra y crecidas de ríos en provincias como Sucumbíos, Orellana y Pastaza.",
       "scrapedAt": "2026-05-07T06:14:15.740Z"
+    },
+    {
+      "key": "inamhi::advertencia-meteorológica-del-inamhi-por-lluvias-extremas-en",
+      "title": "Advertencia meteorológica del INAMHI por lluvias extremas en región Amazónica hasta el 6 de mayo",
+      "date": "2026-05-03",
+      "url": "https://www.eldiario.ec/ecuador/reporte-del-inamhi-pone-en-alerta-a-cinco-provincias-debido-a-lluvias-extremas-y-tormentas-03052026/",
+      "summary": "El INAMHI emitió advertencia por lluvias de intensidad media y alta con tormentas eléctricas en Sucumbíos, Napo, Orellana, Pastaza y Morona Santiago, generando riesgo de deslizamientos de tierra y crecidas repentinas de ríos.",
+      "scrapedAt": "2026-05-09T05:51:43.983Z"
+    },
+    {
+      "key": "inamhi::alerta-del-inamhi-por-lluvias-de-intensidad-media-y-alta-dur",
+      "title": "Alerta del INAMHI por lluvias de intensidad media y alta durante feriado del Día del Trabajador",
+      "date": "2026-04-29",
+      "url": "https://www.teleamazonas.com/actualidad/noticias/ecuador/alerta-inamhi-lluvias-feriado-ecuador/",
+      "summary": "El INAMHI advirtió sobre lluvias entre la noche del 29 de abril y el 3 de mayo, con mayor intensidad en la región Amazónica, causando riesgo de deslizamientos de tierra, crecidas de ríos y afectaciones en la movilidad.",
+      "scrapedAt": "2026-05-10T06:15:21.327Z"
     },
     {
       "key": "inamhi::advertencia-del-inamhi-por-lluvias-durante-el-feriado-del-29",
@@ -117,12 +125,28 @@
       "scrapedAt": "2026-05-01T06:19:00.105Z"
     },
     {
+      "key": "inamhi::inamhi-advierte-sobre-lluvias-intensas-en-el-litoral-hasta-e",
+      "title": "INAMHI advierte sobre lluvias intensas en el Litoral hasta el 24 de abril",
+      "date": "2026-04-21",
+      "url": "https://www.teleamazonas.com/actualidad/noticias/ecuador/ecuador-lluvias-inamhi-litoral/",
+      "summary": "El INAMHI reportó precipitaciones de variable intensidad principalmente en Esmeraldas, Los Ríos y Santo Domingo de los Tsáchilas, con mayor intensidad esperada en la Amazonía durante este período.",
+      "scrapedAt": "2026-05-10T06:15:21.327Z"
+    },
+    {
       "key": "inamhi::inamhi-explica-fenómeno-de-calor-extremo-en-la-costa-ecuator",
       "title": "INAMHI explica fenómeno de calor extremo en la Costa ecuatoriana",
       "date": "2026-04-19",
       "url": "https://www.extra.ec/noticia/ecuador/tanto-calor-costa-ecuador-abril-2026-inamhi-explica-fenomeno-151955.html",
       "summary": "El calentamiento anómalo del océano (2°C por encima de lo normal) está causando temperaturas récord en la región Litoral, con sensación térmica que puede superar los 40°C. Este patrón persistirá en las próximas semanas debido al cambio climático global.",
       "scrapedAt": "2026-05-01T06:19:00.105Z"
+    },
+    {
+      "key": "inamhi::inamhi-emite-advertencia-meteorológica-n-28-por-lluvias-y-t",
+      "title": "INAMHI emite Advertencia Meteorológica Nº 28 por lluvias y tormentas hasta el 21 de abril",
+      "date": "2026-04-17",
+      "url": "https://www.eldiario.ec/ecuador/el-inamhi-emite-alerta-por-intensificacion-de-lluvias-y-tormentas-electricas-en-ecuador-hasta-el-21-de-abril-17042026/",
+      "summary": "El INAMHI advirtió sobre intensificación de lluvias y tormentas eléctricas con afectación principalmente en la Amazonía, generando riesgos de desbordamientos de ríos, deslizamientos de tierra y afectaciones en la red vial nacional.",
+      "scrapedAt": "2026-05-10T06:15:21.327Z"
     },
     {
       "key": "inamhi::advertencia-meteorológica-del-inamhi-por-intensificación-de-",
