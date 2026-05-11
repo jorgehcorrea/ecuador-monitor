@@ -2,7 +2,7 @@
   "id": "sri",
   "name": "SRI",
   "fullName": "Servicio de Rentas Internas",
-  "lastUpdated": "2026-05-10T07:26:46.254Z",
+  "lastUpdated": "2026-05-11T08:25:31.081Z",
   "items": [
     {
       "key": "sri::ventas-en-ecuador-crecen-127-en-abril-2026",
@@ -45,6 +45,22 @@
       "scrapedAt": "2026-05-06T07:36:30.709Z"
     },
     {
+      "key": "sri::limitación-en-el-uso-de-notas-de-crédito-para-pago-de-impues",
+      "title": "Limitación en el uso de notas de crédito para pago de impuestos desde mayo de 2026",
+      "date": "2026-04-30",
+      "url": "https://www.primicias.ec/economia/notas-credito-sri-deudas-tributarias-1mayo2026-resolucion-121392/",
+      "summary": "A partir del 1 de mayo de 2026, los contribuyentes solo pueden usar notas de crédito para cubrir hasta el 60% del valor a pagar en sus declaraciones tributarias. Esta medida reduce el uso de notas de crédito para el cumplimiento de obligaciones fiscales, buscando mejorar la liquidez tributaria del Estado.",
+      "scrapedAt": "2026-05-11T08:25:31.072Z"
+    },
+    {
+      "key": "sri::ampliación-excepcional-de-plazos-para-declaraciones-con-venc",
+      "title": "Ampliación excepcional de plazos para declaraciones con vencimiento 20 de abril de 2026",
+      "date": "2026-04-24",
+      "url": "https://x.com/SRIoficialEc/status/2046450431635959902",
+      "summary": "El SRI extendió de manera excepcional los plazos para presentar las declaraciones de impuestos que vencieron el 20 de abril de 2026. Los contribuyentes con esta fecha límite recibieron prórroga adicional para cumplir sus obligaciones tributarias sin incurrir en sanciones inmediatas.",
+      "scrapedAt": "2026-05-11T08:25:31.072Z"
+    },
+    {
       "key": "sri::sri-amplía-de-manera-excepcional-los-plazos-para-las-declara",
       "title": "SRI amplía de manera excepcional los plazos para las declaraciones de impuestos con fecha de vencimiento 20 de abril de 2026",
       "date": "2026-04-24",
@@ -77,20 +93,20 @@
       "scrapedAt": "2026-05-01T07:26:41.703Z"
     },
     {
-      "key": "sri::declaración-y-pago-del-iva-se-realizarán-en-un-solo-paso-des",
-      "title": "Declaración y pago del IVA se realizarán en un solo paso desde junio de 2026",
-      "date": "2026-04-16",
-      "url": "https://www.sri.gob.ec/en/noticias7",
-      "summary": "A partir de junio de 2026, los contribuyentes obligados a declarar IVA podrán realizar la declaración y el pago en un mismo trámite, en lugar de hacerlo por separado. Esta reforma busca evitar omisiones y fortalecer la recaudación tributaria, requiriendo que se presenten las declaraciones con anticipación a la fecha de vencimiento.",
-      "scrapedAt": "2026-05-06T07:36:30.709Z"
-    },
-    {
       "key": "sri::ventas-en-ecuador-alcanzaron-usd-267196-millones-en-2025-co",
       "title": "Ventas en Ecuador alcanzaron USD 267.196 millones en 2025 con crecimiento del 9%",
       "date": "2026-04-15",
       "url": "https://www.eluniverso.com/noticias/economia/sri-ventas-2025-servicios-en-linea-atencion-contribuyentes-nota/",
       "summary": "El SRI reportó que las ventas totales en 2025 alcanzaron USD 267.196 millones, representando un incremento del 9% respecto a 2024. La recaudación tributaria llegó a USD 21.501 millones, un aumento del 6,8%, mientras se atendió a más de 2,1 millones de contribuyentes.",
       "scrapedAt": "2026-05-01T07:26:41.703Z"
+    },
+    {
+      "key": "sri::declaración-y-pago-del-iva-se-realizarán-en-un-solo-paso-des",
+      "title": "Declaración y pago del IVA se realizarán en un solo paso desde junio de 2026",
+      "date": "2026-04-15",
+      "url": "https://www.sri.gob.ec/en/noticias7",
+      "summary": "A partir del 1 de junio de 2026, los contribuyentes deberán presentar la declaración del IVA simultáneamente con el pago total del impuesto en un único trámite. Las declaraciones sin pago total serán rechazadas automáticamente por el sistema, aunque aplican excepciones para exportadores y contribuyentes del sistema de compensación fiscal.",
+      "scrapedAt": "2026-05-06T07:36:30.709Z"
     },
     {
       "key": "sri::sri-informa-sobre-plazos-en-abril-para-declarar-el-impuesto-",
@@ -125,12 +141,28 @@
       "scrapedAt": "2026-05-01T07:26:41.703Z"
     },
     {
+      "key": "sri::retención-del-3-sobre-rendimientos-financieros-entra-en-vig",
+      "title": "Retención del 3% sobre rendimientos financieros entra en vigencia",
+      "date": "2026-02-27",
+      "url": "https://www.sri.gob.ec/o/sri-portlet-biblioteca-alfresco-internet/descargar/272ca6a9-d679-4b4e-8da0-fb4671cf5f8f/NAC-DGERCGC26-00000009_Ret_IR.pdf",
+      "summary": "Desde el 1 de marzo de 2026, los bancos y cooperativas retienen el 3% de impuesto a la renta sobre intereses y ganancias de inversiones financieras como depósitos a plazo y certificados. Los inversores pueden recuperar estos valores si al presentar su declaración anual el impuesto resulta menor al monto retenido.",
+      "scrapedAt": "2026-05-11T08:25:31.072Z"
+    },
+    {
       "key": "sri::sri-establece-nuevos-porcentajes-de-retención-en-la-fuente-d",
       "title": "SRI establece nuevos porcentajes de retención en la fuente del Impuesto a la Renta",
       "date": "2026-02-27",
       "url": "https://www.lexis.com.ec/noticias/sri-establece-nuevos-porcentajes-de-retencion-en-la-fuente-del-impuesto-a-la-renta",
       "summary": "El SRI expidió las resoluciones NAC-DGERCGC26-00000009 y NAC-DGERCGC26-00000010 que establecen nuevos porcentajes de retención y designan nuevos agentes de retención. Estas disposiciones entraron en vigencia el 1 de marzo de 2026 con el objetivo de optimizar la recaudación fiscal y actualizar el catastro de contribuyentes obligados a actuar como agentes de retención.",
       "scrapedAt": "2026-05-07T07:43:38.722Z"
+    },
+    {
+      "key": "sri::sri-habilita-formulario-para-proyección-de-gastos-personales",
+      "title": "SRI habilita formulario para proyección de gastos personales 2026",
+      "date": "2026-02-06",
+      "url": "https://www.sri.gob.ec/o/sri-portlet-biblioteca-alfresco-internet/descargar/ea002a89-17d8-4cdf-be42-affedbe3f8d8/BOLET%C3%8DN%20006%20-%20SRI%20HABILITA%20LA%20PROYECCI%C3%93N%20DE%20GASTOS%20PERSONALES%202026%20PARA%20REDUCIR%20EL%20IMPUESTO%20A%20LA%20RENTA.pdf",
+      "summary": "El formulario de proyección de gastos personales 2026 permite a los trabajadores deducir gastos en alimentación, educación, salud, vivienda, vestimenta y turismo para reducir el impuesto a la renta. Los trabajadores pueden proyectar sus deducciones para obtener una rebaja en la retención mensual realizada por sus empleadores.",
+      "scrapedAt": "2026-05-11T08:25:31.072Z"
     },
     {
       "key": "sri::sri-habilita-la-proyección-de-gastos-personales-2026-para-re",
