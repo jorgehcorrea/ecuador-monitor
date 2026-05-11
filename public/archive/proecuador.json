@@ -2,7 +2,7 @@
   "id": "proecuador",
   "name": "ProEcuador",
   "fullName": "Instituto de Promoción de Exportaciones e Inversiones",
-  "lastUpdated": "2026-05-06T04:31:27.299Z",
+  "lastUpdated": "2026-05-11T04:56:34.108Z",
   "items": [
     {
       "key": "proecuador::roger-crespo-designado-nuevo-viceministro-de-promoción-de-ex",
@@ -13,12 +13,28 @@
       "scrapedAt": "2026-05-06T04:31:27.299Z"
     },
     {
+      "key": "proecuador::el-gobierno-nacional-impulsa-vínculos-comerciales-en-el-salv",
+      "title": "El Gobierno Nacional impulsa vínculos comerciales en El Salvador y fortalece la presencia del país en Centroamérica",
+      "date": "2026-04-15",
+      "url": "https://www.proecuador.gob.ec/el-gobierno-nacional-impulsa-vinculos-comerciales-en-el-salvador-y-fortalece-la-presencia-del-pais-en-centroamerica/",
+      "summary": "La directora ejecutiva de ProEcuador, Carolina Maldonado, realizó una visita oficial a El Salvador para abrir nuevos espacios comerciales y fortalecer la cooperación económica con Centroamérica. Durante esta misión se acordó potenciar misiones comerciales y ruedas de negocios que faciliten la inserción de productos ecuatorianos en mercados centroamericanos.",
+      "scrapedAt": "2026-05-11T04:56:34.108Z"
+    },
+    {
       "key": "proecuador::proecuador-abre-convocatoria-para-participación-en-americas-",
       "title": "ProEcuador abre convocatoria para participación en Americas Food & Beverage Show 2026",
       "date": "2026-04-13",
       "url": "https://www.linkedin.com/in/pro-ecuador-25217465/",
       "summary": "ProEcuador lanzó una convocatoria abierta hasta el 13 de abril de 2026 para que empresas de sectores como alimentos procesados, gourmet, bebidas y acuacultura participen en la feria Americas Food & Beverage Show que se realizará en Miami en septiembre, permitiendo conectar con compradores estadounidenses y generar negocios internacionales.",
       "scrapedAt": "2026-04-30T15:22:15.807Z"
+    },
+    {
+      "key": "proecuador::proecuador-ofrece-capacitación-gratuita-descubre-mercados-e",
+      "title": "ProEcuador ofrece capacitación gratuita: Descubre mercados estratégicos con TradeMap y MacMap",
+      "date": "2026-04-01",
+      "url": "https://www.linkedin.com/in/pro-ecuador-25217465/",
+      "summary": "ProEcuador impartió una capacitación gratuita sobre herramientas de inteligencia comercial para exportadores. El taller, dictado por especialista Carolina Vargas, enseñó a identificar mercados clave, analizar tendencias y tomar decisiones estratégicas que fortalezcan los procesos exportadores de empresas ecuatorianas.",
+      "scrapedAt": "2026-05-11T04:56:34.108Z"
     },
     {
       "key": "proecuador::proecuador-ofrece-capacitación-gratuita-en-identificación-de",
@@ -29,20 +45,20 @@
       "scrapedAt": "2026-04-30T15:22:15.807Z"
     },
     {
+      "key": "proecuador::ecuador-presente-en-el-seafood-expo-north-america-2026",
+      "title": "Ecuador presente en el Seafood Expo North America 2026",
+      "date": "2026-03-17",
+      "url": "https://www.munichtvdigital.com/ecuador-presente-en-el-seafood-expo-north-america-2026/",
+      "summary": "Cuatro empresas ecuatorianas participaron del 15 al 17 de marzo en Seafood Expo North America 2026 en Boston, con apoyo de ProEcuador. Esta participación fortaleció el posicionamiento de productos pesqueros y acuícolas ecuatorianos en el mercado norteamericano, considerada una de las ferias más importantes del sector.",
+      "scrapedAt": "2026-05-11T04:56:34.108Z"
+    },
+    {
       "key": "proecuador::ecuador-participa-en-seafood-expo-north-america-2026-con-del",
       "title": "Ecuador participa en Seafood Expo North America 2026 con delegación de empresas acuícolas",
       "date": "2026-03-17",
       "url": "https://www.munichtvdigital.com/ecuador-presente-en-el-seafood-expo-north-america-2026/",
       "summary": "Cuatro empresas ecuatorianas del sector pesquero y acuícola participaron en la feria internacional Seafood Expo North America 2026 en Boston con apoyo de ProEcuador, posicionando la calidad y sostenibilidad de los productos del mar ecuatorianos ante compradores internacionales.",
       "scrapedAt": "2026-04-30T15:22:15.807Z"
-    },
-    {
-      "key": "proecuador::pro-ecuador-reporta-usd-3452-millones-en-negocios-internaci",
-      "title": "PRO ECUADOR reporta USD 345,2 millones en negocios internacionales con crecimiento de 176% respecto a 2024",
-      "date": "2026-03-02",
-      "url": "https://www.proecuador.gob.ec/proecuador-reporta-usd-3452-millones-en-negocios-internacionales-y-registra-un-crecimiento-de-176-respecto-a-2024/",
-      "summary": "Entre enero y octubre de 2025, los procesos comerciales acompañados por ProEcuador permitieron concretar negocios por USD 345,2 millones, evidenciando la capacidad del país para captar demanda internacional y potenciar su inserción comercial en un entorno global competitivo.",
-      "scrapedAt": "2026-05-06T04:31:27.299Z"
     },
     {
       "key": "proecuador::proecuador-reporta-usd-3452-millones-en-negocios-internacio",
@@ -53,12 +69,28 @@
       "scrapedAt": "2026-04-30T15:22:15.807Z"
     },
     {
+      "key": "proecuador::pro-ecuador-reporta-usd-3452-millones-en-negocios-internaci",
+      "title": "PRO ECUADOR REPORTA USD 345,2 MILLONES EN NEGOCIOS INTERNACIONALES Y REGISTRA UN CRECIMIENTO DE 176% RESPECTO A 2024",
+      "date": "2026-03-02",
+      "url": "https://www.proecuador.gob.ec/2026/03/",
+      "summary": "ProEcuador reportó USD 345,2 millones en negocios internacionales acompañados entre enero y octubre de 2025, con un crecimiento del 176% respecto al mismo período de 2024. Este resultado refleja el trabajo efectivo de la institución en la internacionalización empresarial y la concreción de oportunidades comerciales para exportadores ecuatorianos.",
+      "scrapedAt": "2026-05-06T04:31:27.299Z"
+    },
+    {
       "key": "proecuador::ecuador-participa-en-gulfood-dubai-2026-con-delegación-de-em",
       "title": "Ecuador participa en Gulfood Dubai 2026 con delegación de empresas del sector alimentario",
       "date": "2026-02-02",
       "url": "https://latingulf.ae/2026/02/02/ecuador-captivates-international-buyers-at-gulfood-with-exceptional-products/",
       "summary": "Ecuador participó en Gulfood 2026 (enero 26-30) a través de ProEcuador, presentando una delegación de empresas ecuatorianas del sector alimentario para conectar con compradores internacionales y fortalecer la reputación comercial del país en mercados globales.",
       "scrapedAt": "2026-05-06T04:31:27.299Z"
+    },
+    {
+      "key": "proecuador::gobierno-de-daniel-noboa-impulsa-la-oferta-exportable-ecuato",
+      "title": "Gobierno de Daniel Noboa impulsa la oferta exportable ecuatoriana en Gulfood Dubái",
+      "date": "2026-01-27",
+      "url": "https://www.proecuador.gob.ec/gobierno-de-daniel-noboa-impulsa-la-oferta-exportable-ecuatoriana-en-gulfood-dubai/",
+      "summary": "Ecuador participó en la 31.ª edición de Gulfood, una de las ferias más importantes del sector de alimentos y bebidas realizada del 26 al 30 de enero en Dubái. La participación de ProEcuador permitió que exportadores ecuatorianos establecieran relaciones comerciales y accedieran a los mercados estratégicos de Medio Oriente, Asia y África.",
+      "scrapedAt": "2026-05-11T04:56:34.108Z"
     },
     {
       "key": "proecuador::proecuador-impulsa-la-oferta-exportable-ecuatoriana-en-gulfo",

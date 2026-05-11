@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-05-10T11:59:21.091Z",
+  "lastScraped": "2026-05-11T04:56:59.112Z",
   "institutions": [
     {
       "id": "iniap",
@@ -41,7 +41,7 @@
           "summary": "El INIAP presentó nuevas variedades de papa con potencial industrial para la producción de hojuelas de colores, con capacidad de adaptarse a zonas paperas entre 2.800 y 3.300 metros de altura en Ecuador."
         }
       ],
-      "lastUpdated": "2026-05-10T04:39:31.469Z"
+      "lastUpdated": "2026-05-11T04:54:28.197Z"
     },
     {
       "id": "mag",
@@ -52,7 +52,7 @@
       "sourceUrl": "https://www.agricultura.gob.ec/noticias/",
       "status": "stale",
       "news": [],
-      "lastUpdated": "2026-05-10T04:39:56.666Z"
+      "lastUpdated": "2026-05-11T04:54:53.410Z"
     },
     {
       "id": "agrocalidad",
@@ -67,34 +67,34 @@
           "title": "Agrocalidad se transforma en beneficio del agro ecuatoriano",
           "date": "2026-04-17",
           "url": "https://www.agrocalidad.gob.ec/agrocalidad-se-transforma-en-beneficio-del-agro-ecuatoriano/",
-          "summary": "Agrocalidad presentó su transformación institucional enfocada en fortalecer la sanidad animal, protección vegetal, inocuidad de alimentos y competitividad del sector agropecuario. La agencia trabaja hacia la meta de que Ecuador sea certificado como país libre de fiebre aftosa sin vacunación en 2027 y moderniza sus sistemas de trazabilidad y certificación de predios."
+          "summary": "Agrocalidad presentó su transformación institucional enfocada en fortalecer la sanidad animal, protección vegetal e inocuidad alimentaria, modernizando sistemas de trazabilidad y certificación para mejorar la competitividad del sector agropecuario ecuatoriano."
         },
         {
           "title": "Con la directriz del Presidente, Daniel Noboa Azin, Ecuador está listo para exportar huevos de mesa a Emiratos Árabes Unidos",
           "date": "2026-04-01",
           "url": "https://www.agrocalidad.gob.ec/con-la-directriz-del-presidente-daniel-noboa-azin-ecuador-esta-listo-para-exportar-huevos-de-mesa-a-emiratos-arabes-unidos/",
-          "summary": "Tras completar el proceso de homologación de requisitos sanitarios entre Ecuador y Emiratos Árabes Unidos, productores ecuatorianos pueden iniciar la exportación de huevos de mesa a este nuevo mercado. Este avance abre oportunidades comerciales internacionales para la industria avícola nacional que produce más de 3.800 millones de huevos anuales."
+          "summary": "Ecuador habilitó la exportación de huevos de mesa hacia Emiratos Árabes Unidos tras completar la homologación de requisitos sanitarios, abriendo un nuevo mercado para la industria avícola nacional que genera más de 3.800 millones de huevos anuales."
         },
         {
           "title": "Ecuador impulsa la sanidad equina y fortalece la economía del sector ecuestre",
           "date": "2026-03-25",
           "url": "https://www.agrocalidad.gob.ec/ecuador-impulsa-la-sanidad-equina-y-fortalece-la-economia-del-sector-ecuestre/",
-          "summary": "Quito fue sede de la IX Cumbre y II Simposio de la Red de Vigilancia Epidemiológica de la Federación Iberoamericana de Asociaciones de Veterinarios de Équidos con apoyo de Agrocalidad. El evento reunió especialistas de 14 países para fortalecer la vigilancia, prevención y control de enfermedades en équidos, mejorando protocolos y capacidades técnicas del sector."
+          "summary": "Quito fue sede de la IX Cumbre de la Red de Vigilancia Epidemiológica de la Federación Iberoamericana de Asociaciones de Veterinarios de Équidos, donde se fortalecieron protocolos de sanidad equina con participación de especialistas de 14 países y organismos internacionales."
         },
         {
           "title": "Gracias al compromiso del presidente Daniel Noboa, Ecuador avanza para en 2027 obtener la declaratoria de país libre de fiebre aftosa sin vacunación",
           "date": "2026-03-11",
           "url": "https://www.agrocalidad.gob.ec/gracias-al-compromiso-del-presidente-daniel-noboa-ecuador-avanza-para-en-2027-obtener-la-declaratoria-de-pais-libre-de-fiebre-aftosa-sin-vacunacion/",
-          "summary": "Ecuador notificó a la Organización Mundial de Sanidad Animal el fin de la vacunación contra fiebre aftosa en bovinos y bufalinos a partir del 29 de enero de 2026, iniciando una nueva etapa hacia el estatus de país libre sin vacunación. Este logro representa un ahorro aproximado de 6 millones de dólares anuales y fortalece el acceso a mercados internacionales para productos pecuarios."
+          "summary": "Ecuador notificó oficialmente a la OMSA el cese de vacunación contra fiebre aftosa en bovinos a partir del 29 de enero de 2026, preparándose para obtener en 2027 el estatus de país libre de fiebre aftosa sin vacunación, fortaleciendo acceso a mercados internacionales."
         },
         {
           "title": "100 nuevos inspectores sanitarios para centros de faenamiento",
           "date": "2026-03-06",
           "url": "https://www.agrocalidad.gob.ec/100-nuevos-inspectores-sanitarios-para-centros-de-faenamiento/",
-          "summary": "Agrocalidad capacitó a 100 profesionales veterinarios como inspectores sanitarios en centros de faenamiento en Ibarra. La capacitación abordó diseño de procesos, requisitos sanitarios, bienestar animal, control de riesgos de inocuidad e higiene para fortalecer los controles que protegen la salud de la población en la cadena cárnica nacional."
+          "summary": "En Ibarra se realizó el Curso de autorización de médicos veterinarios especializados en especies mayores, formando 100 nuevos inspectores sanitarios para centros de faenamiento y fortaleciendo la capacidad de supervisión en la cadena de producción cárnica."
         }
       ],
-      "lastUpdated": "2026-05-10T04:40:21.903Z"
+      "lastUpdated": "2026-05-11T04:55:48.863Z"
     },
     {
       "id": "proecuador",
@@ -112,31 +112,31 @@
           "summary": "Roger Crespo fue designado nuevo viceministro de Promoción de Exportaciones e Inversiones en Ecuador, asumiendo funciones clave en la promoción comercial y de inversiones del país en mercados internacionales."
         },
         {
+          "title": "El Gobierno Nacional impulsa vínculos comerciales en El Salvador y fortalece la presencia del país en Centroamérica",
+          "date": "2026-04-15",
+          "url": "https://www.proecuador.gob.ec/el-gobierno-nacional-impulsa-vinculos-comerciales-en-el-salvador-y-fortalece-la-presencia-del-pais-en-centroamerica/",
+          "summary": "La directora ejecutiva de ProEcuador, Carolina Maldonado, realizó una visita oficial a El Salvador para abrir nuevos espacios comerciales y fortalecer la cooperación económica con Centroamérica. Durante esta misión se acordó potenciar misiones comerciales y ruedas de negocios que faciliten la inserción de productos ecuatorianos en mercados centroamericanos."
+        },
+        {
           "title": "ProEcuador abre convocatoria para participación en Americas Food & Beverage Show 2026",
           "date": "2026-04-13",
           "url": "https://www.linkedin.com/in/pro-ecuador-25217465/",
           "summary": "ProEcuador lanzó una convocatoria abierta hasta el 13 de abril de 2026 para que empresas de sectores como alimentos procesados, gourmet, bebidas y acuacultura participen en la feria Americas Food & Beverage Show que se realizará en Miami en septiembre, permitiendo conectar con compradores estadounidenses y generar negocios internacionales."
         },
         {
+          "title": "ProEcuador ofrece capacitación gratuita: Descubre mercados estratégicos con TradeMap y MacMap",
+          "date": "2026-04-01",
+          "url": "https://www.linkedin.com/in/pro-ecuador-25217465/",
+          "summary": "ProEcuador impartió una capacitación gratuita sobre herramientas de inteligencia comercial para exportadores. El taller, dictado por especialista Carolina Vargas, enseñó a identificar mercados clave, analizar tendencias y tomar decisiones estratégicas que fortalezcan los procesos exportadores de empresas ecuatorianas."
+        },
+        {
           "title": "ProEcuador ofrece capacitación gratuita en identificación de mercados estratégicos",
           "date": "2026-04-01",
           "url": "https://www.linkedin.com/in/pro-ecuador-25217465/",
           "summary": "ProEcuador realizó una capacitación gratuita sobre herramientas de análisis de mercado TradeMap y MacMap para ayudar a exportadores a identificar mercados clave y tomar decisiones basadas en información estratégica para fortalecer sus procesos exportadores."
-        },
-        {
-          "title": "Ecuador participa en Seafood Expo North America 2026 con delegación de empresas acuícolas",
-          "date": "2026-03-17",
-          "url": "https://www.munichtvdigital.com/ecuador-presente-en-el-seafood-expo-north-america-2026/",
-          "summary": "Cuatro empresas ecuatorianas del sector pesquero y acuícola participaron en la feria internacional Seafood Expo North America 2026 en Boston con apoyo de ProEcuador, posicionando la calidad y sostenibilidad de los productos del mar ecuatorianos ante compradores internacionales."
-        },
-        {
-          "title": "PRO ECUADOR reporta USD 345,2 millones en negocios internacionales con crecimiento de 176% respecto a 2024",
-          "date": "2026-03-02",
-          "url": "https://www.proecuador.gob.ec/proecuador-reporta-usd-3452-millones-en-negocios-internacionales-y-registra-un-crecimiento-de-176-respecto-a-2024/",
-          "summary": "Entre enero y octubre de 2025, los procesos comerciales acompañados por ProEcuador permitieron concretar negocios por USD 345,2 millones, evidenciando la capacidad del país para captar demanda internacional y potenciar su inserción comercial en un entorno global competitivo."
         }
       ],
-      "lastUpdated": "2026-05-10T04:40:47.179Z"
+      "lastUpdated": "2026-05-11T04:56:34.109Z"
     },
     {
       "id": "inamhi",

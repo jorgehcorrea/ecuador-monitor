@@ -2,14 +2,14 @@
   "id": "agrocalidad",
   "name": "AGROCALIDAD",
   "fullName": "Agencia de Regulación y Control Fito y Zoosanitario",
-  "lastUpdated": "2026-05-09T04:20:09.311Z",
+  "lastUpdated": "2026-05-11T04:55:48.863Z",
   "items": [
     {
       "key": "agrocalidad::agrocalidad-se-transforma-en-beneficio-del-agro-ecuatoriano",
       "title": "Agrocalidad se transforma en beneficio del agro ecuatoriano",
       "date": "2026-04-17",
       "url": "https://www.agrocalidad.gob.ec/agrocalidad-se-transforma-en-beneficio-del-agro-ecuatoriano/",
-      "summary": "Agrocalidad presentó su transformación institucional enfocada en fortalecer la sanidad animal, protección vegetal, inocuidad de alimentos y competitividad del sector agropecuario. La agencia trabaja hacia la meta de que Ecuador sea certificado como país libre de fiebre aftosa sin vacunación en 2027 y moderniza sus sistemas de trazabilidad y certificación de predios.",
+      "summary": "Agrocalidad presentó su transformación institucional enfocada en fortalecer la sanidad animal, protección vegetal e inocuidad alimentaria, modernizando sistemas de trazabilidad y certificación para mejorar la competitividad del sector agropecuario ecuatoriano.",
       "scrapedAt": "2026-05-09T04:20:09.303Z"
     },
     {
@@ -17,7 +17,7 @@
       "title": "Con la directriz del Presidente, Daniel Noboa Azin, Ecuador está listo para exportar huevos de mesa a Emiratos Árabes Unidos",
       "date": "2026-04-01",
       "url": "https://www.agrocalidad.gob.ec/con-la-directriz-del-presidente-daniel-noboa-azin-ecuador-esta-listo-para-exportar-huevos-de-mesa-a-emiratos-arabes-unidos/",
-      "summary": "Tras completar el proceso de homologación de requisitos sanitarios entre Ecuador y Emiratos Árabes Unidos, productores ecuatorianos pueden iniciar la exportación de huevos de mesa a este nuevo mercado. Este avance abre oportunidades comerciales internacionales para la industria avícola nacional que produce más de 3.800 millones de huevos anuales.",
+      "summary": "Ecuador habilitó la exportación de huevos de mesa hacia Emiratos Árabes Unidos tras completar la homologación de requisitos sanitarios, abriendo un nuevo mercado para la industria avícola nacional que genera más de 3.800 millones de huevos anuales.",
       "scrapedAt": "2026-05-09T04:20:09.303Z"
     },
     {
@@ -25,7 +25,7 @@
       "title": "Ecuador impulsa la sanidad equina y fortalece la economía del sector ecuestre",
       "date": "2026-03-25",
       "url": "https://www.agrocalidad.gob.ec/ecuador-impulsa-la-sanidad-equina-y-fortalece-la-economia-del-sector-ecuestre/",
-      "summary": "Quito fue sede de la IX Cumbre y II Simposio de la Red de Vigilancia Epidemiológica de la Federación Iberoamericana de Asociaciones de Veterinarios de Équidos con apoyo de Agrocalidad. El evento reunió especialistas de 14 países para fortalecer la vigilancia, prevención y control de enfermedades en équidos, mejorando protocolos y capacidades técnicas del sector.",
+      "summary": "Quito fue sede de la IX Cumbre de la Red de Vigilancia Epidemiológica de la Federación Iberoamericana de Asociaciones de Veterinarios de Équidos, donde se fortalecieron protocolos de sanidad equina con participación de especialistas de 14 países y organismos internacionales.",
       "scrapedAt": "2026-05-09T04:20:09.303Z"
     },
     {
@@ -33,7 +33,7 @@
       "title": "Gracias al compromiso del presidente Daniel Noboa, Ecuador avanza para en 2027 obtener la declaratoria de país libre de fiebre aftosa sin vacunación",
       "date": "2026-03-11",
       "url": "https://www.agrocalidad.gob.ec/gracias-al-compromiso-del-presidente-daniel-noboa-ecuador-avanza-para-en-2027-obtener-la-declaratoria-de-pais-libre-de-fiebre-aftosa-sin-vacunacion/",
-      "summary": "Ecuador notificó a la Organización Mundial de Sanidad Animal el fin de la vacunación contra fiebre aftosa en bovinos y bufalinos a partir del 29 de enero de 2026, iniciando una nueva etapa hacia el estatus de país libre sin vacunación. Este logro representa un ahorro aproximado de 6 millones de dólares anuales y fortalece el acceso a mercados internacionales para productos pecuarios.",
+      "summary": "Ecuador notificó oficialmente a la OMSA el cese de vacunación contra fiebre aftosa en bovinos a partir del 29 de enero de 2026, preparándose para obtener en 2027 el estatus de país libre de fiebre aftosa sin vacunación, fortaleciendo acceso a mercados internacionales.",
       "scrapedAt": "2026-05-09T04:20:09.303Z"
     },
     {
@@ -41,7 +41,7 @@
       "title": "100 nuevos inspectores sanitarios para centros de faenamiento",
       "date": "2026-03-06",
       "url": "https://www.agrocalidad.gob.ec/100-nuevos-inspectores-sanitarios-para-centros-de-faenamiento/",
-      "summary": "Agrocalidad capacitó a 100 profesionales veterinarios como inspectores sanitarios en centros de faenamiento en Ibarra. La capacitación abordó diseño de procesos, requisitos sanitarios, bienestar animal, control de riesgos de inocuidad e higiene para fortalecer los controles que protegen la salud de la población en la cadena cárnica nacional.",
+      "summary": "En Ibarra se realizó el Curso de autorización de médicos veterinarios especializados en especies mayores, formando 100 nuevos inspectores sanitarios para centros de faenamiento y fortaleciendo la capacidad de supervisión en la cadena de producción cárnica.",
       "scrapedAt": "2026-05-09T04:20:09.303Z"
     }
   ]

@@ -2,7 +2,7 @@
   "id": "iniap",
   "name": "INIAP",
   "fullName": "Instituto Nacional de Investigaciones Agropecuarias",
-  "lastUpdated": "2026-05-08T04:12:37.907Z",
+  "lastUpdated": "2026-05-11T04:54:28.197Z",
   "items": [
     {
       "key": "iniap::comisión-de-soberanía-alimentaria-avanza-en-reformas-a-la-le",
@@ -73,7 +73,7 @@
       "title": "Convocatoria FIASA 2026: ¡Haz realidad tu proyecto de investigación agropecuaria!",
       "date": "2025-05-13",
       "url": "https://www.iniap.gob.ec/convocatoria-fiasa-2026-haz-realidad-tu-proyecto-de-investigacion-agropecuaria/",
-      "summary": "Se abrió oficialmente la Convocatoria FIASA 2026, un mecanismo de financiamiento estatal que permite a investigadores, universidades e instituciones postular proyectos científicos y tecnológicos para impulsar la agrobiodiversidad, mejora de semillas y agricultura sustentable en Ecuador.",
+      "summary": "Se abre la Convocatoria FIASA 2026, un mecanismo de financiamiento estatal que permite a investigadores ecuatorianos presentar proyectos innovadores para impulsar la agrobiodiversidad, mejorar semillas y fomentar agricultura sustentable en el país.",
       "scrapedAt": "2026-05-01T04:44:05.777Z"
     },
     {
@@ -85,11 +85,19 @@
       "scrapedAt": "2026-04-30T14:00:07.691Z"
     },
     {
+      "key": "iniap::cañar-impulsa-la-producción-de-semilla-campesina-con-respald",
+      "title": "Cañar impulsa la producción de semilla campesina con respaldo técnico del INIAP",
+      "date": "2025-05-09",
+      "url": "https://www.iniap.gob.ec/",
+      "summary": "El INIAP proporciona respaldo técnico a productores de la provincia de Cañar para fortalecer la producción de semillas campesinas, mejorando la disponibilidad local de material genético de calidad.",
+      "scrapedAt": "2026-05-11T04:54:28.189Z"
+    },
+    {
       "key": "iniap::ecuador-será-la-sede-del-ix-congreso-mundial-de-la-quinua-y-",
       "title": "Ecuador será la sede del IX Congreso Mundial de la Quinua y el VI Simposio Internacional de Granos Andinos",
       "date": "2025-05-07",
-      "url": "https://www.iniap.gob.ec/category/comunicamos/noticias-destacadas/",
-      "summary": "Ecuador será anfitrión de importantes eventos internacionales sobre cultivos andinos, reuniendo a investigadores, productores y expertos mundiales. Estos congresos permiten el intercambio de conocimientos sobre mejoramiento genético, producción sostenible y comercialización de quinua y otros granos andinos de importancia para la seguridad alimentaria regional.",
+      "url": "https://www.iniap.gob.ec/",
+      "summary": "Ecuador será sede de dos importantes eventos internacionales sobre granos andinos donde se reunirán expertos y académicos para discutir investigación, desarrollo y sostenibilidad de estos cultivos estratégicos.",
       "scrapedAt": "2026-05-07T04:30:35.431Z"
     },
     {
