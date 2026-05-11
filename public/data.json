@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-05-11T08:27:11.932Z",
+  "lastScraped": "2026-05-11T10:34:12.580Z",
   "institutions": [
     {
       "id": "iniap",
@@ -465,7 +465,7 @@
           "summary": "El Ministerio del Interior cuestionó públicamente la resolución del juez que otorgó medidas sustitutivas a cuatro procesados por extorsión tras el operativo Libertad 526 en Pasaje. El funcionario señaló que la víctima había enfrentado amenazas y detonación de un artefacto explosivo."
         }
       ],
-      "lastUpdated": "2026-05-10T08:49:44.226Z"
+      "lastUpdated": "2026-05-11T10:32:31.809Z"
     },
     {
       "id": "min-gobierno",
@@ -476,7 +476,7 @@
       "sourceUrl": "https://www.ministeriodegobierno.gob.ec/noticias/",
       "status": "stale",
       "news": [],
-      "lastUpdated": "2026-05-10T08:50:09.453Z"
+      "lastUpdated": "2026-05-11T10:32:57.156Z"
     },
     {
       "id": "presidencia",
@@ -487,7 +487,7 @@
       "sourceUrl": "https://www.comunicacion.gob.ec/noticias/",
       "status": "stale",
       "news": [],
-      "lastUpdated": "2026-05-10T08:50:34.630Z"
+      "lastUpdated": "2026-05-11T10:33:22.401Z"
     },
     {
       "id": "ecu911",
@@ -515,9 +515,21 @@
           "date": "2026-05-03",
           "url": "https://www.ecu911.gob.ec/47-030-emergencias-coordino-el-ecu-911-durante-el-feriado-del-dia-del-trabajo/",
           "summary": "Durante el feriado del 30 de abril al 3 de mayo, ECU 911 atendió 47.030 emergencias a nivel nacional. Las provincias de Pichincha y Guayas registraron la mayor cantidad de incidentes, con Quito y Guayaquil liderando en llamadas de emergencia."
+        },
+        {
+          "title": "ECU 911 con operatividad al 100% durante el feriado por el Día de Trabajo",
+          "date": "2026-04-30",
+          "url": "https://www.ecu911.gob.ec/ecu-911-con-operatividad-al-100-durante-el-feriado-por-el-dia-de-trabajo/",
+          "summary": "ECU 911 mantuvo sus 16 centros zonales y locales operativos al 100% durante el feriado del Día del Trabajo, coordinando con 154 entidades articuladas y 6.000 cámaras de videovigilancia para monitoreo preventivo de vías, ciudades y espacios públicos."
+        },
+        {
+          "title": "La máxima autoridad del ECU 911 presentó su rendición de cuentas 2025",
+          "date": "2026-04-15",
+          "url": "https://www.ecu911.gob.ec/la-maxima-autoridad-del-ecu-911-presento-su-rendicion-de-cuentas-2025/",
+          "summary": "El Director General del ECU 911, Juan Carlos Paladines, presentó oficialmente la rendición de cuentas correspondiente a 2025, exponiendo los logros y avances alcanzados por la central de emergencias durante el año anterior ante autoridades y ciudadanía."
         }
       ],
-      "lastUpdated": "2026-05-10T08:51:00.289Z"
+      "lastUpdated": "2026-05-11T10:33:47.577Z"
     },
     {
       "id": "cne",
