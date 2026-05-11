@@ -2,8 +2,16 @@
   "id": "inamhi",
   "name": "INAMHI",
   "fullName": "Instituto Nacional de Meteorología e Hidrología",
-  "lastUpdated": "2026-05-10T06:15:21.336Z",
+  "lastUpdated": "2026-05-11T06:42:50.055Z",
   "items": [
+    {
+      "key": "inamhi::alerta-meteorológica-n-33-lluvias-y-tormentas-eléctricas-",
+      "title": "Alerta Meteorológica N.° 33: Lluvias y tormentas eléctricas en varias regiones",
+      "date": "2026-05-09",
+      "url": "https://www.extra.ec/noticia/quito/inamhi-alerta-lluvias-intensas-tormentas-electricas-quito-sabado-9-mayo-153342.html",
+      "summary": "El INAMHI advierte sobre precipitaciones de intensidad variable, tormentas eléctricas y ráfagas de viento desde el 9 hasta el 12 de mayo en Pichincha, la Amazonía y el interior del Litoral, con riesgo de deslizamientos y crecidas de ríos en zonas vulnerables.",
+      "scrapedAt": "2026-05-11T06:42:50.048Z"
+    },
     {
       "key": "inamhi::alerta-por-lluvias-en-quito-y-otras-zonas-del-país",
       "title": "Alerta por lluvias en Quito y otras zonas del país",
@@ -19,6 +27,14 @@
       "url": "https://www.teleamazonas.com/actualidad/noticias/ecuador/alerta-inamhi-lluvias-tormentas-ecuador-mayo/",
       "summary": "El INAMHI alertó sobre la presencia de lluvias y tormentas desde la tarde del jueves 7 de mayo, con precipitaciones que alcanzarían niveles muy altos de agua y riesgo de deslizamientos de tierra y acumulación de agua en vías.",
       "scrapedAt": "2026-05-09T05:51:43.983Z"
+    },
+    {
+      "key": "inamhi::pronóstico-de-radiación-ultravioleta-extrema",
+      "title": "Pronóstico de Radiación Ultravioleta Extrema",
+      "date": "2026-05-05",
+      "url": "https://www.expreso.ec/guayaquil/radiacion-ultravioleta-extrema-ecuador-alerta-hoy-inamhi-281018.html",
+      "summary": "El INAMHI advierte sobre niveles extremos de radiación ultravioleta en Manabí, Loja, Santa Elena y otras provincias el 5 de mayo, recomendando reducir exposición al sol entre 10:00 y 16:00 horas.",
+      "scrapedAt": "2026-05-11T06:42:50.048Z"
     },
     {
       "key": "inamhi::pronóstico-de-radiación-ultravioleta-extrema-5-de-mayo-de-2",
@@ -53,6 +69,14 @@
       "scrapedAt": "2026-05-07T06:14:15.740Z"
     },
     {
+      "key": "inamhi::alerta-meteorológica-n-32-lluvias-de-variable-intensidad-",
+      "title": "Alerta Meteorológica N.° 32: Lluvias de variable intensidad y tormentas en la Amazonía",
+      "date": "2026-05-03",
+      "url": "https://www.eluniverso.com/noticias/ecuador/inamhi-alerta-lluvias-intensas-y-tormentas-en-la-amazonia-ecuatoriana-nota/",
+      "summary": "El INAMHI emite advertencia por lluvias y tormentas eléctricas vigentes hasta el 6 de mayo principalmente en Sucumbíos, Orellana y Pastaza, con riesgo de deslizamientos y crecidas de ríos que pueden afectar viviendas y vías.",
+      "scrapedAt": "2026-05-11T06:42:50.048Z"
+    },
+    {
       "key": "inamhi::advertencia-meteorológica-n-32-lluvias-de-variable-intensi",
       "title": "Advertencia Meteorológica N° 32: Lluvias de variable intensidad en la Amazonía hasta el 6 de mayo",
       "date": "2026-05-03",
@@ -75,6 +99,14 @@
       "url": "https://www.eldiario.ec/ecuador/reporte-del-inamhi-pone-en-alerta-a-cinco-provincias-debido-a-lluvias-extremas-y-tormentas-03052026/",
       "summary": "El INAMHI emitió advertencia por lluvias de intensidad media y alta con tormentas eléctricas en Sucumbíos, Napo, Orellana, Pastaza y Morona Santiago, generando riesgo de deslizamientos de tierra y crecidas repentinas de ríos.",
       "scrapedAt": "2026-05-09T05:51:43.983Z"
+    },
+    {
+      "key": "inamhi::alerta-meteorológica-n-31-inestabilidad-atmosférica-duran",
+      "title": "Alerta Meteorológica N.° 31: Inestabilidad atmosférica durante feriado de mayo",
+      "date": "2026-04-29",
+      "url": "https://www.extra.ec/noticia/ecuador/habra-lluvias-intensas-tormentas-feriado-mayo-zonas-riesgo-152748.html",
+      "summary": "El INAMHI pronostica alta inestabilidad atmosférica entre el 29 de abril y el 3 de mayo con lluvias de variable intensidad en el interior del Litoral y principalmente en la región Amazónica durante el feriado.",
+      "scrapedAt": "2026-05-11T06:42:50.048Z"
     },
     {
       "key": "inamhi::alerta-del-inamhi-por-lluvias-de-intensidad-media-y-alta-dur",
@@ -139,6 +171,14 @@
       "url": "https://www.extra.ec/noticia/ecuador/tanto-calor-costa-ecuador-abril-2026-inamhi-explica-fenomeno-151955.html",
       "summary": "El calentamiento anómalo del océano (2°C por encima de lo normal) está causando temperaturas récord en la región Litoral, con sensación térmica que puede superar los 40°C. Este patrón persistirá en las próximas semanas debido al cambio climático global.",
       "scrapedAt": "2026-05-01T06:19:00.105Z"
+    },
+    {
+      "key": "inamhi::alerta-meteorológica-n-28-lluvias-y-tormentas-en-costa-s",
+      "title": "Alerta Meteorológica N.° 28: Lluvias y tormentas en Costa, Sierra y Amazonía",
+      "date": "2026-04-17",
+      "url": "https://www.ecuraices.com/noticias/sucesos/sucesos-ecuador-18-20-abril-2026/",
+      "summary": "El INAMHI advierte sobre lluvias de variada intensidad desde el 17 al 21 de abril en la Amazonía, interior del Litoral y estribaciones de cordillera, con posibles tormentas eléctricas y riesgo de deslizamientos.",
+      "scrapedAt": "2026-05-11T06:42:50.048Z"
     },
     {
       "key": "inamhi::inamhi-emite-advertencia-meteorológica-n-28-por-lluvias-y-t",

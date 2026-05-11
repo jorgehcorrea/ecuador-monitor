@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-05-11T04:56:59.112Z",
+  "lastScraped": "2026-05-11T06:44:28.968Z",
   "institutions": [
     {
       "id": "iniap",
@@ -148,6 +148,12 @@
       "status": "ok",
       "news": [
         {
+          "title": "Alerta Meteorológica N.° 33: Lluvias y tormentas eléctricas en varias regiones",
+          "date": "2026-05-09",
+          "url": "https://www.extra.ec/noticia/quito/inamhi-alerta-lluvias-intensas-tormentas-electricas-quito-sabado-9-mayo-153342.html",
+          "summary": "El INAMHI advierte sobre precipitaciones de intensidad variable, tormentas eléctricas y ráfagas de viento desde el 9 hasta el 12 de mayo en Pichincha, la Amazonía y el interior del Litoral, con riesgo de deslizamientos y crecidas de ríos en zonas vulnerables."
+        },
+        {
           "title": "Alerta por lluvias en Quito y otras zonas del país",
           "date": "2026-05-08",
           "url": "https://www.extra.ec/noticia/servicios-y-tramites/llovera-quito-viernes-8-mayo-pronostico-actualizado-153267.html",
@@ -158,6 +164,12 @@
           "date": "2026-05-07",
           "url": "https://www.teleamazonas.com/actualidad/noticias/ecuador/alerta-inamhi-lluvias-tormentas-ecuador-mayo/",
           "summary": "El INAMHI alertó sobre la presencia de lluvias y tormentas desde la tarde del jueves 7 de mayo, con precipitaciones que alcanzarían niveles muy altos de agua y riesgo de deslizamientos de tierra y acumulación de agua en vías."
+        },
+        {
+          "title": "Pronóstico de Radiación Ultravioleta Extrema",
+          "date": "2026-05-05",
+          "url": "https://www.expreso.ec/guayaquil/radiacion-ultravioleta-extrema-ecuador-alerta-hoy-inamhi-281018.html",
+          "summary": "El INAMHI advierte sobre niveles extremos de radiación ultravioleta en Manabí, Loja, Santa Elena y otras provincias el 5 de mayo, recomendando reducir exposición al sol entre 10:00 y 16:00 horas."
         },
         {
           "title": "Pronóstico de Radiación Ultravioleta Extrema (5 de mayo de 2026)",
@@ -182,27 +194,9 @@
           "date": "2026-05-04",
           "url": "https://radiocentro.com.ec/inamhi-lanza-alerta-general-por-posibles-temporales-durante-la-presente-semana",
           "summary": "El INAMHI emitió alerta general por lluvias y tormentas eléctricas que afectarán principalmente la Amazonía hasta el miércoles 6 de mayo. Se esperan acumulados entre 22 y 31 milímetros, con picos de hasta 54 milímetros en sectores críticos, generando riesgos de deslizamientos e inundaciones."
-        },
-        {
-          "title": "Advertencia Meteorológica N° 32: Lluvias de variable intensidad en la Amazonía hasta el 6 de mayo",
-          "date": "2026-05-03",
-          "url": "https://www.eluniverso.com/noticias/ecuador/inamhi-alerta-lluvias-intensas-y-tormentas-en-la-amazonia-ecuatoriana-nota/",
-          "summary": "El INAMHI emite alerta por lluvias de intensidad media a alta y posibles tormentas en la región Amazónica, con riesgo de deslizamientos de tierra, crecidas de ríos y acumulación de agua en viviendas y vías que podría afectar la movilidad."
-        },
-        {
-          "title": "Advertencia Meteorológica por Lluvias de Variable Intensidad y Tormentas en la Amazonía (3 de mayo de 2026)",
-          "date": "2026-05-03",
-          "url": "https://www.eluniverso.com/noticias/ecuador/inamhi-alerta-lluvias-intensas-y-tormentas-en-la-amazonia-ecuatoriana-nota/",
-          "summary": "El INAMHI emitió alerta por lluvias de intensidad variable y tormentas en la región Amazónica desde la noche del 3 hasta el 6 de mayo. Se esperan acumulados de 22 a 31 milímetros diarios con riesgos de deslizamientos de tierra y crecidas de ríos en provincias como Sucumbíos, Orellana y Pastaza."
-        },
-        {
-          "title": "Advertencia meteorológica del INAMHI por lluvias extremas en región Amazónica hasta el 6 de mayo",
-          "date": "2026-05-03",
-          "url": "https://www.eldiario.ec/ecuador/reporte-del-inamhi-pone-en-alerta-a-cinco-provincias-debido-a-lluvias-extremas-y-tormentas-03052026/",
-          "summary": "El INAMHI emitió advertencia por lluvias de intensidad media y alta con tormentas eléctricas en Sucumbíos, Napo, Orellana, Pastaza y Morona Santiago, generando riesgo de deslizamientos de tierra y crecidas repentinas de ríos."
         }
       ],
-      "lastUpdated": "2026-05-10T06:15:21.336Z"
+      "lastUpdated": "2026-05-11T06:42:50.056Z"
     },
     {
       "id": "bce",
@@ -211,9 +205,40 @@
       "category": "Economía & Negocios",
       "color": "#457B9D",
       "sourceUrl": "https://www.bce.fin.ec/comunicados/",
-      "status": "stale",
-      "news": [],
-      "lastUpdated": "2026-05-10T06:16:07.172Z"
+      "status": "ok",
+      "news": [
+        {
+          "title": "Junta de Política y Regulación Financiera y Banco Central realizan Rendición de Cuentas 2025",
+          "date": "2026-04-20",
+          "url": "https://www.bce.fin.ec/banco-central-del-ecuador/boletines-de-prensa/",
+          "summary": "El BCE y la JPRFM presentaron su informe de rendición de cuentas del ejercicio 2025, donde las reservas internacionales cubrieron adecuadamente los depósitos del sistema financiero y de la economía popular y solidaria, asegurando la estabilidad del sistema dolarizado."
+        },
+        {
+          "title": "Banco Central del Ecuador presenta resultados de la Cuenta Temática de Bioeconomía",
+          "date": "2026-04-14",
+          "url": "https://www.bce.fin.ec/banco-central-del-ecuador/boletines-de-prensa/",
+          "summary": "El BCE lanzó la Cuenta Temática de Bioeconomía, una herramienta innovadora que permite cuantificar el valor económico de los recursos biológicos del país y su contribución al PIB nacional."
+        },
+        {
+          "title": "Economía ecuatoriana creció 3,7% en 2025 superando la recesión de 2024",
+          "date": "2026-03-25",
+          "url": "https://www.bce.fin.ec/banco-central-del-ecuador/boletines-de-prensa/",
+          "summary": "El Banco Central confirmó que Ecuador creció 3,7% en 2025, recuperándose de la contracción de 1,9% en 2024, impulsado por exportaciones no petroleras, inversión y consumo de los hogares."
+        },
+        {
+          "title": "Banco Central lanza Iniciativa para la Construcción de la Cuenta Temática Oceánica del Ecuador",
+          "date": "2026-03-11",
+          "url": "https://www.bce.fin.ec/banco-central-del-ecuador/boletines-de-prensa/",
+          "summary": "El BCE inició la construcción de la Cuenta Temática Oceánica para medir por primera vez el aporte de la economía azul (pesca, acuicultura, turismo marino) al PIB nacional de forma precisa."
+        },
+        {
+          "title": "Junta emite Norma para Acceso a Financiamiento para Mujeres Emprendedoras",
+          "date": "2026-03-06",
+          "url": "https://www.bce.fin.ec/storage/JPRFM/resoluciones/JPRFM-2026-008-F.pdf",
+          "summary": "La JPRFM emitió la Resolución JPRFM-2026-008-F que obliga a todas las entidades financieras a diseñar e implementar productos financieros especializados para mujeres emprendedoras con requisitos simplificados y garantías adaptadas."
+        }
+      ],
+      "lastUpdated": "2026-05-11T06:43:38.785Z"
     },
     {
       "id": "mipro",
@@ -255,7 +280,7 @@
           "summary": "Ecuador participó en WTM Latin America 2026 con aproximadamente 650 citas de negocios y activaciones culturales y gastronómicas, consolidando al país como destino turístico atractivo en la región de América Latina ante actores del sector turístico global."
         }
       ],
-      "lastUpdated": "2026-05-10T06:16:32.334Z"
+      "lastUpdated": "2026-05-11T06:44:03.966Z"
     },
     {
       "id": "sri",
@@ -705,8 +730,8 @@
   ],
   "summary": {
     "total": 21,
-    "ok": 14,
-    "stale": 7,
+    "ok": 15,
+    "stale": 6,
     "error": 0
   }
 }

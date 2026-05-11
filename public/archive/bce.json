@@ -1,0 +1,48 @@
+{
+  "id": "bce",
+  "name": "Banco Central",
+  "fullName": "Banco Central del Ecuador",
+  "lastUpdated": "2026-05-11T06:43:38.785Z",
+  "items": [
+    {
+      "key": "bce::junta-de-política-y-regulación-financiera-y-banco-central-re",
+      "title": "Junta de Política y Regulación Financiera y Banco Central realizan Rendición de Cuentas 2025",
+      "date": "2026-04-20",
+      "url": "https://www.bce.fin.ec/banco-central-del-ecuador/boletines-de-prensa/",
+      "summary": "El BCE y la JPRFM presentaron su informe de rendición de cuentas del ejercicio 2025, donde las reservas internacionales cubrieron adecuadamente los depósitos del sistema financiero y de la economía popular y solidaria, asegurando la estabilidad del sistema dolarizado.",
+      "scrapedAt": "2026-05-11T06:43:38.785Z"
+    },
+    {
+      "key": "bce::banco-central-del-ecuador-presenta-resultados-de-la-cuenta-t",
+      "title": "Banco Central del Ecuador presenta resultados de la Cuenta Temática de Bioeconomía",
+      "date": "2026-04-14",
+      "url": "https://www.bce.fin.ec/banco-central-del-ecuador/boletines-de-prensa/",
+      "summary": "El BCE lanzó la Cuenta Temática de Bioeconomía, una herramienta innovadora que permite cuantificar el valor económico de los recursos biológicos del país y su contribución al PIB nacional.",
+      "scrapedAt": "2026-05-11T06:43:38.785Z"
+    },
+    {
+      "key": "bce::economía-ecuatoriana-creció-37-en-2025-superando-la-recesi",
+      "title": "Economía ecuatoriana creció 3,7% en 2025 superando la recesión de 2024",
+      "date": "2026-03-25",
+      "url": "https://www.bce.fin.ec/banco-central-del-ecuador/boletines-de-prensa/",
+      "summary": "El Banco Central confirmó que Ecuador creció 3,7% en 2025, recuperándose de la contracción de 1,9% en 2024, impulsado por exportaciones no petroleras, inversión y consumo de los hogares.",
+      "scrapedAt": "2026-05-11T06:43:38.785Z"
+    },
+    {
+      "key": "bce::banco-central-lanza-iniciativa-para-la-construcción-de-la-cu",
+      "title": "Banco Central lanza Iniciativa para la Construcción de la Cuenta Temática Oceánica del Ecuador",
+      "date": "2026-03-11",
+      "url": "https://www.bce.fin.ec/banco-central-del-ecuador/boletines-de-prensa/",
+      "summary": "El BCE inició la construcción de la Cuenta Temática Oceánica para medir por primera vez el aporte de la economía azul (pesca, acuicultura, turismo marino) al PIB nacional de forma precisa.",
+      "scrapedAt": "2026-05-11T06:43:38.785Z"
+    },
+    {
+      "key": "bce::junta-emite-norma-para-acceso-a-financiamiento-para-mujeres-",
+      "title": "Junta emite Norma para Acceso a Financiamiento para Mujeres Emprendedoras",
+      "date": "2026-03-06",
+      "url": "https://www.bce.fin.ec/storage/JPRFM/resoluciones/JPRFM-2026-008-F.pdf",
+      "summary": "La JPRFM emitió la Resolución JPRFM-2026-008-F que obliga a todas las entidades financieras a diseñar e implementar productos financieros especializados para mujeres emprendedoras con requisitos simplificados y garantías adaptadas.",
+      "scrapedAt": "2026-05-11T06:43:38.785Z"
+    }
+  ]
+}
