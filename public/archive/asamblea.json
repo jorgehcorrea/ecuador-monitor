@@ -2,8 +2,24 @@
   "id": "asamblea",
   "name": "Asamblea",
   "fullName": "Asamblea Nacional del Ecuador",
-  "lastUpdated": "2026-05-10T10:06:16.957Z",
+  "lastUpdated": "2026-05-11T11:57:38.631Z",
   "items": [
+    {
+      "key": "asamblea::asamblea-tramitará-el-proyecto-de-gobernanza-del-espacio-mar",
+      "title": "Asamblea tramitará el proyecto de gobernanza del espacio marino-costero y la iniciativa popular para fortalecer la seguridad ciudadana",
+      "date": "2026-05-10",
+      "url": "https://www.asambleanacional.gob.ec/es/noticia/116262-asamblea-tramitara-el-proyecto-de-gobernanza-del",
+      "summary": "Durante la semana del 11 al 17 de mayo, el Pleno de la Asamblea Nacional realizará debates sobre el proyecto de Ley Orgánica de Gobernanza del Espacio Marino-Costero y conocerá el informe de iniciativa popular para fortalecer la seguridad ciudadana, continuando con el tratamiento de múltiples iniciativas legislativas.",
+      "scrapedAt": "2026-05-11T11:57:38.631Z"
+    },
+    {
+      "key": "asamblea::comisión-de-transparencia-recibe-aportes-jurídicos-en-torno-",
+      "title": "Comisión de Transparencia recibe aportes jurídicos en torno a reformas para la protección de personas adultas mayores",
+      "date": "2026-05-08",
+      "url": "https://www.asambleanacional.gob.ec/es/noticia/116256-comision-de-transparencia-recibe-aportes-juridicos-en",
+      "summary": "La Comisión de Transparencia continuó analizando proyectos de reforma para proteger a personas adultas mayores víctimas de violencia intrafamiliar, recibiendo criterios técnicos de expertos sobre delitos patrimoniales y la necesidad de tipificar nuevas conductas en el Código Orgánico Integral Penal.",
+      "scrapedAt": "2026-05-11T11:57:38.631Z"
+    },
     {
       "key": "asamblea::asamblea-nacional-tramita-en-primer-debate-reformas-a-la-ley",
       "title": "Asamblea Nacional tramita en primer debate reformas a la Ley Orgánica de Garantías Jurisdiccionales y Control Constitucional",
@@ -19,6 +35,14 @@
       "url": "https://www.asambleanacional.gob.ec/es/node/116232",
       "summary": "El Pleno de la Asamblea Nacional otorgó una condecoración a Nelson Fernando Proaño Guerra (Damiano) en reconocimiento a su trayectoria de más de 55 años en la música popular ecuatoriana y su contribución al desarrollo cultural del país. Este reconocimiento busca honrar su invaluable aporte a la identidad cultural nacional.",
       "scrapedAt": "2026-05-08T10:17:34.373Z"
+    },
+    {
+      "key": "asamblea::cal-califica-22-proyectos-de-ley-sobre-empleo-juvenil-viole",
+      "title": "CAL califica 22 proyectos de ley sobre empleo juvenil, violencia digital y derechos ciudadanos",
+      "date": "2026-05-06",
+      "url": "https://www.asambleanacional.gob.ec/es/noticia/116184-cal-califica-22-proyectos-de-ley-sobre-empleo-juvenil",
+      "summary": "El Consejo de Administración Legislativa calificó 22 proyectos de ley prioritarios sobre empleo juvenil, violencia digital, educación superior, propiedad horizontal y explotación sexual infantil, distribuyéndolos a comisiones especializadas para su tramitación legislativa.",
+      "scrapedAt": "2026-05-11T11:57:38.631Z"
     },
     {
       "key": "asamblea::comisión-de-régimen-debate-reforma-financiera-y-el-cobro-de-",
@@ -41,7 +65,7 @@
       "title": "Asamblea Nacional fortalece su gestión con más del 50 % de la agenda parlamentaria 2025-2027 cumplida, destaca Niels Olsen",
       "date": "2026-05-06",
       "url": "https://www.asambleanacional.gob.ec/es/noticia/116196-asamblea-nacional-fortalece-su-gestion-con-mas-del-50",
-      "summary": "El presidente de la Asamblea Nacional informó que se ha cumplido más del 50% de la agenda parlamentaria 2025-2027, destacando el avance en leyes clave para fortalecer la estabilidad jurídica, seguridad, salud y desarrollo social. Estos logros representan un proceso de transformación institucional que mejora la productividad y disciplina legislativa.",
+      "summary": "El presidente Niels Olsen informó que la Asamblea Nacional ha cumplido más del 50% de su agenda parlamentaria 2025-2027, incluyendo aprobación de leyes para fortalecer estabilidad jurídica, recuperar seguridad, impulsar salud y desarrollo social, combatir corrupción y dinamizar la economía.",
       "scrapedAt": "2026-05-07T11:00:52.552Z"
     },
     {
@@ -73,7 +97,7 @@
       "title": "Asamblea tramitó en primer debate reforma legal para agilizar los procesos de adopción de niñas, niños y adolescentes",
       "date": "2026-05-05",
       "url": "https://www.asambleanacional.gob.ec/es/noticia/116151-asamblea-tramito-en-primer-debate-reforma-legal-para",
-      "summary": "El Pleno debatió el Proyecto de Ley Orgánica de Agilización Judicial para la Adopción, que busca reducir significativamente los plazos de los procesos judicales y administrativos, garantizando el interés superior del niño. La reforma propone que la inscripción de sentencias en el Registro Civil se realice en 24 horas, transformando procesos que antes duraban años.",
+      "summary": "El Pleno aprobó en primer debate el Proyecto de Ley Orgánica de Agilización Judicial para la Adopción, que busca eliminar barreras administrativas para acelerar procesos de adopción y garantizar que niñas, niños y adolescentes en casas de acogida puedan vivir en familias de manera oportuna.",
       "scrapedAt": "2026-05-06T10:56:47.348Z"
     },
     {
