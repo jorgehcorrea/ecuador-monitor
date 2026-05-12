@@ -2,7 +2,7 @@
   "id": "min-interior",
   "name": "Min. Interior",
   "fullName": "Ministerio del Interior",
-  "lastUpdated": "2026-05-10T08:49:44.226Z",
+  "lastUpdated": "2026-05-12T09:32:24.433Z",
   "items": [
     {
       "key": "min-interior::operativos-policiales-en-guayaquil-61-allanamientos-y-21-ap",
@@ -145,7 +145,7 @@
       "title": "GOBIERNO NACIONAL LIDERA OPERATIVO \"GRAN FÉNIX 3\" CONTRA RED DE DELINCUENCIA ORGANIZADA VINCULADA A LA AGENCIA NACIONAL DE TRÁNSITO",
       "date": "2026-01-30",
       "url": "https://www.ministeriodelinterior.gob.ec/gobierno-nacional-lidera-operativo-gran-fenix-3-contra-red-de-delincuencia-organizada-vinculada-a-la-agencia-nacional-de-transito/",
-      "summary": "El Ministerio del Interior ejecutó el operativo Gran Fénix 3 en Pichincha, Imbabura y Santo Domingo de los Tsáchilas para investigar presunta delincuencia organizada vinculada a la Agencia Nacional de Tránsito. Se realizaron 19 allanamientos que resultaron en 10 aprehensiones, destapando la emisión irregular de licencias de conducir facilitada por funcionarios públicos a cambio de pagos ilegales.",
+      "summary": "El Gobierno ejecutó el operativo Gran Fénix 3 en Pichincha, Imbabura y Santo Domingo de los Tsáchilas, donde se realizaron 19 allanamientos y se aprehendieron 10 personas vinculadas a la emisión irregular de licencias de conducir. Los implicados habrían facilitado estos trámites ilegales a cambio de dinero desde noviembre de 2024 en coordinación con Los Choneros.",
       "scrapedAt": "2026-05-01T08:56:19.408Z"
     },
     {
@@ -153,15 +153,31 @@
       "title": "POLICÍA NACIONAL DESARTICULA ESTRUCTURAS DE SECUESTRO, EXTORSIÓN Y TRÁFICO ILÍCITO EN OPERATIVOS SIMULTÁNEOS",
       "date": "2026-01-23",
       "url": "https://www.ministeriodelinterior.gob.ec/policia-nacional-desarticula-estructuras-de-secuestro-extorsion-y-trafico-ilicito-en-operativos-simultaneos/",
-      "summary": "La Policía Nacional ejecutó el operativo Libertad 55 y desarticuló estructuras delictivas dedicadas a secuestro, extorsión y tráfico ilícito. Se liberó a una víctima de secuestro extorsivo, se aprehendió a 14 personas, y se decomisaron armas, drogas y vehículos. El operativo demuestra la prioridad de la UNASE en combatir frontalmente secuestros y extorsión a escala nacional.",
+      "summary": "La UNASE ejecutó el operativo Libertad-55 en El Empalme y Mocache, liberando a una víctima de secuestro extorsivo y desarticulando una estructura dedicada a la extorsión que exigía pagos de USD 10.000 a USD 500.000. Se aprehendieron 14 personas y se decomisaron armas, drogas y vehículos.",
       "scrapedAt": "2026-05-01T08:56:19.408Z"
+    },
+    {
+      "key": "min-interior::gobierno-nacional-entrega-a-la-asamblea-proyecto-de-ley-para",
+      "title": "GOBIERNO NACIONAL ENTREGA A LA ASAMBLEA PROYECTO DE LEY PARA PREVENIR Y ERRADICAR EL RECLUTAMIENTO DE NIÑAS, NIÑOS Y ADOLESCENTES",
+      "date": "2026-01-21",
+      "url": "https://www.ministeriodelinterior.gob.ec/gobierno-nacional-entrega-a-la-asamblea-proyecto-de-ley-para-prevenir-y-erradicar-el-reclutamiento-de-ninas-ninos-y-adolescentes/",
+      "summary": "El Gobierno presentó un proyecto de ley que endurece las penas de 10-13 años a 22-26 años de cárcel para reclutadores de menores. La iniciativa incluye reformas a 11 cuerpos legales y establece protección judicial especializada para adolescentes involucrados, fortaleciendo la prevención de su incorporación a grupos delictivos.",
+      "scrapedAt": "2026-05-12T09:32:24.425Z"
+    },
+    {
+      "key": "min-interior::golpe-binacional-a-los-choneros-ak47-16-capturados-entre",
+      "title": "GOLPE BINACIONAL A \"LOS CHONEROS AK47\": 16 CAPTURADOS, ENTRE ELLOS, DOS CABECILLAS",
+      "date": "2026-01-15",
+      "url": "https://www.ministeriodelinterior.gob.ec/operativo-zeus-2-golpe-binacional-a-los-choneros-ak47/",
+      "summary": "Un operativo binacional coordinado entre Ecuador y Colombia permitió la captura de 16 integrantes de Los Choneros AK47, incluyendo a alias Quevedo, cabecilla principal. Se realizaron 21 allanamientos simultáneos en Ecuador y se recuperó armamento incluidas armas AK-47, desarticulando una estructura vinculada a homicidios en Los Ríos.",
+      "scrapedAt": "2026-05-12T09:32:24.425Z"
     },
     {
       "key": "min-interior::ecuador-y-trkiye-consolidan-alianza-estratégica-en-segurida",
       "title": "ECUADOR Y TÜRKIYE CONSOLIDAN ALIANZA ESTRATÉGICA EN SEGURIDAD Y CAPACITACIÓN POLICIAL",
       "date": "2026-01-13",
       "url": "https://www.ministeriodelinterior.gob.ec/ecuador-y-turkiye-consolidan-alianza-estrategica-en-seguridad-y-capacitacion-policial/",
-      "summary": "Ecuador y Turquía suscriben un acuerdo estratégico para fortalecer la cooperación en seguridad ciudadana y capacitación policial. Este instrumento bilateral busca modernizar las instituciones policiales ecuatorianas mediante intercambio de experiencias, capacitación especializada y fortalecimiento de las capacidades operativas de la Policía Nacional.",
+      "summary": "El ministro Reimberg visitó Ankara y suscribió dos acuerdos con Türkiye: un Memorando de Entendimiento sobre capacitación en aplicación de la ley y una Declaración de Intención para cooperación en seguridad. Los instrumentos permiten el intercambio de información estratégica y programas de formación especializada en lucha contra terrorismo y narcotráfico.",
       "scrapedAt": "2026-05-06T09:18:35.846Z"
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-05-12T07:45:40.952Z",
+  "lastScraped": "2026-05-12T09:34:05.076Z",
   "institutions": [
     {
       "id": "iniap",
@@ -482,15 +482,9 @@
           "date": "2026-05-06",
           "url": "https://www.eltelegrafo.com.ec/noticias/nacionales/210/ecuador-reino-unido-fortalecen-capacidades-gema-aniversario",
           "summary": "El Ministerio del Interior suscribió un acta de compromiso con el Reino Unido para entregar medios logísticos y tecnológicos que fortalecerán la capacidad operativa del Grupo Especial Móvil Antinarcóticos en su lucha contra el narcotráfico."
-        },
-        {
-          "title": "Ministro del Interior cuestiona decisión judicial en caso de extorsión en El Oro",
-          "date": "2026-05-04",
-          "url": "https://www.eldiario.ec/seguridad/john-reimberg-cuestiona-decision-judicial-tras-operativo-contra-extorsion-en-el-oro-04052026/",
-          "summary": "El Ministerio del Interior cuestionó públicamente la resolución del juez que otorgó medidas sustitutivas a cuatro procesados por extorsión tras el operativo Libertad 526 en Pasaje. El funcionario señaló que la víctima había enfrentado amenazas y detonación de un artefacto explosivo."
         }
       ],
-      "lastUpdated": "2026-05-11T10:32:31.809Z"
+      "lastUpdated": "2026-05-12T09:32:24.433Z"
     },
     {
       "id": "min-gobierno",
@@ -501,7 +495,7 @@
       "sourceUrl": "https://www.ministeriodegobierno.gob.ec/noticias/",
       "status": "stale",
       "news": [],
-      "lastUpdated": "2026-05-11T10:32:57.156Z"
+      "lastUpdated": "2026-05-12T09:32:49.605Z"
     },
     {
       "id": "presidencia",
@@ -512,7 +506,7 @@
       "sourceUrl": "https://www.comunicacion.gob.ec/noticias/",
       "status": "stale",
       "news": [],
-      "lastUpdated": "2026-05-11T10:33:22.401Z"
+      "lastUpdated": "2026-05-12T09:33:14.894Z"
     },
     {
       "id": "ecu911",
@@ -554,7 +548,7 @@
           "summary": "El Director General del ECU 911, Juan Carlos Paladines, presentó oficialmente la rendición de cuentas correspondiente a 2025, exponiendo los logros y avances alcanzados por la central de emergencias durante el año anterior ante autoridades y ciudadanía."
         }
       ],
-      "lastUpdated": "2026-05-11T10:33:47.577Z"
+      "lastUpdated": "2026-05-12T09:33:40.072Z"
     },
     {
       "id": "cne",
