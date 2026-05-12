@@ -2,15 +2,15 @@
   "id": "pge",
   "name": "PGE",
   "fullName": "Procuraduría General del Estado",
-  "lastUpdated": "2026-05-09T11:56:17.318Z",
+  "lastUpdated": "2026-05-12T13:09:33.936Z",
   "items": [
     {
-      "key": "pge::tribunal-arbitral-rechaza-demanda-de-pdvsa-ecuador-contra-pe",
-      "title": "Tribunal arbitral rechaza demanda de PDVSA Ecuador contra Petroecuador",
-      "date": "2026-04-16",
-      "url": "https://www.eluniverso.com/noticias/politica/tribunal-arbitral-rechaza-demanda-pdvsa-ecuador-contra-petroecuador-nota/",
-      "summary": "La Procuraduría General del Estado informó que un tribunal arbitral rechazó completamente la demanda de PDVSA Ecuador contra Petroecuador, lo que genera un ahorro de USD 35,6 millones para el Estado ecuatoriano. La decisión evita que el Estado tenga que pagar una cantidad millonaria que la empresa demandante solicitaba por gastos, costos e inversiones relacionados con la operación de un pozo exploratorio.",
-      "scrapedAt": "2026-05-09T11:56:17.309Z"
+      "key": "pge::procuraduría-acoge-decisión-de-corte-internacional-de-justic",
+      "title": "Procuraduría acoge decisión de Corte Internacional de Justicia en caso contra México",
+      "date": "2026-05-23",
+      "url": "https://www.primicias.ec/noticias/politica/procurador-ecuador-mexico-corte-internacional-seguridad/",
+      "summary": "La Procuraduría General del Estado celebró la decisión unánime de la Corte Internacional de Justicia que rechazó las medidas cautelares solicitadas por México, confirmando que las garantías ofrecidas a diplomáticos mexicanos fueron suficientes tras el incidente en la embajada el 5 de abril.",
+      "scrapedAt": "2026-05-12T13:09:33.929Z"
     },
     {
       "key": "pge::laudos-arbitrales-favorecen-a-consorcio-acciona-en-dispute-p",
@@ -19,6 +19,22 @@
       "url": "https://www.primicias.ec/quito/metro-quito-municipio-pierde-arbitraje-millones-constructora-espanola-acciona-120645/",
       "summary": "La Procuraduría General del Estado confirmó que tribunales arbitrales de la Cámara de Comercio Internacional emitieron dos laudos a favor del Consorcio Acciona, obligando al Municipio de Quito a pagar más de USD 10,3 millones por ajustes económicos derivados de cambios legislativos. La PGE junto con un estudio jurídico internacional analiza opciones legales para recurrir los laudos conforme a la legislación aplicable en Santiago de Chile, sede del arbitraje.",
       "scrapedAt": "2026-05-09T11:56:17.309Z"
+    },
+    {
+      "key": "pge::tribunal-arbitral-rechaza-demanda-de-pdvsa-ecuador-contra-pe",
+      "title": "Tribunal arbitral rechaza demanda de PDVSA Ecuador contra Petroecuador",
+      "date": "2026-04-16",
+      "url": "https://www.elcomercio.com/actualidad/negocios/pdvsa-ecuador-pierde-demanda-contra-petroecuador-ahorro-millonario-estado/",
+      "summary": "Un tribunal arbitral rechazó completamente la demanda de PDVSA Ecuador contra Petroecuador, lo que permitió que el Estado ecuatoriano ahorre aproximadamente USD 35,6 millones que la empresa demandante pretendía cobrar por gastos de operación de un pozo exploratorio.",
+      "scrapedAt": "2026-05-09T11:56:17.309Z"
+    },
+    {
+      "key": "pge::corte-constitucional-rechaza-recurso-de-aclaración-de-la-pro",
+      "title": "Corte Constitucional rechaza recurso de aclaración de la Procuraduría en caso Las Malvinas",
+      "date": "2026-04-09",
+      "url": "https://www.ecuanoticias.com/25061-2/",
+      "summary": "La Corte Constitucional negó completamente el recurso de aclaración presentado por la Procuraduría en relación al fallo sobre la desaparición forzada de cuatro niños en Guayaquil, concluyendo que los argumentos de la PGE reflejaban una discrepancia con el contenido de la sentencia, no errores u omisiones.",
+      "scrapedAt": "2026-05-12T13:09:33.929Z"
     },
     {
       "key": "pge::procuraduría-acoge-decisión-de-la-corte-internacional-de-jus",
