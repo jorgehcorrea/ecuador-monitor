@@ -2,7 +2,7 @@
   "id": "inamhi",
   "name": "INAMHI",
   "fullName": "Instituto Nacional de Meteorología e Hidrología",
-  "lastUpdated": "2026-05-11T06:42:50.055Z",
+  "lastUpdated": "2026-05-12T06:17:37.285Z",
   "items": [
     {
       "key": "inamhi::alerta-meteorológica-n-33-lluvias-y-tormentas-eléctricas-",
@@ -21,12 +21,28 @@
       "scrapedAt": "2026-05-08T05:33:02.711Z"
     },
     {
+      "key": "inamhi::alerta-meteorológica-por-lluvias-y-tormentas-eléctricas-del-",
+      "title": "Alerta meteorológica por lluvias y tormentas eléctricas del 7 al 8 de mayo",
+      "date": "2026-05-07",
+      "url": "https://www.primicias.ec/sociedad/lluvias-tormentas-electricas-clima-inamhi-7y8mayo-ecuador-pronostico-122194/",
+      "summary": "El INAMHI emitió la Advertencia Meteorológica #22 informando que fuertes lluvias con tormentas eléctricas se prevén en varias provincias de la Costa y la Sierra entre la tarde del 7 y la mañana del 8 de mayo. Las lluvias alcanzarán niveles muy altos en Esmeraldas, Santo Domingo, Los Ríos, Imbabura, Pichincha y partes de otras provincias, generando riesgos de deslizamientos de tierra y afectaciones en viviendas y vías.",
+      "scrapedAt": "2026-05-12T06:17:37.275Z"
+    },
+    {
       "key": "inamhi::alerta-del-inamhi-por-fuertes-lluvias-y-tormentas-en-ecuador",
       "title": "Alerta del INAMHI por fuertes lluvias y tormentas en Ecuador el 7 y 8 de mayo",
       "date": "2026-05-07",
       "url": "https://www.teleamazonas.com/actualidad/noticias/ecuador/alerta-inamhi-lluvias-tormentas-ecuador-mayo/",
       "summary": "El INAMHI alertó sobre la presencia de lluvias y tormentas desde la tarde del jueves 7 de mayo, con precipitaciones que alcanzarían niveles muy altos de agua y riesgo de deslizamientos de tierra y acumulación de agua en vías.",
       "scrapedAt": "2026-05-09T05:51:43.983Z"
+    },
+    {
+      "key": "inamhi::pronóstico-de-radiación-ultravioleta-extrema-del-5-de-mayo",
+      "title": "Pronóstico de radiación ultravioleta extrema del 5 de mayo",
+      "date": "2026-05-05",
+      "url": "https://www.expreso.ec/guayaquil/radiacion-ultravioleta-extrema-ecuador-alerta-hoy-inamhi-281018.html",
+      "summary": "El INAMHI informó que el martes 5 de mayo se registraron niveles extremadamente altos de radiación ultravioleta en Manabí, Santa Elena y Loja, con niveles muy altos en Esmeraldas, Guayas, Los Ríos, El Oro y Santo Domingo. El instituto recomendó evitar la exposición prolongada al sol entre las 10:00 y 16:00 y tomar precauciones especiales para grupos vulnerables.",
+      "scrapedAt": "2026-05-12T06:17:37.275Z"
     },
     {
       "key": "inamhi::pronóstico-de-radiación-ultravioleta-extrema",
@@ -67,6 +83,14 @@
       "url": "https://radiocentro.com.ec/inamhi-lanza-alerta-general-por-posibles-temporales-durante-la-presente-semana",
       "summary": "El INAMHI emitió alerta general por lluvias y tormentas eléctricas que afectarán principalmente la Amazonía hasta el miércoles 6 de mayo. Se esperan acumulados entre 22 y 31 milímetros, con picos de hasta 54 milímetros en sectores críticos, generando riesgos de deslizamientos e inundaciones.",
       "scrapedAt": "2026-05-07T06:14:15.740Z"
+    },
+    {
+      "key": "inamhi::advertencia-meteorológica-n-32-por-lluvias-y-tormentas-elé",
+      "title": "Advertencia meteorológica N.° 32 por lluvias y tormentas eléctricas hasta el 6 de mayo",
+      "date": "2026-05-03",
+      "url": "https://www.expreso.ec/tramites-y-servicios/inamhi-alerta-lluvias-tormentas-electricas-6-mayo-ecuador-280892.html",
+      "summary": "El INAMHI emitió la Advertencia Meteorológica N.° 32 sobre lluvias de variable intensidad y tormentas eléctricas que se mantendrían hasta el 6 de mayo en varias regiones del país. Estos fenómenos podrían provocar deslizamientos de tierra, acumulación de agua en zonas con pendientes, caída de árboles y afectaciones en el tránsito, especialmente en áreas montañosas.",
+      "scrapedAt": "2026-05-12T06:17:37.275Z"
     },
     {
       "key": "inamhi::alerta-meteorológica-n-32-lluvias-de-variable-intensidad-",
@@ -165,6 +189,14 @@
       "scrapedAt": "2026-05-10T06:15:21.327Z"
     },
     {
+      "key": "inamhi::comunicado-sobre-calentamiento-del-mar-y-altas-temperaturas-",
+      "title": "Comunicado sobre calentamiento del mar y altas temperaturas del 19 de abril",
+      "date": "2026-04-19",
+      "url": "https://www.extra.ec/noticia/ecuador/tanto-calor-costa-ecuador-abril-2026-inamhi-explica-fenomeno-151955.html",
+      "summary": "El INAMHI publicó un comunicado explicando que el intenso calor en la región Litoral durante abril se debía al calentamiento del mar, con temperaturas superficiales 2°C por encima de lo normal, alcanzando entre 27°C y 28°C. Esta condición elevaría la humedad en la atmósfera y mantendría temperaturas elevadas durante varias semanas consecutivas.",
+      "scrapedAt": "2026-05-12T06:17:37.275Z"
+    },
+    {
       "key": "inamhi::inamhi-explica-fenómeno-de-calor-extremo-en-la-costa-ecuator",
       "title": "INAMHI explica fenómeno de calor extremo en la Costa ecuatoriana",
       "date": "2026-04-19",
@@ -211,6 +243,14 @@
       "url": "https://www.eldiario.ec/ecuador/el-inamhi-emite-alerta-por-intensificacion-de-lluvias-y-tormentas-electricas-en-ecuador-hasta-el-21-de-abril-17042026/",
       "summary": "Se esperan lluvias intensas y tormentas eléctricas desde el 17 hasta el 21 de abril con mayor concentración en la Amazonía. Existe riesgo de desbordes en cuerpos de agua y afectaciones severas a la red vial nacional por deslizamientos de tierra.",
       "scrapedAt": "2026-05-01T06:19:00.105Z"
+    },
+    {
+      "key": "inamhi::alerta-de-ola-de-calor-sin-precedentes-del-12-de-abril",
+      "title": "Alerta de ola de calor sin precedentes del 12 de abril",
+      "date": "2026-04-12",
+      "url": "https://www.sisepuedeecuador.com/inamhi-advierte-sobre-una-ola-de-calor-sin-precedentes-en-ecuador/",
+      "summary": "El INAMHI alertó sobre una ola de calor sin precedentes en Ecuador que afectaba especialmente la región Litoral, con temperaturas superiores a lo normal registradas en Guayaquil (35,6°C), Santa Rosa (35,8°C), Portoviejo (35,0°C) y otras ciudades, con sensación térmica potencialmente alcanzando 40°C. El instituto recomendó evitar la exposición prolongada al sol entre las 10:00 y 15:00.",
+      "scrapedAt": "2026-05-12T06:17:37.275Z"
     },
     {
       "key": "inamhi::inamhi-alerta-sobre-ola-de-calor-sin-precedentes-en-el-litor",

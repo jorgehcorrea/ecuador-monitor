@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-05-12T04:34:10.181Z",
+  "lastScraped": "2026-05-12T06:19:14.799Z",
   "institutions": [
     {
       "id": "iniap",
@@ -191,10 +191,22 @@
           "summary": "El INAMHI advierte sobre lluvias dispersas y nubosidad alta en Pichincha y otras regiones de la Sierra, con posibles tormentas eléctricas que afectarán la movilidad y aumentarán riesgos en laderas y quebradas durante el viernes 8 de mayo."
         },
         {
+          "title": "Alerta meteorológica por lluvias y tormentas eléctricas del 7 al 8 de mayo",
+          "date": "2026-05-07",
+          "url": "https://www.primicias.ec/sociedad/lluvias-tormentas-electricas-clima-inamhi-7y8mayo-ecuador-pronostico-122194/",
+          "summary": "El INAMHI emitió la Advertencia Meteorológica #22 informando que fuertes lluvias con tormentas eléctricas se prevén en varias provincias de la Costa y la Sierra entre la tarde del 7 y la mañana del 8 de mayo. Las lluvias alcanzarán niveles muy altos en Esmeraldas, Santo Domingo, Los Ríos, Imbabura, Pichincha y partes de otras provincias, generando riesgos de deslizamientos de tierra y afectaciones en viviendas y vías."
+        },
+        {
           "title": "Alerta del INAMHI por fuertes lluvias y tormentas en Ecuador el 7 y 8 de mayo",
           "date": "2026-05-07",
           "url": "https://www.teleamazonas.com/actualidad/noticias/ecuador/alerta-inamhi-lluvias-tormentas-ecuador-mayo/",
           "summary": "El INAMHI alertó sobre la presencia de lluvias y tormentas desde la tarde del jueves 7 de mayo, con precipitaciones que alcanzarían niveles muy altos de agua y riesgo de deslizamientos de tierra y acumulación de agua en vías."
+        },
+        {
+          "title": "Pronóstico de radiación ultravioleta extrema del 5 de mayo",
+          "date": "2026-05-05",
+          "url": "https://www.expreso.ec/guayaquil/radiacion-ultravioleta-extrema-ecuador-alerta-hoy-inamhi-281018.html",
+          "summary": "El INAMHI informó que el martes 5 de mayo se registraron niveles extremadamente altos de radiación ultravioleta en Manabí, Santa Elena y Loja, con niveles muy altos en Esmeraldas, Guayas, Los Ríos, El Oro y Santo Domingo. El instituto recomendó evitar la exposición prolongada al sol entre las 10:00 y 16:00 y tomar precauciones especiales para grupos vulnerables."
         },
         {
           "title": "Pronóstico de Radiación Ultravioleta Extrema",
@@ -207,27 +219,9 @@
           "date": "2026-05-05",
           "url": "https://radiocentro.com.ec/radiacion-ultravioleta-provincias-de-ecuador-advierte-inamhi/",
           "summary": "El INAMHI advirtió sobre niveles extremos de radiación ultravioleta en varias provincias del Ecuador para el martes 5 de mayo. Manabí, Santa Elena y Loja enfrentan los niveles más altos, requiriendo precaución y protección solar especial entre las 10:00 y 16:00."
-        },
-        {
-          "title": "Alerta general del INAMHI por lluvias y tormentas eléctricas durante la semana del 4 al 6 de mayo",
-          "date": "2026-05-04",
-          "url": "https://radiocentro.com.ec/inamhi-lanza-alerta-general-por-posibles-temporales-durante-la-presente-semana",
-          "summary": "El INAMHI emitió alerta por lluvias y tormentas con mayor concentración en la Amazonía y precipitaciones importantes en el Litoral y estribaciones de la Sierra. Se prevén acumulados de 22 a 31 milímetros, con riesgo de deslizamientos y crecidas de ríos."
-        },
-        {
-          "title": "Pronóstico de radiación ultravioleta extremadamente alta para el 5 de mayo",
-          "date": "2026-05-04",
-          "url": "https://www.expreso.ec/guayaquil/radiacion-ultravioleta-extrema-ecuador-alerta-hoy-inamhi-281018.html",
-          "summary": "El INAMHI advierte sobre niveles extremos de radiación UV en provincias como Manabí y Loja, recomendando limitar la exposición solar entre las 10:00 y 16:00, usar protector solar y mantener hidratación constante para evitar daños a la salud."
-        },
-        {
-          "title": "Alerta General por Lluvias y Tormentas Eléctricas (4 de mayo de 2026)",
-          "date": "2026-05-04",
-          "url": "https://radiocentro.com.ec/inamhi-lanza-alerta-general-por-posibles-temporales-durante-la-presente-semana",
-          "summary": "El INAMHI emitió alerta general por lluvias y tormentas eléctricas que afectarán principalmente la Amazonía hasta el miércoles 6 de mayo. Se esperan acumulados entre 22 y 31 milímetros, con picos de hasta 54 milímetros en sectores críticos, generando riesgos de deslizamientos e inundaciones."
         }
       ],
-      "lastUpdated": "2026-05-11T06:42:50.056Z"
+      "lastUpdated": "2026-05-12T06:17:37.285Z"
     },
     {
       "id": "bce",
@@ -269,7 +263,7 @@
           "summary": "La JPRFM emitió la Resolución JPRFM-2026-008-F que obliga a todas las entidades financieras a diseñar e implementar productos financieros especializados para mujeres emprendedoras con requisitos simplificados y garantías adaptadas."
         }
       ],
-      "lastUpdated": "2026-05-11T06:43:38.785Z"
+      "lastUpdated": "2026-05-12T06:18:24.635Z"
     },
     {
       "id": "mipro",
@@ -311,7 +305,7 @@
           "summary": "Ecuador participó en WTM Latin America 2026 con aproximadamente 650 citas de negocios y activaciones culturales y gastronómicas, consolidando al país como destino turístico atractivo en la región de América Latina ante actores del sector turístico global."
         }
       ],
-      "lastUpdated": "2026-05-11T06:44:03.966Z"
+      "lastUpdated": "2026-05-12T06:18:49.795Z"
     },
     {
       "id": "sri",
