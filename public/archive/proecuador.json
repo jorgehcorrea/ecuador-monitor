@@ -2,7 +2,7 @@
   "id": "proecuador",
   "name": "ProEcuador",
   "fullName": "Instituto de Promoción de Exportaciones e Inversiones",
-  "lastUpdated": "2026-05-11T04:56:34.108Z",
+  "lastUpdated": "2026-05-12T04:33:45.176Z",
   "items": [
     {
       "key": "proecuador::roger-crespo-designado-nuevo-viceministro-de-promoción-de-ex",
@@ -11,14 +11,6 @@
       "url": "https://www.eluniverso.com/noticias/economia/roger-crespo-nuevo-viceministro-de-promocion-de-exportaciones-e-inversiones-ecuador-2026-nota/",
       "summary": "Roger Crespo fue designado nuevo viceministro de Promoción de Exportaciones e Inversiones en Ecuador, asumiendo funciones clave en la promoción comercial y de inversiones del país en mercados internacionales.",
       "scrapedAt": "2026-05-06T04:31:27.299Z"
-    },
-    {
-      "key": "proecuador::el-gobierno-nacional-impulsa-vínculos-comerciales-en-el-salv",
-      "title": "El Gobierno Nacional impulsa vínculos comerciales en El Salvador y fortalece la presencia del país en Centroamérica",
-      "date": "2026-04-15",
-      "url": "https://www.proecuador.gob.ec/el-gobierno-nacional-impulsa-vinculos-comerciales-en-el-salvador-y-fortalece-la-presencia-del-pais-en-centroamerica/",
-      "summary": "La directora ejecutiva de ProEcuador, Carolina Maldonado, realizó una visita oficial a El Salvador para abrir nuevos espacios comerciales y fortalecer la cooperación económica con Centroamérica. Durante esta misión se acordó potenciar misiones comerciales y ruedas de negocios que faciliten la inserción de productos ecuatorianos en mercados centroamericanos.",
-      "scrapedAt": "2026-05-11T04:56:34.108Z"
     },
     {
       "key": "proecuador::proecuador-abre-convocatoria-para-participación-en-americas-",
@@ -69,14 +61,6 @@
       "scrapedAt": "2026-04-30T15:22:15.807Z"
     },
     {
-      "key": "proecuador::pro-ecuador-reporta-usd-3452-millones-en-negocios-internaci",
-      "title": "PRO ECUADOR REPORTA USD 345,2 MILLONES EN NEGOCIOS INTERNACIONALES Y REGISTRA UN CRECIMIENTO DE 176% RESPECTO A 2024",
-      "date": "2026-03-02",
-      "url": "https://www.proecuador.gob.ec/2026/03/",
-      "summary": "ProEcuador reportó USD 345,2 millones en negocios internacionales acompañados entre enero y octubre de 2025, con un crecimiento del 176% respecto al mismo período de 2024. Este resultado refleja el trabajo efectivo de la institución en la internacionalización empresarial y la concreción de oportunidades comerciales para exportadores ecuatorianos.",
-      "scrapedAt": "2026-05-06T04:31:27.299Z"
-    },
-    {
       "key": "proecuador::ecuador-participa-en-gulfood-dubai-2026-con-delegación-de-em",
       "title": "Ecuador participa en Gulfood Dubai 2026 con delegación de empresas del sector alimentario",
       "date": "2026-02-02",
@@ -85,20 +69,36 @@
       "scrapedAt": "2026-05-06T04:31:27.299Z"
     },
     {
-      "key": "proecuador::gobierno-de-daniel-noboa-impulsa-la-oferta-exportable-ecuato",
-      "title": "Gobierno de Daniel Noboa impulsa la oferta exportable ecuatoriana en Gulfood Dubái",
-      "date": "2026-01-27",
-      "url": "https://www.proecuador.gob.ec/gobierno-de-daniel-noboa-impulsa-la-oferta-exportable-ecuatoriana-en-gulfood-dubai/",
-      "summary": "Ecuador participó en la 31.ª edición de Gulfood, una de las ferias más importantes del sector de alimentos y bebidas realizada del 26 al 30 de enero en Dubái. La participación de ProEcuador permitió que exportadores ecuatorianos establecieran relaciones comerciales y accedieran a los mercados estratégicos de Medio Oriente, Asia y África.",
-      "scrapedAt": "2026-05-11T04:56:34.108Z"
-    },
-    {
       "key": "proecuador::proecuador-impulsa-la-oferta-exportable-ecuatoriana-en-gulfo",
       "title": "ProEcuador impulsa la oferta exportable ecuatoriana en Gulfood Dubái 2026",
       "date": "2026-01-27",
       "url": "https://www.proecuador.gob.ec/gobierno-de-daniel-noboa-impulsa-la-oferta-exportable-ecuatoriana-en-gulfood-dubai/",
       "summary": "Ecuador participó en Gulfood 2026, la feria internacional de alimentos y bebidas más importante del mundo, a través de ProEcuador que organizó un pabellón nacional para promover productos agroalimentarios ecuatorianos ante más de 100.000 compradores internacionales de 190 países.",
       "scrapedAt": "2026-04-30T15:22:15.807Z"
+    },
+    {
+      "key": "proecuador::gobierno-de-daniel-noboa-impulsa-la-oferta-exportable-ecuato",
+      "title": "Gobierno de Daniel Noboa impulsa la oferta exportable ecuatoriana en Gulfood Dubái",
+      "date": "2026-01-27",
+      "url": "https://www.proecuador.gob.ec/gobierno-de-daniel-noboa-impulsa-la-oferta-exportable-ecuatoriana-en-gulfood-dubai/",
+      "summary": "Ecuador participó en Gulfood 2026, una de las ferias internacionales más importantes del sector de alimentos y bebidas, fortaleciendo la presencia del país ante compradores de más de 190 países y posicionando la oferta agroalimentaria ecuatoriana en el mercado internacional.",
+      "scrapedAt": "2026-05-11T04:56:34.108Z"
+    },
+    {
+      "key": "proecuador::pro-ecuador-reporta-usd-3452-millones-en-negocios-internaci",
+      "title": "PRO ECUADOR REPORTA USD 345,2 MILLONES EN NEGOCIOS INTERNACIONALES Y REGISTRA UN CRECIMIENTO DE 176% RESPECTO A 2024",
+      "date": "2026-01-27",
+      "url": "https://www.proecuador.gob.ec/proecuador-reporta-usd-3452-millones-en-negocios-internacionales-y-registra-un-crecimiento-de-176-respecto-a-2024/",
+      "summary": "ProEcuador facilitó USD 345,2 millones en negocios concretados entre enero y octubre de 2025 a través de ferias internacionales, misiones comerciales y eventos de promoción, demostrando el impacto de la política pública de internacionalización productiva impulsada por el gobierno.",
+      "scrapedAt": "2026-05-06T04:31:27.299Z"
+    },
+    {
+      "key": "proecuador::el-gobierno-nacional-impulsa-vínculos-comerciales-en-el-salv",
+      "title": "El Gobierno Nacional impulsa vínculos comerciales en El Salvador y fortalece la presencia del país en Centroamérica",
+      "date": "2025-10-29",
+      "url": "https://www.proecuador.gob.ec/el-gobierno-nacional-impulsa-vinculos-comerciales-en-el-salvador-y-fortalece-la-presencia-del-pais-en-centroamerica/",
+      "summary": "La directora ejecutiva de ProEcuador realizó una visita oficial a El Salvador para abrir nuevos espacios para productos ecuatorianos y fortalecer la cooperación económica con Centroamérica, incluyendo acuerdos para misiones comerciales y ruedas de negocios.",
+      "scrapedAt": "2026-05-11T04:56:34.108Z"
     },
     {
       "key": "proecuador::pro-ecuador-y-propanamá-firman-acuerdo-de-colaboración-para-",

@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-05-11T13:51:59.437Z",
+  "lastScraped": "2026-05-12T04:34:10.181Z",
   "institutions": [
     {
       "id": "iniap",
@@ -10,6 +10,18 @@
       "sourceUrl": "https://www.iniap.gob.ec/noticias/",
       "status": "ok",
       "news": [
+        {
+          "title": "INIAP firma convenio con Asociación Mushuk Kawsay Nueva Vida para préstamo de terrenos agrícolas",
+          "date": "2026-04-15",
+          "url": "https://www.eltelegrafo.com.ec/noticias/nacionales/210/certificaciones-competencias-laborales-a-pueblos-y-nacionalidades-indigenas-daniel-noboa",
+          "summary": "El INIAP formalizó un convenio para prestar terrenos agrícolas a la Asociación Mushuk Kawsay Nueva Vida, brindando además acompañamiento técnico para desarrollar actividades productivas en comunidades indígenas de Quito."
+        },
+        {
+          "title": "Comisión de Soberanía Alimentaria recibe aportes para fortalecer al INIAP con enfoque en innovación y transferencia tecnológica",
+          "date": "2026-04-08",
+          "url": "https://www.asambleanacional.gob.ec/es/node/115596",
+          "summary": "La Asamblea Nacional avanza en el tratamiento de reformas a la Ley Constitutiva del INIAP, buscando mejorar la producción agrícola a través de modelos más ágiles que permitan mayor conexión entre la investigación científica y los productores."
+        },
         {
           "title": "Comisión de Soberanía Alimentaria avanza en reformas a la Ley Constitutiva del INIAP",
           "date": "2026-04-08",
@@ -23,25 +35,13 @@
           "summary": "La asambleísta Besibell Mendoza presentó un proyecto de reformas para actualizar la normativa del INIAP relacionada con investigación, innovación y transferencia tecnológica. Las reformas buscan mejorar la gobernanza institucional e integrar esfuerzos entre sectores público, privado y académico."
         },
         {
-          "title": "El INIAP, con el respaldo del FIASA, concluyó cinco proyectos de investigación en 2025",
-          "date": "2026-01-02",
-          "url": "https://www.eluniverso.com/noticias/economia/cinco-proyectos-investigacion-agricola-iniap-fiasa-ecuador-2025-nota/",
-          "summary": "El INIAP finalizó cinco proyectos de investigación en 2025 que incluyen nuevas variedades de trigo (Iniap-Yurak 2024) y dos líneas promisorias de arroz (Go-04207 y Go-04429) que se registrarán como nuevas variedades. Estos desarrollos benefician a pequeños y medianos productores y fortalecen la seguridad alimentaria nacional."
-        },
-        {
-          "title": "INIAP prepara nuevas variedades de papa con potencial industrial para 2026",
-          "date": "2025-12-07",
-          "url": "https://www.argenpapa.com.ar/noticia/16843-ecuador-iniap-prepara-nuevas-variedades-de-papa-con-potencial-industrial-para-2026",
-          "summary": "El INIAP desarrolla dos nuevas variedades de papa con alto contenido de antocianinas para la industria de chips de colores, que podrían liberarse en 2026. Estas variedades cultivables entre 2.800 y 3.300 metros de altura ofrecen características específicas de textura, color y rendimiento requeridas por la industria."
-        },
-        {
-          "title": "Día Nacional de la Papa: INIAP impulsa el desarrollo del cultivo con investigación, nutrición y sostenibilidad",
-          "date": "2025-06-27",
-          "url": "https://www.iniap.gob.ec/category/comunicamos/noticias-destacadas/",
-          "summary": "El INIAP presentó nuevas variedades de papa con potencial industrial para la producción de hojuelas de colores, con capacidad de adaptarse a zonas paperas entre 2.800 y 3.300 metros de altura en Ecuador."
+          "title": "Convocatoria FIASA 2026: ¡Haz realidad tu proyecto de investigación agropecuaria!",
+          "date": "2026-02-15",
+          "url": "https://www.iniap.gob.ec/convocatoria-fiasa-2026-haz-realidad-tu-proyecto-de-investigacion-agropecuaria/",
+          "summary": "El INIAP abrió la Convocatoria FIASA 2026, un mecanismo de financiamiento estatal para apoyar proyectos de investigación enfocados en agrobiodiversidad, mejoramiento de semillas y agricultura sustentable en Ecuador."
         }
       ],
-      "lastUpdated": "2026-05-11T04:54:28.197Z"
+      "lastUpdated": "2026-05-12T04:31:45.626Z"
     },
     {
       "id": "mag",
@@ -50,9 +50,40 @@
       "category": "Agro & Investigación",
       "color": "#74C69D",
       "sourceUrl": "https://www.agricultura.gob.ec/noticias/",
-      "status": "stale",
-      "news": [],
-      "lastUpdated": "2026-05-11T04:54:53.410Z"
+      "status": "ok",
+      "news": [
+        {
+          "title": "MAGP y PNUD fortalecen cooperación para impulsar el desarrollo agropecuario sostenible en Ecuador",
+          "date": "2026-05-07",
+          "url": "https://www.agricultura.gob.ec/magp-y-pnud-fortalecen-cooperacion-para-impulsar-el-desarrollo-agropecuario-sostenible-en-ecuador/",
+          "summary": "El MAGP y el Programa de Naciones Unidas para el Desarrollo reafirmaron su alianza para fortalecer iniciativas en reducción de plaguicidas, innovación agrícola y financiamiento verde. Esta cooperación beneficia principalmente a pequeños y medianos productores de agricultura familiar campesina, quienes producen el 60% de los alimentos que consume el país."
+        },
+        {
+          "title": "MAGP y FAO realizan feria por el Mes de la Biodiversidad",
+          "date": "2026-05-06",
+          "url": "https://www.agricultura.gob.ec/magp-y-fao-realizan-feria-por-el-mes-de-la-biodiversidad/",
+          "summary": "El ministerio y la Organización de las Naciones Unidas para la Alimentación realizaron un evento en Quito para promover productos agroecológicos de agricultores locales. El evento destacó el rol fundamental de la agricultura familiar en conservar la biodiversidad y conmemoró el Año Internacional de la Agricultora."
+        },
+        {
+          "title": "MAGP y GIZ fortalecen su alianza estratégica por la Agricultura Familiar Campesina",
+          "date": "2026-05-05",
+          "url": "https://www.agricultura.gob.ec/magp-y-giz-fortalecen-su-alianza-estrategica-por-la-agricultura-familiar-campesina/",
+          "summary": "El ministerio y la cooperación técnica alemana definieron acciones conjuntas para impulsar una producción agrícola más sostenible, incluyendo el desarrollo del Sello AFC que distinguirá productos respaldados por prácticas amigables con la biodiversidad. También diseñarán una estrategia nacional dirigida específicamente a fortalecer a mujeres rurales."
+        },
+        {
+          "title": "MAGP define ideas de proyectos para buscar financiamiento vinculado a cambio climático y producción sostenible",
+          "date": "2026-05-05",
+          "url": "https://www.agricultura.gob.ec/magp-define-ideas-de-proyectos-para-buscar-financiamiento-vinculado-a-cambio-climatico-y-produccion-sostenible/",
+          "summary": "El ministerio elaboró 15 propuestas de proyectos para solicitar financiamiento climático a organismos internacionales como el Fondo Verde para el Clima. Estas iniciativas buscan fortalecer la resiliencia del sector agroproductivo ecuatoriano frente a cambios climáticos y promover una producción más sostenible."
+        },
+        {
+          "title": "Ministro de Agricultura, Ganadería y Pesca, Juan Carlos Vega: \"Estamos desmontando un sistema que favoreció a intermediarios\"",
+          "date": "2026-05-05",
+          "url": "https://www.agricultura.gob.ec/ministro-de-agricultura-ganaderia-y-pesca-juan-carlos-vega-estamos-desmontando-un-sistema-que-favorecio-a-intermediarios/",
+          "summary": "El ministro presentó una visión integral de transformación del sector agrícola enfocada en fortalecer a pequeños y medianos productores, modernizar sistemas productivos y posicionar a Ecuador en nichos agroalimentarios de alto valor agregado. Anunció iniciativas para reducir la informalidad en la cadena láctea e impulsar ganadería regenerativa."
+        }
+      ],
+      "lastUpdated": "2026-05-12T04:32:24.197Z"
     },
     {
       "id": "agrocalidad",
@@ -94,7 +125,7 @@
           "summary": "En Ibarra se realizó el Curso de autorización de médicos veterinarios especializados en especies mayores, formando 100 nuevos inspectores sanitarios para centros de faenamiento y fortaleciendo la capacidad de supervisión en la cadena de producción cárnica."
         }
       ],
-      "lastUpdated": "2026-05-11T04:55:48.863Z"
+      "lastUpdated": "2026-05-12T04:32:49.372Z"
     },
     {
       "id": "proecuador",
@@ -110,12 +141,6 @@
           "date": "2026-05-04",
           "url": "https://www.eluniverso.com/noticias/economia/roger-crespo-nuevo-viceministro-de-promocion-de-exportaciones-e-inversiones-ecuador-2026-nota/",
           "summary": "Roger Crespo fue designado nuevo viceministro de Promoción de Exportaciones e Inversiones en Ecuador, asumiendo funciones clave en la promoción comercial y de inversiones del país en mercados internacionales."
-        },
-        {
-          "title": "El Gobierno Nacional impulsa vínculos comerciales en El Salvador y fortalece la presencia del país en Centroamérica",
-          "date": "2026-04-15",
-          "url": "https://www.proecuador.gob.ec/el-gobierno-nacional-impulsa-vinculos-comerciales-en-el-salvador-y-fortalece-la-presencia-del-pais-en-centroamerica/",
-          "summary": "La directora ejecutiva de ProEcuador, Carolina Maldonado, realizó una visita oficial a El Salvador para abrir nuevos espacios comerciales y fortalecer la cooperación económica con Centroamérica. Durante esta misión se acordó potenciar misiones comerciales y ruedas de negocios que faciliten la inserción de productos ecuatorianos en mercados centroamericanos."
         },
         {
           "title": "ProEcuador abre convocatoria para participación en Americas Food & Beverage Show 2026",
@@ -134,9 +159,15 @@
           "date": "2026-04-01",
           "url": "https://www.linkedin.com/in/pro-ecuador-25217465/",
           "summary": "ProEcuador realizó una capacitación gratuita sobre herramientas de análisis de mercado TradeMap y MacMap para ayudar a exportadores a identificar mercados clave y tomar decisiones basadas en información estratégica para fortalecer sus procesos exportadores."
+        },
+        {
+          "title": "Ecuador presente en el Seafood Expo North America 2026",
+          "date": "2026-03-17",
+          "url": "https://www.munichtvdigital.com/ecuador-presente-en-el-seafood-expo-north-america-2026/",
+          "summary": "Cuatro empresas ecuatorianas participaron del 15 al 17 de marzo en Seafood Expo North America 2026 en Boston, con apoyo de ProEcuador. Esta participación fortaleció el posicionamiento de productos pesqueros y acuícolas ecuatorianos en el mercado norteamericano, considerada una de las ferias más importantes del sector."
         }
       ],
-      "lastUpdated": "2026-05-11T04:56:34.109Z"
+      "lastUpdated": "2026-05-12T04:33:45.177Z"
     },
     {
       "id": "inamhi",
@@ -766,8 +797,8 @@
   ],
   "summary": {
     "total": 21,
-    "ok": 15,
-    "stale": 6,
+    "ok": 16,
+    "stale": 5,
     "error": 0
   }
 }

@@ -2,8 +2,24 @@
   "id": "iniap",
   "name": "INIAP",
   "fullName": "Instituto Nacional de Investigaciones Agropecuarias",
-  "lastUpdated": "2026-05-11T04:54:28.197Z",
+  "lastUpdated": "2026-05-12T04:31:45.625Z",
   "items": [
+    {
+      "key": "iniap::iniap-firma-convenio-con-asociación-mushuk-kawsay-nueva-vida",
+      "title": "INIAP firma convenio con Asociación Mushuk Kawsay Nueva Vida para préstamo de terrenos agrícolas",
+      "date": "2026-04-15",
+      "url": "https://www.eltelegrafo.com.ec/noticias/nacionales/210/certificaciones-competencias-laborales-a-pueblos-y-nacionalidades-indigenas-daniel-noboa",
+      "summary": "El INIAP formalizó un convenio para prestar terrenos agrícolas a la Asociación Mushuk Kawsay Nueva Vida, brindando además acompañamiento técnico para desarrollar actividades productivas en comunidades indígenas de Quito.",
+      "scrapedAt": "2026-05-12T04:31:45.618Z"
+    },
+    {
+      "key": "iniap::comisión-de-soberanía-alimentaria-recibe-aportes-para-fortal",
+      "title": "Comisión de Soberanía Alimentaria recibe aportes para fortalecer al INIAP con enfoque en innovación y transferencia tecnológica",
+      "date": "2026-04-08",
+      "url": "https://www.asambleanacional.gob.ec/es/node/115596",
+      "summary": "La Asamblea Nacional avanza en el tratamiento de reformas a la Ley Constitutiva del INIAP, buscando mejorar la producción agrícola a través de modelos más ágiles que permitan mayor conexión entre la investigación científica y los productores.",
+      "scrapedAt": "2026-05-12T04:31:45.618Z"
+    },
     {
       "key": "iniap::comisión-de-soberanía-alimentaria-avanza-en-reformas-a-la-le",
       "title": "Comisión de Soberanía Alimentaria avanza en reformas a la Ley Constitutiva del INIAP",
@@ -19,6 +35,14 @@
       "url": "https://kchcomunicacion.com/2026/03/26/soberania-alimentaria-inicia-tramite-de-reformas-al-iniap-en-respuesta-a-las-necesidades-del-sector-productivo/",
       "summary": "La asambleísta Besibell Mendoza presentó un proyecto de reformas para actualizar la normativa del INIAP relacionada con investigación, innovación y transferencia tecnológica. Las reformas buscan mejorar la gobernanza institucional e integrar esfuerzos entre sectores público, privado y académico.",
       "scrapedAt": "2026-04-30T14:00:07.691Z"
+    },
+    {
+      "key": "iniap::convocatoria-fiasa-2026-haz-realidad-tu-proyecto-de-invest",
+      "title": "Convocatoria FIASA 2026: ¡Haz realidad tu proyecto de investigación agropecuaria!",
+      "date": "2026-02-15",
+      "url": "https://www.iniap.gob.ec/convocatoria-fiasa-2026-haz-realidad-tu-proyecto-de-investigacion-agropecuaria/",
+      "summary": "El INIAP abrió la Convocatoria FIASA 2026, un mecanismo de financiamiento estatal para apoyar proyectos de investigación enfocados en agrobiodiversidad, mejoramiento de semillas y agricultura sustentable en Ecuador.",
+      "scrapedAt": "2026-05-01T04:44:05.777Z"
     },
     {
       "key": "iniap::el-iniap-con-el-respaldo-del-fiasa-concluyó-cinco-proyecto",
@@ -67,14 +91,6 @@
       "url": "https://www.iniap.gob.ec/category/comunicamos/noticias-destacadas/",
       "summary": "Un proyecto financiado por FIASA permite a agricultores de Manabí producir sus propios biofertilizantes, reduciendo costos de insumos químicos y fortaleciendo prácticas agrícolas más sostenibles y ecológicas.",
       "scrapedAt": "2026-05-08T04:12:37.899Z"
-    },
-    {
-      "key": "iniap::convocatoria-fiasa-2026-haz-realidad-tu-proyecto-de-invest",
-      "title": "Convocatoria FIASA 2026: ¡Haz realidad tu proyecto de investigación agropecuaria!",
-      "date": "2025-05-13",
-      "url": "https://www.iniap.gob.ec/convocatoria-fiasa-2026-haz-realidad-tu-proyecto-de-investigacion-agropecuaria/",
-      "summary": "Se abre la Convocatoria FIASA 2026, un mecanismo de financiamiento estatal que permite a investigadores ecuatorianos presentar proyectos innovadores para impulsar la agrobiodiversidad, mejorar semillas y fomentar agricultura sustentable en el país.",
-      "scrapedAt": "2026-05-01T04:44:05.777Z"
     },
     {
       "key": "iniap::iniap-anuncia-la-apertura-de-la-convocatoria-fiasa-2026-para",

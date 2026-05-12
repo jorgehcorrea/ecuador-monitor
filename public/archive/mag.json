@@ -1,0 +1,48 @@
+{
+  "id": "mag",
+  "name": "MAG",
+  "fullName": "Ministerio de Agricultura y Ganadería",
+  "lastUpdated": "2026-05-12T04:32:24.197Z",
+  "items": [
+    {
+      "key": "mag::magp-y-pnud-fortalecen-cooperación-para-impulsar-el-desarrol",
+      "title": "MAGP y PNUD fortalecen cooperación para impulsar el desarrollo agropecuario sostenible en Ecuador",
+      "date": "2026-05-07",
+      "url": "https://www.agricultura.gob.ec/magp-y-pnud-fortalecen-cooperacion-para-impulsar-el-desarrollo-agropecuario-sostenible-en-ecuador/",
+      "summary": "El MAGP y el Programa de Naciones Unidas para el Desarrollo reafirmaron su alianza para fortalecer iniciativas en reducción de plaguicidas, innovación agrícola y financiamiento verde. Esta cooperación beneficia principalmente a pequeños y medianos productores de agricultura familiar campesina, quienes producen el 60% de los alimentos que consume el país.",
+      "scrapedAt": "2026-05-12T04:32:24.196Z"
+    },
+    {
+      "key": "mag::magp-y-fao-realizan-feria-por-el-mes-de-la-biodiversidad",
+      "title": "MAGP y FAO realizan feria por el Mes de la Biodiversidad",
+      "date": "2026-05-06",
+      "url": "https://www.agricultura.gob.ec/magp-y-fao-realizan-feria-por-el-mes-de-la-biodiversidad/",
+      "summary": "El ministerio y la Organización de las Naciones Unidas para la Alimentación realizaron un evento en Quito para promover productos agroecológicos de agricultores locales. El evento destacó el rol fundamental de la agricultura familiar en conservar la biodiversidad y conmemoró el Año Internacional de la Agricultora.",
+      "scrapedAt": "2026-05-12T04:32:24.197Z"
+    },
+    {
+      "key": "mag::magp-y-giz-fortalecen-su-alianza-estratégica-por-la-agricult",
+      "title": "MAGP y GIZ fortalecen su alianza estratégica por la Agricultura Familiar Campesina",
+      "date": "2026-05-05",
+      "url": "https://www.agricultura.gob.ec/magp-y-giz-fortalecen-su-alianza-estrategica-por-la-agricultura-familiar-campesina/",
+      "summary": "El ministerio y la cooperación técnica alemana definieron acciones conjuntas para impulsar una producción agrícola más sostenible, incluyendo el desarrollo del Sello AFC que distinguirá productos respaldados por prácticas amigables con la biodiversidad. También diseñarán una estrategia nacional dirigida específicamente a fortalecer a mujeres rurales.",
+      "scrapedAt": "2026-05-12T04:32:24.197Z"
+    },
+    {
+      "key": "mag::magp-define-ideas-de-proyectos-para-buscar-financiamiento-vi",
+      "title": "MAGP define ideas de proyectos para buscar financiamiento vinculado a cambio climático y producción sostenible",
+      "date": "2026-05-05",
+      "url": "https://www.agricultura.gob.ec/magp-define-ideas-de-proyectos-para-buscar-financiamiento-vinculado-a-cambio-climatico-y-produccion-sostenible/",
+      "summary": "El ministerio elaboró 15 propuestas de proyectos para solicitar financiamiento climático a organismos internacionales como el Fondo Verde para el Clima. Estas iniciativas buscan fortalecer la resiliencia del sector agroproductivo ecuatoriano frente a cambios climáticos y promover una producción más sostenible.",
+      "scrapedAt": "2026-05-12T04:32:24.197Z"
+    },
+    {
+      "key": "mag::ministro-de-agricultura-ganadería-y-pesca-juan-carlos-vega",
+      "title": "Ministro de Agricultura, Ganadería y Pesca, Juan Carlos Vega: \"Estamos desmontando un sistema que favoreció a intermediarios\"",
+      "date": "2026-05-05",
+      "url": "https://www.agricultura.gob.ec/ministro-de-agricultura-ganaderia-y-pesca-juan-carlos-vega-estamos-desmontando-un-sistema-que-favorecio-a-intermediarios/",
+      "summary": "El ministro presentó una visión integral de transformación del sector agrícola enfocada en fortalecer a pequeños y medianos productores, modernizar sistemas productivos y posicionar a Ecuador en nichos agroalimentarios de alto valor agregado. Anunció iniciativas para reducir la informalidad en la cadena láctea e impulsar ganadería regenerativa.",
+      "scrapedAt": "2026-05-12T04:32:24.197Z"
+    }
+  ]
+}
