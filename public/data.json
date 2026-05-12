@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-05-12T09:34:05.076Z",
+  "lastScraped": "2026-05-12T11:12:58.872Z",
   "institutions": [
     {
       "id": "iniap",
@@ -560,6 +560,12 @@
       "status": "ok",
       "news": [
         {
+          "title": "CNE organizará 45 debates obligatorios para prefecturas y alcaldías",
+          "date": "2026-05-11",
+          "url": "https://www.eluniverso.com/noticias/politica/elecciones-seccionales-en-ecuador-cne-organizara-45-debates-obligatorios-para-prefecturas-y-alcaldias-nota/",
+          "summary": "El CNE aprobó la realización de 45 debates electorales obligatorios para candidatos a prefecturas y alcaldías entre el 12 y 26 de noviembre, permitiendo que los candidatos presenten sus programas de gobierno sobre cuatro ejes temáticos definidos."
+        },
+        {
           "title": "CNE Consejo Nacional Electoral anuncia 45 debates obligatorios para prefecturas y alcaldías",
           "date": "2026-05-11",
           "url": "https://www.eluniverso.com/noticias/politica/elecciones-seccionales-en-ecuador-cne-organizara-45-debates-obligatorios-para-prefecturas-y-alcaldias-nota/",
@@ -576,33 +582,9 @@
           "date": "2026-05-05",
           "url": "https://www.eldiario.ec/ecuador/cne-actualiza-registro-237-organizaciones-politicas-inscritas-para-elecciones-seccionales-de-2026-05052026/",
           "summary": "El CNE incorporó siete nuevos movimientos políticos locales al registro nacional, elevando el total de organizaciones políticas habilitadas a 237 para participar en los comicios seccionales. Esta actualización ocurrió después del cierre del plazo de inscripción el 3 de mayo de 2026."
-        },
-        {
-          "title": "CNE habilita 15 días para reclamos al Registro Electoral de cara a las elecciones de 2026",
-          "date": "2026-05-04",
-          "url": "https://www.eldiario.ec/ecuador/cne-habilita-15-dias-para-reclamos-al-registro-electoral-de-cara-a-las-elecciones-de-2026-04052026/",
-          "summary": "El CNE abrió un período de 15 días para que ciudadanos y organizaciones políticas presenten reclamos administrativos y observaciones al Registro Electoral, buscando asegurar la integridad del padrón electoral antes de la inscripción de candidatos."
-        },
-        {
-          "title": "Hasta el 13 de mayo el CNE recepta inscripciones para integrar veedurías del proceso de elección del CPCCS 2027",
-          "date": "2026-05-04",
-          "url": "https://www.cne.gob.ec/hasta-el-13-de-mayo-el-cne-recepta-inscripciones-para-integrar-veedurias-del-proceso-de-eleccion-del-cpccs-2027/",
-          "summary": "El CNE abrió inscripciones para que ciudadanos y organizaciones sociales conformen veedurías que supervisarán la selección de candidatos al CPCCS. Los observadores ciudadanos asegurarán transparencia durante el proceso de recepción de postulaciones e impugnaciones de candidaturas."
-        },
-        {
-          "title": "CNE habilitó simulador virtual de apoyo técnico a organizaciones políticas para inscripción de candidaturas",
-          "date": "2026-05-04",
-          "url": "https://www.cne.gob.ec/cne-habilito-simulador-virtual-de-apoyo-tecnico-a-organizaciones-politicas-para-inscripcion-de-candidaturas/",
-          "summary": "El CNE puso a disposición una herramienta digital que permite a partidos y movimientos verificar que sus listas cumplan con requisitos de paridad de género y participación de jóvenes. El simulador evita rechazos de candidaturas por incumplimiento de estos requisitos obligatorios."
-        },
-        {
-          "title": "Ciudadanía y organizaciones políticas pueden presentar reclamos al Registro Electoral del 4 al 18 de mayo",
-          "date": "2026-05-04",
-          "url": "https://www.cne.gob.ec/ciudadania-y-organizaciones-politicas-pueden-presentar-reclamos-al-registro-electoral-del-4-al-18-de-mayo/",
-          "summary": "El CNE abrió un período para que ciudadanos y organizaciones políticas presenten reclamos y observaciones al Registro Electoral hasta el 18 de mayo. Este trámite permite depurar el padrón electoral antes de las elecciones del 29 de noviembre de 2026."
         }
       ],
-      "lastUpdated": "2026-05-11T11:56:57.336Z"
+      "lastUpdated": "2026-05-12T11:11:26.446Z"
     },
     {
       "id": "asamblea",
@@ -686,7 +668,7 @@
           "summary": "El Pleno aprobó en primer debate el Proyecto de Ley Orgánica de Agilización Judicial para la Adopción, que busca eliminar barreras administrativas para acelerar procesos de adopción y garantizar que niñas, niños y adolescentes en casas de acogida puedan vivir en familias de manera oportuna."
         }
       ],
-      "lastUpdated": "2026-05-11T11:57:38.632Z"
+      "lastUpdated": "2026-05-12T11:11:52.196Z"
     },
     {
       "id": "corte-constitucional",
@@ -697,6 +679,18 @@
       "sourceUrl": "https://www.corteconstitucional.gob.ec/noticias/",
       "status": "ok",
       "news": [
+        {
+          "title": "Sentencia sobre protección reforzada de niñas y niños frente al acoso sexual en escuelas",
+          "date": "2026-05-06",
+          "url": "https://esacc.corteconstitucional.gob.ec/storage/api/v1/10_DWL_FL/eyJjYXJwZXRhIjoicm8iLCJ1dWlkIjoiNDNiMmMxNDYtNTY5Zi00ZGEwLThiYjgtZDNjNTE1NjM0NDUwLnBkZiJ9",
+          "summary": "La Corte emitió la sentencia 3420-22-JP/26 sobre garantía de sanciones proporcionales en casos de acoso sexual de menores en el ámbito escolar, estableciendo estándares vinculantes para la protección de niñas, niños y adolescentes."
+        },
+        {
+          "title": "Corte Constitucional acepta renuncia del juez Raúl Llasag Fernández",
+          "date": "2026-05-04",
+          "url": "https://www.eltelegrafo.com.ec/noticias/nacionales/210/corte-constitucional-acepta-renuncia-de-juez-raul",
+          "summary": "El Pleno de la Corte aceptó la renuncia del juez Raúl Llasag Fernández mediante resolución en sesión extraordinaria, siendo reemplazado por la jueza Sandra Cordero Gárate conforme al procedimiento legal vigente."
+        },
         {
           "title": "Corte Constitucional verifica incumplimiento del Cosepe en entrega de información sobre caso El Comercio",
           "date": "2026-05-04",
@@ -714,21 +708,9 @@
           "date": "2026-04-29",
           "url": "https://www.expreso.ec/politica/corte-constitucional-tramita-accion-reglamento-concurso-fiscal-esto-pidio-cpccs-280487.html",
           "summary": "La jueza Karla Quevedo inició el trámite de la demanda de inconstitucionalidad presentada por la Bancada de la Revolución Ciudadana contra el reglamento que eliminó restricciones para que defensores de narcotráfico postulen a Fiscal General."
-        },
-        {
-          "title": "Sentencia histórica sobre prácticas análogas a la esclavitud en producción de abacá",
-          "date": "2026-04-24",
-          "url": "https://cedhu.org/2026/04/24/la-sentencia-de-la-corte-constitucional-establece-un-precedente-historico-reconoce-practicas-analogas-a-la-esclavitud-y-racismo-estructural-el-estado-y-la-empresa-deben-reparar-integralmente-a-las-y/",
-          "summary": "La Corte Constitucional emitió sentencia histórica que reconoce prácticas análogas a la esclavitud, trabajo infantil y racismo estructural sufridos por campesinos afroecuatorianos en haciendas de Furukawa Plantaciones, ordenando reparación integral."
-        },
-        {
-          "title": "Presidente Noboa remite Acuerdo de Comercio Recíproco con Estados Unidos a la Corte Constitucional para control previo",
-          "date": "2026-04-21",
-          "url": "https://www.eluniverso.com/noticias/politica/daniel-noboa-remitio-acuerdo-con-ee-uu-a-la-corte-constitucional-y-espera-sobre-si-requiere-o-no-aprobacion-de-la-asamblea-nacional-nota/",
-          "summary": "El presidente envió el Acuerdo de Comercio Recíproco con Estados Unidos a la Corte para que evalúe si requiere aprobación previa de la Asamblea Nacional, según lo establecido en la Constitución para tratados internacionales, con la causa asignada a la jueza Alejandra Cárdenas."
         }
       ],
-      "lastUpdated": "2026-05-11T11:58:03.807Z"
+      "lastUpdated": "2026-05-12T11:12:33.867Z"
     },
     {
       "id": "pge",

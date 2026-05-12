@@ -2,8 +2,24 @@
   "id": "corte-constitucional",
   "name": "Corte Const.",
   "fullName": "Corte Constitucional del Ecuador",
-  "lastUpdated": "2026-05-08T10:18:14.230Z",
+  "lastUpdated": "2026-05-12T11:12:33.866Z",
   "items": [
+    {
+      "key": "corte-constitucional::sentencia-sobre-protección-reforzada-de-niñas-y-niños-frente",
+      "title": "Sentencia sobre protección reforzada de niñas y niños frente al acoso sexual en escuelas",
+      "date": "2026-05-06",
+      "url": "https://esacc.corteconstitucional.gob.ec/storage/api/v1/10_DWL_FL/eyJjYXJwZXRhIjoicm8iLCJ1dWlkIjoiNDNiMmMxNDYtNTY5Zi00ZGEwLThiYjgtZDNjNTE1NjM0NDUwLnBkZiJ9",
+      "summary": "La Corte emitió la sentencia 3420-22-JP/26 sobre garantía de sanciones proporcionales en casos de acoso sexual de menores en el ámbito escolar, estableciendo estándares vinculantes para la protección de niñas, niños y adolescentes.",
+      "scrapedAt": "2026-05-12T11:12:33.866Z"
+    },
+    {
+      "key": "corte-constitucional::corte-constitucional-acepta-renuncia-del-juez-raúl-llasag-fe",
+      "title": "Corte Constitucional acepta renuncia del juez Raúl Llasag Fernández",
+      "date": "2026-05-04",
+      "url": "https://www.eltelegrafo.com.ec/noticias/nacionales/210/corte-constitucional-acepta-renuncia-de-juez-raul",
+      "summary": "El Pleno de la Corte aceptó la renuncia del juez Raúl Llasag Fernández mediante resolución en sesión extraordinaria, siendo reemplazado por la jueza Sandra Cordero Gárate conforme al procedimiento legal vigente.",
+      "scrapedAt": "2026-05-12T11:12:33.866Z"
+    },
     {
       "key": "corte-constitucional::corte-constitucional-verifica-incumplimiento-del-cosepe-en-e",
       "title": "Corte Constitucional verifica incumplimiento del Cosepe en entrega de información sobre caso El Comercio",
@@ -37,6 +53,14 @@
       "scrapedAt": "2026-04-30T15:06:13.366Z"
     },
     {
+      "key": "corte-constitucional::corte-constitucional-autoriza-a-noboa-convocar-referéndum-pa",
+      "title": "Corte Constitucional autoriza a Noboa convocar referéndum para reformar el CPCCS",
+      "date": "2026-04-21",
+      "url": "https://www.metroecuador.com.ec/noticias/2026/04/22/corte-constitucional-autoriza-a-noboa-convocar-referendum-para-reformar-el-cpccs/",
+      "summary": "La Corte emitió un dictamen favorable que permite al presidente Noboa convocar a un nuevo referéndum para modificar las funciones del Consejo de Participación Ciudadana y Control Social, específicamente en la designación de autoridades de control.",
+      "scrapedAt": "2026-05-12T11:12:33.866Z"
+    },
+    {
       "key": "corte-constitucional::presidente-noboa-remite-acuerdo-de-comercio-recíproco-con-es",
       "title": "Presidente Noboa remite Acuerdo de Comercio Recíproco con Estados Unidos a la Corte Constitucional para control previo",
       "date": "2026-04-21",
@@ -61,12 +85,28 @@
       "scrapedAt": "2026-04-30T15:06:13.366Z"
     },
     {
+      "key": "corte-constitucional::corte-constitucional-rechaza-solicitudes-de-aclaración-sobre",
+      "title": "Corte Constitucional rechaza solicitudes de aclaración sobre acuerdo con Emiratos Árabes Unidos",
+      "date": "2026-04-16",
+      "url": "https://www.eluniverso.com/noticias/politica/corte-constitucional-rechaza-solicitudes-aclaracion-ratifica-validez-acuerdo-ecuador-emiratos-arabes-unidos-nota/",
+      "summary": "La Corte rechazó pedidos de aclaración presentados por ciudadanos y ratificó su dictamen anterior validando el acuerdo de inversiones entre Ecuador y Emiratos Árabes Unidos, dejando claro que su decisión es definitiva e inapelable.",
+      "scrapedAt": "2026-05-12T11:12:33.866Z"
+    },
+    {
       "key": "corte-constitucional::corte-constitucional-rechaza-pedidos-de-aclaración-y-ratific",
       "title": "Corte Constitucional rechaza pedidos de aclaración y ratifica validez del acuerdo entre Ecuador y Emiratos Árabes Unidos",
       "date": "2026-04-16",
       "url": "https://www.eluniverso.com/noticias/politica/corte-constitucional-rechaza-solicitudes-aclaracion-ratifica-validez-acuerdo-ecuador-emiratos-arabes-unidos-nota/",
       "summary": "Mediante un auto de aclaración emitido el 16 de abril de 2026, la Corte rechazó solicitudes de ciudadanos para aclarar su sentencia anterior y ratificó la validez del acuerdo de inversiones con Emiratos Árabes Unidos, condicionado a la exclusión de arbitraje comercial.",
       "scrapedAt": "2026-05-08T10:18:14.229Z"
+    },
+    {
+      "key": "corte-constitucional::sentencia-desestima-acción-extraordinaria-de-protección-por-",
+      "title": "Sentencia desestima acción extraordinaria de protección por derecho a unidad familiar",
+      "date": "2026-04-09",
+      "url": "https://esacc.corteconstitucional.gob.ec/storage/api/v1/10_DWL_FL/eyJjYXJwZXRhIjoicm8iLCJ1dWlkIjoiNWRjMDdiNmUtYWMwNS00MTYwLWIyYTgtOWE1YjQ2NjQzZjY1LnBkZiJ9",
+      "summary": "La Corte desestimó una acción extraordinaria de protección concluyendo que las autoridades jurisdiccionales no vulneraron el derecho al debido proceso al responder adecuadamente sobre el argumento relativo al derecho a la unidad familiar.",
+      "scrapedAt": "2026-05-12T11:12:33.866Z"
     },
     {
       "key": "corte-constitucional::renuncia-del-juez-constitucional-raúl-llasag-fernández",

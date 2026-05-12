@@ -2,8 +2,16 @@
   "id": "cne",
   "name": "CNE",
   "fullName": "Consejo Nacional Electoral",
-  "lastUpdated": "2026-05-11T11:56:57.336Z",
+  "lastUpdated": "2026-05-12T11:11:26.446Z",
   "items": [
+    {
+      "key": "cne::cne-organizará-45-debates-obligatorios-para-prefecturas-y-al",
+      "title": "CNE organizará 45 debates obligatorios para prefecturas y alcaldías",
+      "date": "2026-05-11",
+      "url": "https://www.eluniverso.com/noticias/politica/elecciones-seccionales-en-ecuador-cne-organizara-45-debates-obligatorios-para-prefecturas-y-alcaldias-nota/",
+      "summary": "El CNE aprobó la realización de 45 debates electorales obligatorios para candidatos a prefecturas y alcaldías entre el 12 y 26 de noviembre, permitiendo que los candidatos presenten sus programas de gobierno sobre cuatro ejes temáticos definidos.",
+      "scrapedAt": "2026-05-12T11:11:26.436Z"
+    },
     {
       "key": "cne::cne-consejo-nacional-electoral-anuncia-45-debates-obligatori",
       "title": "CNE Consejo Nacional Electoral anuncia 45 debates obligatorios para prefecturas y alcaldías",
@@ -57,15 +65,15 @@
       "title": "Ciudadanía y organizaciones políticas pueden presentar reclamos al Registro Electoral del 4 al 18 de mayo",
       "date": "2026-05-04",
       "url": "https://www.cne.gob.ec/ciudadania-y-organizaciones-politicas-pueden-presentar-reclamos-al-registro-electoral-del-4-al-18-de-mayo/",
-      "summary": "El CNE abrió un período para que ciudadanos y organizaciones políticas presenten reclamos y observaciones al Registro Electoral hasta el 18 de mayo. Este trámite permite depurar el padrón electoral antes de las elecciones del 29 de noviembre de 2026.",
+      "summary": "El CNE habilitó un período de dos semanas para que ciudadanos y organizaciones políticas presenten reclamos administrativos y observaciones al Registro Electoral, en cumplimiento del calendario de elecciones seccionales.",
       "scrapedAt": "2026-05-07T11:00:05.044Z"
     },
     {
       "key": "cne::231-organizaciones-políticas-participarán-en-las-elecciones-",
       "title": "231 organizaciones políticas participarán en las elecciones seccionales de Ecuador del 29 de noviembre de 2026",
       "date": "2026-05-03",
-      "url": "https://www.eldiario.ec/ecuador/elecciones-seccionales-ecuador-2026-organizaciones-politicas-04052026/",
-      "summary": "El CNE cerró el plazo de inscripción de organizaciones políticas con 231 agrupaciones habilitadas, aunque dos enfrentan procesos administrativos de cancelación. El pleno también rechazó el registro de dos movimientos que no subsanaron requisitos legales.",
+      "url": "https://www.eldiario.ec/ecuador/elecciones-seccionales-ecuador-2026-organizaciones-politicas-participan-candidatos-03052026/",
+      "summary": "El CNE cerró el plazo de inscripción de partidos y movimientos políticos registrando 231 organizaciones habilitadas para participar en las elecciones seccionales, incluyendo siete partidos nacionales y múltiples movimientos provinciales.",
       "scrapedAt": "2026-05-06T10:55:46.085Z"
     },
     {
@@ -91,6 +99,14 @@
       "url": "https://www.eluniverso.com/noticias/politica/cne-reforma-instructivo-candidaturas-eleccion-vocales-cpccs-nota/",
       "summary": "El CNE aprobó cambios al instructivo que regula cómo se calificarán las candidaturas para el CPCCS, incluyendo nuevos requisitos y procesos de acreditación de veedurías. Los aspirantes a vocales ahora deberán tener título de tercer nivel y demostrar probidad notoria.",
       "scrapedAt": "2026-05-01T10:14:52.970Z"
+    },
+    {
+      "key": "cne::cancelación-de-la-personería-jurídica-de-unidad-popular-y-co",
+      "title": "Cancelación de la personería jurídica de Unidad Popular y Construye",
+      "date": "2026-04-26",
+      "url": "https://www.infobae.com/america/america-latina/2026/04/27/ecuador-el-consejo-electoral-cancelo-a-dos-partidos-y-defendio-que-garantizo-el-debido-proceso/",
+      "summary": "El CNE resolvió cancelar la personería jurídica de las organizaciones políticas Unidad Popular y Construye por no mantener el número mínimo de afiliados requerido, excluyéndolas del registro oficial de partidos para participar en elecciones.",
+      "scrapedAt": "2026-05-12T11:11:26.436Z"
     },
     {
       "key": "cne::el-consejo-electoral-canceló-a-dos-partidos-y-defendió-que-g",
@@ -123,6 +139,14 @@
       "url": "https://www.eldiario.ec/ecuador/elecciones-seccionales-ecuador-2026-cne-observadores-nacionales-internacionales-23042026/",
       "summary": "El CNE autorizó la participación de observadores nacionales de universidades, consejos de igualdad y ciudadanos en el exterior, así como observadores internacionales para monitorear las elecciones del 29 de noviembre.",
       "scrapedAt": "2026-05-01T10:14:52.970Z"
+    },
+    {
+      "key": "cne::cne-aprueba-invitación-a-observadores-nacionales-e-internaci",
+      "title": "CNE aprueba invitación a observadores nacionales e internacionales para elecciones seccionales",
+      "date": "2026-04-22",
+      "url": "https://www.eldiario.ec/ecuador/elecciones-seccionales-ecuador-2026-cne-observadores-nacionales-internacionales-23042026/",
+      "summary": "El CNE aprobó la participación de misiones de observación internacional de organismos como OEA y Unión Europea, así como observadores nacionales de universidades y organizaciones de la sociedad civil, fortaleciendo la transparencia del proceso electoral.",
+      "scrapedAt": "2026-05-12T11:11:26.436Z"
     },
     {
       "key": "cne::cne-aprueba-cambio-de-denominación-de-democracia-sí-a-futuro",
