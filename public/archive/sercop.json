@@ -2,14 +2,14 @@
   "id": "sercop",
   "name": "SERCOP",
   "fullName": "Servicio Nacional de Contratación Pública",
-  "lastUpdated": "2026-05-08T06:54:35.714Z",
+  "lastUpdated": "2026-05-12T07:45:15.943Z",
   "items": [
     {
       "key": "sercop::gobierno-del-presidente-daniel-noboa-ha-capacitado-de-forma-",
       "title": "Gobierno del presidente Daniel Noboa ha capacitado de forma gratuita a más de 13.000 usuarios en contratación pública en 2026",
       "date": "2026-04-14",
       "url": "https://portal.compraspublicas.gob.ec/sercop/gobierno-capacito-13-000-usuarios/",
-      "summary": "El SERCOP ofrece capacitaciones gratuitas en línea a más de 13.000 usuarios, incluyendo entidades contratantes y proveedores. Los contenidos se enfocam en temas clave como verificación de producción nacional, subasta inversa electrónica y cumplimiento de acuerdos comerciales.",
+      "summary": "El SERCOP ha ofrecido más de 13.000 capacitaciones gratuitas en línea durante 2026 para entidades contratantes, proveedores y ciudadanos interesados en mejorar sus conocimientos sobre compras públicas, fortaleciendo la capacidad de todos los actores del sistema nacional de contratación.",
       "scrapedAt": "2026-04-30T14:04:42.879Z"
     },
     {
@@ -17,7 +17,7 @@
       "title": "Reformas al sistema fortalecen el control y la transparencia en la contratación pública",
       "date": "2026-04-09",
       "url": "https://portal.compraspublicas.gob.ec/sercop/reformas-al-sistema-de-contratacion-publica-fortalecen-el-control/",
-      "summary": "El Decreto Ejecutivo 356 oficializa reformas estructurales que endurecen las sanciones a proveedores irregulares con suspensiones de hasta 360 días. La suplantación de identidad, accesos no autorizados o manipulación de datos serán considerados faltas muy graves con sanciones inmediatas.",
+      "summary": "A través del Decreto Ejecutivo 356, se implementaron reformas estructurales que establecen progresión de sanciones para proveedores, endurecen controles y mejoran los mecanismos de fiscalización, garantizando mayor integridad y transparencia en los procesos de compra pública del Estado.",
       "scrapedAt": "2026-04-30T14:04:42.879Z"
     },
     {
@@ -25,7 +25,7 @@
       "title": "SERCOP inicia inspecciones a proveedores de servicios de alimentación en hospitales públicos",
       "date": "2026-04-02",
       "url": "https://portal.compraspublicas.gob.ec/sercop/sercop-inicia-inspecciones-a-proveedores-de-servicios-de-alimentacion-en-hospitales-publicos/",
-      "summary": "El SERCOP realiza inspecciones técnicas en territorio a proveedores del catálogo de servicios de alimentación hospitalaria para verificar cumplimiento de estándares de calidad e inocuidad. Las verificaciones se coordinan con agencias sanitarias para garantizar adecuadas condiciones de higiene.",
+      "summary": "El SERCOP comenzó a inspeccionar en territorio a los proveedores de alimentos de hospitales públicos para verificar cumplimiento de estándares de calidad, higiene y conservación, en coordinación con agencias sanitarias y de trabajo.",
       "scrapedAt": "2026-04-30T14:04:42.879Z"
     },
     {
@@ -33,7 +33,7 @@
       "title": "SERCOP insta a las entidades contratantes a vigilar el buen uso de los recursos públicos",
       "date": "2026-03-17",
       "url": "https://portal.compraspublicas.gob.ec/sercop/sercop-insta-a-las-entidades-contratantes-a-vigilar-el-buen-uso-de-los-recursos-publicos/",
-      "summary": "El SERCOP exhorta a las entidades del Estado a fortalecer la planificación de sus procedimientos de contratación y realizar controles permanentes para detectar irregularidades. Se enfatiza la importancia de procedimientos responsables, planificados y transparentes para prevenir prácticas irregulares.",
+      "summary": "El SERCOP hace un llamado a todas las entidades del Estado para que fortalezcan la planificación de sus procedimientos de contratación mediante prácticas responsables y transparentes, previniendo irregularidades y fortalecer la integridad en las compras públicas.",
       "scrapedAt": "2026-04-30T14:04:42.879Z"
     },
     {
@@ -41,7 +41,7 @@
       "title": "SERCOP avanza en la creación del Responsable Institucional de Cumplimiento en la Contratación Pública",
       "date": "2026-03-10",
       "url": "https://portal.compraspublicas.gob.ec/sercop/creacion-responsable-institucional-de-cumplimiento-en-la-contratacion-publica/",
-      "summary": "El SERCOP desarrolla el perfil del Responsable Institucional de Cumplimiento en Contratación Pública para fortalecer control e integridad en compras públicas. Cada institución pública tendrá un responsable de supervisar la planificación y ejecución de procesos de contratación.",
+      "summary": "El SERCOP avanza en la creación de la figura del Responsable Institucional de Cumplimiento para fortalecer mecanismos de control, transparencia e integridad en las compras públicas de cada institución, mediante mesas de trabajo con representantes de entidades públicas.",
       "scrapedAt": "2026-04-30T14:04:42.879Z"
     }
   ]

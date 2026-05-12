@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-05-12T06:19:14.799Z",
+  "lastScraped": "2026-05-12T07:45:40.952Z",
   "institutions": [
     {
       "id": "iniap",
@@ -317,6 +317,12 @@
       "status": "ok",
       "news": [
         {
+          "title": "Contribuyentes RIMPE deben presentar declaración de Impuesto a la Renta en mayo de 2026",
+          "date": "2026-05-11",
+          "url": "https://www.eldiario.ec/ecuador/rimpe-2026-monto-pagar-sri-ecuador-11052026/",
+          "summary": "Los contribuyentes del régimen RIMPE deben presentar su declaración de Impuesto a la Renta del período 2025 durante mayo de 2026, con vencimientos escalonados hasta el 28 de mayo según el noveno dígito de cédula o RUC. El incumplimiento genera multas e intereses sobre el monto adeudado."
+        },
+        {
           "title": "Ventas en Ecuador crecen 12,7% en abril 2026",
           "date": "2026-05-04",
           "url": "https://www.expreso.ec/economia-y-negocios/ventas-ecuador-crecen-12-7-abril-2026-marcan-nivel-alto-dos-anos-280933.html",
@@ -339,15 +345,9 @@
           "date": "2026-05-01",
           "url": "https://elmercurio.com.ec/nacional/2026/05/01/notas-de-credito-sri-pago-impuestos-ecuador/",
           "summary": "A partir del 1 de mayo de 2026, los contribuyentes solo pueden utilizar notas de crédito del SRI para cubrir hasta el 60% de sus obligaciones tributarias, lo que representa una limitación significativa en este mecanismo de pago que anteriormente permitía mayor flexibilidad."
-        },
-        {
-          "title": "SRI limita uso de notas de crédito para pagar impuestos: solo el 60% desde el 1 de mayo",
-          "date": "2026-05-01",
-          "url": "https://elmercurio.com.ec/nacional/2026/05/01/notas-de-credito-sri-pago-impuestos-ecuador/",
-          "summary": "A partir del 1 de mayo de 2026, los contribuyentes solo pueden cubrir hasta el 60% de sus obligaciones tributarias con notas de crédito emitidas por el SRI. El 40% restante debe pagarse obligatoriamente mediante canales habilitados como transferencia bancaria, débito o ventanilla."
         }
       ],
-      "lastUpdated": "2026-05-11T08:25:31.081Z"
+      "lastUpdated": "2026-05-12T07:43:43.681Z"
     },
     {
       "id": "arcsa",
@@ -358,7 +358,7 @@
       "sourceUrl": "https://www.controlsanitario.gob.ec/noticias/",
       "status": "stale",
       "news": [],
-      "lastUpdated": "2026-05-11T08:25:56.464Z"
+      "lastUpdated": "2026-05-12T07:44:08.917Z"
     },
     {
       "id": "senescyt",
@@ -394,7 +394,7 @@
           "summary": "El Ministerio de Educación abrió la etapa de inscripción para 54 institutos tecnológicos y conservatorios superiores públicos del país para el primer período 2026. Esta fase es obligatoria para jóvenes que completaron el Registro Nacional."
         }
       ],
-      "lastUpdated": "2026-05-11T08:26:21.671Z"
+      "lastUpdated": "2026-05-12T07:44:34.454Z"
     },
     {
       "id": "sercop",
@@ -409,34 +409,34 @@
           "title": "Gobierno del presidente Daniel Noboa ha capacitado de forma gratuita a más de 13.000 usuarios en contratación pública en 2026",
           "date": "2026-04-14",
           "url": "https://portal.compraspublicas.gob.ec/sercop/gobierno-capacito-13-000-usuarios/",
-          "summary": "El SERCOP ofrece capacitaciones gratuitas en línea a más de 13.000 usuarios, incluyendo entidades contratantes y proveedores. Los contenidos se enfocam en temas clave como verificación de producción nacional, subasta inversa electrónica y cumplimiento de acuerdos comerciales."
+          "summary": "El SERCOP ha ofrecido más de 13.000 capacitaciones gratuitas en línea durante 2026 para entidades contratantes, proveedores y ciudadanos interesados en mejorar sus conocimientos sobre compras públicas, fortaleciendo la capacidad de todos los actores del sistema nacional de contratación."
         },
         {
           "title": "Reformas al sistema fortalecen el control y la transparencia en la contratación pública",
           "date": "2026-04-09",
           "url": "https://portal.compraspublicas.gob.ec/sercop/reformas-al-sistema-de-contratacion-publica-fortalecen-el-control/",
-          "summary": "El Decreto Ejecutivo 356 oficializa reformas estructurales que endurecen las sanciones a proveedores irregulares con suspensiones de hasta 360 días. La suplantación de identidad, accesos no autorizados o manipulación de datos serán considerados faltas muy graves con sanciones inmediatas."
+          "summary": "A través del Decreto Ejecutivo 356, se implementaron reformas estructurales que establecen progresión de sanciones para proveedores, endurecen controles y mejoran los mecanismos de fiscalización, garantizando mayor integridad y transparencia en los procesos de compra pública del Estado."
         },
         {
           "title": "SERCOP inicia inspecciones a proveedores de servicios de alimentación en hospitales públicos",
           "date": "2026-04-02",
           "url": "https://portal.compraspublicas.gob.ec/sercop/sercop-inicia-inspecciones-a-proveedores-de-servicios-de-alimentacion-en-hospitales-publicos/",
-          "summary": "El SERCOP realiza inspecciones técnicas en territorio a proveedores del catálogo de servicios de alimentación hospitalaria para verificar cumplimiento de estándares de calidad e inocuidad. Las verificaciones se coordinan con agencias sanitarias para garantizar adecuadas condiciones de higiene."
+          "summary": "El SERCOP comenzó a inspeccionar en territorio a los proveedores de alimentos de hospitales públicos para verificar cumplimiento de estándares de calidad, higiene y conservación, en coordinación con agencias sanitarias y de trabajo."
         },
         {
           "title": "SERCOP insta a las entidades contratantes a vigilar el buen uso de los recursos públicos",
           "date": "2026-03-17",
           "url": "https://portal.compraspublicas.gob.ec/sercop/sercop-insta-a-las-entidades-contratantes-a-vigilar-el-buen-uso-de-los-recursos-publicos/",
-          "summary": "El SERCOP exhorta a las entidades del Estado a fortalecer la planificación de sus procedimientos de contratación y realizar controles permanentes para detectar irregularidades. Se enfatiza la importancia de procedimientos responsables, planificados y transparentes para prevenir prácticas irregulares."
+          "summary": "El SERCOP hace un llamado a todas las entidades del Estado para que fortalezcan la planificación de sus procedimientos de contratación mediante prácticas responsables y transparentes, previniendo irregularidades y fortalecer la integridad en las compras públicas."
         },
         {
           "title": "SERCOP avanza en la creación del Responsable Institucional de Cumplimiento en la Contratación Pública",
           "date": "2026-03-10",
           "url": "https://portal.compraspublicas.gob.ec/sercop/creacion-responsable-institucional-de-cumplimiento-en-la-contratacion-publica/",
-          "summary": "El SERCOP desarrolla el perfil del Responsable Institucional de Cumplimiento en Contratación Pública para fortalecer control e integridad en compras públicas. Cada institución pública tendrá un responsable de supervisar la planificación y ejecución de procesos de contratación."
+          "summary": "El SERCOP avanza en la creación de la figura del Responsable Institucional de Cumplimiento para fortalecer mecanismos de control, transparencia e integridad en las compras públicas de cada institución, mediante mesas de trabajo con representantes de entidades públicas."
         }
       ],
-      "lastUpdated": "2026-05-11T08:26:46.930Z"
+      "lastUpdated": "2026-05-12T07:45:15.944Z"
     },
     {
       "id": "min-interior",
