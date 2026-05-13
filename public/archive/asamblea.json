@@ -2,8 +2,16 @@
   "id": "asamblea",
   "name": "Asamblea",
   "fullName": "Asamblea Nacional del Ecuador",
-  "lastUpdated": "2026-05-11T11:57:38.631Z",
+  "lastUpdated": "2026-05-13T11:26:19.459Z",
   "items": [
+    {
+      "key": "asamblea::comisión-de-salud-recibe-aportes-técnicos-sobre-proyectos-de",
+      "title": "Comisión de Salud recibe aportes técnicos sobre proyectos de ley para la prevención y tratamiento integral de la obesidad",
+      "date": "2026-05-12",
+      "url": "https://www.asambleanacional.gob.ec/es/node/116386",
+      "summary": "Las autoridades del Ministerio de Salud Pública presentaron datos sobre la magnitud de la obesidad en Ecuador, donde uno de cada tres adultos y adolescentes padece sobrepeso u obesidad. Los asambleístas debatieron sobre la necesidad de fortalecer políticas públicas integrales de prevención y regulación de productos ultraprocesados sin crear estructuras institucionales innecesarias.",
+      "scrapedAt": "2026-05-13T11:26:19.459Z"
+    },
     {
       "key": "asamblea::asamblea-tramitará-el-proyecto-de-gobernanza-del-espacio-mar",
       "title": "Asamblea tramitará el proyecto de gobernanza del espacio marino-costero y la iniciativa popular para fortalecer la seguridad ciudadana",
@@ -69,12 +77,12 @@
       "scrapedAt": "2026-05-07T11:00:52.552Z"
     },
     {
-      "key": "asamblea::asamblea-archiva-reforma-a-garantías-jurisdiccionales-y-abre",
-      "title": "Asamblea archiva reforma a garantías jurisdiccionales y abre paso a nuevo proyecto en trámite",
-      "date": "2026-05-05",
-      "url": "https://www.asambleanacional.gob.ec/es/node/116155",
-      "summary": "El Pleno archivó con 140 votos un proyecto de reforma a la Ley de Garantías Jurisdiccionales por incumplimiento de plazos procedimentales, pero abre camino a un nuevo proyecto de reforma presentado por la Comisión de Transparencia cuyo primer debate está previsto para la siguiente semana.",
-      "scrapedAt": "2026-05-08T10:17:34.373Z"
+      "key": "asamblea::asamblea-tramitó-en-primer-debate-reforma-legal-para-agiliza",
+      "title": "Asamblea tramitó en primer debate reforma legal para agilizar los procesos de adopción de niñas, niños y adolescentes",
+      "date": "2026-05-06",
+      "url": "https://www.asambleanacional.gob.ec/es/noticia/116151-asamblea-tramitó-en-primer-debate-reforma-legal-para",
+      "summary": "La Asamblea debatió el proyecto que busca reducir los tiempos de los procesos de adopción, estableciendo plazos máximos para cada etapa. La iniciativa incluye sanciones por incumplimiento, garantía del derecho a educación superior para adolescentes no adoptados al cumplir 18 años, y el deber del juez de impulsar celeridad sin perder de vista el interés superior del niño.",
+      "scrapedAt": "2026-05-06T10:56:47.348Z"
     },
     {
       "key": "asamblea::asamblea-nacional-archiva-proyecto-sobre-control-previo-de-l",
@@ -93,12 +101,20 @@
       "scrapedAt": "2026-05-07T11:00:52.552Z"
     },
     {
-      "key": "asamblea::asamblea-tramitó-en-primer-debate-reforma-legal-para-agiliza",
-      "title": "Asamblea tramitó en primer debate reforma legal para agilizar los procesos de adopción de niñas, niños y adolescentes",
+      "key": "asamblea::asamblea-archiva-reforma-a-garantías-jurisdiccionales-y-abre",
+      "title": "Asamblea archiva reforma a garantías jurisdiccionales y abre paso a nuevo proyecto en trámite",
       "date": "2026-05-05",
-      "url": "https://www.asambleanacional.gob.ec/es/noticia/116151-asamblea-tramito-en-primer-debate-reforma-legal-para",
-      "summary": "El Pleno aprobó en primer debate el Proyecto de Ley Orgánica de Agilización Judicial para la Adopción, que busca eliminar barreras administrativas para acelerar procesos de adopción y garantizar que niñas, niños y adolescentes en casas de acogida puedan vivir en familias de manera oportuna.",
-      "scrapedAt": "2026-05-06T10:56:47.348Z"
+      "url": "https://www.asambleanacional.gob.ec/es/node/116155",
+      "summary": "El Pleno de la Asamblea decidió archivar el proyecto de reforma a la Ley de Garantías Jurisdiccionales debido a deficiencias en los plazos de votación, pero un nuevo proyecto presentado por la Comisión de Transparencia será conocido para iniciar el proceso nuevamente con mayor solidez técnica.",
+      "scrapedAt": "2026-05-08T10:17:34.373Z"
+    },
+    {
+      "key": "asamblea::asamblea-posesiona-a-mercedes-caicedo-y-ramón-echaiz-como-vo",
+      "title": "Asamblea posesiona a Mercedes Caicedo y Ramón Echaiz como vocales del Consejo de la Judicatura",
+      "date": "2026-05-05",
+      "url": "https://www.asambleanacional.gob.ec/es/node/116075",
+      "summary": "La Asamblea posesionó formalmente a Mercedes Johanna Caicedo Aldaz como presidenta del Consejo de la Judicatura para el período 2026-2031, y a Ramón Antonio Echaiz Lavayen como vocal suplente. Caicedo anunció sus cinco ejes de trabajo: independencia judicial, meritocracia, lucha contra la corrupción, modernización tecnológica y fortalecimiento de la seguridad institucional.",
+      "scrapedAt": "2026-05-01T10:15:35.150Z"
     },
     {
       "key": "asamblea::asamblea-nacional-posesiona-a-mercedes-caicedo-y-ramón-echai",
@@ -117,19 +133,11 @@
       "scrapedAt": "2026-04-30T15:30:25.156Z"
     },
     {
-      "key": "asamblea::asamblea-posesiona-a-mercedes-caicedo-y-ramón-echaiz-como-vo",
-      "title": "Asamblea posesiona a Mercedes Caicedo y Ramón Echaiz como vocales del Consejo de la Judicatura",
-      "date": "2026-04-29",
-      "url": "https://www.asambleanacional.gob.ec/es/node/116075",
-      "summary": "La Asamblea Nacional posesionó a Mercedes Johanna Caicedo Aldaz como vocal principal y presidenta del Consejo de la Judicatura, así como a Ramón Antonio Echaiz Lavayen como vocal suplente, para completar el período hasta 2031. Caicedo asume el cargo con cinco ejes fundamentales: independencia judicial, meritocracia, lucha contra la corrupción, modernización tecnológica y fortalecimiento del servicio judicial.",
-      "scrapedAt": "2026-05-01T10:15:35.150Z"
-    },
-    {
       "key": "asamblea::asamblea-enviará-al-registro-oficial-la-ley-para-fortalecer-",
       "title": "Asamblea enviará al Registro Oficial la ley para fortalecer el sistema penitenciario",
       "date": "2026-04-28",
       "url": "https://www.asambleanacional.gob.ec/es/node/116029",
-      "summary": "El Pleno se allanó con 85 votos a la objeción parcial del Ejecutivo al Proyecto de Ley Orgánica Reformatoria para el Fortalecimiento del Sistema Penitenciario, permitiendo su envío al Registro Oficial. La reforma corrige conflictos de competencias, aísla a cabecillas del crimen organizado, fortalece la disciplina carcelaria y establece mecanismos más efectivos de control.",
+      "summary": "Con 85 votos afirmativos, la Asamblea se allanó a la objeción parcial del presidente sobre la ley penitenciaria, permitiendo su remisión al Registro Oficial. La normativa establece clasificación de internos por peligrosidad, aislamiento de cabecillas, bloqueo de comunicaciones, ampliación del derecho de impugnación para personas vulnerables y ajustes en el régimen disciplinario de guardias.",
       "scrapedAt": "2026-04-30T15:30:25.156Z"
     },
     {

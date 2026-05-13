@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-05-13T09:41:00.562Z",
+  "lastScraped": "2026-05-13T11:27:09.605Z",
   "institutions": [
     {
       "id": "iniap",
@@ -561,6 +561,18 @@
       "status": "ok",
       "news": [
         {
+          "title": "CNE inicia actualización de datos para selección de miembros de juntas receptoras del voto",
+          "date": "2026-05-12",
+          "url": "https://www.eldiario.ec/ecuador/cne-inicia-actualizacion-de-datos-para-seleccion-de-miembros-de-juntas-receptoras-del-voto-12052026/",
+          "summary": "El CNE avanza en la elaboración de la base de datos para seleccionar a los miembros de las Juntas Receptoras del Voto que participarán en las Elecciones Seccionales del 29 de noviembre de 2026, a través de sus 24 delegaciones provinciales. Las instituciones públicas, privadas y educativas deben enviar información dentro de los plazos establecidos para evitar sanciones administrativas."
+        },
+        {
+          "title": "CNE organiza 45 debates electorales obligatorios para prefecturas y alcaldías",
+          "date": "2026-05-11",
+          "url": "https://www.eluniverso.com/noticias/politica/elecciones-seccionales-en-ecuador-cne-organizara-45-debates-obligatorios-para-prefecturas-y-alcaldias-nota/",
+          "summary": "El CNE anunció la realización de 45 debates electorales obligatorios entre el 12 y el 26 de noviembre de 2026 para candidatos a prefecturas y alcaldías. Los debates estarán organizados en cuatro ejes temáticos, donde en dos de ellos las preguntas las formularán los propios candidatos y en los otros dos, el Comité Nacional de Debates."
+        },
+        {
           "title": "CNE organizará 45 debates obligatorios para prefecturas y alcaldías",
           "date": "2026-05-11",
           "url": "https://www.eluniverso.com/noticias/politica/elecciones-seccionales-en-ecuador-cne-organizara-45-debates-obligatorios-para-prefecturas-y-alcaldias-nota/",
@@ -577,15 +589,9 @@
           "date": "2026-05-10",
           "url": "https://www.expreso.ec/politica/cne-iniciara-conformacion-comision-verificadora-eleccion-nuevos-vocales-cpccs-281615.html",
           "summary": "El CNE comenzará a formar la Comisión Verificadora el 11 de mayo que revisará si los candidatos al CPCCS cumplen con los requisitos legales. Esta comisión es responsable de garantizar que todos los aspirantes al Consejo de Participación Ciudadana cumplan con los estándares establecidos para poder ser elegidos."
-        },
-        {
-          "title": "CNE actualiza registro: 237 organizaciones políticas inscritas para elecciones seccionales de 2026",
-          "date": "2026-05-05",
-          "url": "https://www.eldiario.ec/ecuador/cne-actualiza-registro-237-organizaciones-politicas-inscritas-para-elecciones-seccionales-de-2026-05052026/",
-          "summary": "El CNE incorporó siete nuevos movimientos políticos locales al registro nacional, elevando el total de organizaciones políticas habilitadas a 237 para participar en los comicios seccionales. Esta actualización ocurrió después del cierre del plazo de inscripción el 3 de mayo de 2026."
         }
       ],
-      "lastUpdated": "2026-05-12T11:11:26.446Z"
+      "lastUpdated": "2026-05-13T11:25:27.468Z"
     },
     {
       "id": "asamblea",
@@ -596,6 +602,12 @@
       "sourceUrl": "https://www.asambleanacional.gob.ec/es/noticias",
       "status": "ok",
       "news": [
+        {
+          "title": "Comisión de Salud recibe aportes técnicos sobre proyectos de ley para la prevención y tratamiento integral de la obesidad",
+          "date": "2026-05-12",
+          "url": "https://www.asambleanacional.gob.ec/es/node/116386",
+          "summary": "Las autoridades del Ministerio de Salud Pública presentaron datos sobre la magnitud de la obesidad en Ecuador, donde uno de cada tres adultos y adolescentes padece sobrepeso u obesidad. Los asambleístas debatieron sobre la necesidad de fortalecer políticas públicas integrales de prevención y regulación de productos ultraprocesados sin crear estructuras institucionales innecesarias."
+        },
         {
           "title": "Asamblea tramitará el proyecto de gobernanza del espacio marino-costero y la iniciativa popular para fortalecer la seguridad ciudadana",
           "date": "2026-05-10",
@@ -645,31 +657,13 @@
           "summary": "El presidente Niels Olsen informó que la Asamblea Nacional ha cumplido más del 50% de su agenda parlamentaria 2025-2027, incluyendo aprobación de leyes para fortalecer estabilidad jurídica, recuperar seguridad, impulsar salud y desarrollo social, combatir corrupción y dinamizar la economía."
         },
         {
-          "title": "Asamblea archiva reforma a garantías jurisdiccionales y abre paso a nuevo proyecto en trámite",
-          "date": "2026-05-05",
-          "url": "https://www.asambleanacional.gob.ec/es/node/116155",
-          "summary": "El Pleno archivó con 140 votos un proyecto de reforma a la Ley de Garantías Jurisdiccionales por incumplimiento de plazos procedimentales, pero abre camino a un nuevo proyecto de reforma presentado por la Comisión de Transparencia cuyo primer debate está previsto para la siguiente semana."
-        },
-        {
-          "title": "Asamblea Nacional archiva proyecto sobre control previo de legalidad por improcedente",
-          "date": "2026-05-05",
-          "url": "https://www.asambleanacional.gob.ec/es/noticia/116162-asamblea-nacional-archiva-proyecto-sobre-control-previo-de-legalidad-por-improcedente",
-          "summary": "El Pleno archivó con 138 votos un proyecto de 2019 sobre control previo de legalidad, considerando que el contexto jurídico actual ya cuenta con diversas reformas implementadas y la Procuraduría presentó iniciativa paralela sobre el tema."
-        },
-        {
-          "title": "Luis Molina propone reforma para garantizar la probidad en la designación de Fiscal General",
-          "date": "2026-05-05",
-          "url": "https://www.asambleanacional.gob.ec/es/noticia/116145-luis-molina-impulsa-reforma-al-cootad-para-ampliar",
-          "summary": "Se presentó un proyecto de reforma al Código Orgánico de la Función Judicial para incorporar requisitos adicionales de probidad notoria en la designación del Fiscal General del Estado, fortaleciendo mecanismos de control en acceso al cargo."
-        },
-        {
           "title": "Asamblea tramitó en primer debate reforma legal para agilizar los procesos de adopción de niñas, niños y adolescentes",
-          "date": "2026-05-05",
-          "url": "https://www.asambleanacional.gob.ec/es/noticia/116151-asamblea-tramito-en-primer-debate-reforma-legal-para",
-          "summary": "El Pleno aprobó en primer debate el Proyecto de Ley Orgánica de Agilización Judicial para la Adopción, que busca eliminar barreras administrativas para acelerar procesos de adopción y garantizar que niñas, niños y adolescentes en casas de acogida puedan vivir en familias de manera oportuna."
+          "date": "2026-05-06",
+          "url": "https://www.asambleanacional.gob.ec/es/noticia/116151-asamblea-tramitó-en-primer-debate-reforma-legal-para",
+          "summary": "La Asamblea debatió el proyecto que busca reducir los tiempos de los procesos de adopción, estableciendo plazos máximos para cada etapa. La iniciativa incluye sanciones por incumplimiento, garantía del derecho a educación superior para adolescentes no adoptados al cumplir 18 años, y el deber del juez de impulsar celeridad sin perder de vista el interés superior del niño."
         }
       ],
-      "lastUpdated": "2026-05-12T11:11:52.196Z"
+      "lastUpdated": "2026-05-13T11:26:19.460Z"
     },
     {
       "id": "corte-constitucional",
@@ -711,7 +705,7 @@
           "summary": "La jueza Karla Quevedo inició el trámite de la demanda de inconstitucionalidad presentada por la Bancada de la Revolución Ciudadana contra el reglamento que eliminó restricciones para que defensores de narcotráfico postulen a Fiscal General."
         }
       ],
-      "lastUpdated": "2026-05-12T11:12:33.867Z"
+      "lastUpdated": "2026-05-13T11:26:44.604Z"
     },
     {
       "id": "pge",
