@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-05-13T07:52:57.971Z",
+  "lastScraped": "2026-05-13T09:41:00.562Z",
   "institutions": [
     {
       "id": "iniap",
@@ -485,7 +485,7 @@
           "summary": "El Ministerio del Interior suscribió un acta de compromiso con el Reino Unido para entregar medios logísticos y tecnológicos que fortalecerán la capacidad operativa del Grupo Especial Móvil Antinarcóticos en su lucha contra el narcotráfico."
         }
       ],
-      "lastUpdated": "2026-05-12T09:32:24.433Z"
+      "lastUpdated": "2026-05-13T09:39:19.807Z"
     },
     {
       "id": "min-gobierno",
@@ -496,7 +496,7 @@
       "sourceUrl": "https://www.ministeriodegobierno.gob.ec/noticias/",
       "status": "stale",
       "news": [],
-      "lastUpdated": "2026-05-12T09:32:49.605Z"
+      "lastUpdated": "2026-05-13T09:39:45.028Z"
     },
     {
       "id": "presidencia",
@@ -507,7 +507,7 @@
       "sourceUrl": "https://www.comunicacion.gob.ec/noticias/",
       "status": "stale",
       "news": [],
-      "lastUpdated": "2026-05-12T09:33:14.894Z"
+      "lastUpdated": "2026-05-13T09:40:10.293Z"
     },
     {
       "id": "ecu911",
@@ -549,7 +549,7 @@
           "summary": "El Director General del ECU 911, Juan Carlos Paladines, presentó oficialmente la rendición de cuentas correspondiente a 2025, exponiendo los logros y avances alcanzados por la central de emergencias durante el año anterior ante autoridades y ciudadanía."
         }
       ],
-      "lastUpdated": "2026-05-12T09:33:40.072Z"
+      "lastUpdated": "2026-05-13T09:40:35.557Z"
     },
     {
       "id": "cne",
