@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-05-13T04:40:10.327Z",
+  "lastScraped": "2026-05-13T06:30:45.579Z",
   "institutions": [
     {
       "id": "iniap",
@@ -201,27 +201,9 @@
           "date": "2026-05-07",
           "url": "https://www.teleamazonas.com/actualidad/noticias/ecuador/alerta-inamhi-lluvias-tormentas-ecuador-mayo/",
           "summary": "El INAMHI alertó sobre la presencia de lluvias y tormentas desde la tarde del jueves 7 de mayo, con precipitaciones que alcanzarían niveles muy altos de agua y riesgo de deslizamientos de tierra y acumulación de agua en vías."
-        },
-        {
-          "title": "Pronóstico de radiación ultravioleta extrema del 5 de mayo",
-          "date": "2026-05-05",
-          "url": "https://www.expreso.ec/guayaquil/radiacion-ultravioleta-extrema-ecuador-alerta-hoy-inamhi-281018.html",
-          "summary": "El INAMHI informó que el martes 5 de mayo se registraron niveles extremadamente altos de radiación ultravioleta en Manabí, Santa Elena y Loja, con niveles muy altos en Esmeraldas, Guayas, Los Ríos, El Oro y Santo Domingo. El instituto recomendó evitar la exposición prolongada al sol entre las 10:00 y 16:00 y tomar precauciones especiales para grupos vulnerables."
-        },
-        {
-          "title": "Pronóstico de Radiación Ultravioleta Extrema",
-          "date": "2026-05-05",
-          "url": "https://www.expreso.ec/guayaquil/radiacion-ultravioleta-extrema-ecuador-alerta-hoy-inamhi-281018.html",
-          "summary": "El INAMHI advierte sobre niveles extremos de radiación ultravioleta en Manabí, Loja, Santa Elena y otras provincias el 5 de mayo, recomendando reducir exposición al sol entre 10:00 y 16:00 horas."
-        },
-        {
-          "title": "Pronóstico de Radiación Ultravioleta Extrema (5 de mayo de 2026)",
-          "date": "2026-05-05",
-          "url": "https://radiocentro.com.ec/radiacion-ultravioleta-provincias-de-ecuador-advierte-inamhi/",
-          "summary": "El INAMHI advirtió sobre niveles extremos de radiación ultravioleta en varias provincias del Ecuador para el martes 5 de mayo. Manabí, Santa Elena y Loja enfrentan los niveles más altos, requiriendo precaución y protección solar especial entre las 10:00 y 16:00."
         }
       ],
-      "lastUpdated": "2026-05-12T06:17:37.285Z"
+      "lastUpdated": "2026-05-13T06:29:11.733Z"
     },
     {
       "id": "bce",
@@ -263,7 +245,7 @@
           "summary": "La JPRFM emitió la Resolución JPRFM-2026-008-F que obliga a todas las entidades financieras a diseñar e implementar productos financieros especializados para mujeres emprendedoras con requisitos simplificados y garantías adaptadas."
         }
       ],
-      "lastUpdated": "2026-05-12T06:18:24.635Z"
+      "lastUpdated": "2026-05-13T06:29:36.984Z"
     },
     {
       "id": "mipro",
@@ -275,6 +257,18 @@
       "status": "ok",
       "news": [
         {
+          "title": "Ecuador y Marruecos impulsan nueva etapa de cooperación bilateral",
+          "date": "2026-05-12",
+          "url": "https://www.eltelegrafo.com.ec/noticias/nacionales/210/ecuador-marruecos-crean-mecanismo-fortalecer-comercio-inversiones",
+          "summary": "Ecuador firmó un Memorando de Entendimiento con Marruecos para crear el JETCO, un mecanismo permanente de diálogo que ampliará oportunidades de comercio, inversión y cooperación económica, permitiendo al país diversificar sus destinos de exportación hacia el mercado marroquí de 39 millones de habitantes."
+        },
+        {
+          "title": "Ecuador, bajo el Gobierno de Daniel Noboa, recibió el Premio del Gobernador de Gyeonggi-do en la Goyang International Flower Festival 2026",
+          "date": "2026-05-10",
+          "url": "https://www.produccion.gob.ec/ecuador-bajo-el-gobierno-de-daniel-noboa-recibio-el-premio-del-gobernador-de-gyeonggi-do-en-la-goyang-international-flower-festival-2026/",
+          "summary": "Ecuador posicionó sus flores entre las tres mejores exhibiciones del festival internacional de Corea del Sur, con exportaciones de flores naturales a Corea alcanzando USD 805.000 en 2025 (774% de crecimiento) y USD 157.000 en los dos primeros meses de 2026, consolidando nuevos mercados asiáticos."
+        },
+        {
           "title": "Roger Crespo es designado nuevo viceministro de Promoción de Exportaciones e Inversiones",
           "date": "2026-05-04",
           "url": "https://www.eluniverso.com/noticias/economia/roger-crespo-nuevo-viceministro-de-promocion-de-exportaciones-e-inversiones-ecuador-2026-nota/",
@@ -284,28 +278,16 @@
           "title": "Gobierno del presidente Daniel Noboa traza su hoja de ruta agroindustrial al 2036 con el respaldo técnico de la FAO",
           "date": "2026-04-29",
           "url": "https://www.produccion.gob.ec/gobierno-del-presidente-daniel-noboa-traza-su-hoja-de-ruta-agroindustrial-al-2036-con-el-respaldo-tecnico-de-la-fao/",
-          "summary": "El Ministerio desarrolló el evento \"Hacia la Agroindustria 2036\" para iniciar la construcción colaborativa de una Política Pública Agroindustrial 2026-2036, transformando la economía desde materias primas hacia agroindustria competitiva con valor agregado. Este proceso permitirá diseñar estrategias orientadas a mejorar la productividad, competitividad e inserción internacional del sector agroalimentario ecuatoriano."
+          "summary": "El MPCEI, con acompañamiento de la FAO, lanzó el diálogo para construir una Política Agroindustrial 2026-2036 que transforme la economía ecuatoriana desde materias primas hacia productos agroindustriales competitivos con valor agregado e inserción en mercados internacionales exigentes."
         },
         {
           "title": "Acuerdos comerciales e inversiones por más de $ 1.000 millones destacaron en producción y comercio exterior en 2025",
           "date": "2026-04-24",
           "url": "https://www.produccion.gob.ec/",
           "summary": "Durante la Rendición de Cuentas de 2025, el MPCEI destacó la firma de acuerdos estratégicos como el Acuerdo de Comercio Recíproco con Estados Unidos, el Tratado Bilateral de Inversiones con Emiratos Árabes Unidos y el Acuerdo de Facilitación de Inversiones Sostenibles con la Unión Europea. Estos instrumentos amplían las oportunidades comerciales y mejoran las condiciones de acceso para productos ecuatorianos en mercados internacionales clave."
-        },
-        {
-          "title": "La apertura comercial del país impulsa la agenda de negociación de más de 15 acuerdos, bajo el liderazgo del gobierno del presidente Daniel Noboa",
-          "date": "2026-04-23",
-          "url": "https://www.produccion.gob.ec/la-apertura-comercial-del-pais-impulsa-la-agenda-de-negociacion-de-mas-de-15-acuerdos-bajo-el-liderazgo-del-gobierno-del-presidente-daniel-noboa/",
-          "summary": "El Gobierno continúa negociando instrumentos comerciales con 15 países, incluyendo Emiratos Árabes Unidos, Estados Unidos, Panamá y otros, con el objetivo de fortalecer las relaciones bilaterales de comercio e inversión y ampliar los mercados para los exportadores ecuatorianos."
-        },
-        {
-          "title": "Gobierno del presidente Noboa posiciona a Ecuador en WTM Latin America 2026 y fortalece su presencia internacional",
-          "date": "2026-04-16",
-          "url": "https://www.produccion.gob.ec/gobierno-del-presidente-noboa-posiciona-a-ecuador-en-wtm-latin-america-2026-y-fortalece-su-presencia-internacional/",
-          "summary": "Ecuador participó en WTM Latin America 2026 con aproximadamente 650 citas de negocios y activaciones culturales y gastronómicas, consolidando al país como destino turístico atractivo en la región de América Latina ante actores del sector turístico global."
         }
       ],
-      "lastUpdated": "2026-05-12T06:18:49.795Z"
+      "lastUpdated": "2026-05-13T06:30:20.576Z"
     },
     {
       "id": "sri",

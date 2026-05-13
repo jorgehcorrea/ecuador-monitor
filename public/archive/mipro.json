@@ -2,8 +2,24 @@
   "id": "mipro",
   "name": "MIPRO",
   "fullName": "Ministerio de Producción, Comercio Exterior, Inversiones y Pesca",
-  "lastUpdated": "2026-05-07T06:15:34.193Z",
+  "lastUpdated": "2026-05-13T06:30:20.576Z",
   "items": [
+    {
+      "key": "mipro::ecuador-y-marruecos-impulsan-nueva-etapa-de-cooperación-bila",
+      "title": "Ecuador y Marruecos impulsan nueva etapa de cooperación bilateral",
+      "date": "2026-05-12",
+      "url": "https://www.eltelegrafo.com.ec/noticias/nacionales/210/ecuador-marruecos-crean-mecanismo-fortalecer-comercio-inversiones",
+      "summary": "Ecuador firmó un Memorando de Entendimiento con Marruecos para crear el JETCO, un mecanismo permanente de diálogo que ampliará oportunidades de comercio, inversión y cooperación económica, permitiendo al país diversificar sus destinos de exportación hacia el mercado marroquí de 39 millones de habitantes.",
+      "scrapedAt": "2026-05-13T06:30:20.568Z"
+    },
+    {
+      "key": "mipro::ecuador-bajo-el-gobierno-de-daniel-noboa-recibió-el-premio",
+      "title": "Ecuador, bajo el Gobierno de Daniel Noboa, recibió el Premio del Gobernador de Gyeonggi-do en la Goyang International Flower Festival 2026",
+      "date": "2026-05-10",
+      "url": "https://www.produccion.gob.ec/ecuador-bajo-el-gobierno-de-daniel-noboa-recibio-el-premio-del-gobernador-de-gyeonggi-do-en-la-goyang-international-flower-festival-2026/",
+      "summary": "Ecuador posicionó sus flores entre las tres mejores exhibiciones del festival internacional de Corea del Sur, con exportaciones de flores naturales a Corea alcanzando USD 805.000 en 2025 (774% de crecimiento) y USD 157.000 en los dos primeros meses de 2026, consolidando nuevos mercados asiáticos.",
+      "scrapedAt": "2026-05-13T06:30:20.568Z"
+    },
     {
       "key": "mipro::roger-crespo-es-designado-nuevo-viceministro-de-promoción-de",
       "title": "Roger Crespo es designado nuevo viceministro de Promoción de Exportaciones e Inversiones",
@@ -17,7 +33,7 @@
       "title": "Gobierno del presidente Daniel Noboa traza su hoja de ruta agroindustrial al 2036 con el respaldo técnico de la FAO",
       "date": "2026-04-29",
       "url": "https://www.produccion.gob.ec/gobierno-del-presidente-daniel-noboa-traza-su-hoja-de-ruta-agroindustrial-al-2036-con-el-respaldo-tecnico-de-la-fao/",
-      "summary": "El Ministerio desarrolló el evento \"Hacia la Agroindustria 2036\" para iniciar la construcción colaborativa de una Política Pública Agroindustrial 2026-2036, transformando la economía desde materias primas hacia agroindustria competitiva con valor agregado. Este proceso permitirá diseñar estrategias orientadas a mejorar la productividad, competitividad e inserción internacional del sector agroalimentario ecuatoriano.",
+      "summary": "El MPCEI, con acompañamiento de la FAO, lanzó el diálogo para construir una Política Agroindustrial 2026-2036 que transforme la economía ecuatoriana desde materias primas hacia productos agroindustriales competitivos con valor agregado e inserción en mercados internacionales exigentes.",
       "scrapedAt": "2026-04-30T14:02:32.863Z"
     },
     {
