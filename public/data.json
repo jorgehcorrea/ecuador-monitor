@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-05-13T06:30:45.579Z",
+  "lastScraped": "2026-05-13T07:52:57.971Z",
   "institutions": [
     {
       "id": "iniap",
@@ -329,7 +329,7 @@
           "summary": "A partir del 1 de mayo de 2026, los contribuyentes solo pueden utilizar notas de crédito del SRI para cubrir hasta el 60% de sus obligaciones tributarias, lo que representa una limitación significativa en este mecanismo de pago que anteriormente permitía mayor flexibilidad."
         }
       ],
-      "lastUpdated": "2026-05-12T07:43:43.681Z"
+      "lastUpdated": "2026-05-13T07:50:55.200Z"
     },
     {
       "id": "arcsa",
@@ -338,9 +338,28 @@
       "category": "Regulatorio",
       "color": "#E9C46A",
       "sourceUrl": "https://www.controlsanitario.gob.ec/noticias/",
-      "status": "stale",
-      "news": [],
-      "lastUpdated": "2026-05-12T07:44:08.917Z"
+      "status": "ok",
+      "news": [
+        {
+          "title": "Arcsa clausura farmacia en Zamora por venta de medicamentos controlados sin receta y aplicación de tratamientos invasivos",
+          "date": "2026-05-12",
+          "url": "https://www.controlsanitario.gob.ec/arcsa-clausura-farmacia-en-zamora-por-venta-de-medicamentos-controlados-sin-receta-y-aplicacion-de-tratamientos-invasivos/",
+          "summary": "ARCSA clausuró una farmacia en Zamora por vender medicamentos controlados sin receta médica y realizar procedimientos invasivos no autorizados, vulnerando la normativa que prohíbe estos servicios en establecimientos farmacéuticos."
+        },
+        {
+          "title": "Arcsa inspeccionó cangrejal en Guayaquil tras denuncias ciudadanas de afectaciones gastrointestinales",
+          "date": "2026-05-12",
+          "url": "https://www.eltelegrafo.com.ec/noticias/nacionales/210/arcsa-inspecciono-cangrejal-guayaquil-denuncias-ciudadanas",
+          "summary": "ARCSA inspeccionó un cangrejal en Sauces 6, Guayaquil, tras reportes ciudadanos de problemas gastrointestinales y detectó varias irregularidades sanitarias que llevaron a procedimientos de cierre."
+        },
+        {
+          "title": "Arcsa clausura un chifa en Cuenca tras detectar graves irregularidades sanitarias",
+          "date": "2026-05-11",
+          "url": "https://elmercurio.com.ec/cuenca/2026/05/11/arcsa-chifa-cuenca-clausura/",
+          "summary": "ARCSA clausuró un restaurante chifa en Cuenca al encontrar condiciones deplorables incluyendo plagas, cucarachas vivas y muertas, y preparación de alimentos en áreas exteriores sin condiciones de salubridad adecuadas."
+        }
+      ],
+      "lastUpdated": "2026-05-13T07:51:42.495Z"
     },
     {
       "id": "senescyt",
@@ -376,7 +395,7 @@
           "summary": "El Ministerio de Educación abrió la etapa de inscripción para 54 institutos tecnológicos y conservatorios superiores públicos del país para el primer período 2026. Esta fase es obligatoria para jóvenes que completaron el Registro Nacional."
         }
       ],
-      "lastUpdated": "2026-05-12T07:44:34.454Z"
+      "lastUpdated": "2026-05-13T07:52:07.716Z"
     },
     {
       "id": "sercop",
@@ -418,7 +437,7 @@
           "summary": "El SERCOP avanza en la creación de la figura del Responsable Institucional de Cumplimiento para fortalecer mecanismos de control, transparencia e integridad en las compras públicas de cada institución, mediante mesas de trabajo con representantes de entidades públicas."
         }
       ],
-      "lastUpdated": "2026-05-12T07:45:15.944Z"
+      "lastUpdated": "2026-05-13T07:52:32.964Z"
     },
     {
       "id": "min-interior",
@@ -761,8 +780,8 @@
   ],
   "summary": {
     "total": 21,
-    "ok": 16,
-    "stale": 5,
+    "ok": 17,
+    "stale": 4,
     "error": 0
   }
 }

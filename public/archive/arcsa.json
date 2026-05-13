@@ -1,0 +1,48 @@
+{
+  "id": "arcsa",
+  "name": "ARCSA",
+  "fullName": "Agencia Nacional de Regulación, Control y Vigilancia Sanitaria",
+  "lastUpdated": "2026-05-13T07:51:42.495Z",
+  "items": [
+    {
+      "key": "arcsa::arcsa-clausura-farmacia-en-zamora-por-venta-de-medicamentos-",
+      "title": "Arcsa clausura farmacia en Zamora por venta de medicamentos controlados sin receta y aplicación de tratamientos invasivos",
+      "date": "2026-05-12",
+      "url": "https://www.controlsanitario.gob.ec/arcsa-clausura-farmacia-en-zamora-por-venta-de-medicamentos-controlados-sin-receta-y-aplicacion-de-tratamientos-invasivos/",
+      "summary": "ARCSA clausuró una farmacia en Zamora por vender medicamentos controlados sin receta médica y realizar procedimientos invasivos no autorizados, vulnerando la normativa que prohíbe estos servicios en establecimientos farmacéuticos.",
+      "scrapedAt": "2026-05-13T07:51:42.495Z"
+    },
+    {
+      "key": "arcsa::arcsa-inspeccionó-cangrejal-en-guayaquil-tras-denuncias-ciud",
+      "title": "Arcsa inspeccionó cangrejal en Guayaquil tras denuncias ciudadanas de afectaciones gastrointestinales",
+      "date": "2026-05-12",
+      "url": "https://www.eltelegrafo.com.ec/noticias/nacionales/210/arcsa-inspecciono-cangrejal-guayaquil-denuncias-ciudadanas",
+      "summary": "ARCSA inspeccionó un cangrejal en Sauces 6, Guayaquil, tras reportes ciudadanos de problemas gastrointestinales y detectó varias irregularidades sanitarias que llevaron a procedimientos de cierre.",
+      "scrapedAt": "2026-05-13T07:51:42.495Z"
+    },
+    {
+      "key": "arcsa::arcsa-clausura-un-chifa-en-cuenca-tras-detectar-graves-irreg",
+      "title": "Arcsa clausura un chifa en Cuenca tras detectar graves irregularidades sanitarias",
+      "date": "2026-05-11",
+      "url": "https://elmercurio.com.ec/cuenca/2026/05/11/arcsa-chifa-cuenca-clausura/",
+      "summary": "ARCSA clausuró un restaurante chifa en Cuenca al encontrar condiciones deplorables incluyendo plagas, cucarachas vivas y muertas, y preparación de alimentos en áreas exteriores sin condiciones de salubridad adecuadas.",
+      "scrapedAt": "2026-05-13T07:51:42.495Z"
+    },
+    {
+      "key": "arcsa::ecuador-ingresa-a-la-declaración-de-río-de-janeiro-para-fort",
+      "title": "Ecuador ingresa a la Declaración de Río de Janeiro para fortalecer regulación de medicamentos",
+      "date": "2026-05-05",
+      "url": "https://www.controlsanitario.gob.ec/ecuador-ingresa-a-la-declaracion-de-rio-de-janeiro-para-fortalecer-regulacion-de-medicamentos/",
+      "summary": "Ecuador formalizó su adhesión a un acuerdo internacional de cooperación regulatoria con otros países para coordinar regulación de medicamentos y dispositivos médicos, mejorar eficiencia regulatoria e intercambiar información sobre registros sanitarios.",
+      "scrapedAt": "2026-05-13T07:51:42.495Z"
+    },
+    {
+      "key": "arcsa::arcsa-retira-del-mercado-más-de-4500-productos-irregulares-e",
+      "title": "Arcsa retira del mercado más de 4500 productos irregulares en Santo Domingo",
+      "date": "2026-04-13",
+      "url": "https://kchcomunicacion.com/2026/04/13/mas-de-4500-productos-irregulares-fueron-retirados-del-mercado-en-santo-domingo/",
+      "summary": "ARCSA detectó e inmovilizó más de 4500 artículos cosméticos sin notificación sanitaria ecuatoriana en una comercializadora de Santo Domingo, incluyendo productos de origen nacional y extranjero que fueron retirados del mercado.",
+      "scrapedAt": "2026-05-13T07:51:42.495Z"
+    }
+  ]
+}

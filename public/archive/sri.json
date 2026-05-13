@@ -2,7 +2,7 @@
   "id": "sri",
   "name": "SRI",
   "fullName": "Servicio de Rentas Internas",
-  "lastUpdated": "2026-05-12T07:43:43.681Z",
+  "lastUpdated": "2026-05-13T07:50:55.199Z",
   "items": [
     {
       "key": "sri::contribuyentes-rimpe-deben-presentar-declaración-de-impuesto",
@@ -105,7 +105,7 @@
       "title": "Declaración y pago del IVA se realizarán en un solo paso desde junio de 2026",
       "date": "2026-04-16",
       "url": "https://www.eluniverso.com/noticias/economia/sri-pago-declaracion-iva-ecuador-junio-2026-servicio-de-rentas-internas-nota/",
-      "summary": "A partir de junio de 2026, los contribuyentes deberán presentar la declaración y efectuar el pago del IVA de forma simultánea en un solo paso dentro de los plazos establecidos, simplificando el proceso tributario. Esta medida busca optimizar la recaudación fiscal y evitar omisiones en las obligaciones de IVA.",
+      "summary": "A partir del 1 de junio de 2026, los contribuyentes obligados a declarar IVA podrán realizar la declaración y pago en un solo trámite. Esto simplifica el proceso anterior que requería pasos separados para declarar y luego pagar.",
       "scrapedAt": "2026-05-06T07:36:30.709Z"
     },
     {
@@ -131,6 +131,14 @@
       "url": "https://www.sri.gob.ec/o/sri-portlet-biblioteca-alfresco-internet/descargar/de851ad4-b61a-44a2-9221-d62ee6089744/BOLETI%CC%81N%20019%20-%20SRI%20INCORPORA%20NUEVOS%20SERVICIOS%20EN%20L%C3%8DNEA%20PARA%20CONTADORES%20Y%20REPRESENTANTES%20LEGALES.pdf",
       "summary": "El Boletín NAC-COM-26-019 del 1 de abril de 2026 anuncia la incorporación de nuevos servicios digitales en la plataforma del SRI destinados a facilitar la labor de contadores y representantes legales en la presentación de obligaciones tributarias y trámites ante la institución.",
       "scrapedAt": "2026-05-10T07:26:46.247Z"
+    },
+    {
+      "key": "sri::restricción-de-notas-de-crédito-desmaterializadas-a-partir-d",
+      "title": "Restricción de notas de crédito desmaterializadas a partir del 1 de mayo de 2026",
+      "date": "2026-03-31",
+      "url": "https://boletincontable.com/2026/04/02/notas-de-credito-desmaterializadas-sri-nueva-resolucion/",
+      "summary": "El SRI limitó el uso de notas de crédito desmaterializadas para pagar impuestos al 60% del valor adeudado. El 40% restante debe pagarse obligatoriamente en efectivo mediante los canales habituales de SRI en Línea, a partir del 1 de mayo de 2026.",
+      "scrapedAt": "2026-05-13T07:50:55.190Z"
     },
     {
       "key": "sri::restricción-en-el-uso-de-notas-de-crédito-desmaterializadas-",
@@ -163,6 +171,14 @@
       "url": "https://www.expreso.ec/economia-y-negocios/cambios-sri-mayo-2026-asi-funcionaran-notas-credito-280346.html",
       "summary": "A partir del 1 de mayo de 2026, los contribuyentes solo pueden usar notas de crédito para pagar el 60% de sus obligaciones tributarias, debiendo cancelar el 40% restante en efectivo o transferencia bancaria. Esta medida busca garantizar mayor flujo de recaudación tributaria.",
       "scrapedAt": "2026-05-01T07:26:41.703Z"
+    },
+    {
+      "key": "sri::nuevos-porcentajes-de-retención-en-la-fuente-de-impuesto-a-l",
+      "title": "Nuevos porcentajes de retención en la fuente de Impuesto a la Renta desde marzo 2026",
+      "date": "2026-02-27",
+      "url": "https://www.lexis.com.ec/noticias/sri-amplia-plazo-para-declaraciones-e-impuestos-vencidos-el-12-de-enero-de-2026",
+      "summary": "El SRI estableció nuevos porcentajes de retención en la fuente de Impuesto a la Renta aplicables desde el 1 de marzo de 2026. Los porcentajes varían según sectores y resultados fiscales del año anterior.",
+      "scrapedAt": "2026-05-13T07:50:55.190Z"
     },
     {
       "key": "sri::nuevos-porcentajes-de-retención-en-la-fuente-del-impuesto-a-",
@@ -211,6 +227,22 @@
       "url": "https://www.sri.gob.ec/en/boletines-2026",
       "summary": "Según el boletín oficial del SRI, las ventas en Ecuador crecieron 8,2% en 2025, superando los USD 265 mil millones, demostrando el dinamismo económico del país. Este crecimiento sustenta el aumento en la recaudación tributaria durante el período.",
       "scrapedAt": "2026-05-01T07:26:41.703Z"
+    },
+    {
+      "key": "sri::ampliación-de-plazo-para-declaraciones-e-impuestos-vencidos-",
+      "title": "Ampliación de plazo para declaraciones e impuestos vencidos el 12 de enero de 2026",
+      "date": "2026-01-12",
+      "url": "https://www.lexis.com.ec/noticias/sri-amplia-plazo-para-declaraciones-e-impuestos-vencidos-el-12-de-enero-de-2026",
+      "summary": "El SRI mediante resolución NAC-DGERCGC26-00000002 extendió el plazo para presentar declaraciones, pagos y anexos tributarios que vencieron el 12 de enero de 2026, brindando flexibilidad a contribuyentes ante problemas técnicos.",
+      "scrapedAt": "2026-05-13T07:50:55.190Z"
+    },
+    {
+      "key": "sri::actualización-de-tablas-de-impuesto-a-la-renta-para-el-año-f",
+      "title": "Actualización de tablas de Impuesto a la Renta para el año fiscal 2026",
+      "date": "2025-12-29",
+      "url": "https://www.jezl-auditores.com/index.php/tributario/117-resoluciones-y-circulares-sri-2026-2025-24-23-22-21-y-20",
+      "summary": "El SRI actualizó las tablas de cálculo del Impuesto a la Renta para 2026 mediante la Resolución NAC-DGERCGC25-00000043. La base imponible se ajustó según la variación anual del Índice de Precios al Consumidor de noviembre de 2025.",
+      "scrapedAt": "2026-05-13T07:50:55.190Z"
     }
   ]
 }
