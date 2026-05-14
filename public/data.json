@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-05-14T09:31:20.730Z",
+  "lastScraped": "2026-05-14T11:10:15.797Z",
   "institutions": [
     {
       "id": "iniap",
@@ -551,8 +551,8 @@
         {
           "title": "CNE inicia actualización de datos para selección de miembros de juntas receptoras del voto",
           "date": "2026-05-12",
-          "url": "https://www.eldiario.ec/ecuador/cne-inicia-actualizacion-de-datos-para-seleccion-de-miembros-de-juntas-receptoras-del-voto-12052026/",
-          "summary": "El CNE avanza en la elaboración de la base de datos para seleccionar a los miembros de las Juntas Receptoras del Voto que participarán en las Elecciones Seccionales del 29 de noviembre de 2026, a través de sus 24 delegaciones provinciales. Las instituciones públicas, privadas y educativas deben enviar información dentro de los plazos establecidos para evitar sanciones administrativas."
+          "url": "https://www.cne.gob.ec/cne-inicia-actualizacion-de-datos-para-seleccion-de-miembros-de-juntas-receptoras-del-voto/",
+          "summary": "El CNE comienza el proceso de actualización de la base de datos para seleccionar a los integrantes de las juntas receptoras del voto que participarán en las elecciones seccionales y del CPCCS de 2027. Las instituciones públicas, privadas y centros de educación superior deberán entregar la información requerida dentro de los plazos establecidos para evitar sanciones."
         },
         {
           "title": "CNE organiza 45 debates electorales obligatorios para prefecturas y alcaldías",
@@ -579,7 +579,7 @@
           "summary": "El CNE comenzará a formar la Comisión Verificadora el 11 de mayo que revisará si los candidatos al CPCCS cumplen con los requisitos legales. Esta comisión es responsable de garantizar que todos los aspirantes al Consejo de Participación Ciudadana cumplan con los estándares establecidos para poder ser elegidos."
         }
       ],
-      "lastUpdated": "2026-05-13T11:25:27.468Z"
+      "lastUpdated": "2026-05-14T11:08:45.675Z"
     },
     {
       "id": "asamblea",
@@ -591,10 +591,40 @@
       "status": "ok",
       "news": [
         {
+          "title": "Asamblea Nacional presentará informe del primer año de gestión este 14 de mayo",
+          "date": "2026-05-14",
+          "url": "https://www.asambleanacional.gob.ec/es/noticia/116426-asamblea-nacional-presentara-informe-del-primer-ano-de",
+          "summary": "El presidente Niels Olsen presentará un informe detallando los logros de la Asamblea en su primer año de gestión, incluyendo 24 leyes aprobadas enfocadas en seguridad, empleo, salud y educación. La presentación ocurrirá el 14 de mayo a las 10:00 en sesión plenaria."
+        },
+        {
+          "title": "Expertos y sector productivo coinciden en impulsar una política integral contra la obesidad",
+          "date": "2026-05-13",
+          "url": "https://www.asambleanacional.gob.ec/es/noticia/116492-expertos-y-sector-productivo-coinciden-en-impulsar-una",
+          "summary": "Expertos y representantes del sector productivo se reunieron en la Asamblea para analizar y proponer una política integral contra la obesidad en el país. Los participantes concordaron en la necesidad de implementar medidas multisectoriales para abordar este problema de salud pública."
+        },
+        {
+          "title": "El Pleno de la Asamblea Nacional tramitó en segundo debate el Proyecto de Ley Orgánica de Gobernanza del Espacio Marino-Costero",
+          "date": "2026-05-13",
+          "url": "https://www.asambleanacional.gob.ec/es/node/116364",
+          "summary": "El proyecto de ley busca establecer el primer marco jurídico integral para regular el uso sostenible del mar y proteger los ecosistemas marino-costeros del Ecuador. El debate fue suspendido temporalmente para que la Comisión de Biodiversidad incorpore observaciones de diferentes bancadas legislativas."
+        },
+        {
+          "title": "Sectores aduanero y marítimo respaldan reformas para optimizar disposición de bienes decomisados",
+          "date": "2026-05-13",
+          "url": "https://www.asambleanacional.gob.ec/es/noticia/116470-sectores-aduanero-y-maritimo-respaldan-reformas-para",
+          "summary": "La Comisión de Desarrollo Económico recibió respaldo del sector aduanero y marítimo para reformas orientadas a solucionar problemas operativos causados por mercancías en custodia aduanera. La propuesta busca reducir costos de almacenamiento y optimizar procesos administrativos."
+        },
+        {
           "title": "Comisión de Salud recibe aportes técnicos sobre proyectos de ley para la prevención y tratamiento integral de la obesidad",
           "date": "2026-05-12",
           "url": "https://www.asambleanacional.gob.ec/es/node/116386",
           "summary": "Las autoridades del Ministerio de Salud Pública presentaron datos sobre la magnitud de la obesidad en Ecuador, donde uno de cada tres adultos y adolescentes padece sobrepeso u obesidad. Los asambleístas debatieron sobre la necesidad de fortalecer políticas públicas integrales de prevención y regulación de productos ultraprocesados sin crear estructuras institucionales innecesarias."
+        },
+        {
+          "title": "Comisión de Justicia recibe aportes al proyecto de Ley de Extradición",
+          "date": "2026-05-11",
+          "url": "https://www.asambleanacional.gob.ec/es/noticia/116294-comision-de-justicia-recibe-aportes-al-proyecto-de-ley",
+          "summary": "La Comisión de Justicia continuó analizando el proyecto de Ley Orgánica de Extradición recibiendo criterios técnicos de la Corte Constitucional. Los expertos enfatizaron que la extradición debe aplicarse respetando los derechos humanos y garantías del debido proceso."
         },
         {
           "title": "Asamblea tramitará el proyecto de gobernanza del espacio marino-costero y la iniciativa popular para fortalecer la seguridad ciudadana",
@@ -619,39 +649,9 @@
           "date": "2026-05-07",
           "url": "https://www.asambleanacional.gob.ec/es/node/116232",
           "summary": "El Pleno de la Asamblea Nacional otorgó una condecoración a Nelson Fernando Proaño Guerra (Damiano) en reconocimiento a su trayectoria de más de 55 años en la música popular ecuatoriana y su contribución al desarrollo cultural del país. Este reconocimiento busca honrar su invaluable aporte a la identidad cultural nacional."
-        },
-        {
-          "title": "CAL califica 22 proyectos de ley sobre empleo juvenil, violencia digital y derechos ciudadanos",
-          "date": "2026-05-06",
-          "url": "https://www.asambleanacional.gob.ec/es/noticia/116184-cal-califica-22-proyectos-de-ley-sobre-empleo-juvenil",
-          "summary": "El Consejo de Administración Legislativa calificó 22 proyectos de ley prioritarios sobre empleo juvenil, violencia digital, educación superior, propiedad horizontal y explotación sexual infantil, distribuyéndolos a comisiones especializadas para su tramitación legislativa."
-        },
-        {
-          "title": "Comisión de Régimen debate reforma financiera y el cobro de intereses sobre intereses que afecta a usuarios",
-          "date": "2026-05-06",
-          "url": "https://www.asambleanacional.gob.ec/es/noticia/116171-comision-de-regimen-debate-reforma-financiera-y-el",
-          "summary": "La Comisión analizó reformas al Código Orgánico Monetario y Financiero para limitar el anatocismo (intereses sobre intereses), buscando fortalecer la regulación para proteger a usuarios del sistema financiero."
-        },
-        {
-          "title": "Comisión de Salud aprueba texto final de reforma para personas que padecen diabetes",
-          "date": "2026-05-06",
-          "url": "https://www.asambleanacional.gob.ec/es/noticia/116218-comision-de-salud-aprueba-texto-final-de-reforma-para",
-          "summary": "La Comisión del Derecho a la Salud aprobó el texto final de la reforma que obliga a los servicios públicos de salud, empresas de medicina prepagada y aseguradoras a aceptar pacientes con diabetes en cualquier estado clínico, prohibiendo rechazos por esa condición."
-        },
-        {
-          "title": "Asamblea Nacional fortalece su gestión con más del 50 % de la agenda parlamentaria 2025-2027 cumplida, destaca Niels Olsen",
-          "date": "2026-05-06",
-          "url": "https://www.asambleanacional.gob.ec/es/noticia/116196-asamblea-nacional-fortalece-su-gestion-con-mas-del-50",
-          "summary": "El presidente Niels Olsen informó que la Asamblea Nacional ha cumplido más del 50% de su agenda parlamentaria 2025-2027, incluyendo aprobación de leyes para fortalecer estabilidad jurídica, recuperar seguridad, impulsar salud y desarrollo social, combatir corrupción y dinamizar la economía."
-        },
-        {
-          "title": "Asamblea tramitó en primer debate reforma legal para agilizar los procesos de adopción de niñas, niños y adolescentes",
-          "date": "2026-05-06",
-          "url": "https://www.asambleanacional.gob.ec/es/noticia/116151-asamblea-tramitó-en-primer-debate-reforma-legal-para",
-          "summary": "La Asamblea debatió el proyecto que busca reducir los tiempos de los procesos de adopción, estableciendo plazos máximos para cada etapa. La iniciativa incluye sanciones por incumplimiento, garantía del derecho a educación superior para adolescentes no adoptados al cumplir 18 años, y el deber del juez de impulsar celeridad sin perder de vista el interés superior del niño."
         }
       ],
-      "lastUpdated": "2026-05-13T11:26:19.460Z"
+      "lastUpdated": "2026-05-14T11:09:25.626Z"
     },
     {
       "id": "corte-constitucional",
@@ -693,7 +693,7 @@
           "summary": "La jueza Karla Quevedo inició el trámite de la demanda de inconstitucionalidad presentada por la Bancada de la Revolución Ciudadana contra el reglamento que eliminó restricciones para que defensores de narcotráfico postulen a Fiscal General."
         }
       ],
-      "lastUpdated": "2026-05-13T11:26:44.604Z"
+      "lastUpdated": "2026-05-14T11:09:50.797Z"
     },
     {
       "id": "pge",

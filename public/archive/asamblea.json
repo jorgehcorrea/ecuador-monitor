@@ -2,8 +2,40 @@
   "id": "asamblea",
   "name": "Asamblea",
   "fullName": "Asamblea Nacional del Ecuador",
-  "lastUpdated": "2026-05-13T11:26:19.459Z",
+  "lastUpdated": "2026-05-14T11:09:25.626Z",
   "items": [
+    {
+      "key": "asamblea::asamblea-nacional-presentará-informe-del-primer-año-de-gesti",
+      "title": "Asamblea Nacional presentará informe del primer año de gestión este 14 de mayo",
+      "date": "2026-05-14",
+      "url": "https://www.asambleanacional.gob.ec/es/noticia/116426-asamblea-nacional-presentara-informe-del-primer-ano-de",
+      "summary": "El presidente Niels Olsen presentará un informe detallando los logros de la Asamblea en su primer año de gestión, incluyendo 24 leyes aprobadas enfocadas en seguridad, empleo, salud y educación. La presentación ocurrirá el 14 de mayo a las 10:00 en sesión plenaria.",
+      "scrapedAt": "2026-05-14T11:09:25.625Z"
+    },
+    {
+      "key": "asamblea::expertos-y-sector-productivo-coinciden-en-impulsar-una-polít",
+      "title": "Expertos y sector productivo coinciden en impulsar una política integral contra la obesidad",
+      "date": "2026-05-13",
+      "url": "https://www.asambleanacional.gob.ec/es/noticia/116492-expertos-y-sector-productivo-coinciden-en-impulsar-una",
+      "summary": "Expertos y representantes del sector productivo se reunieron en la Asamblea para analizar y proponer una política integral contra la obesidad en el país. Los participantes concordaron en la necesidad de implementar medidas multisectoriales para abordar este problema de salud pública.",
+      "scrapedAt": "2026-05-14T11:09:25.625Z"
+    },
+    {
+      "key": "asamblea::el-pleno-de-la-asamblea-nacional-tramitó-en-segundo-debate-e",
+      "title": "El Pleno de la Asamblea Nacional tramitó en segundo debate el Proyecto de Ley Orgánica de Gobernanza del Espacio Marino-Costero",
+      "date": "2026-05-13",
+      "url": "https://www.asambleanacional.gob.ec/es/node/116364",
+      "summary": "El proyecto de ley busca establecer el primer marco jurídico integral para regular el uso sostenible del mar y proteger los ecosistemas marino-costeros del Ecuador. El debate fue suspendido temporalmente para que la Comisión de Biodiversidad incorpore observaciones de diferentes bancadas legislativas.",
+      "scrapedAt": "2026-05-14T11:09:25.625Z"
+    },
+    {
+      "key": "asamblea::sectores-aduanero-y-marítimo-respaldan-reformas-para-optimiz",
+      "title": "Sectores aduanero y marítimo respaldan reformas para optimizar disposición de bienes decomisados",
+      "date": "2026-05-13",
+      "url": "https://www.asambleanacional.gob.ec/es/noticia/116470-sectores-aduanero-y-maritimo-respaldan-reformas-para",
+      "summary": "La Comisión de Desarrollo Económico recibió respaldo del sector aduanero y marítimo para reformas orientadas a solucionar problemas operativos causados por mercancías en custodia aduanera. La propuesta busca reducir costos de almacenamiento y optimizar procesos administrativos.",
+      "scrapedAt": "2026-05-14T11:09:25.625Z"
+    },
     {
       "key": "asamblea::comisión-de-salud-recibe-aportes-técnicos-sobre-proyectos-de",
       "title": "Comisión de Salud recibe aportes técnicos sobre proyectos de ley para la prevención y tratamiento integral de la obesidad",
@@ -11,6 +43,14 @@
       "url": "https://www.asambleanacional.gob.ec/es/node/116386",
       "summary": "Las autoridades del Ministerio de Salud Pública presentaron datos sobre la magnitud de la obesidad en Ecuador, donde uno de cada tres adultos y adolescentes padece sobrepeso u obesidad. Los asambleístas debatieron sobre la necesidad de fortalecer políticas públicas integrales de prevención y regulación de productos ultraprocesados sin crear estructuras institucionales innecesarias.",
       "scrapedAt": "2026-05-13T11:26:19.459Z"
+    },
+    {
+      "key": "asamblea::comisión-de-justicia-recibe-aportes-al-proyecto-de-ley-de-ex",
+      "title": "Comisión de Justicia recibe aportes al proyecto de Ley de Extradición",
+      "date": "2026-05-11",
+      "url": "https://www.asambleanacional.gob.ec/es/noticia/116294-comision-de-justicia-recibe-aportes-al-proyecto-de-ley",
+      "summary": "La Comisión de Justicia continuó analizando el proyecto de Ley Orgánica de Extradición recibiendo criterios técnicos de la Corte Constitucional. Los expertos enfatizaron que la extradición debe aplicarse respetando los derechos humanos y garantías del debido proceso.",
+      "scrapedAt": "2026-05-14T11:09:25.625Z"
     },
     {
       "key": "asamblea::asamblea-tramitará-el-proyecto-de-gobernanza-del-espacio-mar",

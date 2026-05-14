@@ -2,14 +2,14 @@
   "id": "cne",
   "name": "CNE",
   "fullName": "Consejo Nacional Electoral",
-  "lastUpdated": "2026-05-13T11:25:27.468Z",
+  "lastUpdated": "2026-05-14T11:08:45.674Z",
   "items": [
     {
       "key": "cne::cne-inicia-actualización-de-datos-para-selección-de-miembros",
       "title": "CNE inicia actualización de datos para selección de miembros de juntas receptoras del voto",
       "date": "2026-05-12",
-      "url": "https://www.eldiario.ec/ecuador/cne-inicia-actualizacion-de-datos-para-seleccion-de-miembros-de-juntas-receptoras-del-voto-12052026/",
-      "summary": "El CNE avanza en la elaboración de la base de datos para seleccionar a los miembros de las Juntas Receptoras del Voto que participarán en las Elecciones Seccionales del 29 de noviembre de 2026, a través de sus 24 delegaciones provinciales. Las instituciones públicas, privadas y educativas deben enviar información dentro de los plazos establecidos para evitar sanciones administrativas.",
+      "url": "https://www.cne.gob.ec/cne-inicia-actualizacion-de-datos-para-seleccion-de-miembros-de-juntas-receptoras-del-voto/",
+      "summary": "El CNE comienza el proceso de actualización de la base de datos para seleccionar a los integrantes de las juntas receptoras del voto que participarán en las elecciones seccionales y del CPCCS de 2027. Las instituciones públicas, privadas y centros de educación superior deberán entregar la información requerida dentro de los plazos establecidos para evitar sanciones.",
       "scrapedAt": "2026-05-13T11:25:27.458Z"
     },
     {
@@ -45,6 +45,14 @@
       "scrapedAt": "2026-05-11T11:56:57.326Z"
     },
     {
+      "key": "cne::hasta-el-13-de-mayo-el-cne-recepta-inscripciones-para-integr",
+      "title": "Hasta el 13 de mayo el CNE recepta inscripciones para integrar veedurías del proceso de elección del CPCCS 2027",
+      "date": "2026-05-06",
+      "url": "https://www.cne.gob.ec/hasta-el-13-de-mayo-el-cne-recepta-inscripciones-para-integrar-veedurias-del-proceso-de-eleccion-del-cpccs-2027/",
+      "summary": "El CNE abre un período hasta el 13 de mayo para que personas naturales, organizaciones sociales e instituciones de educación superior se inscriban como veedores del proceso de elección del CPCCS 2027. Las inscripciones se pueden realizar de forma virtual en el portal institucional o presencialmente en las delegaciones provinciales del CNE.",
+      "scrapedAt": "2026-05-07T11:00:05.044Z"
+    },
+    {
       "key": "cne::cne-actualiza-registro-237-organizaciones-políticas-inscrit",
       "title": "CNE actualiza registro: 237 organizaciones políticas inscritas para elecciones seccionales de 2026",
       "date": "2026-05-05",
@@ -69,14 +77,6 @@
       "scrapedAt": "2026-05-06T10:55:46.085Z"
     },
     {
-      "key": "cne::hasta-el-13-de-mayo-el-cne-recepta-inscripciones-para-integr",
-      "title": "Hasta el 13 de mayo el CNE recepta inscripciones para integrar veedurías del proceso de elección del CPCCS 2027",
-      "date": "2026-05-04",
-      "url": "https://www.cne.gob.ec/hasta-el-13-de-mayo-el-cne-recepta-inscripciones-para-integrar-veedurias-del-proceso-de-eleccion-del-cpccs-2027/",
-      "summary": "El CNE abrió inscripciones para que ciudadanos y organizaciones sociales conformen veedurías que supervisarán la selección de candidatos al CPCCS. Los observadores ciudadanos asegurarán transparencia durante el proceso de recepción de postulaciones e impugnaciones de candidaturas.",
-      "scrapedAt": "2026-05-07T11:00:05.044Z"
-    },
-    {
       "key": "cne::cne-habilitó-simulador-virtual-de-apoyo-técnico-a-organizaci",
       "title": "CNE habilitó simulador virtual de apoyo técnico a organizaciones políticas para inscripción de candidaturas",
       "date": "2026-05-04",
@@ -89,7 +89,7 @@
       "title": "Ciudadanía y organizaciones políticas pueden presentar reclamos al Registro Electoral del 4 al 18 de mayo",
       "date": "2026-05-04",
       "url": "https://www.cne.gob.ec/ciudadania-y-organizaciones-politicas-pueden-presentar-reclamos-al-registro-electoral-del-4-al-18-de-mayo/",
-      "summary": "El CNE habilitó un período de dos semanas para que ciudadanos y organizaciones políticas presenten reclamos administrativos y observaciones al Registro Electoral, en cumplimiento del calendario de elecciones seccionales.",
+      "summary": "El CNE abre un período del 4 al 18 de mayo para que ciudadanos y organizaciones políticas presenten reclamos y observaciones al Registro Electoral. El 2 de julio de 2026 el CNE aprobará el registro definitivo que será utilizado en las elecciones del 29 de noviembre de 2026.",
       "scrapedAt": "2026-05-07T11:00:05.044Z"
     },
     {
@@ -191,9 +191,9 @@
     {
       "key": "cne::cne-actualiza-reglamento-y-manual-para-la-organización-de-21",
       "title": "CNE actualiza reglamento y manual para la organización de 21 debates de prefecturas y de 24 alcaldías",
-      "date": "2026-04-12",
+      "date": "2026-04-11",
       "url": "https://www.cne.gob.ec/cne-actualiza-reglamento-y-manual-para-la-organizacion-de-21-debates-de-prefecturas-y-de-24-alcaldias/",
-      "summary": "El CNE estableció nuevas reglas y procedimientos para los 45 debates electorales que se realizarán entre noviembre 12 y 26 de 2026. Los cambios buscan garantizar condiciones equitativas para todos los candidatos y asegurar que la ciudadanía pueda conocer las propuestas de quienes aspiran a dirigir provincias y cantones.",
+      "summary": "El CNE aprueba los reglamentos técnicos y metodológicos para 45 debates electorales obligatorios que se realizarán del 12 al 26 de noviembre de 2026. Los debates sobre cuatro ejes temáticos permitirán que candidatos a prefecturas y alcaldías presenten sus propuestas de gobierno ante la ciudadanía antes del silencio electoral.",
       "scrapedAt": "2026-05-01T10:14:52.970Z"
     },
     {
@@ -217,7 +217,7 @@
       "title": "CNE actualiza número de circunscripciones para la elección de concejales urbanos y rurales en Ecuador",
       "date": "2026-04-03",
       "url": "https://www.cne.gob.ec/cne-actualiza-numero-de-circunscripciones-para-la-eleccion-de-concejales-urbanos-y-rurales-en-ecuador/",
-      "summary": "El CNE actualizó las circunscripciones electorales para elegir concejales en el 29 de noviembre de 2026, permitiendo que ciudadanos consulten su lugar de votación en la plataforma oficial.",
+      "summary": "El Pleno del CNE aprueba la delimitación de circunscripciones electorales para 17 cantones que elegirán concejales urbanos y rurales mediante esta división territorial. Esta actualización se aplicará en las elecciones seccionales del 29 de noviembre de 2026.",
       "scrapedAt": "2026-05-01T10:14:52.970Z"
     },
     {
