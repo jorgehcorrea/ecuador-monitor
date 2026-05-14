@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-05-14T04:38:58.296Z",
+  "lastScraped": "2026-05-14T06:29:21.961Z",
   "institutions": [
     {
       "id": "iniap",
@@ -203,7 +203,7 @@
           "summary": "El INAMHI alertó sobre la presencia de lluvias y tormentas desde la tarde del jueves 7 de mayo, con precipitaciones que alcanzarían niveles muy altos de agua y riesgo de deslizamientos de tierra y acumulación de agua en vías."
         }
       ],
-      "lastUpdated": "2026-05-13T06:29:11.733Z"
+      "lastUpdated": "2026-05-14T06:27:44.708Z"
     },
     {
       "id": "bce",
@@ -245,7 +245,7 @@
           "summary": "La JPRFM emitió la Resolución JPRFM-2026-008-F que obliga a todas las entidades financieras a diseñar e implementar productos financieros especializados para mujeres emprendedoras con requisitos simplificados y garantías adaptadas."
         }
       ],
-      "lastUpdated": "2026-05-13T06:29:36.984Z"
+      "lastUpdated": "2026-05-14T06:28:10.020Z"
     },
     {
       "id": "mipro",
@@ -257,6 +257,12 @@
       "status": "ok",
       "news": [
         {
+          "title": "Gobierno del presidente Daniel Noboa concreta la firma de Memorando de Entendimiento para la creación del Comité Conjunto Económico y Comercial (JETCO) entre Ecuador y Marruecos",
+          "date": "2026-05-12",
+          "url": "https://www.produccion.gob.ec/gobierno-del-presidente-daniel-noboa-concreta-la-firma-de-memorando-de-entendimiento-para-la-creacion-del-comite-conjunto-economico-y-comercial-jetco-entre-ecuador-y-marruecos/",
+          "summary": "Ecuador y Marruecos establecieron un mecanismo permanente de diálogo (JETCO) para identificar oportunidades de negocio, diversificar el intercambio comercial y fortalecer los lazos económicos. La primera reunión del comité se realizará en junio de 2026, creando un espacio para posicionar productos ecuatorianos en un mercado de 39 millones de habitantes."
+        },
+        {
           "title": "Ecuador y Marruecos impulsan nueva etapa de cooperación bilateral",
           "date": "2026-05-12",
           "url": "https://www.eltelegrafo.com.ec/noticias/nacionales/210/ecuador-marruecos-crean-mecanismo-fortalecer-comercio-inversiones",
@@ -266,28 +272,10 @@
           "title": "Ecuador, bajo el Gobierno de Daniel Noboa, recibió el Premio del Gobernador de Gyeonggi-do en la Goyang International Flower Festival 2026",
           "date": "2026-05-10",
           "url": "https://www.produccion.gob.ec/ecuador-bajo-el-gobierno-de-daniel-noboa-recibio-el-premio-del-gobernador-de-gyeonggi-do-en-la-goyang-international-flower-festival-2026/",
-          "summary": "Ecuador posicionó sus flores entre las tres mejores exhibiciones del festival internacional de Corea del Sur, con exportaciones de flores naturales a Corea alcanzando USD 805.000 en 2025 (774% de crecimiento) y USD 157.000 en los dos primeros meses de 2026, consolidando nuevos mercados asiáticos."
-        },
-        {
-          "title": "Roger Crespo es designado nuevo viceministro de Promoción de Exportaciones e Inversiones",
-          "date": "2026-05-04",
-          "url": "https://www.eluniverso.com/noticias/economia/roger-crespo-nuevo-viceministro-de-promocion-de-exportaciones-e-inversiones-ecuador-2026-nota/",
-          "summary": "Roger Crespo, con amplia experiencia en comercio internacional y emprendimiento, fue designado como nuevo viceministro de Promoción de Exportaciones e Inversiones del MPCEI. Este nombramiento fortalece el equipo técnico responsable de impulsar las exportaciones no petroleras y atraer inversión extranjera hacia Ecuador."
-        },
-        {
-          "title": "Gobierno del presidente Daniel Noboa traza su hoja de ruta agroindustrial al 2036 con el respaldo técnico de la FAO",
-          "date": "2026-04-29",
-          "url": "https://www.produccion.gob.ec/gobierno-del-presidente-daniel-noboa-traza-su-hoja-de-ruta-agroindustrial-al-2036-con-el-respaldo-tecnico-de-la-fao/",
-          "summary": "El MPCEI, con acompañamiento de la FAO, lanzó el diálogo para construir una Política Agroindustrial 2026-2036 que transforme la economía ecuatoriana desde materias primas hacia productos agroindustriales competitivos con valor agregado e inserción en mercados internacionales exigentes."
-        },
-        {
-          "title": "Acuerdos comerciales e inversiones por más de $ 1.000 millones destacaron en producción y comercio exterior en 2025",
-          "date": "2026-04-24",
-          "url": "https://www.produccion.gob.ec/",
-          "summary": "Durante la Rendición de Cuentas de 2025, el MPCEI destacó la firma de acuerdos estratégicos como el Acuerdo de Comercio Recíproco con Estados Unidos, el Tratado Bilateral de Inversiones con Emiratos Árabes Unidos y el Acuerdo de Facilitación de Inversiones Sostenibles con la Unión Europea. Estos instrumentos amplían las oportunidades comerciales y mejoran las condiciones de acceso para productos ecuatorianos en mercados internacionales clave."
+          "summary": "Ecuador fue reconocido con un premio importante en la feria de flores de Corea del Sur, evidenciando el crecimiento exponencial de las exportaciones florales hacia ese mercado. Las exportaciones de flores naturales a Corea del Sur crecieron 774% en 2025, posicionándolo como mercado emergente de alto potencial para la floricultura ecuatoriana."
         }
       ],
-      "lastUpdated": "2026-05-13T06:30:20.576Z"
+      "lastUpdated": "2026-05-14T06:28:56.956Z"
     },
     {
       "id": "sri",

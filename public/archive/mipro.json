@@ -2,8 +2,16 @@
   "id": "mipro",
   "name": "MIPRO",
   "fullName": "Ministerio de Producción, Comercio Exterior, Inversiones y Pesca",
-  "lastUpdated": "2026-05-13T06:30:20.576Z",
+  "lastUpdated": "2026-05-14T06:28:56.956Z",
   "items": [
+    {
+      "key": "mipro::gobierno-del-presidente-daniel-noboa-concreta-la-firma-de-me",
+      "title": "Gobierno del presidente Daniel Noboa concreta la firma de Memorando de Entendimiento para la creación del Comité Conjunto Económico y Comercial (JETCO) entre Ecuador y Marruecos",
+      "date": "2026-05-12",
+      "url": "https://www.produccion.gob.ec/gobierno-del-presidente-daniel-noboa-concreta-la-firma-de-memorando-de-entendimiento-para-la-creacion-del-comite-conjunto-economico-y-comercial-jetco-entre-ecuador-y-marruecos/",
+      "summary": "Ecuador y Marruecos establecieron un mecanismo permanente de diálogo (JETCO) para identificar oportunidades de negocio, diversificar el intercambio comercial y fortalecer los lazos económicos. La primera reunión del comité se realizará en junio de 2026, creando un espacio para posicionar productos ecuatorianos en un mercado de 39 millones de habitantes.",
+      "scrapedAt": "2026-05-14T06:28:56.947Z"
+    },
     {
       "key": "mipro::ecuador-y-marruecos-impulsan-nueva-etapa-de-cooperación-bila",
       "title": "Ecuador y Marruecos impulsan nueva etapa de cooperación bilateral",
@@ -17,7 +25,7 @@
       "title": "Ecuador, bajo el Gobierno de Daniel Noboa, recibió el Premio del Gobernador de Gyeonggi-do en la Goyang International Flower Festival 2026",
       "date": "2026-05-10",
       "url": "https://www.produccion.gob.ec/ecuador-bajo-el-gobierno-de-daniel-noboa-recibio-el-premio-del-gobernador-de-gyeonggi-do-en-la-goyang-international-flower-festival-2026/",
-      "summary": "Ecuador posicionó sus flores entre las tres mejores exhibiciones del festival internacional de Corea del Sur, con exportaciones de flores naturales a Corea alcanzando USD 805.000 en 2025 (774% de crecimiento) y USD 157.000 en los dos primeros meses de 2026, consolidando nuevos mercados asiáticos.",
+      "summary": "Ecuador fue reconocido con un premio importante en la feria de flores de Corea del Sur, evidenciando el crecimiento exponencial de las exportaciones florales hacia ese mercado. Las exportaciones de flores naturales a Corea del Sur crecieron 774% en 2025, posicionándolo como mercado emergente de alto potencial para la floricultura ecuatoriana.",
       "scrapedAt": "2026-05-13T06:30:20.568Z"
     },
     {
@@ -49,7 +57,7 @@
       "title": "La apertura comercial del país impulsa la agenda de negociación de más de 15 acuerdos, bajo el liderazgo del gobierno del presidente Daniel Noboa",
       "date": "2026-04-23",
       "url": "https://www.produccion.gob.ec/la-apertura-comercial-del-pais-impulsa-la-agenda-de-negociacion-de-mas-de-15-acuerdos-bajo-el-liderazgo-del-gobierno-del-presidente-daniel-noboa/",
-      "summary": "El Gobierno continúa negociando instrumentos comerciales con 15 países, incluyendo Emiratos Árabes Unidos, Estados Unidos, Panamá y otros, con el objetivo de fortalecer las relaciones bilaterales de comercio e inversión y ampliar los mercados para los exportadores ecuatorianos.",
+      "summary": "El MPCEI presentó los principales logros de 2025, destacando un superávit comercial no petrolero de USD 5.032 millones. El ministerio mantiene en curso 15 procesos de negociación comercial y de inversiones con múltiples países, consolidando a Ecuador como un país más abierto, diversificado y competitivo en los mercados internacionales.",
       "scrapedAt": "2026-05-07T06:15:34.193Z"
     },
     {
@@ -85,6 +93,14 @@
       "scrapedAt": "2026-04-30T14:02:32.863Z"
     },
     {
+      "key": "mipro::primer-gabinete-de-desarrollo-productivo-del-2026-se-ejecutó",
+      "title": "Primer gabinete de desarrollo productivo del 2026 se ejecutó en Guayaquil: Ecuador acelera su agenda productiva",
+      "date": "2026-02-27",
+      "url": "https://www.produccion.gob.ec/primer-gabinete-de-desarrollo-productivo-del-2026-se-ejecuto-en-guayaquil-ecuador-acelera-su-agenda-productiva/",
+      "summary": "El Ministerio realizó la Primera Sesión Ordinaria 2026 del Gabinete Sectorial de Desarrollo Productivo en Guayaquil, donde se revisaron las acciones estratégicas del primer trimestre. El evento reunió a las principales carteras de Estado para coordinar la competitividad y el impulso del desarrollo productivo nacional.",
+      "scrapedAt": "2026-05-14T06:28:56.947Z"
+    },
+    {
       "key": "mipro::ecuador-fortalece-su-posicionamiento-turístico-internacional",
       "title": "Ecuador fortalece su posicionamiento turístico internacional en ANATO 2026 con más de 700 reuniones de negocios",
       "date": "2026-02-27",
@@ -99,6 +115,14 @@
       "url": "https://www.produccion.gob.ec/gobierno-de-daniel-noboa-posiciona-a-ecuador-como-el-primer-pais-de-america-latina-en-concretar-un-acuerdo-de-inversiones-sostenibles-con-la-union-europea/",
       "summary": "El MPCEI concluyó las negociaciones del Acuerdo de Facilitación de Inversiones Sostenibles (SIFA) con la Unión Europea, convirtiendo a Ecuador en el primer país latinoamericano con este instrumento. El SIFA simplifica procedimientos de inversión, reduce incertidumbre regulatoria y promueve un clima empresarial más transparente, acompañado de 8 millones de euros de cooperación técnica para transición energética e inversiones sostenibles.",
       "scrapedAt": "2026-04-30T14:02:32.863Z"
+    },
+    {
+      "key": "mipro::producción-que-impulsa-al-país-resultados-2025-y-metas-para",
+      "title": "Producción que impulsa al país: Resultados 2025 y metas para el 2026 del Ministerio de Producción, Comercio Exterior e Inversiones",
+      "date": "2026-01-22",
+      "url": "https://www.produccion.gob.ec/produccion-que-impulsa-al-pais-resultados-2025-y-metas-para-el-2026-del-ministerio-de-produccion-comercio-exterior-e-inversiones/",
+      "summary": "El MPCEI presentó un balance de 2025 con resultados positivos en comercio exterior, dinamización productiva y turismo. Para 2026 proyecta exportaciones no petroleras de USD 31.867 millones (10% más), consolidando una economía más abierta y competitiva a través de diversificación de mercados y atracción de inversiones.",
+      "scrapedAt": "2026-05-14T06:28:56.947Z"
     }
   ]
 }
