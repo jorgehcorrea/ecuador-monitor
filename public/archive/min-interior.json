@@ -2,8 +2,24 @@
   "id": "min-interior",
   "name": "Min. Interior",
   "fullName": "Ministerio del Interior",
-  "lastUpdated": "2026-05-13T09:39:19.807Z",
+  "lastUpdated": "2026-05-14T09:29:40.065Z",
   "items": [
+    {
+      "key": "min-interior::ministerio-del-interior-denuncia-detección-de-infraestructur",
+      "title": "Ministerio del Interior denuncia detección de infraestructura clandestina para robo de energía en frontera con Colombia",
+      "date": "2026-05-13",
+      "url": "https://www.ministeriodelinterior.gob.ec/",
+      "summary": "Las Fuerzas Armadas detectaron cables eléctricos clandestinos que trasladaban energía de Ecuador hacia Colombia en Sucumbíos, presuntamente para financiar actividades ilícitas. El personal de CNEL deshabilitó estas conexiones irregulares en Palma Seca y Real Villanueva.",
+      "scrapedAt": "2026-05-14T09:29:40.057Z"
+    },
+    {
+      "key": "min-interior::ministerio-del-interior-confirma-resultados-operativos-duran",
+      "title": "Ministerio del Interior confirma resultados operativos durante toque de queda y desmiente información falsa sobre modificaciones",
+      "date": "2026-05-12",
+      "url": "https://www.ministeriodelinterior.gob.ec/",
+      "summary": "El Ministerio reportó 2.038 detenidos en los primeros 8 días del toque de queda (3-12 de mayo), de los cuales 440 están vinculados a estructuras criminales. La cartera aclaró que toda información sobre cambios de horarios o extensión es falsa y que la medida termina el 18 de mayo como fue establecido.",
+      "scrapedAt": "2026-05-14T09:29:40.057Z"
+    },
     {
       "key": "min-interior::operativos-policiales-en-guayaquil-61-allanamientos-y-21-ap",
       "title": "Operativos policiales en Guayaquil: 61 allanamientos y 21 aprehendidos",
@@ -94,18 +110,18 @@
     },
     {
       "key": "min-interior::ecuador-y-estados-unidos-firman-memorando-de-entendimiento-p",
-      "title": "ECUADOR Y ESTADOS UNIDOS FIRMAN MEMORANDO DE ENTENDIMIENTO PARA ESTABLECER INVESTIGACIONES CONJUNTAS",
+      "title": "Ecuador y Estados Unidos firman Memorando de Entendimiento para establecer investigaciones conjuntas",
       "date": "2026-04-20",
       "url": "https://www.ministeriodelinterior.gob.ec/ecuador-y-estados-unidos-firman-memorando-de-entendimiento-para-establecer-investigaciones-conjuntas/",
-      "summary": "Ecuador y Estados Unidos suscribieron un Memorando de Entendimiento entre el Ministerio del Interior y la Oficina de Investigaciones de Seguridad Nacional estadounidense (HSI) para fortalecer la cooperación bilateral en la lucha contra el crimen organizado transnacional, modernizando el intercambio de inteligencia y la coordinación operativa.",
+      "summary": "El Ministerio del Interior y la Oficina de Investigaciones de Seguridad Nacional (HSI) de Estados Unidos suscriben un acuerdo para fortalecer cooperación bilateral contra el crimen organizado transnacional. El memorando facilita investigaciones conjuntas en narcotráfico, tráfico de armas, trata de personas y delitos cibernéticos.",
       "scrapedAt": "2026-04-30T15:28:24.175Z"
     },
     {
       "key": "min-interior::el-gobierno-nacional-fortalece-la-seguridad-ciudadana-con-de",
-      "title": "EL GOBIERNO NACIONAL FORTALECE LA SEGURIDAD CIUDADANA CON DENUNCIAS DIGITALES A TRAVÉS DEL QR DE LA CÉDULA",
+      "title": "El Gobierno Nacional fortalece la seguridad ciudadana con denuncias digitales a través del QR de la cédula",
       "date": "2026-04-09",
       "url": "https://www.ministeriodelinterior.gob.ec/el-gobierno-nacional-fortalece-la-seguridad-ciudadana-con-denuncias-digitales-a-traves-del-qr-de-la-cedula/",
-      "summary": "El Ministerio del Interior implementa un sistema digital mediante el código QR en las cédulas de identidad que permite a los ciudadanos denunciar delitos de manera ágil y segura, facilitando la participación ciudadana en la prevención del crimen.",
+      "summary": "El Ministerio del Interior impulsa una estrategia de modernización permitiendo que ciudadanos denuncien delitos mediante el código QR de sus cédulas de identidad. Esta iniciativa facilita reportes rápidos y seguros directamente a la Policía Nacional con información de ubicación, fecha y evidencia fotográfica.",
       "scrapedAt": "2026-05-01T08:56:19.408Z"
     },
     {
@@ -142,10 +158,10 @@
     },
     {
       "key": "min-interior::gobierno-nacional-lidera-operativo-gran-fénix-3-contra-red",
-      "title": "GOBIERNO NACIONAL LIDERA OPERATIVO \"GRAN FÉNIX 3\" CONTRA RED DE DELINCUENCIA ORGANIZADA VINCULADA A LA AGENCIA NACIONAL DE TRÁNSITO",
+      "title": "Gobierno Nacional lidera operativo \"Gran Fénix 3\" contra red de delincuencia organizada vinculada a la Agencia Nacional de Tránsito",
       "date": "2026-01-30",
-      "url": "https://www.ministeriodelinterior.gob.ec/gobierno-nacional-lidera-operativo-gran-fenix-3-contra-red-de-delincuencia-organizada-vinculada-a-la-agencia-nacional-de-transito/",
-      "summary": "El Gobierno ejecutó el operativo Gran Fénix 3 en Pichincha, Imbabura y Santo Domingo de los Tsáchilas, donde se realizaron 19 allanamientos y se aprehendieron 10 personas vinculadas a la emisión irregular de licencias de conducir. Los implicados habrían facilitado estos trámites ilegales a cambio de dinero desde noviembre de 2024 en coordinación con Los Choneros.",
+      "url": "https://www.ministeriodelinterior.gob.ec/noticias/",
+      "summary": "El Ministerio del Interior dirigió una operación de seguridad contra una red criminal que utilizaba estructuras de la Agencia Nacional de Tránsito para financiar actividades ilícitas. Este operativo fue parte de la estrategia del Gobierno para desarticular economías criminales que afectan la seguridad ciudadana.",
       "scrapedAt": "2026-05-01T08:56:19.408Z"
     },
     {
