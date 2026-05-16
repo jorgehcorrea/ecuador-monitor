@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-05-16T10:08:24.288Z",
+  "lastScraped": "2026-05-16T11:58:36.436Z",
   "institutions": [
     {
       "id": "iniap",
@@ -705,7 +705,7 @@
           "summary": "La Procuraduría General del Estado recibió con beneplácito la decisión unánime de la Corte Internacional de Justicia que rechazó las medidas cautelares solicitadas por México respecto al asalto a su embajada. El procurador Juan Carlos Larrea destacó la labor del equipo técnico ecuatoriano en la defensa de la posición de Ecuador ante el tribunal internacional."
         }
       ],
-      "lastUpdated": "2026-05-15T12:59:43.789Z"
+      "lastUpdated": "2026-05-16T11:57:21.200Z"
     },
     {
       "id": "contraloria",
@@ -716,7 +716,7 @@
       "sourceUrl": "https://www.contraloria.gob.ec/SalaDePrensa/",
       "status": "stale",
       "news": [],
-      "lastUpdated": "2026-05-15T13:00:08.916Z"
+      "lastUpdated": "2026-05-16T11:57:46.318Z"
     },
     {
       "id": "registro-oficial",
@@ -727,7 +727,7 @@
       "sourceUrl": "https://www.registroficial.gob.ec/",
       "status": "stale",
       "news": [],
-      "lastUpdated": "2026-05-15T13:00:34.000Z"
+      "lastUpdated": "2026-05-16T11:58:11.434Z"
     }
   ],
   "summary": {
