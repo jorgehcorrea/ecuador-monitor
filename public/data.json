@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-05-16T08:46:40.337Z",
+  "lastScraped": "2026-05-16T10:08:24.288Z",
   "institutions": [
     {
       "id": "iniap",
@@ -567,7 +567,7 @@
           "summary": "El CNE comenzará a formar la Comisión Verificadora el 11 de mayo que revisará si los candidatos al CPCCS cumplen con los requisitos legales. Esta comisión es responsable de garantizar que todos los aspirantes al Consejo de Participación Ciudadana cumplan con los estándares establecidos para poder ser elegidos."
         }
       ],
-      "lastUpdated": "2026-05-15T11:12:50.780Z"
+      "lastUpdated": "2026-05-16T10:07:09.066Z"
     },
     {
       "id": "asamblea",
@@ -619,15 +619,9 @@
           "date": "2026-05-10",
           "url": "https://www.asambleanacional.gob.ec/es/noticia/116262-asamblea-tramitara-el-proyecto-de-gobernanza-del",
           "summary": "Durante la semana del 11 al 17 de mayo, el Pleno de la Asamblea Nacional realizará debates sobre el proyecto de Ley Orgánica de Gobernanza del Espacio Marino-Costero y conocerá el informe de iniciativa popular para fortalecer la seguridad ciudadana, continuando con el tratamiento de múltiples iniciativas legislativas."
-        },
-        {
-          "title": "Comisión de Transparencia recibe aportes jurídicos en torno a reformas para la protección de personas adultas mayores",
-          "date": "2026-05-08",
-          "url": "https://www.asambleanacional.gob.ec/es/noticia/116256-comision-de-transparencia-recibe-aportes-juridicos-en",
-          "summary": "La Comisión de Transparencia continuó analizando proyectos de reforma para proteger a personas adultas mayores víctimas de violencia intrafamiliar, recibiendo criterios técnicos de expertos sobre delitos patrimoniales y la necesidad de tipificar nuevas conductas en el Código Orgánico Integral Penal."
         }
       ],
-      "lastUpdated": "2026-05-15T11:13:15.879Z"
+      "lastUpdated": "2026-05-16T10:07:34.196Z"
     },
     {
       "id": "corte-constitucional",
@@ -669,7 +663,7 @@
           "summary": "La jueza Karla Quevedo inició el trámite de la demanda de inconstitucionalidad presentada por la Bancada de la Revolución Ciudadana contra el reglamento que eliminó restricciones para que defensores de narcotráfico postulen a Fiscal General."
         }
       ],
-      "lastUpdated": "2026-05-15T11:13:40.976Z"
+      "lastUpdated": "2026-05-16T10:07:59.285Z"
     },
     {
       "id": "pge",
