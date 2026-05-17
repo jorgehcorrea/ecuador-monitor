@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-05-17T07:35:21.222Z",
+  "lastScraped": "2026-05-17T09:01:54.403Z",
   "institutions": [
     {
       "id": "iniap",
@@ -459,9 +459,21 @@
           "date": "2026-05-09",
           "url": "https://www.sisepuedeecuador.com/policia-incauto-50-bloques-de-droga-y-aprehendio-a-21-personas-en-guayaquil/",
           "summary": "La Policía Nacional ejecutó 61 allanamientos en cinco distritos de Guayaquil entre el 8 y 9 de mayo, resultando en la aprehensión de 21 personas (incluyendo un adolescente) vinculadas a organizaciones como Latin King, Chone Killer, Lagartos y Fatales. Se incautaron armas de fuego, drogas y vehículos en esta operación contra grupos dedicados a asesinatos, robos y tráfico de drogas."
+        },
+        {
+          "title": "Operativo Jaguar: Desarticulación de banda narcodelictiva con afectación de USD 400 millones",
+          "date": "2026-05-08",
+          "url": "https://www.eltelegrafo.com.ec/noticias/nacionales/210/bloque-de-seguridad-ejecuta-megaoperativo-con-golpe-de-usd-400-millones",
+          "summary": "El Bloque de Seguridad ejecutó un megaoperativo que duró 12 horas contra una organización narcodelictiva que utilizaba exportaciones de chifles para enviar cocaína internacional. La operación desmanteló una estructura que movilizó aproximadamente USD 400 millones en droga entre 2021 y 2026, con destinos en Bélgica, España, Sierra Leona y Estados Unidos."
+        },
+        {
+          "title": "Operativo desarticuló estructura criminal con sofisticados métodos de narcotráfico en Guayaquil",
+          "date": "2026-05-08",
+          "url": "https://www.eluniverso.com/noticias/seguridad/gancho-ciego-candados-satelitales-y-bunkeres-el-sofisticado-metodo-de-la-narcoestructura-desarticulada-en-ecuador-nota/",
+          "summary": "El Ministerio del Interior reportó la desarticulación de una organización que habría movilizado cerca de 400 millones de dólares en drogas desde 2021. Los operativos incautaron más de 10 toneladas de cocaína y permitieron identificar búnkeres subterráneos y métodos sofisticados de envío."
         }
       ],
-      "lastUpdated": "2026-05-16T08:45:00.001Z"
+      "lastUpdated": "2026-05-17T09:00:14.054Z"
     },
     {
       "id": "min-gobierno",
@@ -472,7 +484,7 @@
       "sourceUrl": "https://www.ministeriodegobierno.gob.ec/noticias/",
       "status": "stale",
       "news": [],
-      "lastUpdated": "2026-05-16T08:45:25.106Z"
+      "lastUpdated": "2026-05-17T09:00:39.172Z"
     },
     {
       "id": "presidencia",
@@ -483,7 +495,7 @@
       "sourceUrl": "https://www.comunicacion.gob.ec/noticias/",
       "status": "stale",
       "news": [],
-      "lastUpdated": "2026-05-16T08:45:50.216Z"
+      "lastUpdated": "2026-05-17T09:01:04.287Z"
     },
     {
       "id": "ecu911",
@@ -525,7 +537,7 @@
           "summary": "El Director General del ECU 911, Juan Carlos Paladines, presentó oficialmente la rendición de cuentas correspondiente a 2025, exponiendo los logros y avances alcanzados por la central de emergencias durante el año anterior ante autoridades y ciudadanía."
         }
       ],
-      "lastUpdated": "2026-05-16T08:46:15.333Z"
+      "lastUpdated": "2026-05-17T09:01:29.399Z"
     },
     {
       "id": "cne",
