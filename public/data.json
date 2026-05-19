@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-05-19T06:53:03.903Z",
+  "lastScraped": "2026-05-19T08:31:11.254Z",
   "institutions": [
     {
       "id": "iniap",
@@ -335,7 +335,7 @@
           "summary": "A partir del 1 de mayo de 2026, los contribuyentes solo pueden utilizar notas de crédito del SRI para cubrir hasta el 60% de sus obligaciones tributarias, lo que representa una limitación significativa en este mecanismo de pago que anteriormente permitía mayor flexibilidad."
         }
       ],
-      "lastUpdated": "2026-05-18T08:46:10.190Z"
+      "lastUpdated": "2026-05-19T08:29:30.794Z"
     },
     {
       "id": "arcsa",
@@ -363,9 +363,21 @@
           "date": "2026-05-11",
           "url": "https://elmercurio.com.ec/cuenca/2026/05/11/arcsa-chifa-cuenca-clausura/",
           "summary": "ARCSA clausuró un restaurante chifa en Cuenca al encontrar condiciones deplorables incluyendo plagas, cucarachas vivas y muertas, y preparación de alimentos en áreas exteriores sin condiciones de salubridad adecuadas."
+        },
+        {
+          "title": "Ecuador ingresa a la Declaración de Río de Janeiro para fortalecer regulación de medicamentos",
+          "date": "2026-05-05",
+          "url": "https://www.controlsanitario.gob.ec/ecuador-ingresa-a-la-declaracion-de-rio-de-janeiro-para-fortalecer-regulacion-de-medicamentos/",
+          "summary": "Ecuador formalizó su adhesión a un acuerdo internacional de cooperación regulatoria con otros países para coordinar regulación de medicamentos y dispositivos médicos, mejorar eficiencia regulatoria e intercambiar información sobre registros sanitarios."
+        },
+        {
+          "title": "Arcsa retira del mercado más de 4500 productos irregulares en Santo Domingo",
+          "date": "2026-04-13",
+          "url": "https://kchcomunicacion.com/2026/04/13/mas-de-4500-productos-irregulares-fueron-retirados-del-mercado-en-santo-domingo/",
+          "summary": "ARCSA detectó e inmovilizó más de 4500 artículos cosméticos sin notificación sanitaria ecuatoriana en una comercializadora de Santo Domingo, incluyendo productos de origen nacional y extranjero que fueron retirados del mercado."
         }
       ],
-      "lastUpdated": "2026-05-18T08:46:35.334Z"
+      "lastUpdated": "2026-05-19T08:29:55.940Z"
     },
     {
       "id": "senescyt",
@@ -401,7 +413,7 @@
           "summary": "El Ministerio de Educación abrió la etapa de inscripción para 54 institutos tecnológicos y conservatorios superiores públicos del país para el primer período 2026. Esta fase es obligatoria para jóvenes que completaron el Registro Nacional."
         }
       ],
-      "lastUpdated": "2026-05-18T08:47:00.435Z"
+      "lastUpdated": "2026-05-19T08:30:21.099Z"
     },
     {
       "id": "sercop",
@@ -443,7 +455,7 @@
           "summary": "El SERCOP avanza en la creación de la figura del Responsable Institucional de Cumplimiento para fortalecer mecanismos de control, transparencia e integridad en las compras públicas de cada institución, mediante mesas de trabajo con representantes de entidades públicas."
         }
       ],
-      "lastUpdated": "2026-05-18T08:47:25.535Z"
+      "lastUpdated": "2026-05-19T08:30:46.250Z"
     },
     {
       "id": "min-interior",
