@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-05-20T10:23:34.193Z",
+  "lastScraped": "2026-05-20T11:42:48.460Z",
   "institutions": [
     {
       "id": "iniap",
@@ -603,7 +603,7 @@
           "summary": "El CNE comenzará a formar la Comisión Verificadora el 11 de mayo que revisará si los candidatos al CPCCS cumplen con los requisitos legales. Esta comisión es responsable de garantizar que todos los aspirantes al Consejo de Participación Ciudadana cumplan con los estándares establecidos para poder ser elegidos."
         }
       ],
-      "lastUpdated": "2026-05-19T11:53:49.732Z"
+      "lastUpdated": "2026-05-20T11:41:33.098Z"
     },
     {
       "id": "asamblea",
@@ -637,15 +637,9 @@
           "date": "2026-05-13",
           "url": "https://www.asambleanacional.gob.ec/es/noticia/116470-sectores-aduanero-y-maritimo-respaldan-reformas-para",
           "summary": "La Comisión de Desarrollo Económico recibió respaldo del sector aduanero y marítimo para reformas orientadas a solucionar problemas operativos causados por mercancías en custodia aduanera. La propuesta busca reducir costos de almacenamiento y optimizar procesos administrativos."
-        },
-        {
-          "title": "Comisión de Salud recibe aportes técnicos sobre proyectos de ley para la prevención y tratamiento integral de la obesidad",
-          "date": "2026-05-12",
-          "url": "https://www.asambleanacional.gob.ec/es/node/116386",
-          "summary": "Las autoridades del Ministerio de Salud Pública presentaron datos sobre la magnitud de la obesidad en Ecuador, donde uno de cada tres adultos y adolescentes padece sobrepeso u obesidad. Los asambleístas debatieron sobre la necesidad de fortalecer políticas públicas integrales de prevención y regulación de productos ultraprocesados sin crear estructuras institucionales innecesarias."
         }
       ],
-      "lastUpdated": "2026-05-19T11:54:14.864Z"
+      "lastUpdated": "2026-05-20T11:41:58.253Z"
     },
     {
       "id": "corte-constitucional",
@@ -687,7 +681,7 @@
           "summary": "La jueza Karla Quevedo inició el trámite de la demanda de inconstitucionalidad presentada por la Bancada de la Revolución Ciudadana contra el reglamento que eliminó restricciones para que defensores de narcotráfico postulen a Fiscal General."
         }
       ],
-      "lastUpdated": "2026-05-19T11:54:40.004Z"
+      "lastUpdated": "2026-05-20T11:42:23.458Z"
     },
     {
       "id": "pge",
