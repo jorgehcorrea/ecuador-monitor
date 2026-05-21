@@ -1,5 +1,5 @@
 {
-  "lastScraped": "2026-05-21T08:35:10.254Z",
+  "lastScraped": "2026-05-21T10:37:18.432Z",
   "institutions": [
     {
       "id": "iniap",
@@ -497,7 +497,7 @@
           "summary": "El Ministerio del Interior reportó la desarticulación de una organización que habría movilizado cerca de 400 millones de dólares en drogas desde 2021. Los operativos incautaron más de 10 toneladas de cocaína y permitieron identificar búnkeres subterráneos y métodos sofisticados de envío."
         }
       ],
-      "lastUpdated": "2026-05-20T10:21:53.816Z"
+      "lastUpdated": "2026-05-21T10:35:37.875Z"
     },
     {
       "id": "min-gobierno",
@@ -508,7 +508,7 @@
       "sourceUrl": "https://www.ministeriodegobierno.gob.ec/noticias/",
       "status": "stale",
       "news": [],
-      "lastUpdated": "2026-05-20T10:22:18.919Z"
+      "lastUpdated": "2026-05-21T10:36:03.112Z"
     },
     {
       "id": "presidencia",
@@ -519,7 +519,7 @@
       "sourceUrl": "https://www.comunicacion.gob.ec/noticias/",
       "status": "stale",
       "news": [],
-      "lastUpdated": "2026-05-20T10:22:44.030Z"
+      "lastUpdated": "2026-05-21T10:36:28.288Z"
     },
     {
       "id": "ecu911",
@@ -561,7 +561,7 @@
           "summary": "El Director General del ECU 911, Juan Carlos Paladines, presentó oficialmente la rendición de cuentas correspondiente a 2025, exponiendo los logros y avances alcanzados por la central de emergencias durante el año anterior ante autoridades y ciudadanía."
         }
       ],
-      "lastUpdated": "2026-05-20T10:23:09.189Z"
+      "lastUpdated": "2026-05-21T10:36:53.428Z"
     },
     {
       "id": "cne",
