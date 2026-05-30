@@ -1,75 +1,48 @@
 name: Daily Institution News Scraper
 
 on:
-  schedule:
-    - cron: '0 1 * * *'   # Batch 1 — 20:00 ECT prev day (INIAP, MAG, AGROCALIDAD, INAMHI)
-    - cron: '0 3 * * *'   # Batch 2 — 22:00 ECT prev day (ProEcuador, BCE, MIPRO)
-    - cron: '0 5 * * *'   # Batch 3 — 00:00 ECT midnight (SRI, ARCSA, SENESCYT, SERCOP)
-    - cron: '0 7 * * *'   # Batch 4 — 02:00 ECT (Min. Interior, Min. Gobierno, Presidencia, ECU911)
-    - cron: '0 9 * * *'   # Batch 5 — 04:00 ECT (CNE, Asamblea, Corte Const.)
-    - cron: '0 11 * * *'  # Batch 6 — 06:00 ECT (PGE, Contraloria, Reg. Oficial)
+  # PAUSED — optimizing architecture to reduce API costs
+  # To re-enable: uncomment the schedule block below
+  # schedule:
+  #   - cron: '0 0 * * *'   # Batch 1
+  #   - cron: '0 2 * * *'   # Batch 2
+  #   - cron: '0 4 * * *'   # Batch 3
+  #   - cron: '0 6 * * *'   # Batch 4
+  #   - cron: '0 8 * * *'   # Batch 5
+  #   - cron: '0 9 * * *'   # Batch 6
+  #   - cron: '0 10 * * *'  # Batch 7
   workflow_dispatch:
     inputs:
       batch:
-        description: 'Batch (1=INIAP/MAG/AGRO/INAMHI, 2=ProEC/BCE/MIPRO, 3=SRI/ARCSA/SEN/SER, 4=Interior/Gob/Pres/ECU911, 5=CNE/Asam/Corte, 6=PGE/Cont/RegOf, 0=all)'
+        description: 'Batch (1-7 or 0=all)'
         required: false
         default: '0'
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
-
     permissions:
       contents: write
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '24'
-
       - name: Install dependencies
-        run: |
-          cd scripts
-          npm install
-
+        run: cd scripts && npm install
       - name: Determine batch
-        run: |
-          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
-            echo "BATCH=${{ github.event.inputs.batch }}" >> $GITHUB_ENV
-          elif [ "${{ github.event.schedule }}" = "0 1 * * *" ]; then
-            echo "BATCH=1" >> $GITHUB_ENV
-          elif [ "${{ github.event.schedule }}" = "0 3 * * *" ]; then
-            echo "BATCH=2" >> $GITHUB_ENV
-          elif [ "${{ github.event.schedule }}" = "0 5 * * *" ]; then
-            echo "BATCH=3" >> $GITHUB_ENV
-          elif [ "${{ github.event.schedule }}" = "0 7 * * *" ]; then
-            echo "BATCH=4" >> $GITHUB_ENV
-          elif [ "${{ github.event.schedule }}" = "0 9 * * *" ]; then
-            echo "BATCH=5" >> $GITHUB_ENV
-          elif [ "${{ github.event.schedule }}" = "0 11 * * *" ]; then
-            echo "BATCH=6" >> $GITHUB_ENV
-          else
-            echo "BATCH=0" >> $GITHUB_ENV
-          fi
-
+        run: echo "BATCH=${{ github.event.inputs.batch || '0' }}" >> $GITHUB_ENV
       - name: Run scraper
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ecuador_monitor }}
           BATCH: ${{ env.BATCH }}
-        run: |
-          cd scripts
-          node scraper.js
-
+        run: cd scripts && node scraper.js
       - name: Commit updated data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add public/data.json public/archive/
           git diff --staged --quiet || git commit -m "chore: update news batch ${{ env.BATCH }} [$(date -u '+%Y-%m-%d %H:%M UTC')]"
-          git restore .
-          git pull --rebase origin main
           git push

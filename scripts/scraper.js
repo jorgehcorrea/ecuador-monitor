@@ -318,12 +318,20 @@ CRITICAL RULES — follow every single one:
       'Content-Type': 'application/json',
       'x-api-key': API_KEY,
       'anthropic-version': '2023-06-01',
+      'anthropic-beta': 'prompt-caching-2024-07-31',
     },
     body: JSON.stringify({
       model: 'claude-haiku-4-5-20251001',
       max_tokens: 4096,
       tools: [{ type: 'web_search_20250305', name: 'web_search' }],
-      messages: [{ role: 'user', content: prompt }],
+      messages: [{
+        role: 'user',
+        content: [{
+          type: 'text',
+          text: prompt,
+          cache_control: { type: 'ephemeral' }
+        }]
+      }],
     }),
   });
 

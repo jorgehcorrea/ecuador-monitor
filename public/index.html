@@ -862,5 +862,130 @@ function App() {
 
 ReactDOM.createRoot(document.getElementById('root')).render(<App />);
 </script>
+
+<!-- MAINTENANCE POPUP -->
+<style>
+  .maint-overlay {
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,0.75);
+    z-index: 9999;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem;
+    backdrop-filter: blur(4px);
+  }
+  .maint-overlay.hidden { display: none; }
+  .maint-card {
+    background: #141518;
+    border: 1px solid #32363F;
+    border-top: 3px solid #C8A96E;
+    border-radius: 6px;
+    padding: 2rem 2.5rem;
+    max-width: 480px;
+    width: 100%;
+    text-align: center;
+    font-family: system-ui, -apple-system, sans-serif;
+  }
+  .maint-icon { font-size: 2rem; margin-bottom: 1rem; }
+  .maint-title {
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: #E8E9EC;
+    margin-bottom: 0.5rem;
+    letter-spacing: -0.02em;
+  }
+  .maint-sub {
+    font-size: 0.8rem;
+    color: #7A7F8E;
+    line-height: 1.6;
+    margin-bottom: 1.25rem;
+  }
+  .maint-sub strong { color: #C8A96E; }
+  .maint-actions {
+    display: flex;
+    gap: 0.75rem;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  .maint-btn-primary {
+    background: #C8A96E;
+    color: #0C0D0F;
+    border: none;
+    border-radius: 4px;
+    padding: 0.5rem 1.25rem;
+    font-size: 0.78rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: opacity 0.15s;
+  }
+  .maint-btn-primary:hover { opacity: 0.85; }
+  .maint-btn-secondary {
+    background: none;
+    color: #44485A;
+    border: 1px solid #252830;
+    border-radius: 4px;
+    padding: 0.5rem 1.25rem;
+    font-size: 0.78rem;
+    cursor: pointer;
+    transition: color 0.15s;
+  }
+  .maint-btn-secondary:hover { color: #7A7F8E; }
+  .maint-tag {
+    display: inline-block;
+    font-family: 'Courier New', monospace;
+    font-size: 0.6rem;
+    background: rgba(200,169,110,0.12);
+    color: #C8A96E;
+    border: 1px solid rgba(200,169,110,0.25);
+    border-radius: 2px;
+    padding: 0.1rem 0.4rem;
+    margin-bottom: 1rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+</style>
+
+<div class="maint-overlay" id="maintOverlay">
+  <div class="maint-card">
+    <div class="maint-icon">🛠</div>
+    <div class="maint-tag">Mantenimiento en curso</div>
+    <div class="maint-title">Optimizando el sistema de actualización</div>
+    <div class="maint-sub">
+      Estamos mejorando la arquitectura del scraper para reducir costos
+      y aumentar la cobertura de noticias.<br><br>
+      <strong>El contenido actual sigue disponible.</strong>
+      Las actualizaciones automáticas están pausadas temporalmente
+      mientras implementamos el nuevo sistema.
+    </div>
+    <div class="maint-actions">
+      <button class="maint-btn-primary" onclick="dismissMaint()">
+        Entendido — ver el monitor
+      </button>
+      <button class="maint-btn-secondary" onclick="dismissMaintForever()">
+        No mostrar de nuevo
+      </button>
+    </div>
+  </div>
+</div>
+
+<script>
+(function() {
+  try {
+    if (localStorage.getItem('maint-dismissed-v1') === 'true') {
+      document.getElementById('maintOverlay').classList.add('hidden');
+    }
+  } catch(e) {}
+})();
+function dismissMaint() {
+  document.getElementById('maintOverlay').classList.add('hidden');
+}
+function dismissMaintForever() {
+  try { localStorage.setItem('maint-dismissed-v1', 'true'); } catch(e) {}
+  document.getElementById('maintOverlay').classList.add('hidden');
+}
+</script>
+<!-- END MAINTENANCE POPUP -->
 </body>
 </html>
